@@ -1,0 +1,48 @@
+{
+  "categoryKey": "14_infrastructure",
+  "updatedAt": "2026-11-21T07:19:19.033Z",
+  "year": 2024,
+  "source": "World Bank LPI / UIC",
+  "countries": {
+    "USA": {
+      "rail_network_km": 250000,
+      "port_traffic_teu": 55.4
+    },
+    "CHN": {
+      "rail_network_km": 159000,
+      "port_traffic_teu": 280
+    },
+    "RUS": {
+      "rail_network_km": 85500,
+      "port_traffic_teu": 5.2
+    },
+    "IND": {
+      "rail_network_km": 68100,
+      "port_traffic_teu": 20.8
+    },
+    "CAN": {
+      "rail_network_km": 48000,
+      "port_traffic_teu": 7.1
+    },
+    "DEU": {
+      "rail_network_km": 38400,
+      "port_traffic_teu": 14.8
+    },
+    "AUS": {
+      "rail_network_km": 36000,
+      "port_traffic_teu": 8.5
+    },
+    "JPN": {
+      "rail_network_km": 27300,
+      "port_traffic_teu": 22
+    },
+    "FRA": {
+      "rail_network_km": 27700,
+      "port_traffic_teu": 5.8
+    },
+    "SGP": {
+      "rail_network_km": 235,
+      "port_traffic_teu": 39
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categoryKey": "01_population",
+  "updatedAt": "2026-11-21T07:19:18.965Z",
+  "year": 2024,
+  "source": "UN DESA WPP 2024",
+  "countries": {
+    "IND": {
+      "pop_total": 1450935791,
+      "pop_growth_rate": 0.89,
+      "pop_fertility": 2,
+      "pop_median_age": 28.7
+    },
+    "CHN": {
+      "pop_total": 1419321278,
+      "pop_growth_rate": -0.15,
+      "pop_fertility": 1.16,
+      "pop_median_age": 39
+    },
+    "USA": {
+      "pop_total": 345426571,
+      "pop_growth_rate": 0.53,
+      "pop_fertility": 1.66,
+      "pop_median_age": 38.5
+    },
+    "IDN": {
+      "pop_total": 283487931,
+      "pop_growth_rate": 0.76,
+      "pop_fertility": 2.18,
+      "pop_median_age": 30.2
+    },
+    "PAK": {
+      "pop_total": 251269164,
+      "pop_growth_rate": 1.95,
+      "pop_fertility": 3.45,
+      "pop_median_age": 20.6
+    },
+    "NGA": {
+      "pop_total": 232679478,
+      "pop_growth_rate": 2.34,
+      "pop_fertility": 5.12,
+      "pop_median_age": 18.1
+    },
+    "BRA": {
+      "pop_total": 211998573,
+      "pop_growth_rate": 0.51,
+      "pop_fertility": 1.64,
+      "pop_median_age": 33.5
+    },
+    "BGD": {
+      "pop_total": 173562364,
+      "pop_growth_rate": 0.99,
+      "pop_fertility": 1.93,
+      "pop_median_age": 27.6
+    },
+    "RUS": {
+      "pop_total": 144820423,
+      "pop_growth_rate": -0.19,
+      "pop_fertility": 1.49,
+      "pop_median_age": 40.3
+    },
+    "ETH": {
+      "pop_total": 132059767,
+      "pop_growth_rate": 2.42,
+      "pop_fertility": 3.92,
+      "pop_median_age": 19.5
+    },
+    "MEX": {
+      "pop_total": 130739927,
+      "pop_growth_rate": 0.73,
+      "pop_fertility": 1.82,
+      "pop_median_age": 29.8
+    },
+    "JPN": {
+      "pop_total": 123753041,
+      "pop_growth_rate": -0.53,
+      "pop_fertility": 1.26,
+      "pop_median_age": 48.6
+    },
+    "DEU": {
+      "pop_total": 84552242,
+      "pop_growth_rate": 0.11,
+      "pop_fertility": 1.46,
+      "pop_median_age": 45.7
+    },
+    "GBR": {
+      "pop_total": 68265209,
+      "pop_growth_rate": 0.34,
+      "pop_fertility": 1.56,
+      "pop_median_age": 40.6
+    },
+    "FRA": {
+      "pop_total": 66548530,
+      "pop_growth_rate": 0.2,
+      "pop_fertility": 1.79,
+      "pop_median_age": 41.7
+    },
+    "CAN": {
+      "pop_total": 39742430,
+      "pop_growth_rate": 1.21,
+      "pop_fertility": 1.4,
+      "pop_median_age": 41.1
+    },
+    "AUS": {
+      "pop_total": 26713205,
+      "pop_growth_rate": 1.24,
+      "pop_fertility": 1.58,
+      "pop_median_age": 37.5
+    }
+  }
+}

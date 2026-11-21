@@ -1,0 +1,48 @@
+{
+  "categoryKey": "11_energy",
+  "updatedAt": "2026-11-21T07:19:19.029Z",
+  "year": 2024,
+  "source": "Energy Institute / IEA",
+  "countries": {
+    "CHN": {
+      "electricity_generation": 9224,
+      "clean_power_share": 36.5
+    },
+    "USA": {
+      "electricity_generation": 4250,
+      "clean_power_share": 41.2
+    },
+    "IND": {
+      "electricity_generation": 1958,
+      "clean_power_share": 23.4
+    },
+    "RUS": {
+      "electricity_generation": 1178,
+      "clean_power_share": 37.8
+    },
+    "JPN": {
+      "electricity_generation": 998,
+      "clean_power_share": 29.5
+    },
+    "BRA": {
+      "electricity_generation": 710,
+      "clean_power_share": 89.2
+    },
+    "CAN": {
+      "electricity_generation": 635,
+      "clean_power_share": 82.5
+    },
+    "DEU": {
+      "electricity_generation": 510,
+      "clean_power_share": 56
+    },
+    "FRA": {
+      "electricity_generation": 501,
+      "clean_power_share": 92.4
+    },
+    "GBR": {
+      "electricity_generation": 295,
+      "clean_power_share": 58.2
+    }
+  }
+}

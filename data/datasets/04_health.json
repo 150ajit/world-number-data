@@ -1,0 +1,73 @@
+{
+  "categoryKey": "04_health",
+  "updatedAt": "2026-11-21T07:19:19.021Z",
+  "year": 2024,
+  "source": "WHO Global Health Observatory",
+  "countries": {
+    "JPN": {
+      "life_expectancy": 84.8,
+      "mortality_under5": 2.3,
+      "health_expenditure_gdp": 11.5
+    },
+    "CHE": {
+      "life_expectancy": 84,
+      "mortality_under5": 3.6,
+      "health_expenditure_gdp": 11.8
+    },
+    "AUS": {
+      "life_expectancy": 83.3,
+      "mortality_under5": 3.7,
+      "health_expenditure_gdp": 10.6
+    },
+    "CAN": {
+      "life_expectancy": 82.7,
+      "mortality_under5": 4.8,
+      "health_expenditure_gdp": 12.2
+    },
+    "FRA": {
+      "life_expectancy": 82.5,
+      "mortality_under5": 4.2,
+      "health_expenditure_gdp": 12.3
+    },
+    "GBR": {
+      "life_expectancy": 81.3,
+      "mortality_under5": 4.1,
+      "health_expenditure_gdp": 11.3
+    },
+    "DEU": {
+      "life_expectancy": 81,
+      "mortality_under5": 3.7,
+      "health_expenditure_gdp": 12.8
+    },
+    "CHN": {
+      "life_expectancy": 78.6,
+      "mortality_under5": 6.9,
+      "health_expenditure_gdp": 5.4
+    },
+    "USA": {
+      "life_expectancy": 77.5,
+      "mortality_under5": 6.3,
+      "health_expenditure_gdp": 16.6
+    },
+    "BRA": {
+      "life_expectancy": 76.2,
+      "mortality_under5": 14.4,
+      "health_expenditure_gdp": 9.9
+    },
+    "IND": {
+      "life_expectancy": 72,
+      "mortality_under5": 26.6,
+      "health_expenditure_gdp": 3.3
+    },
+    "RUS": {
+      "life_expectancy": 73.2,
+      "mortality_under5": 5.4,
+      "health_expenditure_gdp": 7.4
+    },
+    "NGA": {
+      "life_expectancy": 53.9,
+      "mortality_under5": 110.8,
+      "health_expenditure_gdp": 3.8
+    }
+  }
+}

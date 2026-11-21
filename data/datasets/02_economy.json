@@ -1,0 +1,120 @@
+{
+  "categoryKey": "02_economy",
+  "updatedAt": "2026-11-21T07:19:19.019Z",
+  "year": 2024,
+  "source": "World Bank / IMF",
+  "countries": {
+    "USA": {
+      "gdp_nominal": 28781,
+      "gdp_ppp": 28781,
+      "gdp_per_capita": 83060,
+      "gdp_growth": 2.7,
+      "inflation_rate": 2.9
+    },
+    "CHN": {
+      "gdp_nominal": 18533,
+      "gdp_ppp": 35291,
+      "gdp_per_capita": 13130,
+      "gdp_growth": 4.8,
+      "inflation_rate": 0.4
+    },
+    "DEU": {
+      "gdp_nominal": 4591,
+      "gdp_ppp": 5689,
+      "gdp_per_capita": 54290,
+      "gdp_growth": 0.2,
+      "inflation_rate": 2.4
+    },
+    "JPN": {
+      "gdp_nominal": 4110,
+      "gdp_ppp": 6720,
+      "gdp_per_capita": 33140,
+      "gdp_growth": 0.7,
+      "inflation_rate": 2.8
+    },
+    "IND": {
+      "gdp_nominal": 3937,
+      "gdp_ppp": 14594,
+      "gdp_per_capita": 2730,
+      "gdp_growth": 7,
+      "inflation_rate": 4.8
+    },
+    "GBR": {
+      "gdp_nominal": 3495,
+      "gdp_ppp": 4026,
+      "gdp_per_capita": 51070,
+      "gdp_growth": 1.1,
+      "inflation_rate": 2.2
+    },
+    "FRA": {
+      "gdp_nominal": 3130,
+      "gdp_ppp": 3988,
+      "gdp_per_capita": 47360,
+      "gdp_growth": 1.1,
+      "inflation_rate": 2.1
+    },
+    "BRA": {
+      "gdp_nominal": 2331,
+      "gdp_ppp": 4273,
+      "gdp_per_capita": 11000,
+      "gdp_growth": 2.2,
+      "inflation_rate": 4.2
+    },
+    "ITA": {
+      "gdp_nominal": 2328,
+      "gdp_ppp": 3347,
+      "gdp_per_capita": 39580,
+      "gdp_growth": 0.7,
+      "inflation_rate": 1.3
+    },
+    "CAN": {
+      "gdp_nominal": 2242,
+      "gdp_ppp": 2471,
+      "gdp_per_capita": 55520,
+      "gdp_growth": 1.3,
+      "inflation_rate": 2.5
+    },
+    "RUS": {
+      "gdp_nominal": 2056,
+      "gdp_ppp": 5472,
+      "gdp_per_capita": 14250,
+      "gdp_growth": 3.2,
+      "inflation_rate": 8.5
+    },
+    "MEX": {
+      "gdp_nominal": 1993,
+      "gdp_ppp": 3276,
+      "gdp_per_capita": 15250,
+      "gdp_growth": 2.2,
+      "inflation_rate": 4.6
+    },
+    "AUS": {
+      "gdp_nominal": 1790,
+      "gdp_ppp": 1819,
+      "gdp_per_capita": 66590,
+      "gdp_growth": 1.5,
+      "inflation_rate": 3.6
+    },
+    "KOR": {
+      "gdp_nominal": 1761,
+      "gdp_ppp": 3058,
+      "gdp_per_capita": 34160,
+      "gdp_growth": 2.5,
+      "inflation_rate": 2.6
+    },
+    "IDN": {
+      "gdp_nominal": 1475,
+      "gdp_ppp": 4658,
+      "gdp_per_capita": 5210,
+      "gdp_growth": 5,
+      "inflation_rate": 2.8
+    },
+    "SAU": {
+      "gdp_nominal": 1106,
+      "gdp_ppp": 2354,
+      "gdp_per_capita": 32590,
+      "gdp_growth": 1.7,
+      "inflation_rate": 1.6
+    }
+  }
+}

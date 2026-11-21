@@ -1,0 +1,40 @@
+{
+  "categoryKey": "12_agriculture",
+  "updatedAt": "2026-11-21T07:19:19.030Z",
+  "year": 2024,
+  "source": "FAO / FAOSTAT",
+  "countries": {
+    "USA": {
+      "agricultural_land_pct": 44.4,
+      "cereal_yield": 8420
+    },
+    "CHN": {
+      "agricultural_land_pct": 55.3,
+      "cereal_yield": 6310
+    },
+    "IND": {
+      "agricultural_land_pct": 60.4,
+      "cereal_yield": 3350
+    },
+    "BRA": {
+      "agricultural_land_pct": 33.8,
+      "cereal_yield": 5120
+    },
+    "FRA": {
+      "agricultural_land_pct": 52.4,
+      "cereal_yield": 7140
+    },
+    "DEU": {
+      "agricultural_land_pct": 47.6,
+      "cereal_yield": 7280
+    },
+    "CAN": {
+      "agricultural_land_pct": 6.8,
+      "cereal_yield": 3950
+    },
+    "AUS": {
+      "agricultural_land_pct": 48.2,
+      "cereal_yield": 2420
+    }
+  }
+}

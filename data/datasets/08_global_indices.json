@@ -1,0 +1,68 @@
+{
+  "categoryKey": "08_global_indices",
+  "updatedAt": "2026-11-21T07:19:19.026Z",
+  "year": 2024,
+  "source": "UNDP / Transparency Int.",
+  "countries": {
+    "CHE": {
+      "hdi_score": 0.967,
+      "cpi_score": 82,
+      "innovation_index": 67.5
+    },
+    "NOR": {
+      "hdi_score": 0.966,
+      "cpi_score": 84,
+      "innovation_index": 54.7
+    },
+    "SWE": {
+      "hdi_score": 0.952,
+      "cpi_score": 82,
+      "innovation_index": 64.2
+    },
+    "AUS": {
+      "hdi_score": 0.946,
+      "cpi_score": 75,
+      "innovation_index": 49.7
+    },
+    "DEU": {
+      "hdi_score": 0.95,
+      "cpi_score": 78,
+      "innovation_index": 58.8
+    },
+    "GBR": {
+      "hdi_score": 0.94,
+      "cpi_score": 71,
+      "innovation_index": 61
+    },
+    "USA": {
+      "hdi_score": 0.927,
+      "cpi_score": 69,
+      "innovation_index": 62.4
+    },
+    "JPN": {
+      "hdi_score": 0.92,
+      "cpi_score": 73,
+      "innovation_index": 54.1
+    },
+    "CHN": {
+      "hdi_score": 0.788,
+      "cpi_score": 42,
+      "innovation_index": 56.3
+    },
+    "BRA": {
+      "hdi_score": 0.76,
+      "cpi_score": 36,
+      "innovation_index": 34
+    },
+    "IND": {
+      "hdi_score": 0.644,
+      "cpi_score": 39,
+      "innovation_index": 38.3
+    },
+    "NGA": {
+      "hdi_score": 0.548,
+      "cpi_score": 25,
+      "innovation_index": 17.1
+    }
+  }
+}

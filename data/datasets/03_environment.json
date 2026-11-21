@@ -1,0 +1,68 @@
+{
+  "categoryKey": "03_environment",
+  "updatedAt": "2026-11-21T07:19:19.020Z",
+  "year": 2024,
+  "source": "UNEP / Global Carbon Project",
+  "countries": {
+    "USA": {
+      "co2_per_capita": 14.2,
+      "forest_area_pct": 33.9,
+      "renewable_energy_share": 13.5
+    },
+    "CHN": {
+      "co2_per_capita": 8,
+      "forest_area_pct": 23.4,
+      "renewable_energy_share": 15.8
+    },
+    "IND": {
+      "co2_per_capita": 2,
+      "forest_area_pct": 24.3,
+      "renewable_energy_share": 11.2
+    },
+    "DEU": {
+      "co2_per_capita": 7.7,
+      "forest_area_pct": 32.7,
+      "renewable_energy_share": 19.4
+    },
+    "JPN": {
+      "co2_per_capita": 8.1,
+      "forest_area_pct": 68.4,
+      "renewable_energy_share": 10.8
+    },
+    "BRA": {
+      "co2_per_capita": 2.2,
+      "forest_area_pct": 59.4,
+      "renewable_energy_share": 48.4
+    },
+    "CAN": {
+      "co2_per_capita": 14.8,
+      "forest_area_pct": 38.2,
+      "renewable_energy_share": 22.1
+    },
+    "RUS": {
+      "co2_per_capita": 12.1,
+      "forest_area_pct": 49.8,
+      "renewable_energy_share": 3.8
+    },
+    "GBR": {
+      "co2_per_capita": 4.7,
+      "forest_area_pct": 13.2,
+      "renewable_energy_share": 14.2
+    },
+    "FRA": {
+      "co2_per_capita": 4.2,
+      "forest_area_pct": 31.5,
+      "renewable_energy_share": 16.5
+    },
+    "SWE": {
+      "co2_per_capita": 3.4,
+      "forest_area_pct": 68.7,
+      "renewable_energy_share": 53.2
+    },
+    "NOR": {
+      "co2_per_capita": 6.8,
+      "forest_area_pct": 33.4,
+      "renewable_energy_share": 65.5
+    }
+  }
+}

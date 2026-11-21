@@ -1,0 +1,137 @@
+[
+  {
+    "dayOfYear": 1,
+    "categoryId": "population",
+    "headline": "Humanity Crosses 8.1 Billion",
+    "stat": "8,140,000,000+",
+    "detail": "The world population reached 8.1 billion in 2024 and is projected by the UN to peak at 10.3 billion around 2084.",
+    "source": "UN DESA WPP 2024",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 2,
+    "categoryId": "economy",
+    "headline": "The $100 Trillion Global Economy",
+    "stat": "$105.4T USD",
+    "detail": "Global gross domestic product in nominal terms exceeded $105 trillion, with the United States and China contributing over 42%.",
+    "source": "World Bank / IMF",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 3,
+    "categoryId": "energy",
+    "headline": "Clean Electricity Surge",
+    "stat": "30.2% Global",
+    "detail": "For the first time in modern history, renewable and nuclear energy produced over 30% of humanity's total electricity.",
+    "source": "Energy Institute / Ember",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 4,
+    "categoryId": "health",
+    "headline": "Global Life Expectancy Rebound",
+    "stat": "73.4 Years",
+    "detail": "Global life expectancy at birth reached 73.4 years, recovering and exceeding pre-pandemic levels worldwide.",
+    "source": "WHO GHO",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 5,
+    "categoryId": "technology",
+    "headline": "Two-Thirds of Humanity Online",
+    "stat": "5.45 Billion",
+    "detail": "Approximately 67% of the global population is now actively connected to the internet, up from 35% a decade ago.",
+    "source": "ITU",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 6,
+    "categoryId": "education",
+    "headline": "Historic High in Youth Literacy",
+    "stat": "91.8% Global",
+    "detail": "Global youth literacy (ages 15-24) reached nearly 92%, driven by substantial gains across Southern Asia and Sub-Saharan Africa.",
+    "source": "UNESCO UIS",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 7,
+    "categoryId": "environment",
+    "headline": "Earth's Forest Cover",
+    "stat": "4.06B Hectares",
+    "detail": "Forests cover 31.2% of the global land area, with Russia, Brazil, Canada, the US, and China holding more than half.",
+    "source": "FAO Global Forest Assessment",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 8,
+    "categoryId": "city_rankings",
+    "headline": "Tokyo: World's Largest Metropolis",
+    "stat": "37.4 Million",
+    "detail": "Greater Tokyo remains the planet's most populous metropolitan agglomeration, home to over 37 million residents.",
+    "source": "UN Habitat",
+    "isoCode": "JPN"
+  },
+  {
+    "dayOfYear": 9,
+    "categoryId": "science",
+    "headline": "Global Research Expansion",
+    "stat": "2.7M Articles/Yr",
+    "detail": "Over 2.7 million peer-reviewed scientific papers are published annually, with global R&D expenditure surpassing $2.5 trillion.",
+    "source": "UNESCO Science Report",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 10,
+    "categoryId": "geography",
+    "headline": "Humanity's Land Footprint",
+    "stat": "148.9M km²",
+    "detail": "Land constitutes only 29.2% of Earth's surface, yet over 95% of human beings reside on just 10% of that total land area.",
+    "source": "Natural Earth",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 11,
+    "categoryId": "agriculture",
+    "headline": "Global Cereal Production Peak",
+    "stat": "2.84B Tons",
+    "detail": "Human agriculture yielded over 2.84 billion metric tons of cereals (corn, wheat, rice) to feed the expanding world.",
+    "source": "FAOSTAT",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 12,
+    "categoryId": "tourism",
+    "headline": "International Travel Rebound",
+    "stat": "1.3B Visitors",
+    "detail": "International tourist arrivals neared 1.3 billion annually, with France and Spain leading as the most visited nations.",
+    "source": "UN Tourism",
+    "isoCode": "FRA"
+  },
+  {
+    "dayOfYear": 13,
+    "categoryId": "politics",
+    "headline": "Rising Women Representation",
+    "stat": "26.7% Parliament",
+    "detail": "Women hold 26.7% of parliamentary seats globally, led by Rwanda with 61.3% female legislative representation.",
+    "source": "IPU",
+    "isoCode": "RWA"
+  },
+  {
+    "dayOfYear": 14,
+    "categoryId": "infrastructure",
+    "headline": "The Global Maritime Lifeline",
+    "stat": "855M TEU",
+    "detail": "Global container ports handled 855 million twenty-foot equivalent units (TEU), carrying 80% of world merchandise trade.",
+    "source": "World Bank LPI",
+    "isoCode": null
+  },
+  {
+    "dayOfYear": 15,
+    "categoryId": "sports",
+    "headline": "Universal Olympic Spirit",
+    "stat": "206 NOCs",
+    "detail": "206 National Olympic Committees compete globally, with the United States holding the highest all-time medal count (2,975).",
+    "source": "IOC",
+    "isoCode": "USA"
+  }
+]

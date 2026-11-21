@@ -1,0 +1,110 @@
+[
+  {
+    "id": "story_10_billion_peak",
+    "title": "The 10 Billion Milestone: The Path to Humanity's Peak",
+    "subtitle": "How the world population grew from 1 billion in 1804 and why it will stabilize around 2084.",
+    "category": "Population",
+    "source": "UN DESA World Population Prospects 2024",
+    "readTimeMinutes": 4,
+    "slides": [
+      {
+        "slideIndex": 1,
+        "title": "From Dawn to 1 Billion",
+        "stat": "1804 (1 Billion)",
+        "text": "For almost all of human history, the total world population remained below a few hundred million. It was not until 1804, with advances in sanitation and agriculture, that humanity reached its first 1 billion people."
+      },
+      {
+        "slideIndex": 2,
+        "title": "The 20th Century Explosion",
+        "stat": "1927 → 1974",
+        "text": "It took over a century to reach 2 billion (1927), but only 47 years to double to 4 billion in 1974. Antibiotics, vaccines, and the Green Revolution drastically lowered child mortality worldwide."
+      },
+      {
+        "slideIndex": 3,
+        "title": "Crossing 8 Billion in 2022",
+        "stat": "8.14 Billion Today",
+        "text": "Humanity officially crossed 8 billion in late 2022. While population continues growing by ~71 million people annually, the global growth rate has plummeted from 2.1% in the 1960s to below 0.86% today."
+      },
+      {
+        "slideIndex": 4,
+        "title": "The Fertility Transition",
+        "stat": "2.25 Births/Woman",
+        "text": "Half of all nations now have fertility rates below the replacement level (2.1 births per woman). Global fertility has dropped from 5.0 in 1950 to 2.25 in 2024, driving unprecedented demographic stabilization."
+      },
+      {
+        "slideIndex": 5,
+        "title": "Humanity's Peak at 10.3 Billion",
+        "stat": "Peak ~2084",
+        "text": "According to the UN 2024 medium variant projections, world population will peak at approximately 10.3 billion people in the 2080s, before gradually stabilizing and gently contracting by 2100."
+      }
+    ]
+  },
+  {
+    "id": "story_clean_energy",
+    "title": "The Great Clean Energy Transition",
+    "subtitle": "How solar, wind, and nuclear are transforming global electricity grids.",
+    "category": "Energy",
+    "source": "Energy Institute / IEA 2024",
+    "readTimeMinutes": 3,
+    "slides": [
+      {
+        "slideIndex": 1,
+        "title": "Breaking the 30% Barrier",
+        "stat": "30.2% Clean Power",
+        "text": "In 2024, renewable and nuclear energy produced over 30% of global electricity for the first time, marking a decisive tipping point in world decarbonization."
+      },
+      {
+        "slideIndex": 2,
+        "title": "The Exponential Rise of Solar",
+        "stat": "+24% Annual Growth",
+        "text": "Solar photovoltaic capacity expanded faster than any other electricity source in human history, adding over 400 GW in a single calendar year."
+      },
+      {
+        "slideIndex": 3,
+        "title": "Regional Front-Runners",
+        "stat": "89% in Brazil",
+        "text": "Brazil generates nearly 90% of its electricity from hydro, wind, and biomass. France achieves 92% clean electricity through its nuclear and renewable mix."
+      },
+      {
+        "slideIndex": 4,
+        "title": "The Decarbonization Horizon",
+        "stat": "60% by 2035 Target",
+        "text": "Under current international commitments, global clean electricity share is projected to reach 60% by 2035, driven by battery grid storage and offshore wind."
+      }
+    ]
+  },
+  {
+    "id": "story_urban_century",
+    "title": "The Urban Century: Rise of the Megacities",
+    "subtitle": "How 4.5 billion people came to live in cities and where urbanization heads next.",
+    "category": "City Rankings",
+    "source": "UN DESA World Urbanization Prospects",
+    "readTimeMinutes": 3,
+    "slides": [
+      {
+        "slideIndex": 1,
+        "title": "The Majority Urban World",
+        "stat": "56.2% Urban Today",
+        "text": "In 2007, humanity crossed an irreversible milestone: for the first time, more people lived in urban areas than in rural villages."
+      },
+      {
+        "slideIndex": 2,
+        "title": "The Age of 30+ Megacities",
+        "stat": "34 Megacities",
+        "text": "Metropolises with over 10 million inhabitants grew from just 3 in 1975 (Tokyo, New York, Mexico City) to 34 megacities today, concentrated heavily across Asia and Africa."
+      },
+      {
+        "slideIndex": 3,
+        "title": "Tokyo to Delhi: Changing Ranks",
+        "stat": "Delhi ~38M by 2030",
+        "text": "While Tokyo holds the current #1 spot at 37.4 million, its population is stabilizing. Delhi is projected to surpass Tokyo before 2030 to become the most populous agglomeration on Earth."
+      },
+      {
+        "slideIndex": 4,
+        "title": "Towards 68% Urban by 2050",
+        "stat": "6.7 Billion Urban in 2050",
+        "text": "By 2050, more than two out of every three people on Earth will live in urban centers, demanding unprecedented smart infrastructure, mass transit, and green architecture."
+      }
+    ]
+  }
+]

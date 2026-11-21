@@ -1,0 +1,52 @@
+{
+  "categoryKey": "10_tourism",
+  "updatedAt": "2026-11-21T07:19:19.028Z",
+  "year": 2024,
+  "source": "UN Tourism (UNWTO)",
+  "countries": {
+    "FRA": {
+      "tourist_arrivals": 100,
+      "tourism_receipts": 68.6
+    },
+    "ESP": {
+      "tourist_arrivals": 85.2,
+      "tourism_receipts": 92
+    },
+    "USA": {
+      "tourist_arrivals": 66.5,
+      "tourism_receipts": 175.9
+    },
+    "ITA": {
+      "tourist_arrivals": 57.2,
+      "tourism_receipts": 51.8
+    },
+    "TUR": {
+      "tourist_arrivals": 55.2,
+      "tourism_receipts": 54.3
+    },
+    "MEX": {
+      "tourist_arrivals": 42.2,
+      "tourism_receipts": 30.8
+    },
+    "GBR": {
+      "tourist_arrivals": 37.2,
+      "tourism_receipts": 74
+    },
+    "DEU": {
+      "tourist_arrivals": 34.8,
+      "tourism_receipts": 37.5
+    },
+    "JPN": {
+      "tourist_arrivals": 25.1,
+      "tourism_receipts": 38.6
+    },
+    "ARE": {
+      "tourist_arrivals": 21.7,
+      "tourism_receipts": 41.5
+    },
+    "IND": {
+      "tourist_arrivals": 9.2,
+      "tourism_receipts": 28
+    }
+  }
+}

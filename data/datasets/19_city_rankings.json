@@ -1,0 +1,48 @@
+{
+  "categoryKey": "19_city_rankings",
+  "updatedAt": "2026-11-21T07:19:19.059Z",
+  "year": 2024,
+  "source": "UN Habitat / Demographia",
+  "countries": {
+    "JPN": {
+      "largest_metro_pop": 37.4,
+      "urbanization_rate": 91.8
+    },
+    "IND": {
+      "largest_metro_pop": 33.8,
+      "urbanization_rate": 36.2
+    },
+    "CHN": {
+      "largest_metro_pop": 29.8,
+      "urbanization_rate": 65.2
+    },
+    "BGD": {
+      "largest_metro_pop": 23.2,
+      "urbanization_rate": 40.5
+    },
+    "BRA": {
+      "largest_metro_pop": 22.6,
+      "urbanization_rate": 87.8
+    },
+    "MEX": {
+      "largest_metro_pop": 22.3,
+      "urbanization_rate": 81.3
+    },
+    "EGY": {
+      "largest_metro_pop": 22.2,
+      "urbanization_rate": 43.1
+    },
+    "USA": {
+      "largest_metro_pop": 20.1,
+      "urbanization_rate": 83.3
+    },
+    "GBR": {
+      "largest_metro_pop": 9.7,
+      "urbanization_rate": 84.4
+    },
+    "FRA": {
+      "largest_metro_pop": 11.2,
+      "urbanization_rate": 81.8
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "categoryKey": "16_employment",
+  "updatedAt": "2026-11-21T07:19:19.035Z",
+  "year": 2024,
+  "source": "ILO / ILOSTAT",
+  "countries": {
+    "JPN": {
+      "unemployment_rate": 2.6,
+      "labor_participation": 63.1
+    },
+    "SGP": {
+      "unemployment_rate": 2,
+      "labor_participation": 70
+    },
+    "DEU": {
+      "unemployment_rate": 3.1,
+      "labor_participation": 63.4
+    },
+    "USA": {
+      "unemployment_rate": 4.1,
+      "labor_participation": 62.7
+    },
+    "GBR": {
+      "unemployment_rate": 4.2,
+      "labor_participation": 63
+    },
+    "AUS": {
+      "unemployment_rate": 4.2,
+      "labor_participation": 67
+    },
+    "CAN": {
+      "unemployment_rate": 6.4,
+      "labor_participation": 65.3
+    },
+    "CHN": {
+      "unemployment_rate": 5.1,
+      "labor_participation": 66.8
+    },
+    "IND": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 55.4
+    },
+    "FRA": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 56.5
+    },
+    "ITA": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 49.8
+    },
+    "BRA": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 62.1
+    },
+    "ZAF": {
+      "unemployment_rate": 32.1,
+      "labor_participation": 60.5
+    }
+  }
+}

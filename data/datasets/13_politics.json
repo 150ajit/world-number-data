@@ -1,0 +1,48 @@
+{
+  "categoryKey": "13_politics",
+  "updatedAt": "2026-11-21T07:19:19.031Z",
+  "year": 2024,
+  "source": "IPU / World Bank WGI",
+  "countries": {
+    "RWA": {
+      "women_in_parliament": 61.3,
+      "voter_turnout": 98.2
+    },
+    "SWE": {
+      "women_in_parliament": 46.7,
+      "voter_turnout": 84.2
+    },
+    "NOR": {
+      "women_in_parliament": 46.2,
+      "voter_turnout": 77.2
+    },
+    "MEX": {
+      "women_in_parliament": 50,
+      "voter_turnout": 60.5
+    },
+    "FRA": {
+      "women_in_parliament": 37.3,
+      "voter_turnout": 66.7
+    },
+    "DEU": {
+      "women_in_parliament": 35.3,
+      "voter_turnout": 76.6
+    },
+    "GBR": {
+      "women_in_parliament": 40.5,
+      "voter_turnout": 59.8
+    },
+    "USA": {
+      "women_in_parliament": 28.7,
+      "voter_turnout": 66.8
+    },
+    "IND": {
+      "women_in_parliament": 14.4,
+      "voter_turnout": 65.8
+    },
+    "JPN": {
+      "women_in_parliament": 15.7,
+      "voter_turnout": 53.8
+    }
+  }
+}

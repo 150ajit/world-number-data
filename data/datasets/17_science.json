@@ -1,0 +1,48 @@
+{
+  "categoryKey": "17_science",
+  "updatedAt": "2026-11-21T07:19:19.036Z",
+  "year": 2024,
+  "source": "UNESCO / Scopus",
+  "countries": {
+    "ISR": {
+      "rnd_expenditure_gdp": 5.6,
+      "scientific_publications": 24000
+    },
+    "KOR": {
+      "rnd_expenditure_gdp": 4.9,
+      "scientific_publications": 89000
+    },
+    "USA": {
+      "rnd_expenditure_gdp": 3.5,
+      "scientific_publications": 460000
+    },
+    "JPN": {
+      "rnd_expenditure_gdp": 3.3,
+      "scientific_publications": 105000
+    },
+    "DEU": {
+      "rnd_expenditure_gdp": 3.1,
+      "scientific_publications": 120000
+    },
+    "CHN": {
+      "rnd_expenditure_gdp": 2.4,
+      "scientific_publications": 800000
+    },
+    "GBR": {
+      "rnd_expenditure_gdp": 2.9,
+      "scientific_publications": 115000
+    },
+    "FRA": {
+      "rnd_expenditure_gdp": 2.2,
+      "scientific_publications": 80000
+    },
+    "IND": {
+      "rnd_expenditure_gdp": 0.7,
+      "scientific_publications": 185000
+    },
+    "BRA": {
+      "rnd_expenditure_gdp": 1.2,
+      "scientific_publications": 80000
+    }
+  }
+}

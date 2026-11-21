@@ -1,0 +1,44 @@
+{
+  "categoryKey": "09_geography",
+  "updatedAt": "2026-11-21T07:19:19.027Z",
+  "year": 2024,
+  "source": "Natural Earth / World Bank",
+  "countries": {
+    "RUS": {
+      "land_area": 16376870,
+      "coastline_length": 37653
+    },
+    "CAN": {
+      "land_area": 8965590,
+      "coastline_length": 202080
+    },
+    "CHN": {
+      "land_area": 9388211,
+      "coastline_length": 14500
+    },
+    "USA": {
+      "land_area": 9147420,
+      "coastline_length": 19924
+    },
+    "BRA": {
+      "land_area": 8358140,
+      "coastline_length": 7491
+    },
+    "AUS": {
+      "land_area": 7682300,
+      "coastline_length": 25760
+    },
+    "IND": {
+      "land_area": 2973190,
+      "coastline_length": 7516
+    },
+    "ARG": {
+      "land_area": 2736690,
+      "coastline_length": 4989
+    },
+    "IDN": {
+      "land_area": 1811570,
+      "coastline_length": 54716
+    }
+  }
+}

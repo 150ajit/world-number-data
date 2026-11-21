@@ -1,0 +1,56 @@
+{
+  "categoryKey": "07_military",
+  "updatedAt": "2026-11-21T07:19:19.025Z",
+  "year": 2024,
+  "source": "SIPRI Yearbook 2024",
+  "countries": {
+    "USA": {
+      "military_expenditure_gdp": 3.4,
+      "defense_budget_usd": 916
+    },
+    "CHN": {
+      "military_expenditure_gdp": 1.7,
+      "defense_budget_usd": 296
+    },
+    "RUS": {
+      "military_expenditure_gdp": 5.9,
+      "defense_budget_usd": 109
+    },
+    "IND": {
+      "military_expenditure_gdp": 2.4,
+      "defense_budget_usd": 83.6
+    },
+    "SAU": {
+      "military_expenditure_gdp": 7.1,
+      "defense_budget_usd": 75.8
+    },
+    "GBR": {
+      "military_expenditure_gdp": 2.3,
+      "defense_budget_usd": 74.9
+    },
+    "DEU": {
+      "military_expenditure_gdp": 1.5,
+      "defense_budget_usd": 66.8
+    },
+    "UKR": {
+      "military_expenditure_gdp": 37,
+      "defense_budget_usd": 64.8
+    },
+    "FRA": {
+      "military_expenditure_gdp": 2.1,
+      "defense_budget_usd": 61.3
+    },
+    "JPN": {
+      "military_expenditure_gdp": 1.2,
+      "defense_budget_usd": 50.2
+    },
+    "KOR": {
+      "military_expenditure_gdp": 2.8,
+      "defense_budget_usd": 47.9
+    },
+    "ISR": {
+      "military_expenditure_gdp": 5.3,
+      "defense_budget_usd": 27.5
+    }
+  }
+}

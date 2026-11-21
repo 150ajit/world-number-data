@@ -1,0 +1,64 @@
+{
+  "categoryKey": "15_climate",
+  "updatedAt": "2026-11-21T07:19:19.034Z",
+  "year": 2024,
+  "source": "NASA GISTEMP / NOAA",
+  "countries": {
+    "CAN": {
+      "avg_temperature": -5.3,
+      "annual_precipitation": 537
+    },
+    "RUS": {
+      "avg_temperature": -5.1,
+      "annual_precipitation": 460
+    },
+    "NOR": {
+      "avg_temperature": 1.5,
+      "annual_precipitation": 1414
+    },
+    "GBR": {
+      "avg_temperature": 9.3,
+      "annual_precipitation": 1220
+    },
+    "DEU": {
+      "avg_temperature": 9.8,
+      "annual_precipitation": 700
+    },
+    "USA": {
+      "avg_temperature": 9.5,
+      "annual_precipitation": 715
+    },
+    "CHN": {
+      "avg_temperature": 7.8,
+      "annual_precipitation": 645
+    },
+    "JPN": {
+      "avg_temperature": 12.1,
+      "annual_precipitation": 1668
+    },
+    "FRA": {
+      "avg_temperature": 12.5,
+      "annual_precipitation": 867
+    },
+    "AUS": {
+      "avg_temperature": 21.6,
+      "annual_precipitation": 419
+    },
+    "IND": {
+      "avg_temperature": 24.2,
+      "annual_precipitation": 1083
+    },
+    "BRA": {
+      "avg_temperature": 25,
+      "annual_precipitation": 1761
+    },
+    "SAU": {
+      "avg_temperature": 25.8,
+      "annual_precipitation": 59
+    },
+    "NGA": {
+      "avg_temperature": 26.8,
+      "annual_precipitation": 1165
+    }
+  }
+}

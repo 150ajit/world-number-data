@@ -1,0 +1,53 @@
+{
+  "categoryKey": "05_education",
+  "updatedAt": "2026-11-21T07:19:19.023Z",
+  "year": 2024,
+  "source": "UNESCO Institute for Statistics",
+  "countries": {
+    "USA": {
+      "literacy_rate": 99,
+      "tertiary_enrollment": 87.9,
+      "education_expenditure": 5.4
+    },
+    "DEU": {
+      "literacy_rate": 99,
+      "tertiary_enrollment": 73.5,
+      "education_expenditure": 4.9
+    },
+    "GBR": {
+      "literacy_rate": 99,
+      "tertiary_enrollment": 72.1,
+      "education_expenditure": 5.3
+    },
+    "JPN": {
+      "literacy_rate": 99,
+      "tertiary_enrollment": 65.4,
+      "education_expenditure": 3.4
+    },
+    "KOR": {
+      "literacy_rate": 99,
+      "tertiary_enrollment": 98.4,
+      "education_expenditure": 5.1
+    },
+    "CHN": {
+      "literacy_rate": 96.8,
+      "tertiary_enrollment": 63.6,
+      "education_expenditure": 4
+    },
+    "BRA": {
+      "literacy_rate": 94.3,
+      "tertiary_enrollment": 55.1,
+      "education_expenditure": 6
+    },
+    "IND": {
+      "literacy_rate": 77.7,
+      "tertiary_enrollment": 31.3,
+      "education_expenditure": 4.5
+    },
+    "NGA": {
+      "literacy_rate": 62,
+      "tertiary_enrollment": 12,
+      "education_expenditure": 3.1
+    }
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "population",
+    "name": "Population",
+    "orderIndex": 1,
+    "iconKey": "people",
+    "headlineStatistic": "8.14 Billion",
+    "summary": "Global population estimates, daily growth dynamics, fertility and age distributions.",
+    "sourceOrganization": "UN DESA WPP 2024"
+  },
+  {
+    "id": "economy",
+    "name": "Economy",
+    "orderIndex": 2,
+    "iconKey": "account_balance",
+    "headlineStatistic": "$105.4 Trillion",
+    "summary": "World GDP, purchasing power parity, economic growth, and inflation indicators.",
+    "sourceOrganization": "World Bank / IMF"
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "orderIndex": 3,
+    "iconKey": "air",
+    "headlineStatistic": "31.2% Forest Area",
+    "summary": "Forest cover, CO2 emissions per capita, air quality, and renewable energy adoption.",
+    "sourceOrganization": "UNEP / Global Carbon Project"
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "orderIndex": 4,
+    "iconKey": "monitor_heart",
+    "headlineStatistic": "73.4 Years Avg Life",
+    "summary": "Life expectancy, infant mortality, health spending, and healthcare access.",
+    "sourceOrganization": "WHO Global Health Observatory"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "orderIndex": 5,
+    "iconKey": "school",
+    "headlineStatistic": "87.1% Global Literacy",
+    "summary": "Literacy rates, tertiary enrollment, education expenditure, and schooling duration.",
+    "sourceOrganization": "UNESCO Institute for Statistics"
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "orderIndex": 6,
+    "iconKey": "memory",
+    "headlineStatistic": "5.45B Connected",
+    "summary": "Internet penetration, mobile density, patent applications, and high-tech exports.",
+    "sourceOrganization": "ITU / WIPO"
+  },
+  {
+    "id": "military",
+    "name": "Military",
+    "orderIndex": 7,
+    "iconKey": "shield",
+    "headlineStatistic": "2.3% Global GDP",
+    "summary": "Defense expenditures, defense budgets, and active personnel strength.",
+    "sourceOrganization": "SIPRI Yearbook 2024"
+  },
+  {
+    "id": "global_indices",
+    "name": "Global Indices",
+    "orderIndex": 8,
+    "iconKey": "trending_up",
+    "headlineStatistic": "0.739 World HDI",
+    "summary": "Human Development Index, Corruption Perceptions, and Global Innovation.",
+    "sourceOrganization": "UNDP / Transparency Int."
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "orderIndex": 9,
+    "iconKey": "public",
+    "headlineStatistic": "148.9M km² Land",
+    "summary": "Total land mass, coastlines, geographical coordinates, and territorial bounds.",
+    "sourceOrganization": "Natural Earth / World Bank"
+  },
+  {
+    "id": "tourism",
+    "name": "Tourism",
+    "orderIndex": 10,
+    "iconKey": "flight_takeoff",
+    "headlineStatistic": "1.3B Arrivals",
+    "summary": "International tourist arrivals, travel receipts, and tourism contribution.",
+    "sourceOrganization": "UN Tourism (UNWTO)"
+  },
+  {
+    "id": "energy",
+    "name": "Energy",
+    "orderIndex": 11,
+    "iconKey": "bolt",
+    "headlineStatistic": "30.2% Clean Power",
+    "summary": "Global electricity generation, fossil fuel mix, and renewable power capacity.",
+    "sourceOrganization": "Energy Institute / IEA"
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture",
+    "orderIndex": 12,
+    "iconKey": "grass",
+    "headlineStatistic": "36.8% Ag Land",
+    "summary": "Arable and agricultural land, crop yields, and global food production index.",
+    "sourceOrganization": "FAO / FAOSTAT"
+  },
+  {
+    "id": "politics",
+    "name": "Politics",
+    "orderIndex": 13,
+    "iconKey": "gavel",
+    "headlineStatistic": "26.7% Women Rep",
+    "summary": "Parliamentary representation, governance indicators, and voting participation.",
+    "sourceOrganization": "IPU / World Bank WGI"
+  },
+  {
+    "id": "infrastructure",
+    "name": "Infrastructure",
+    "orderIndex": 14,
+    "iconKey": "domain",
+    "headlineStatistic": "855M TEU Ports",
+    "summary": "Paved road networks, railway corridors, logistics index, and container ports.",
+    "sourceOrganization": "World Bank LPI / UIC"
+  },
+  {
+    "id": "climate",
+    "name": "Climate",
+    "orderIndex": 15,
+    "iconKey": "wb_sunny",
+    "headlineStatistic": "+1.45°C Anomaly",
+    "summary": "Global surface temperatures, precipitation anomalies, and climate vulnerability.",
+    "sourceOrganization": "NASA GISTEMP / NOAA"
+  },
+  {
+    "id": "employment",
+    "name": "Employment",
+    "orderIndex": 16,
+    "iconKey": "work",
+    "headlineStatistic": "5.1% Unemployment",
+    "summary": "Unemployment rates, labor force participation, and youth employment trends.",
+    "sourceOrganization": "ILO / ILOSTAT"
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "orderIndex": 17,
+    "iconKey": "science",
+    "headlineStatistic": "2.7M Papers / Yr",
+    "summary": "R&D investment share, scientific journal publications, and researcher density.",
+    "sourceOrganization": "UNESCO / Scopus"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "orderIndex": 18,
+    "iconKey": "emoji_events",
+    "headlineStatistic": "206 NOC Nations",
+    "summary": "All-time Olympic standings, FIFA rankings, and international sporting metrics.",
+    "sourceOrganization": "IOC / FIFA"
+  },
+  {
+    "id": "city_rankings",
+    "name": "City Rankings",
+    "orderIndex": 19,
+    "iconKey": "gps_fixed",
+    "headlineStatistic": "37.4M Tokyo Largest",
+    "summary": "Global megacity populations, urbanization trends, and livability benchmarks.",
+    "sourceOrganization": "UN Habitat / Demographia"
+  },
+  {
+    "id": "un_sdg_goals",
+    "name": "UN SDG Goals",
+    "orderIndex": 20,
+    "iconKey": "track_changes",
+    "headlineStatistic": "66.7 Global Score",
+    "summary": "Progress across the 17 UN Sustainable Development Goals and targets.",
+    "sourceOrganization": "UN SDSN / Cambridge"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "categoryKey": "20_un_sdg_goals",
+  "updatedAt": "2026-11-21T07:19:19.060Z",
+  "year": 2024,
+  "source": "UN SDSN / Cambridge",
+  "countries": {
+    "FIN": {
+      "sdg_overall_score": 86.4
+    },
+    "SWE": {
+      "sdg_overall_score": 86
+    },
+    "DNK": {
+      "sdg_overall_score": 85.7
+    },
+    "DEU": {
+      "sdg_overall_score": 83.4
+    },
+    "FRA": {
+      "sdg_overall_score": 82.8
+    },
+    "GBR": {
+      "sdg_overall_score": 80.6
+    },
+    "JPN": {
+      "sdg_overall_score": 79.9
+    },
+    "CAN": {
+      "sdg_overall_score": 78.5
+    },
+    "USA": {
+      "sdg_overall_score": 74.4
+    },
+    "CHN": {
+      "sdg_overall_score": 72.8
+    },
+    "BRA": {
+      "sdg_overall_score": 73.7
+    },
+    "RUS": {
+      "sdg_overall_score": 74.1
+    },
+    "IND": {
+      "sdg_overall_score": 66.8
+    },
+    "IDN": {
+      "sdg_overall_score": 70.2
+    },
+    "ZAF": {
+      "sdg_overall_score": 64
+    },
+    "NGA": {
+      "sdg_overall_score": 54.3
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categoryKey": "06_technology",
+  "updatedAt": "2026-11-21T07:19:19.024Z",
+  "year": 2024,
+  "source": "ITU / WIPO",
+  "countries": {
+    "ARE": {
+      "internet_users_pct": 99,
+      "mobile_subscriptions": 212,
+      "patent_applications": 3500
+    },
+    "KOR": {
+      "internet_users_pct": 98,
+      "mobile_subscriptions": 145.2,
+      "patent_applications": 240000
+    },
+    "GBR": {
+      "internet_users_pct": 97.2,
+      "mobile_subscriptions": 121.5,
+      "patent_applications": 19500
+    },
+    "USA": {
+      "internet_users_pct": 93.8,
+      "mobile_subscriptions": 110.3,
+      "patent_applications": 505000
+    },
+    "DEU": {
+      "internet_users_pct": 93.1,
+      "mobile_subscriptions": 128.4,
+      "patent_applications": 57000
+    },
+    "CHN": {
+      "internet_users_pct": 76.4,
+      "mobile_subscriptions": 122.5,
+      "patent_applications": 1585000
+    },
+    "BRA": {
+      "internet_users_pct": 84.2,
+      "mobile_subscriptions": 98.6,
+      "patent_applications": 27000
+    },
+    "IND": {
+      "internet_users_pct": 52.4,
+      "mobile_subscriptions": 84.1,
+      "patent_applications": 90000
+    },
+    "NGA": {
+      "internet_users_pct": 43.5,
+      "mobile_subscriptions": 99.8,
+      "patent_applications": 1200
+    }
+  }
+}

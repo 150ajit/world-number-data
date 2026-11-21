@@ -1,0 +1,52 @@
+{
+  "categoryKey": "18_sports",
+  "updatedAt": "2026-11-21T07:19:19.058Z",
+  "year": 2024,
+  "source": "IOC / FIFA",
+  "countries": {
+    "USA": {
+      "olympic_medals_total": 2975,
+      "fifa_ranking": 18
+    },
+    "GBR": {
+      "olympic_medals_total": 981,
+      "fifa_ranking": 4
+    },
+    "DEU": {
+      "olympic_medals_total": 922,
+      "fifa_ranking": 11
+    },
+    "FRA": {
+      "olympic_medals_total": 933,
+      "fifa_ranking": 2
+    },
+    "CHN": {
+      "olympic_medals_total": 727,
+      "fifa_ranking": 92
+    },
+    "ITA": {
+      "olympic_medals_total": 778,
+      "fifa_ranking": 9
+    },
+    "JPN": {
+      "olympic_medals_total": 586,
+      "fifa_ranking": 15
+    },
+    "AUS": {
+      "olympic_medals_total": 599,
+      "fifa_ranking": 24
+    },
+    "BRA": {
+      "olympic_medals_total": 170,
+      "fifa_ranking": 5
+    },
+    "ARG": {
+      "olympic_medals_total": 80,
+      "fifa_ranking": 1
+    },
+    "IND": {
+      "olympic_medals_total": 41,
+      "fifa_ranking": 125
+    }
+  }
+}

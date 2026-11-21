@@ -1,0 +1,66 @@
+name: World Number Data Pipeline & Static Hosting
+
+on:
+  schedule:
+    # Run at 02:00 UTC on the 1st of every month
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force re-download of all indicators'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  collect-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Datasets & Compute Hashes
+        run: |
+          node scripts/build_datasets.js
+
+      - name: Validate Integrity & Schema
+        run: |
+          node scripts/validate_datasets.js
+
+      - name: Commit Updated Datasets
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Data Pipeline"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data Update: UN, World Bank, WHO, IMF [skip ci]"
+          git push
+
+      - name: Upload GitHub Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'data/'
+
+  deploy-pages:
+    needs: collect-and-validate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
