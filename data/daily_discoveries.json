@@ -133,5 +133,14 @@
     "detail": "206 National Olympic Committees compete globally, with the United States holding the highest all-time medal count (2,975).",
     "source": "IOC",
     "isoCode": "USA"
+  },
+  {
+    "dayOfYear": 16,
+    "categoryId": "city_rankings",
+    "headline": "Dubai: A Global City",
+    "stat": "3.6 Million",
+    "detail": "Dubai's population is over 3.6 million, making it one of the world's largest cities.",
+    "source": "Dubai Statistics Center / UN Habitat",
+    "isoCode": "UAE"
   }
 ]
