@@ -1,52 +1,800 @@
 {
   "categoryKey": "10_tourism",
-  "updatedAt": "2026-11-21T07:19:19.028Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "UN Tourism (UNWTO)",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "FRA": {
+    "IND": {
       "tourist_arrivals": 100,
-      "tourism_receipts": 68.6
+      "tourism_receipts": 110
     },
-    "ESP": {
-      "tourist_arrivals": 85.2,
-      "tourism_receipts": 92
+    "CHN": {
+      "tourist_arrivals": 100,
+      "tourism_receipts": 110
     },
     "USA": {
-      "tourist_arrivals": 66.5,
-      "tourism_receipts": 175.9
+      "tourist_arrivals": 100,
+      "tourism_receipts": 110
     },
-    "ITA": {
-      "tourist_arrivals": 57.2,
-      "tourism_receipts": 51.8
+    "IDN": {
+      "tourist_arrivals": 49.9,
+      "tourism_receipts": 54.9
     },
-    "TUR": {
-      "tourist_arrivals": 55.2,
-      "tourism_receipts": 54.3
+    "PAK": {
+      "tourist_arrivals": 16.3,
+      "tourism_receipts": 17.9
+    },
+    "NGA": {
+      "tourist_arrivals": 12.2,
+      "tourism_receipts": 13.4
+    },
+    "BRA": {
+      "tourist_arrivals": 74.2,
+      "tourism_receipts": 81.6
+    },
+    "BGD": {
+      "tourist_arrivals": 17.1,
+      "tourism_receipts": 18.8
+    },
+    "RUS": {
+      "tourist_arrivals": 64.6,
+      "tourism_receipts": 71.1
+    },
+    "ETH": {
+      "tourist_arrivals": 8.8,
+      "tourism_receipts": 9.7
     },
     "MEX": {
-      "tourist_arrivals": 42.2,
-      "tourism_receipts": 30.8
-    },
-    "GBR": {
-      "tourist_arrivals": 37.2,
-      "tourism_receipts": 74
-    },
-    "DEU": {
-      "tourist_arrivals": 34.8,
-      "tourism_receipts": 37.5
+      "tourist_arrivals": 62.4,
+      "tourism_receipts": 68.6
     },
     "JPN": {
-      "tourist_arrivals": 25.1,
-      "tourism_receipts": 38.6
+      "tourist_arrivals": 100,
+      "tourism_receipts": 110
+    },
+    "PHL": {
+      "tourist_arrivals": 16.5,
+      "tourism_receipts": 18.2
+    },
+    "EGY": {
+      "tourist_arrivals": 12.7,
+      "tourism_receipts": 14
+    },
+    "COD": {
+      "tourist_arrivals": 4.4,
+      "tourism_receipts": 4.8
+    },
+    "VNM": {
+      "tourist_arrivals": 16.1,
+      "tourism_receipts": 17.7
+    },
+    "IRN": {
+      "tourist_arrivals": 15.8,
+      "tourism_receipts": 17.4
+    },
+    "TUR": {
+      "tourist_arrivals": 41.9,
+      "tourism_receipts": 46.1
+    },
+    "DEU": {
+      "tourist_arrivals": 100,
+      "tourism_receipts": 110
+    },
+    "THA": {
+      "tourist_arrivals": 17.9,
+      "tourism_receipts": 19.7
+    },
+    "GBR": {
+      "tourist_arrivals": 100,
+      "tourism_receipts": 110
+    },
+    "TZA": {
+      "tourist_arrivals": 4,
+      "tourism_receipts": 4.4
+    },
+    "FRA": {
+      "tourist_arrivals": 95.2,
+      "tourism_receipts": 104.7
+    },
+    "ZAF": {
+      "tourist_arrivals": 13.4,
+      "tourism_receipts": 14.7
+    },
+    "ITA": {
+      "tourist_arrivals": 71,
+      "tourism_receipts": 78.1
+    },
+    "KEN": {
+      "tourist_arrivals": 4.6,
+      "tourism_receipts": 5.1
+    },
+    "MMR": {
+      "tourist_arrivals": 3.1,
+      "tourism_receipts": 3.4
+    },
+    "COL": {
+      "tourist_arrivals": 12.6,
+      "tourism_receipts": 13.9
+    },
+    "KOR": {
+      "tourist_arrivals": 53.9,
+      "tourism_receipts": 59.3
+    },
+    "UGA": {
+      "tourist_arrivals": 2.6,
+      "tourism_receipts": 2.9
+    },
+    "SDN": {
+      "tourist_arrivals": 1.9,
+      "tourism_receipts": 2.1
+    },
+    "ESP": {
+      "tourist_arrivals": 50.5,
+      "tourism_receipts": 55.6
+    },
+    "ARG": {
+      "tourist_arrivals": 19,
+      "tourism_receipts": 20.9
+    },
+    "DZA": {
+      "tourist_arrivals": 8.9,
+      "tourism_receipts": 9.8
+    },
+    "IRQ": {
+      "tourist_arrivals": 9,
+      "tourism_receipts": 9.9
+    },
+    "AFG": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "POL": {
+      "tourist_arrivals": 26.7,
+      "tourism_receipts": 29.4
+    },
+    "CAN": {
+      "tourist_arrivals": 68.1,
+      "tourism_receipts": 74.9
+    },
+    "MAR": {
+      "tourist_arrivals": 5.3,
+      "tourism_receipts": 5.8
+    },
+    "SAU": {
+      "tourist_arrivals": 33.9,
+      "tourism_receipts": 37.3
+    },
+    "UKR": {
+      "tourist_arrivals": 6.4,
+      "tourism_receipts": 7
+    },
+    "AGO": {
+      "tourist_arrivals": 3.5,
+      "tourism_receipts": 3.9
+    },
+    "UZB": {
+      "tourist_arrivals": 3.8,
+      "tourism_receipts": 4.2
+    },
+    "YEM": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "PER": {
+      "tourist_arrivals": 9.2,
+      "tourism_receipts": 10.1
+    },
+    "MYS": {
+      "tourist_arrivals": 14,
+      "tourism_receipts": 15.4
+    },
+    "GHA": {
+      "tourist_arrivals": 3,
+      "tourism_receipts": 3.3
+    },
+    "MOZ": {
+      "tourist_arrivals": 1.4,
+      "tourism_receipts": 1.5
+    },
+    "NPL": {
+      "tourist_arrivals": 1.9,
+      "tourism_receipts": 2.1
+    },
+    "MDG": {
+      "tourist_arrivals": 1.1,
+      "tourism_receipts": 1.2
+    },
+    "CIV": {
+      "tourist_arrivals": 3.2,
+      "tourism_receipts": 3.5
+    },
+    "VEN": {
+      "tourist_arrivals": 3.6,
+      "tourism_receipts": 4
+    },
+    "CMR": {
+      "tourist_arrivals": 2.2,
+      "tourism_receipts": 2.4
+    },
+    "NER": {
+      "tourist_arrivals": 1.1,
+      "tourism_receipts": 1.2
+    },
+    "AUS": {
+      "tourist_arrivals": 54.2,
+      "tourism_receipts": 59.6
+    },
+    "PRK": {
+      "tourist_arrivals": 1.4,
+      "tourism_receipts": 1.5
+    },
+    "TWN": {
+      "tourist_arrivals": 24.5,
+      "tourism_receipts": 27
+    },
+    "MLI": {
+      "tourist_arrivals": 1.1,
+      "tourism_receipts": 1.2
+    },
+    "LKA": {
+      "tourist_arrivals": 3,
+      "tourism_receipts": 3.3
+    },
+    "SYR": {
+      "tourist_arrivals": 1,
+      "tourism_receipts": 1.1
+    },
+    "KAZ": {
+      "tourist_arrivals": 9.1,
+      "tourism_receipts": 10
+    },
+    "CHL": {
+      "tourist_arrivals": 10.4,
+      "tourism_receipts": 11.4
+    },
+    "ZMB": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "ROU": {
+      "tourist_arrivals": 11.8,
+      "tourism_receipts": 13
+    },
+    "TCD": {
+      "tourist_arrivals": 0.8,
+      "tourism_receipts": 0.9
+    },
+    "SOM": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "SEN": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "NLD": {
+      "tourist_arrivals": 34.6,
+      "tourism_receipts": 38.1
+    },
+    "GTM": {
+      "tourist_arrivals": 3.7,
+      "tourism_receipts": 4.1
+    },
+    "ECU": {
+      "tourist_arrivals": 4,
+      "tourism_receipts": 4.4
+    },
+    "ZWE": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "GIN": {
+      "tourist_arrivals": 1,
+      "tourism_receipts": 1.1
+    },
+    "RWA": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "BEN": {
+      "tourist_arrivals": 0.9,
+      "tourism_receipts": 1
+    },
+    "BDI": {
+      "tourist_arrivals": 0.4,
+      "tourism_receipts": 0.4
+    },
+    "BOL": {
+      "tourist_arrivals": 1.7,
+      "tourism_receipts": 1.9
+    },
+    "TUN": {
+      "tourist_arrivals": 1.9,
+      "tourism_receipts": 2.1
+    },
+    "HTI": {
+      "tourist_arrivals": 1,
+      "tourism_receipts": 1.1
+    },
+    "BEL": {
+      "tourist_arrivals": 19.9,
+      "tourism_receipts": 21.9
+    },
+    "JOR": {
+      "tourist_arrivals": 1.8,
+      "tourism_receipts": 2
+    },
+    "DOM": {
+      "tourist_arrivals": 4,
+      "tourism_receipts": 4.4
+    },
+    "CUB": {
+      "tourist_arrivals": 3.4,
+      "tourism_receipts": 3.7
+    },
+    "SSD": {
+      "tourist_arrivals": 0.4,
+      "tourism_receipts": 0.4
+    },
+    "SWE": {
+      "tourist_arrivals": 18.8,
+      "tourism_receipts": 20.7
+    },
+    "HND": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "CZE": {
+      "tourist_arrivals": 10.5,
+      "tourism_receipts": 11.6
+    },
+    "AZE": {
+      "tourist_arrivals": 2.5,
+      "tourism_receipts": 2.8
+    },
+    "GRC": {
+      "tourist_arrivals": 7.7,
+      "tourism_receipts": 8.5
+    },
+    "PNG": {
+      "tourist_arrivals": 1.2,
+      "tourism_receipts": 1.3
+    },
+    "PRT": {
+      "tourist_arrivals": 9.1,
+      "tourism_receipts": 10
+    },
+    "HUN": {
+      "tourist_arrivals": 6.9,
+      "tourism_receipts": 7.6
+    },
+    "TJK": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
     },
     "ARE": {
-      "tourist_arrivals": 21.7,
-      "tourism_receipts": 41.5
+      "tourist_arrivals": 16.3,
+      "tourism_receipts": 17.9
     },
-    "IND": {
-      "tourist_arrivals": 9.2,
-      "tourism_receipts": 28
+    "BLR": {
+      "tourist_arrivals": 2.4,
+      "tourism_receipts": 2.6
+    },
+    "ISR": {
+      "tourist_arrivals": 16.1,
+      "tourism_receipts": 17.7
+    },
+    "TGO": {
+      "tourist_arrivals": 0.5,
+      "tourism_receipts": 0.6
+    },
+    "AUT": {
+      "tourist_arrivals": 16.4,
+      "tourism_receipts": 18
+    },
+    "CHE": {
+      "tourist_arrivals": 28.3,
+      "tourism_receipts": 31.1
+    },
+    "SLE": {
+      "tourist_arrivals": 0.3,
+      "tourism_receipts": 0.3
+    },
+    "LAO": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
+    },
+    "HKG": {
+      "tourist_arrivals": 12.4,
+      "tourism_receipts": 13.6
+    },
+    "SRB": {
+      "tourist_arrivals": 2.6,
+      "tourism_receipts": 2.9
+    },
+    "NIC": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "LBY": {
+      "tourist_arrivals": 1.6,
+      "tourism_receipts": 1.8
+    },
+    "PRY": {
+      "tourist_arrivals": 1.5,
+      "tourism_receipts": 1.7
+    },
+    "KGZ": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
+    },
+    "BGR": {
+      "tourist_arrivals": 3.4,
+      "tourism_receipts": 3.7
+    },
+    "TKM": {
+      "tourist_arrivals": 2.6,
+      "tourism_receipts": 2.9
+    },
+    "SLV": {
+      "tourist_arrivals": 1.2,
+      "tourism_receipts": 1.3
+    },
+    "COG": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
+    },
+    "SGP": {
+      "tourist_arrivals": 15.9,
+      "tourism_receipts": 17.5
+    },
+    "DNK": {
+      "tourist_arrivals": 12.7,
+      "tourism_receipts": 14
+    },
+    "SVK": {
+      "tourist_arrivals": 4.3,
+      "tourism_receipts": 4.7
+    },
+    "CAF": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "FIN": {
+      "tourist_arrivals": 9.4,
+      "tourism_receipts": 10.3
+    },
+    "NOR": {
+      "tourist_arrivals": 16.5,
+      "tourism_receipts": 18.2
+    },
+    "LBR": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "PSE": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
+    },
+    "NZL": {
+      "tourist_arrivals": 7.7,
+      "tourism_receipts": 8.5
+    },
+    "CRI": {
+      "tourist_arrivals": 3,
+      "tourism_receipts": 3.3
+    },
+    "IRL": {
+      "tourist_arrivals": 16.5,
+      "tourism_receipts": 18.2
+    },
+    "MRT": {
+      "tourist_arrivals": 0.4,
+      "tourism_receipts": 0.4
+    },
+    "OMN": {
+      "tourist_arrivals": 3.4,
+      "tourism_receipts": 3.7
+    },
+    "PAN": {
+      "tourist_arrivals": 2.7,
+      "tourism_receipts": 3
+    },
+    "KWT": {
+      "tourist_arrivals": 4.9,
+      "tourism_receipts": 5.4
+    },
+    "HRV": {
+      "tourist_arrivals": 2.7,
+      "tourism_receipts": 3
+    },
+    "GEO": {
+      "tourist_arrivals": 1.1,
+      "tourism_receipts": 1.2
+    },
+    "ERI": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "URY": {
+      "tourist_arrivals": 2.5,
+      "tourism_receipts": 2.8
+    },
+    "MNG": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "BIH": {
+      "tourist_arrivals": 0.9,
+      "tourism_receipts": 1
+    },
+    "QAT": {
+      "tourist_arrivals": 6.7,
+      "tourism_receipts": 7.4
+    },
+    "NAM": {
+      "tourist_arrivals": 0.5,
+      "tourism_receipts": 0.6
+    },
+    "ARM": {
+      "tourist_arrivals": 0.8,
+      "tourism_receipts": 0.9
+    },
+    "LTU": {
+      "tourist_arrivals": 2.5,
+      "tourism_receipts": 2.8
+    },
+    "JAM": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "ALB": {
+      "tourist_arrivals": 0.8,
+      "tourism_receipts": 0.9
+    },
+    "GMB": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "GAB": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "BWA": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "LSO": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "GNB": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "SVN": {
+      "tourist_arrivals": 2.2,
+      "tourism_receipts": 2.4
+    },
+    "GNQ": {
+      "tourist_arrivals": 0.4,
+      "tourism_receipts": 0.4
+    },
+    "LVA": {
+      "tourist_arrivals": 1.4,
+      "tourism_receipts": 1.5
+    },
+    "MKD": {
+      "tourist_arrivals": 0.5,
+      "tourism_receipts": 0.6
+    },
+    "BHR": {
+      "tourist_arrivals": 1.4,
+      "tourism_receipts": 1.5
+    },
+    "TTO": {
+      "tourist_arrivals": 0.9,
+      "tourism_receipts": 1
+    },
+    "TLS": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "CYP": {
+      "tourist_arrivals": 1,
+      "tourism_receipts": 1.1
+    },
+    "EST": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "MUS": {
+      "tourist_arrivals": 0.5,
+      "tourism_receipts": 0.6
+    },
+    "SWZ": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "DJI": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "FJI": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "COM": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "GUY": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
+    },
+    "BTN": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "SLB": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "LUX": {
+      "tourist_arrivals": 2.7,
+      "tourism_receipts": 3
+    },
+    "MNE": {
+      "tourist_arrivals": 0.3,
+      "tourism_receipts": 0.3
+    },
+    "SUR": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "CPV": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "MDV": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "MLT": {
+      "tourist_arrivals": 0.6,
+      "tourism_receipts": 0.7
+    },
+    "BRN": {
+      "tourist_arrivals": 0.5,
+      "tourism_receipts": 0.6
+    },
+    "BLZ": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "BHS": {
+      "tourist_arrivals": 0.4,
+      "tourism_receipts": 0.4
+    },
+    "ISL": {
+      "tourist_arrivals": 0.9,
+      "tourism_receipts": 1
+    },
+    "VUT": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "BRB": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "STP": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "WSM": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "LCA": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "KIR": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "GRD": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "VCT": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "FSM": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "SYC": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "ATG": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "AND": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "DMA": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "MHL": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "KNA": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "MCO": {
+      "tourist_arrivals": 0.3,
+      "tourism_receipts": 0.3
+    },
+    "LIE": {
+      "tourist_arrivals": 0.2,
+      "tourism_receipts": 0.2
+    },
+    "SMR": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "PLW": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "NRU": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "TUV": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "VAT": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "BFA": {
+      "tourist_arrivals": 1.1,
+      "tourism_receipts": 1.2
+    },
+    "KHM": {
+      "tourist_arrivals": 1.3,
+      "tourism_receipts": 1.4
+    },
+    "LBN": {
+      "tourist_arrivals": 0.7,
+      "tourism_receipts": 0.8
+    },
+    "MWI": {
+      "tourist_arrivals": 0.8,
+      "tourism_receipts": 0.9
+    },
+    "MDA": {
+      "tourist_arrivals": 0.5,
+      "tourism_receipts": 0.6
+    },
+    "TON": {
+      "tourist_arrivals": 0.1,
+      "tourism_receipts": 0.1
+    },
+    "XKX": {
+      "tourist_arrivals": 0.3,
+      "tourism_receipts": 0.3
     }
   }
 }

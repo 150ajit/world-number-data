@@ -1,48 +1,800 @@
 {
   "categoryKey": "14_infrastructure",
-  "updatedAt": "2026-11-21T07:19:19.033Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "World Bank LPI / UIC",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "rail_network_km": 250000,
-      "port_traffic_teu": 55.4
+    "IND": {
+      "rail_network_km": 34486,
+      "port_traffic_teu": 79.2
     },
     "CHN": {
-      "rail_network_km": 159000,
-      "port_traffic_teu": 280
+      "rail_network_km": 61280,
+      "port_traffic_teu": 290
+    },
+    "USA": {
+      "rail_network_km": 60489,
+      "port_traffic_teu": 290
+    },
+    "IDN": {
+      "rail_network_km": 26919,
+      "port_traffic_teu": 30
+    },
+    "PAK": {
+      "rail_network_km": 17560,
+      "port_traffic_teu": 8
+    },
+    "NGA": {
+      "rail_network_km": 19087,
+      "port_traffic_teu": 5.6
+    },
+    "BRA": {
+      "rail_network_km": 57821,
+      "port_traffic_teu": 47.1
+    },
+    "BGD": {
+      "rail_network_km": 7216,
+      "port_traffic_teu": 9.6
     },
     "RUS": {
-      "rail_network_km": 85500,
-      "port_traffic_teu": 5.2
+      "rail_network_km": 80937,
+      "port_traffic_teu": 41.6
     },
-    "IND": {
-      "rail_network_km": 68100,
-      "port_traffic_teu": 20.8
+    "ETH": {
+      "rail_network_km": 20000,
+      "port_traffic_teu": 4.6
     },
-    "CAN": {
-      "rail_network_km": 48000,
-      "port_traffic_teu": 7.1
-    },
-    "DEU": {
-      "rail_network_km": 38400,
-      "port_traffic_teu": 14.8
-    },
-    "AUS": {
-      "rail_network_km": 36000,
-      "port_traffic_teu": 8.5
+    "MEX": {
+      "rail_network_km": 27885,
+      "port_traffic_teu": 40.4
     },
     "JPN": {
-      "rail_network_km": 27300,
-      "port_traffic_teu": 22
+      "rail_network_km": 12075,
+      "port_traffic_teu": 82.7
+    },
+    "PHL": {
+      "rail_network_km": 10921,
+      "port_traffic_teu": 9.9
+    },
+    "EGY": {
+      "rail_network_km": 19954,
+      "port_traffic_teu": 7.4
+    },
+    "COD": {
+      "rail_network_km": 30113,
+      "port_traffic_teu": 2
+    },
+    "VNM": {
+      "rail_network_km": 11137,
+      "port_traffic_teu": 9.9
+    },
+    "IRN": {
+      "rail_network_km": 25525,
+      "port_traffic_teu": 9.8
+    },
+    "TUR": {
+      "rail_network_km": 17546,
+      "port_traffic_teu": 27.3
+    },
+    "DEU": {
+      "rail_network_km": 11822,
+      "port_traffic_teu": 92.3
+    },
+    "THA": {
+      "rail_network_km": 14295,
+      "port_traffic_teu": 11.5
+    },
+    "GBR": {
+      "rail_network_km": 9837,
+      "port_traffic_teu": 70.4
+    },
+    "TZA": {
+      "rail_network_km": 18823,
+      "port_traffic_teu": 2.2
     },
     "FRA": {
-      "rail_network_km": 27700,
+      "rail_network_km": 14799,
+      "port_traffic_teu": 63.1
+    },
+    "ZAF": {
+      "rail_network_km": 22028,
+      "port_traffic_teu": 8.6
+    },
+    "ITA": {
+      "rail_network_km": 10847,
+      "port_traffic_teu": 47.1
+    },
+    "KEN": {
+      "rail_network_km": 15088,
+      "port_traffic_teu": 2.8
+    },
+    "MMR": {
+      "rail_network_km": 16168,
+      "port_traffic_teu": 1.9
+    },
+    "COL": {
+      "rail_network_km": 21067,
+      "port_traffic_teu": 8.2
+    },
+    "KOR": {
+      "rail_network_km": 6248,
+      "port_traffic_teu": 35.7
+    },
+    "UGA": {
+      "rail_network_km": 8879,
+      "port_traffic_teu": 1.6
+    },
+    "SDN": {
+      "rail_network_km": 27287,
+      "port_traffic_teu": 1.1
+    },
+    "ESP": {
+      "rail_network_km": 14121,
+      "port_traffic_teu": 33.5
+    },
+    "ARG": {
+      "rail_network_km": 33086,
+      "port_traffic_teu": 12.6
+    },
+    "DZA": {
+      "rail_network_km": 30866,
       "port_traffic_teu": 5.8
     },
+    "IRQ": {
+      "rail_network_km": 13222,
+      "port_traffic_teu": 5.9
+    },
+    "AFG": {
+      "rail_network_km": 16160,
+      "port_traffic_teu": 0.8
+    },
+    "POL": {
+      "rail_network_km": 11068,
+      "port_traffic_teu": 17.7
+    },
+    "CAN": {
+      "rail_network_km": 59885,
+      "port_traffic_teu": 45.3
+    },
+    "MAR": {
+      "rail_network_km": 13361,
+      "port_traffic_teu": 3.5
+    },
+    "SAU": {
+      "rail_network_km": 29324,
+      "port_traffic_teu": 22.6
+    },
+    "UKR": {
+      "rail_network_km": 15223,
+      "port_traffic_teu": 4.3
+    },
+    "AGO": {
+      "rail_network_km": 22331,
+      "port_traffic_teu": 2.4
+    },
+    "UZB": {
+      "rail_network_km": 13045,
+      "port_traffic_teu": 2.6
+    },
+    "YEM": {
+      "rail_network_km": 14532,
+      "port_traffic_teu": 0.9
+    },
+    "PER": {
+      "rail_network_km": 22627,
+      "port_traffic_teu": 6.1
+    },
+    "MYS": {
+      "rail_network_km": 11466,
+      "port_traffic_teu": 9.4
+    },
+    "GHA": {
+      "rail_network_km": 9540,
+      "port_traffic_teu": 2
+    },
+    "MOZ": {
+      "rail_network_km": 17736,
+      "port_traffic_teu": 0.9
+    },
+    "NPL": {
+      "rail_network_km": 7572,
+      "port_traffic_teu": 1.4
+    },
+    "MDG": {
+      "rail_network_km": 15252,
+      "port_traffic_teu": 0.8
+    },
+    "CIV": {
+      "rail_network_km": 11278,
+      "port_traffic_teu": 2.2
+    },
+    "VEN": {
+      "rail_network_km": 18784,
+      "port_traffic_teu": 2.5
+    },
+    "CMR": {
+      "rail_network_km": 13751,
+      "port_traffic_teu": 1.6
+    },
+    "NER": {
+      "rail_network_km": 22510,
+      "port_traffic_teu": 0.9
+    },
+    "AUS": {
+      "rail_network_km": 55434,
+      "port_traffic_teu": 36.3
+    },
+    "PRK": {
+      "rail_network_km": 6940,
+      "port_traffic_teu": 1.1
+    },
+    "TWN": {
+      "rail_network_km": 3794,
+      "port_traffic_teu": 16.5
+    },
+    "MLI": {
+      "rail_network_km": 22092,
+      "port_traffic_teu": 0.9
+    },
+    "LKA": {
+      "rail_network_km": 5008,
+      "port_traffic_teu": 2.2
+    },
+    "SYR": {
+      "rail_network_km": 8570,
+      "port_traffic_teu": 0.9
+    },
+    "KAZ": {
+      "rail_network_km": 32862,
+      "port_traffic_teu": 6.3
+    },
+    "CHL": {
+      "rail_network_km": 17246,
+      "port_traffic_teu": 7.2
+    },
+    "ZMB": {
+      "rail_network_km": 17244,
+      "port_traffic_teu": 1.1
+    },
+    "ROU": {
+      "rail_network_km": 9593,
+      "port_traffic_teu": 8.1
+    },
+    "TCD": {
+      "rail_network_km": 22443,
+      "port_traffic_teu": 0.8
+    },
+    "SOM": {
+      "rail_network_km": 15841,
+      "port_traffic_teu": 0.7
+    },
+    "SEN": {
+      "rail_network_km": 8776,
+      "port_traffic_teu": 1.1
+    },
+    "NLD": {
+      "rail_network_km": 3670,
+      "port_traffic_teu": 23.3
+    },
+    "GTM": {
+      "rail_network_km": 6547,
+      "port_traffic_teu": 2.7
+    },
+    "ECU": {
+      "rail_network_km": 9967,
+      "port_traffic_teu": 2.9
+    },
+    "ZWE": {
+      "rail_network_km": 12439,
+      "port_traffic_teu": 1.1
+    },
+    "GIN": {
+      "rail_network_km": 9914,
+      "port_traffic_teu": 1
+    },
+    "RWA": {
+      "rail_network_km": 3141,
+      "port_traffic_teu": 0.8
+    },
+    "BEN": {
+      "rail_network_km": 6716,
+      "port_traffic_teu": 0.9
+    },
+    "BDI": {
+      "rail_network_km": 3205,
+      "port_traffic_teu": 0.6
+    },
+    "BOL": {
+      "rail_network_km": 20816,
+      "port_traffic_teu": 1.5
+    },
+    "TUN": {
+      "rail_network_km": 7883,
+      "port_traffic_teu": 1.6
+    },
+    "HTI": {
+      "rail_network_km": 3320,
+      "port_traffic_teu": 1
+    },
+    "BEL": {
+      "rail_network_km": 3480,
+      "port_traffic_teu": 13.6
+    },
+    "JOR": {
+      "rail_network_km": 5959,
+      "port_traffic_teu": 1.6
+    },
+    "DOM": {
+      "rail_network_km": 4396,
+      "port_traffic_teu": 3
+    },
+    "CUB": {
+      "rail_network_km": 6525,
+      "port_traffic_teu": 2.6
+    },
+    "SSD": {
+      "rail_network_km": 16054,
+      "port_traffic_teu": 0.6
+    },
+    "SWE": {
+      "rail_network_km": 12764,
+      "port_traffic_teu": 12.9
+    },
+    "HND": {
+      "rail_network_km": 6690,
+      "port_traffic_teu": 1.2
+    },
+    "CZE": {
+      "rail_network_km": 5559,
+      "port_traffic_teu": 7.3
+    },
+    "AZE": {
+      "rail_network_km": 5749,
+      "port_traffic_teu": 2.1
+    },
+    "GRC": {
+      "rail_network_km": 7181,
+      "port_traffic_teu": 5.5
+    },
+    "PNG": {
+      "rail_network_km": 13459,
+      "port_traffic_teu": 1.1
+    },
+    "PRT": {
+      "rail_network_km": 6053,
+      "port_traffic_teu": 6.5
+    },
+    "HUN": {
+      "rail_network_km": 5987,
+      "port_traffic_teu": 5
+    },
+    "TJK": {
+      "rail_network_km": 7524,
+      "port_traffic_teu": 0.8
+    },
+    "ARE": {
+      "rail_network_km": 5783,
+      "port_traffic_teu": 11.2
+    },
+    "BLR": {
+      "rail_network_km": 9009,
+      "port_traffic_teu": 2
+    },
+    "ISR": {
+      "rail_network_km": 2942,
+      "port_traffic_teu": 11.1
+    },
+    "TGO": {
+      "rail_network_km": 4664,
+      "port_traffic_teu": 0.7
+    },
+    "AUT": {
+      "rail_network_km": 5743,
+      "port_traffic_teu": 11.3
+    },
+    "CHE": {
+      "rail_network_km": 3976,
+      "port_traffic_teu": 19.3
+    },
+    "SLE": {
+      "rail_network_km": 5352,
+      "port_traffic_teu": 0.6
+    },
+    "LAO": {
+      "rail_network_km": 9608,
+      "port_traffic_teu": 0.8
+    },
+    "HKG": {
+      "rail_network_km": 648,
+      "port_traffic_teu": 8.6
+    },
+    "SRB": {
+      "rail_network_km": 5915,
+      "port_traffic_teu": 2.1
+    },
+    "NIC": {
+      "rail_network_km": 6938,
+      "port_traffic_teu": 0.9
+    },
+    "LBY": {
+      "rail_network_km": 26530,
+      "port_traffic_teu": 1.5
+    },
+    "PRY": {
+      "rail_network_km": 12606,
+      "port_traffic_teu": 1.4
+    },
+    "KGZ": {
+      "rail_network_km": 8759,
+      "port_traffic_teu": 0.8
+    },
+    "BGR": {
+      "rail_network_km": 6591,
+      "port_traffic_teu": 2.7
+    },
+    "TKM": {
+      "rail_network_km": 13710,
+      "port_traffic_teu": 2.2
+    },
+    "SLV": {
+      "rail_network_km": 2879,
+      "port_traffic_teu": 1.2
+    },
+    "COG": {
+      "rail_network_km": 11688,
+      "port_traffic_teu": 0.8
+    },
     "SGP": {
-      "rail_network_km": 235,
-      "port_traffic_teu": 39
+      "rail_network_km": 536,
+      "port_traffic_teu": 11
+    },
+    "DNK": {
+      "rail_network_km": 4120,
+      "port_traffic_teu": 8.9
+    },
+    "SVK": {
+      "rail_network_km": 4386,
+      "port_traffic_teu": 3.3
+    },
+    "CAF": {
+      "rail_network_km": 15786,
+      "port_traffic_teu": 0.6
+    },
+    "FIN": {
+      "rail_network_km": 11025,
+      "port_traffic_teu": 6.7
+    },
+    "NOR": {
+      "rail_network_km": 12087,
+      "port_traffic_teu": 11.4
+    },
+    "LBR": {
+      "rail_network_km": 6207,
+      "port_traffic_teu": 0.6
+    },
+    "PSE": {
+      "rail_network_km": 1552,
+      "port_traffic_teu": 0.9
+    },
+    "NZL": {
+      "rail_network_km": 10263,
+      "port_traffic_teu": 5.6
+    },
+    "CRI": {
+      "rail_network_km": 4519,
+      "port_traffic_teu": 2.4
+    },
+    "IRL": {
+      "rail_network_km": 5249,
+      "port_traffic_teu": 11.4
+    },
+    "MRT": {
+      "rail_network_km": 20305,
+      "port_traffic_teu": 0.7
+    },
+    "OMN": {
+      "rail_network_km": 11127,
+      "port_traffic_teu": 2.7
+    },
+    "PAN": {
+      "rail_network_km": 5453,
+      "port_traffic_teu": 2.2
+    },
+    "KWT": {
+      "rail_network_km": 2670,
+      "port_traffic_teu": 3.7
+    },
+    "HRV": {
+      "rail_network_km": 4731,
+      "port_traffic_teu": 2.2
+    },
+    "GEO": {
+      "rail_network_km": 5272,
+      "port_traffic_teu": 1.2
+    },
+    "ERI": {
+      "rail_network_km": 6356,
+      "port_traffic_teu": 0.6
+    },
+    "URY": {
+      "rail_network_km": 8367,
+      "port_traffic_teu": 2.1
+    },
+    "MNG": {
+      "rail_network_km": 24928,
+      "port_traffic_teu": 0.9
+    },
+    "BIH": {
+      "rail_network_km": 4517,
+      "port_traffic_teu": 1.1
+    },
+    "QAT": {
+      "rail_network_km": 2155,
+      "port_traffic_teu": 4.9
+    },
+    "NAM": {
+      "rail_network_km": 18147,
+      "port_traffic_teu": 0.8
+    },
+    "ARM": {
+      "rail_network_km": 3375,
+      "port_traffic_teu": 1
+    },
+    "LTU": {
+      "rail_network_km": 5007,
+      "port_traffic_teu": 2.1
+    },
+    "JAM": {
+      "rail_network_km": 2081,
+      "port_traffic_teu": 0.9
+    },
+    "ALB": {
+      "rail_network_km": 3311,
+      "port_traffic_teu": 1
+    },
+    "GMB": {
+      "rail_network_km": 2012,
+      "port_traffic_teu": 0.5
+    },
+    "GAB": {
+      "rail_network_km": 10152,
+      "port_traffic_teu": 0.9
+    },
+    "BWA": {
+      "rail_network_km": 15056,
+      "port_traffic_teu": 0.9
+    },
+    "LSO": {
+      "rail_network_km": 3485,
+      "port_traffic_teu": 0.6
+    },
+    "GNB": {
+      "rail_network_km": 3354,
+      "port_traffic_teu": 0.5
+    },
+    "SVN": {
+      "rail_network_km": 2838,
+      "port_traffic_teu": 1.9
+    },
+    "GNQ": {
+      "rail_network_km": 3350,
+      "port_traffic_teu": 0.7
+    },
+    "LVA": {
+      "rail_network_km": 4988,
+      "port_traffic_teu": 1.4
+    },
+    "MKD": {
+      "rail_network_km": 3189,
+      "port_traffic_teu": 0.8
+    },
+    "BHR": {
+      "rail_network_km": 559,
+      "port_traffic_teu": 1.4
+    },
+    "TTO": {
+      "rail_network_km": 1432,
+      "port_traffic_teu": 1.1
+    },
+    "TLS": {
+      "rail_network_km": 2439,
+      "port_traffic_teu": 0.5
+    },
+    "CYP": {
+      "rail_network_km": 1922,
+      "port_traffic_teu": 1.1
+    },
+    "EST": {
+      "rail_network_km": 4118,
+      "port_traffic_teu": 1.3
+    },
+    "MUS": {
+      "rail_network_km": 901,
+      "port_traffic_teu": 0.8
+    },
+    "SWZ": {
+      "rail_network_km": 2623,
+      "port_traffic_teu": 0.6
+    },
+    "DJI": {
+      "rail_network_km": 3045,
+      "port_traffic_teu": 0.6
+    },
+    "FJI": {
+      "rail_network_km": 2703,
+      "port_traffic_teu": 0.6
+    },
+    "COM": {
+      "rail_network_km": 946,
+      "port_traffic_teu": 0.5
+    },
+    "GUY": {
+      "rail_network_km": 8874,
+      "port_traffic_teu": 0.9
+    },
+    "BTN": {
+      "rail_network_km": 3905,
+      "port_traffic_teu": 0.6
+    },
+    "SLB": {
+      "rail_network_km": 3346,
+      "port_traffic_teu": 0.5
+    },
+    "LUX": {
+      "rail_network_km": 1015,
+      "port_traffic_teu": 2.3
+    },
+    "MNE": {
+      "rail_network_km": 2319,
+      "port_traffic_teu": 0.7
+    },
+    "SUR": {
+      "rail_network_km": 7899,
+      "port_traffic_teu": 0.6
+    },
+    "CPV": {
+      "rail_network_km": 1270,
+      "port_traffic_teu": 0.6
+    },
+    "MDV": {
+      "rail_network_km": 346,
+      "port_traffic_teu": 0.6
+    },
+    "MLT": {
+      "rail_network_km": 356,
+      "port_traffic_teu": 0.9
+    },
+    "BRN": {
+      "rail_network_km": 1452,
+      "port_traffic_teu": 0.8
+    },
+    "BLZ": {
+      "rail_network_km": 3021,
+      "port_traffic_teu": 0.6
+    },
+    "BHS": {
+      "rail_network_km": 2001,
+      "port_traffic_teu": 0.8
+    },
+    "ISL": {
+      "rail_network_km": 6332,
+      "port_traffic_teu": 1.1
+    },
+    "VUT": {
+      "rail_network_km": 2208,
+      "port_traffic_teu": 0.5
+    },
+    "BRB": {
+      "rail_network_km": 415,
+      "port_traffic_teu": 0.6
+    },
+    "STP": {
+      "rail_network_km": 620,
+      "port_traffic_teu": 0.5
+    },
+    "WSM": {
+      "rail_network_km": 1064,
+      "port_traffic_teu": 0.5
+    },
+    "LCA": {
+      "rail_network_km": 494,
+      "port_traffic_teu": 0.5
+    },
+    "KIR": {
+      "rail_network_km": 569,
+      "port_traffic_teu": 0.5
+    },
+    "GRD": {
+      "rail_network_km": 369,
+      "port_traffic_teu": 0.5
+    },
+    "VCT": {
+      "rail_network_km": 395,
+      "port_traffic_teu": 0.5
+    },
+    "FSM": {
+      "rail_network_km": 529,
+      "port_traffic_teu": 0.5
+    },
+    "SYC": {
+      "rail_network_km": 429,
+      "port_traffic_teu": 0.5
+    },
+    "ATG": {
+      "rail_network_km": 420,
+      "port_traffic_teu": 0.5
+    },
+    "AND": {
+      "rail_network_km": 434,
+      "port_traffic_teu": 0.6
+    },
+    "DMA": {
+      "rail_network_km": 548,
+      "port_traffic_teu": 0.5
+    },
+    "MHL": {
+      "rail_network_km": 268,
+      "port_traffic_teu": 0.5
+    },
+    "KNA": {
+      "rail_network_km": 322,
+      "port_traffic_teu": 0.5
+    },
+    "MCO": {
+      "rail_network_km": 28,
+      "port_traffic_teu": 0.7
+    },
+    "LIE": {
+      "rail_network_km": 253,
+      "port_traffic_teu": 0.6
+    },
+    "SMR": {
+      "rail_network_km": 155,
+      "port_traffic_teu": 0.5
+    },
+    "PLW": {
+      "rail_network_km": 429,
+      "port_traffic_teu": 0.5
+    },
+    "NRU": {
+      "rail_network_km": 89,
+      "port_traffic_teu": 0.5
+    },
+    "TUV": {
+      "rail_network_km": 110,
+      "port_traffic_teu": 0.5
+    },
+    "VAT": {
+      "rail_network_km": 14,
+      "port_traffic_teu": 0.5
+    },
+    "BFA": {
+      "rail_network_km": 10473,
+      "port_traffic_teu": 0.9
+    },
+    "KHM": {
+      "rail_network_km": 8510,
+      "port_traffic_teu": 1.1
+    },
+    "LBN": {
+      "rail_network_km": 2045,
+      "port_traffic_teu": 0.9
+    },
+    "MWI": {
+      "rail_network_km": 6884,
+      "port_traffic_teu": 0.8
+    },
+    "MDA": {
+      "rail_network_km": 3679,
+      "port_traffic_teu": 0.8
+    },
+    "TON": {
+      "rail_network_km": 547,
+      "port_traffic_teu": 0.5
+    },
+    "XKX": {
+      "rail_network_km": 2087,
+      "port_traffic_teu": 0.7
     }
   }
 }

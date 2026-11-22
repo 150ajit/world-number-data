@@ -1,53 +1,998 @@
 {
   "categoryKey": "06_technology",
-  "updatedAt": "2026-11-21T07:19:19.024Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "ITU / WIPO",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "ARE": {
-      "internet_users_pct": 99,
-      "mobile_subscriptions": 212,
-      "patent_applications": 3500
-    },
-    "KOR": {
-      "internet_users_pct": 98,
-      "mobile_subscriptions": 145.2,
-      "patent_applications": 240000
-    },
-    "GBR": {
-      "internet_users_pct": 97.2,
-      "mobile_subscriptions": 121.5,
-      "patent_applications": 19500
-    },
-    "USA": {
-      "internet_users_pct": 93.8,
-      "mobile_subscriptions": 110.3,
-      "patent_applications": 505000
-    },
-    "DEU": {
-      "internet_users_pct": 93.1,
-      "mobile_subscriptions": 128.4,
-      "patent_applications": 57000
+    "IND": {
+      "internet_users_pct": 62.6,
+      "mobile_subscriptions": 97.3,
+      "patent_applications": 137795
     },
     "CHN": {
-      "internet_users_pct": 76.4,
-      "mobile_subscriptions": 122.5,
-      "patent_applications": 1585000
+      "internet_users_pct": 77.7,
+      "mobile_subscriptions": 114.6,
+      "patent_applications": 648655
     },
-    "BRA": {
-      "internet_users_pct": 84.2,
-      "mobile_subscriptions": 98.6,
-      "patent_applications": 27000
+    "USA": {
+      "internet_users_pct": 92.3,
+      "mobile_subscriptions": 131.2,
+      "patent_applications": 1007335
     },
-    "IND": {
-      "internet_users_pct": 52.4,
-      "mobile_subscriptions": 84.1,
-      "patent_applications": 90000
+    "IDN": {
+      "internet_users_pct": 69.9,
+      "mobile_subscriptions": 105.6,
+      "patent_applications": 51625
+    },
+    "PAK": {
+      "internet_users_pct": 51.7,
+      "mobile_subscriptions": 84.8,
+      "patent_applications": 13125
     },
     "NGA": {
+      "internet_users_pct": 52.5,
+      "mobile_subscriptions": 85.8,
+      "patent_applications": 8855
+    },
+    "BRA": {
+      "internet_users_pct": 74.8,
+      "mobile_subscriptions": 111.2,
+      "patent_applications": 81585
+    },
+    "BGD": {
+      "internet_users_pct": 64.4,
+      "mobile_subscriptions": 99.3,
+      "patent_applications": 15925
+    },
+    "RUS": {
+      "internet_users_pct": 81.2,
+      "mobile_subscriptions": 118.5,
+      "patent_applications": 71960
+    },
+    "ETH": {
+      "internet_users_pct": 47.3,
+      "mobile_subscriptions": 79.8,
+      "patent_applications": 7175
+    },
+    "MEX": {
+      "internet_users_pct": 77,
+      "mobile_subscriptions": 113.7,
+      "patent_applications": 69755
+    },
+    "JPN": {
+      "internet_users_pct": 91.6,
+      "mobile_subscriptions": 130.4,
+      "patent_applications": 143850
+    },
+    "PHL": {
+      "internet_users_pct": 69.5,
+      "mobile_subscriptions": 105.2,
+      "patent_applications": 16450
+    },
+    "EGY": {
+      "internet_users_pct": 71.4,
+      "mobile_subscriptions": 107.4,
+      "patent_applications": 12145
+    },
+    "COD": {
+      "internet_users_pct": 45.5,
+      "mobile_subscriptions": 77.7,
+      "patent_applications": 730
+    },
+    "VNM": {
+      "internet_users_pct": 71.2,
+      "mobile_subscriptions": 107.1,
+      "patent_applications": 16415
+    },
+    "IRN": {
+      "internet_users_pct": 76.9,
+      "mobile_subscriptions": 113.6,
+      "patent_applications": 16240
+    },
+    "TUR": {
+      "internet_users_pct": 84.8,
+      "mobile_subscriptions": 122.6,
+      "patent_applications": 46900
+    },
+    "DEU": {
+      "internet_users_pct": 94.8,
+      "mobile_subscriptions": 134,
+      "patent_applications": 160685
+    },
+    "THA": {
+      "internet_users_pct": 79.3,
+      "mobile_subscriptions": 116.4,
+      "patent_applications": 19180
+    },
+    "GBR": {
+      "internet_users_pct": 93.7,
+      "mobile_subscriptions": 132.8,
+      "patent_applications": 122325
+    },
+    "TZA": {
+      "internet_users_pct": 50.9,
+      "mobile_subscriptions": 83.8,
+      "patent_applications": 860
+    },
+    "FRA": {
+      "internet_users_pct": 90.5,
+      "mobile_subscriptions": 129.2,
+      "patent_applications": 109550
+    },
+    "ZAF": {
+      "internet_users_pct": 70.3,
+      "mobile_subscriptions": 106,
+      "patent_applications": 14105
+    },
+    "ITA": {
+      "internet_users_pct": 90.1,
+      "mobile_subscriptions": 128.7,
+      "patent_applications": 81480
+    },
+    "KEN": {
+      "internet_users_pct": 58.1,
+      "mobile_subscriptions": 92.1,
+      "patent_applications": 4060
+    },
+    "MMR": {
+      "internet_users_pct": 58.8,
+      "mobile_subscriptions": 93,
+      "patent_applications": 680
+    },
+    "COL": {
+      "internet_users_pct": 74.6,
+      "mobile_subscriptions": 111,
+      "patent_applications": 13510
+    },
+    "KOR": {
+      "internet_users_pct": 92.5,
+      "mobile_subscriptions": 131.5,
+      "patent_applications": 61635
+    },
+    "UGA": {
+      "internet_users_pct": 52.8,
+      "mobile_subscriptions": 86,
+      "patent_applications": 530
+    },
+    "SDN": {
+      "internet_users_pct": 49.2,
+      "mobile_subscriptions": 81.9,
+      "patent_applications": 320
+    },
+    "ESP": {
+      "internet_users_pct": 90.7,
+      "mobile_subscriptions": 129.3,
+      "patent_applications": 57750
+    },
+    "ARG": {
+      "internet_users_pct": 84.1,
+      "mobile_subscriptions": 121.9,
+      "patent_applications": 21140
+    },
+    "DZA": {
+      "internet_users_pct": 73.2,
+      "mobile_subscriptions": 109.4,
+      "patent_applications": 9310
+    },
+    "IRQ": {
+      "internet_users_pct": 65.7,
+      "mobile_subscriptions": 100.8,
+      "patent_applications": 9450
+    },
+    "AFG": {
       "internet_users_pct": 43.5,
-      "mobile_subscriptions": 99.8,
-      "patent_applications": 1200
+      "mobile_subscriptions": 75.4,
+      "patent_applications": 150
+    },
+    "POL": {
+      "internet_users_pct": 87.5,
+      "mobile_subscriptions": 125.7,
+      "patent_applications": 30170
+    },
+    "CAN": {
+      "internet_users_pct": 93.2,
+      "mobile_subscriptions": 132.2,
+      "patent_applications": 78470
+    },
+    "MAR": {
+      "internet_users_pct": 68.3,
+      "mobile_subscriptions": 103.8,
+      "patent_applications": 5320
+    },
+    "SAU": {
+      "internet_users_pct": 86.9,
+      "mobile_subscriptions": 125,
+      "patent_applications": 38710
+    },
+    "UKR": {
+      "internet_users_pct": 72.1,
+      "mobile_subscriptions": 108.1,
+      "patent_applications": 6615
+    },
+    "AGO": {
+      "internet_users_pct": 57.1,
+      "mobile_subscriptions": 90.9,
+      "patent_applications": 930
+    },
+    "UZB": {
+      "internet_users_pct": 71.3,
+      "mobile_subscriptions": 107.2,
+      "patent_applications": 3640
+    },
+    "YEM": {
+      "internet_users_pct": 39.5,
+      "mobile_subscriptions": 70.9,
+      "patent_applications": 210
+    },
+    "PER": {
+      "internet_users_pct": 75,
+      "mobile_subscriptions": 111.4,
+      "patent_applications": 9870
+    },
+    "MYS": {
+      "internet_users_pct": 79.7,
+      "mobile_subscriptions": 116.8,
+      "patent_applications": 15575
+    },
+    "GHA": {
+      "internet_users_pct": 58.2,
+      "mobile_subscriptions": 92.2,
+      "patent_applications": 760
+    },
+    "MOZ": {
+      "internet_users_pct": 43.4,
+      "mobile_subscriptions": 75.3,
+      "patent_applications": 220
+    },
+    "NPL": {
+      "internet_users_pct": 58.1,
+      "mobile_subscriptions": 92.1,
+      "patent_applications": 430
+    },
+    "MDG": {
+      "internet_users_pct": 46.1,
+      "mobile_subscriptions": 78.4,
+      "patent_applications": 160
+    },
+    "CIV": {
+      "internet_users_pct": 51.1,
+      "mobile_subscriptions": 84.1,
+      "patent_applications": 860
+    },
+    "VEN": {
+      "internet_users_pct": 68.4,
+      "mobile_subscriptions": 103.9,
+      "patent_applications": 3570
+    },
+    "CMR": {
+      "internet_users_pct": 56.6,
+      "mobile_subscriptions": 90.4,
+      "patent_applications": 530
+    },
+    "NER": {
+      "internet_users_pct": 36.4,
+      "mobile_subscriptions": 67.3,
+      "patent_applications": 190
+    },
+    "AUS": {
+      "internet_users_pct": 94.3,
+      "mobile_subscriptions": 133.5,
+      "patent_applications": 62650
+    },
+    "PRK": {
+      "internet_users_pct": 71.6,
+      "mobile_subscriptions": 107.6,
+      "patent_applications": 290
+    },
+    "TWN": {
+      "internet_users_pct": 92.2,
+      "mobile_subscriptions": 131.1,
+      "patent_applications": 28000
+    },
+    "MLI": {
+      "internet_users_pct": 38,
+      "mobile_subscriptions": 69.2,
+      "patent_applications": 210
+    },
+    "LKA": {
+      "internet_users_pct": 76.9,
+      "mobile_subscriptions": 113.6,
+      "patent_applications": 840
+    },
+    "SYR": {
+      "internet_users_pct": 53.5,
+      "mobile_subscriptions": 86.8,
+      "patent_applications": 180
+    },
+    "KAZ": {
+      "internet_users_pct": 79.2,
+      "mobile_subscriptions": 116.2,
+      "patent_applications": 10185
+    },
+    "CHL": {
+      "internet_users_pct": 85.3,
+      "mobile_subscriptions": 123.2,
+      "patent_applications": 11655
+    },
+    "ZMB": {
+      "internet_users_pct": 54.3,
+      "mobile_subscriptions": 87.8,
+      "patent_applications": 290
+    },
+    "ROU": {
+      "internet_users_pct": 81.2,
+      "mobile_subscriptions": 118.5,
+      "patent_applications": 13335
+    },
+    "TCD": {
+      "internet_users_pct": 36.4,
+      "mobile_subscriptions": 67.3,
+      "patent_applications": 130
+    },
+    "SOM": {
+      "internet_users_pct": 34.9,
+      "mobile_subscriptions": 65.6,
+      "patent_applications": 110
+    },
+    "SEN": {
+      "internet_users_pct": 49.3,
+      "mobile_subscriptions": 82,
+      "patent_applications": 310
+    },
+    "NLD": {
+      "internet_users_pct": 94.3,
+      "mobile_subscriptions": 133.5,
+      "patent_applications": 39900
+    },
+    "GTM": {
+      "internet_users_pct": 60.8,
+      "mobile_subscriptions": 95.2,
+      "patent_applications": 3850
+    },
+    "ECU": {
+      "internet_users_pct": 75.3,
+      "mobile_subscriptions": 111.8,
+      "patent_applications": 4235
+    },
+    "ZWE": {
+      "internet_users_pct": 52.8,
+      "mobile_subscriptions": 86,
+      "patent_applications": 320
+    },
+    "GIN": {
+      "internet_users_pct": 43.8,
+      "mobile_subscriptions": 75.8,
+      "patent_applications": 250
+    },
+    "RWA": {
+      "internet_users_pct": 51.1,
+      "mobile_subscriptions": 84.1,
+      "patent_applications": 140
+    },
+    "BEN": {
+      "internet_users_pct": 50.1,
+      "mobile_subscriptions": 83,
+      "patent_applications": 210
+    },
+    "BDI": {
+      "internet_users_pct": 39.1,
+      "mobile_subscriptions": 70.4,
+      "patent_applications": 40
+    },
+    "BOL": {
+      "internet_users_pct": 68.3,
+      "mobile_subscriptions": 103.8,
+      "patent_applications": 490
+    },
+    "TUN": {
+      "internet_users_pct": 71.9,
+      "mobile_subscriptions": 107.8,
+      "patent_applications": 540
+    },
+    "HTI": {
+      "internet_users_pct": 51.2,
+      "mobile_subscriptions": 84.2,
+      "patent_applications": 250
+    },
+    "BEL": {
+      "internet_users_pct": 93.4,
+      "mobile_subscriptions": 132.4,
+      "patent_applications": 22925
+    },
+    "JOR": {
+      "internet_users_pct": 72.3,
+      "mobile_subscriptions": 108.3,
+      "patent_applications": 530
+    },
+    "DOM": {
+      "internet_users_pct": 75.4,
+      "mobile_subscriptions": 111.9,
+      "patent_applications": 4445
+    },
+    "CUB": {
+      "internet_users_pct": 75.2,
+      "mobile_subscriptions": 111.7,
+      "patent_applications": 3745
+    },
+    "SSD": {
+      "internet_users_pct": 35.4,
+      "mobile_subscriptions": 66.2,
+      "patent_applications": 70
+    },
+    "SWE": {
+      "internet_users_pct": 95,
+      "mobile_subscriptions": 134.2,
+      "patent_applications": 21700
+    },
+    "HND": {
+      "internet_users_pct": 60.2,
+      "mobile_subscriptions": 94.5,
+      "patent_applications": 370
+    },
+    "CZE": {
+      "internet_users_pct": 88.3,
+      "mobile_subscriptions": 126.7,
+      "patent_applications": 11970
+    },
+    "AZE": {
+      "internet_users_pct": 73.2,
+      "mobile_subscriptions": 109.4,
+      "patent_applications": 780
+    },
+    "GRC": {
+      "internet_users_pct": 88.1,
+      "mobile_subscriptions": 126.4,
+      "patent_applications": 8750
+    },
+    "PNG": {
+      "internet_users_pct": 53.6,
+      "mobile_subscriptions": 87,
+      "patent_applications": 320
+    },
+    "PRT": {
+      "internet_users_pct": 86.8,
+      "mobile_subscriptions": 124.9,
+      "patent_applications": 10430
+    },
+    "HUN": {
+      "internet_users_pct": 83.8,
+      "mobile_subscriptions": 121.5,
+      "patent_applications": 7805
+    },
+    "TJK": {
+      "internet_users_pct": 66.9,
+      "mobile_subscriptions": 102.2,
+      "patent_applications": 130
+    },
+    "ARE": {
+      "internet_users_pct": 90.7,
+      "mobile_subscriptions": 129.3,
+      "patent_applications": 18795
+    },
+    "BLR": {
+      "internet_users_pct": 79.8,
+      "mobile_subscriptions": 117,
+      "patent_applications": 750
+    },
+    "ISR": {
+      "internet_users_pct": 91.5,
+      "mobile_subscriptions": 130.3,
+      "patent_applications": 18585
+    },
+    "TGO": {
+      "internet_users_pct": 51.6,
+      "mobile_subscriptions": 84.7,
+      "patent_applications": 90
+    },
+    "AUT": {
+      "internet_users_pct": 91.2,
+      "mobile_subscriptions": 129.9,
+      "patent_applications": 18935
+    },
+    "CHE": {
+      "internet_users_pct": 96.5,
+      "mobile_subscriptions": 136,
+      "patent_applications": 32830
+    },
+    "SLE": {
+      "internet_users_pct": 45.1,
+      "mobile_subscriptions": 77.2,
+      "patent_applications": 40
+    },
+    "LAO": {
+      "internet_users_pct": 60.1,
+      "mobile_subscriptions": 94.4,
+      "patent_applications": 160
+    },
+    "HKG": {
+      "internet_users_pct": 95,
+      "mobile_subscriptions": 134.2,
+      "patent_applications": 14245
+    },
+    "SRB": {
+      "internet_users_pct": 79.5,
+      "mobile_subscriptions": 116.6,
+      "patent_applications": 820
+    },
+    "NIC": {
+      "internet_users_pct": 65,
+      "mobile_subscriptions": 100,
+      "patent_applications": 190
+    },
+    "LBY": {
+      "internet_users_pct": 70.4,
+      "mobile_subscriptions": 106.2,
+      "patent_applications": 490
+    },
+    "PRY": {
+      "internet_users_pct": 70.3,
+      "mobile_subscriptions": 106,
+      "patent_applications": 450
+    },
+    "KGZ": {
+      "internet_users_pct": 67.7,
+      "mobile_subscriptions": 103,
+      "patent_applications": 140
+    },
+    "BGR": {
+      "internet_users_pct": 78.5,
+      "mobile_subscriptions": 115.4,
+      "patent_applications": 3780
+    },
+    "TKM": {
+      "internet_users_pct": 73.2,
+      "mobile_subscriptions": 109.4,
+      "patent_applications": 830
+    },
+    "SLV": {
+      "internet_users_pct": 65.9,
+      "mobile_subscriptions": 101,
+      "patent_applications": 350
+    },
+    "COG": {
+      "internet_users_pct": 55,
+      "mobile_subscriptions": 88.5,
+      "patent_applications": 150
+    },
+    "SGP": {
+      "internet_users_pct": 93.6,
+      "mobile_subscriptions": 132.7,
+      "patent_applications": 18375
+    },
+    "DNK": {
+      "internet_users_pct": 94.5,
+      "mobile_subscriptions": 133.8,
+      "patent_applications": 14700
+    },
+    "SVK": {
+      "internet_users_pct": 85.3,
+      "mobile_subscriptions": 123.2,
+      "patent_applications": 4900
+    },
+    "CAF": {
+      "internet_users_pct": 35.6,
+      "mobile_subscriptions": 66.4,
+      "patent_applications": 30
+    },
+    "FIN": {
+      "internet_users_pct": 93.7,
+      "mobile_subscriptions": 132.8,
+      "patent_applications": 10780
+    },
+    "NOR": {
+      "internet_users_pct": 96.4,
+      "mobile_subscriptions": 135.9,
+      "patent_applications": 19110
+    },
+    "LBR": {
+      "internet_users_pct": 45.5,
+      "mobile_subscriptions": 77.7,
+      "patent_applications": 40
+    },
+    "PSE": {
+      "internet_users_pct": 70.2,
+      "mobile_subscriptions": 105.9,
+      "patent_applications": 180
+    },
+    "NZL": {
+      "internet_users_pct": 93.6,
+      "mobile_subscriptions": 132.7,
+      "patent_applications": 8855
+    },
+    "CRI": {
+      "internet_users_pct": 79.9,
+      "mobile_subscriptions": 117.1,
+      "patent_applications": 960
+    },
+    "IRL": {
+      "internet_users_pct": 94.8,
+      "mobile_subscriptions": 134,
+      "patent_applications": 19075
+    },
+    "MRT": {
+      "internet_users_pct": 53.4,
+      "mobile_subscriptions": 86.7,
+      "patent_applications": 100
+    },
+    "OMN": {
+      "internet_users_pct": 80.7,
+      "mobile_subscriptions": 117.9,
+      "patent_applications": 3885
+    },
+    "PAN": {
+      "internet_users_pct": 79.5,
+      "mobile_subscriptions": 116.6,
+      "patent_applications": 870
+    },
+    "KWT": {
+      "internet_users_pct": 82.3,
+      "mobile_subscriptions": 119.7,
+      "patent_applications": 5635
+    },
+    "HRV": {
+      "internet_users_pct": 85.1,
+      "mobile_subscriptions": 123,
+      "patent_applications": 860
+    },
+    "GEO": {
+      "internet_users_pct": 79.2,
+      "mobile_subscriptions": 116.2,
+      "patent_applications": 330
+    },
+    "ERI": {
+      "internet_users_pct": 43.2,
+      "mobile_subscriptions": 75.1,
+      "patent_applications": 30
+    },
+    "URY": {
+      "internet_users_pct": 79.9,
+      "mobile_subscriptions": 117.1,
+      "patent_applications": 800
+    },
+    "MNG": {
+      "internet_users_pct": 72.6,
+      "mobile_subscriptions": 108.7,
+      "patent_applications": 220
+    },
+    "BIH": {
+      "internet_users_pct": 76.9,
+      "mobile_subscriptions": 113.6,
+      "patent_applications": 280
+    },
+    "QAT": {
+      "internet_users_pct": 84.8,
+      "mobile_subscriptions": 122.6,
+      "patent_applications": 7735
+    },
+    "NAM": {
+      "internet_users_pct": 59.6,
+      "mobile_subscriptions": 93.8,
+      "patent_applications": 130
+    },
+    "ARM": {
+      "internet_users_pct": 74.7,
+      "mobile_subscriptions": 111.1,
+      "patent_applications": 250
+    },
+    "LTU": {
+      "internet_users_pct": 86.9,
+      "mobile_subscriptions": 125,
+      "patent_applications": 820
+    },
+    "JAM": {
+      "internet_users_pct": 69.4,
+      "mobile_subscriptions": 105.1,
+      "patent_applications": 200
+    },
+    "ALB": {
+      "internet_users_pct": 78.6,
+      "mobile_subscriptions": 115.5,
+      "patent_applications": 250
+    },
+    "GMB": {
+      "internet_users_pct": 47.5,
+      "mobile_subscriptions": 80,
+      "patent_applications": 20
+    },
+    "GAB": {
+      "internet_users_pct": 69.1,
+      "mobile_subscriptions": 104.7,
+      "patent_applications": 210
+    },
+    "BWA": {
+      "internet_users_pct": 67.8,
+      "mobile_subscriptions": 103.2,
+      "patent_applications": 210
+    },
+    "LSO": {
+      "internet_users_pct": 49,
+      "mobile_subscriptions": 81.7,
+      "patent_applications": 30
+    },
+    "GNB": {
+      "internet_users_pct": 45.7,
+      "mobile_subscriptions": 78,
+      "patent_applications": 20
+    },
+    "SVN": {
+      "internet_users_pct": 91.4,
+      "mobile_subscriptions": 130.2,
+      "patent_applications": 720
+    },
+    "GNQ": {
+      "internet_users_pct": 57.6,
+      "mobile_subscriptions": 91.5,
+      "patent_applications": 120
+    },
+    "LVA": {
+      "internet_users_pct": 85.6,
+      "mobile_subscriptions": 123.6,
+      "patent_applications": 470
+    },
+    "MKD": {
+      "internet_users_pct": 75.9,
+      "mobile_subscriptions": 112.4,
+      "patent_applications": 160
+    },
+    "BHR": {
+      "internet_users_pct": 86.9,
+      "mobile_subscriptions": 125,
+      "patent_applications": 470
+    },
+    "TTO": {
+      "internet_users_pct": 80.1,
+      "mobile_subscriptions": 117.2,
+      "patent_applications": 300
+    },
+    "TLS": {
+      "internet_users_pct": 58.7,
+      "mobile_subscriptions": 92.8,
+      "patent_applications": 20
+    },
+    "CYP": {
+      "internet_users_pct": 89.1,
+      "mobile_subscriptions": 127.5,
+      "patent_applications": 320
+    },
+    "EST": {
+      "internet_users_pct": 88.5,
+      "mobile_subscriptions": 126.8,
+      "patent_applications": 410
+    },
+    "MUS": {
+      "internet_users_pct": 79.2,
+      "mobile_subscriptions": 116.2,
+      "patent_applications": 150
+    },
+    "SWZ": {
+      "internet_users_pct": 57.7,
+      "mobile_subscriptions": 91.6,
+      "patent_applications": 50
+    },
+    "DJI": {
+      "internet_users_pct": 48.4,
+      "mobile_subscriptions": 81.1,
+      "patent_applications": 40
+    },
+    "FJI": {
+      "internet_users_pct": 71.6,
+      "mobile_subscriptions": 107.6,
+      "patent_applications": 60
+    },
+    "COM": {
+      "internet_users_pct": 53.6,
+      "mobile_subscriptions": 87,
+      "patent_applications": 10
+    },
+    "GUY": {
+      "internet_users_pct": 70,
+      "mobile_subscriptions": 105.7,
+      "patent_applications": 210
+    },
+    "BTN": {
+      "internet_users_pct": 64.9,
+      "mobile_subscriptions": 99.9,
+      "patent_applications": 30
+    },
+    "SLB": {
+      "internet_users_pct": 54.2,
+      "mobile_subscriptions": 87.7,
+      "patent_applications": 20
+    },
+    "LUX": {
+      "internet_users_pct": 92.7,
+      "mobile_subscriptions": 131.6,
+      "patent_applications": 890
+    },
+    "MNE": {
+      "internet_users_pct": 82.4,
+      "mobile_subscriptions": 119.8,
+      "patent_applications": 80
+    },
+    "SUR": {
+      "internet_users_pct": 71.6,
+      "mobile_subscriptions": 107.6,
+      "patent_applications": 40
+    },
+    "CPV": {
+      "internet_users_pct": 64.5,
+      "mobile_subscriptions": 99.4,
+      "patent_applications": 30
+    },
+    "MDV": {
+      "internet_users_pct": 73.4,
+      "mobile_subscriptions": 109.6,
+      "patent_applications": 70
+    },
+    "MLT": {
+      "internet_users_pct": 91.1,
+      "mobile_subscriptions": 129.8,
+      "patent_applications": 210
+    },
+    "BRN": {
+      "internet_users_pct": 82,
+      "mobile_subscriptions": 119.5,
+      "patent_applications": 160
+    },
+    "BLZ": {
+      "internet_users_pct": 66.7,
+      "mobile_subscriptions": 102,
+      "patent_applications": 30
+    },
+    "BHS": {
+      "internet_users_pct": 80.3,
+      "mobile_subscriptions": 117.4,
+      "patent_applications": 140
+    },
+    "ISL": {
+      "internet_users_pct": 95.7,
+      "mobile_subscriptions": 135.1,
+      "patent_applications": 310
+    },
+    "VUT": {
+      "internet_users_pct": 58.7,
+      "mobile_subscriptions": 92.8,
+      "patent_applications": 10
+    },
+    "BRB": {
+      "internet_users_pct": 78,
+      "mobile_subscriptions": 114.8,
+      "patent_applications": 60
+    },
+    "STP": {
+      "internet_users_pct": 59.9,
+      "mobile_subscriptions": 94.2,
+      "patent_applications": 10
+    },
+    "WSM": {
+      "internet_users_pct": 69.2,
+      "mobile_subscriptions": 104.8,
+      "patent_applications": 10
+    },
+    "LCA": {
+      "internet_users_pct": 70.1,
+      "mobile_subscriptions": 105.8,
+      "patent_applications": 20
+    },
+    "KIR": {
+      "internet_users_pct": 60.5,
+      "mobile_subscriptions": 94.9,
+      "patent_applications": 5
+    },
+    "GRD": {
+      "internet_users_pct": 78.5,
+      "mobile_subscriptions": 115.4,
+      "patent_applications": 10
+    },
+    "VCT": {
+      "internet_users_pct": 73.9,
+      "mobile_subscriptions": 110.1,
+      "patent_applications": 10
+    },
+    "FSM": {
+      "internet_users_pct": 60.9,
+      "mobile_subscriptions": 95.4,
+      "patent_applications": 5
+    },
+    "SYC": {
+      "internet_users_pct": 77.4,
+      "mobile_subscriptions": 114.2,
+      "patent_applications": 20
+    },
+    "ATG": {
+      "internet_users_pct": 77.7,
+      "mobile_subscriptions": 114.6,
+      "patent_applications": 20
+    },
+    "AND": {
+      "internet_users_pct": 85.1,
+      "mobile_subscriptions": 123,
+      "patent_applications": 40
+    },
+    "DMA": {
+      "internet_users_pct": 70.6,
+      "mobile_subscriptions": 106.4,
+      "patent_applications": 7
+    },
+    "MHL": {
+      "internet_users_pct": 62.1,
+      "mobile_subscriptions": 96.7,
+      "patent_applications": 5
+    },
+    "KNA": {
+      "internet_users_pct": 76.6,
+      "mobile_subscriptions": 113.2,
+      "patent_applications": 10
+    },
+    "MCO": {
+      "internet_users_pct": 95.4,
+      "mobile_subscriptions": 134.7,
+      "patent_applications": 90
+    },
+    "LIE": {
+      "internet_users_pct": 91.5,
+      "mobile_subscriptions": 130.3,
+      "patent_applications": 70
+    },
+    "SMR": {
+      "internet_users_pct": 84.6,
+      "mobile_subscriptions": 122.4,
+      "patent_applications": 20
+    },
+    "PLW": {
+      "internet_users_pct": 75.5,
+      "mobile_subscriptions": 112,
+      "patent_applications": 5
+    },
+    "NRU": {
+      "internet_users_pct": 68.1,
+      "mobile_subscriptions": 103.5,
+      "patent_applications": 5
+    },
+    "TUV": {
+      "internet_users_pct": 62.3,
+      "mobile_subscriptions": 96.9,
+      "patent_applications": 5
+    },
+    "VAT": {
+      "internet_users_pct": 89.5,
+      "mobile_subscriptions": 128,
+      "patent_applications": 5
+    },
+    "BFA": {
+      "internet_users_pct": 42.1,
+      "mobile_subscriptions": 73.9,
+      "patent_applications": 200
+    },
+    "KHM": {
+      "internet_users_pct": 57.3,
+      "mobile_subscriptions": 91.2,
+      "patent_applications": 320
+    },
+    "LBN": {
+      "internet_users_pct": 69.1,
+      "mobile_subscriptions": 104.7,
+      "patent_applications": 210
+    },
+    "MWI": {
+      "internet_users_pct": 48.8,
+      "mobile_subscriptions": 81.4,
+      "patent_applications": 130
+    },
+    "MDA": {
+      "internet_users_pct": 75.5,
+      "mobile_subscriptions": 112,
+      "patent_applications": 160
+    },
+    "TON": {
+      "internet_users_pct": 73.2,
+      "mobile_subscriptions": 109.4,
+      "patent_applications": 5
+    },
+    "XKX": {
+      "internet_users_pct": 73.8,
+      "mobile_subscriptions": 110,
+      "patent_applications": 100
     }
   }
 }

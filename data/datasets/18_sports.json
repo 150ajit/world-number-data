@@ -1,52 +1,800 @@
 {
   "categoryKey": "18_sports",
-  "updatedAt": "2026-11-21T07:19:19.058Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "IOC / FIFA",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "olympic_medals_total": 2975,
-      "fifa_ranking": 18
-    },
-    "GBR": {
-      "olympic_medals_total": 981,
-      "fifa_ranking": 4
-    },
-    "DEU": {
-      "olympic_medals_total": 922,
-      "fifa_ranking": 11
-    },
-    "FRA": {
-      "olympic_medals_total": 933,
-      "fifa_ranking": 2
-    },
-    "CHN": {
-      "olympic_medals_total": 727,
-      "fifa_ranking": 92
-    },
-    "ITA": {
-      "olympic_medals_total": 778,
-      "fifa_ranking": 9
-    },
-    "JPN": {
-      "olympic_medals_total": 586,
-      "fifa_ranking": 15
-    },
-    "AUS": {
-      "olympic_medals_total": 599,
-      "fifa_ranking": 24
-    },
-    "BRA": {
-      "olympic_medals_total": 170,
-      "fifa_ranking": 5
-    },
-    "ARG": {
-      "olympic_medals_total": 80,
+    "IND": {
+      "olympic_medals_total": 605,
       "fifa_ranking": 1
     },
-    "IND": {
+    "CHN": {
+      "olympic_medals_total": 1767,
+      "fifa_ranking": 1
+    },
+    "USA": {
+      "olympic_medals_total": 2372,
+      "fifa_ranking": 1
+    },
+    "IDN": {
+      "olympic_medals_total": 175,
+      "fifa_ranking": 138
+    },
+    "PAK": {
+      "olympic_medals_total": 80,
+      "fifa_ranking": 165
+    },
+    "NGA": {
+      "olympic_medals_total": 67,
+      "fifa_ranking": 170
+    },
+    "BRA": {
+      "olympic_medals_total": 229,
+      "fifa_ranking": 132
+    },
+    "BGD": {
+      "olympic_medals_total": 71,
+      "fifa_ranking": 175
+    },
+    "RUS": {
+      "olympic_medals_total": 193,
+      "fifa_ranking": 147
+    },
+    "ETH": {
+      "olympic_medals_total": 43,
+      "fifa_ranking": 186
+    },
+    "MEX": {
+      "olympic_medals_total": 186,
+      "fifa_ranking": 151
+    },
+    "JPN": {
+      "olympic_medals_total": 354,
+      "fifa_ranking": 109
+    },
+    "PHL": {
+      "olympic_medals_total": 61,
+      "fifa_ranking": 183
+    },
+    "EGY": {
+      "olympic_medals_total": 51,
+      "fifa_ranking": 186
+    },
+    "COD": {
+      "olympic_medals_total": 28,
+      "fifa_ranking": 192
+    },
+    "VNM": {
+      "olympic_medals_total": 58,
+      "fifa_ranking": 185
+    },
+    "IRN": {
+      "olympic_medals_total": 55,
+      "fifa_ranking": 187
+    },
+    "TUR": {
+      "olympic_medals_total": 125,
+      "fifa_ranking": 170
+    },
+    "DEU": {
+      "olympic_medals_total": 384,
+      "fifa_ranking": 105
+    },
+    "THA": {
+      "olympic_medals_total": 58,
+      "fifa_ranking": 188
+    },
+    "GBR": {
+      "olympic_medals_total": 293,
+      "fifa_ranking": 130
+    },
+    "TZA": {
+      "olympic_medals_total": 21,
+      "fifa_ranking": 198
+    },
+    "FRA": {
+      "olympic_medals_total": 264,
+      "fifa_ranking": 137
+    },
+    "ZAF": {
+      "olympic_medals_total": 45,
+      "fifa_ranking": 192
+    },
+    "ITA": {
+      "olympic_medals_total": 198,
+      "fifa_ranking": 155
+    },
+    "KEN": {
+      "olympic_medals_total": 21,
+      "fifa_ranking": 199
+    },
+    "MMR": {
+      "olympic_medals_total": 16,
+      "fifa_ranking": 200
+    },
+    "COL": {
       "olympic_medals_total": 41,
-      "fifa_ranking": 125
+      "fifa_ranking": 194
+    },
+    "KOR": {
+      "olympic_medals_total": 151,
+      "fifa_ranking": 167
+    },
+    "UGA": {
+      "olympic_medals_total": 14,
+      "fifa_ranking": 201
+    },
+    "SDN": {
+      "olympic_medals_total": 12,
+      "fifa_ranking": 202
+    },
+    "ESP": {
+      "olympic_medals_total": 142,
+      "fifa_ranking": 170
+    },
+    "ARG": {
+      "olympic_medals_total": 58,
+      "fifa_ranking": 191
+    },
+    "DZA": {
+      "olympic_medals_total": 31,
+      "fifa_ranking": 198
+    },
+    "IRQ": {
+      "olympic_medals_total": 31,
+      "fifa_ranking": 198
+    },
+    "AFG": {
+      "olympic_medals_total": 10,
+      "fifa_ranking": 203
+    },
+    "POL": {
+      "olympic_medals_total": 77,
+      "fifa_ranking": 187
+    },
+    "CAN": {
+      "olympic_medals_total": 187,
+      "fifa_ranking": 159
+    },
+    "MAR": {
+      "olympic_medals_total": 20,
+      "fifa_ranking": 201
+    },
+    "SAU": {
+      "olympic_medals_total": 96,
+      "fifa_ranking": 182
+    },
+    "UKR": {
+      "olympic_medals_total": 23,
+      "fifa_ranking": 201
+    },
+    "AGO": {
+      "olympic_medals_total": 15,
+      "fifa_ranking": 202
+    },
+    "UZB": {
+      "olympic_medals_total": 16,
+      "fifa_ranking": 202
+    },
+    "YEM": {
+      "olympic_medals_total": 9,
+      "fifa_ranking": 204
+    },
+    "PER": {
+      "olympic_medals_total": 29,
+      "fifa_ranking": 199
+    },
+    "MYS": {
+      "olympic_medals_total": 43,
+      "fifa_ranking": 196
+    },
+    "GHA": {
+      "olympic_medals_total": 13,
+      "fifa_ranking": 203
+    },
+    "MOZ": {
+      "olympic_medals_total": 9,
+      "fifa_ranking": 204
+    },
+    "NPL": {
+      "olympic_medals_total": 10,
+      "fifa_ranking": 204
+    },
+    "MDG": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 205
+    },
+    "CIV": {
+      "olympic_medals_total": 13,
+      "fifa_ranking": 204
+    },
+    "VEN": {
+      "olympic_medals_total": 14,
+      "fifa_ranking": 204
+    },
+    "CMR": {
+      "olympic_medals_total": 10,
+      "fifa_ranking": 205
+    },
+    "NER": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 206
+    },
+    "AUS": {
+      "olympic_medals_total": 149,
+      "fifa_ranking": 170
+    },
+    "PRK": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 205
+    },
+    "TWN": {
+      "olympic_medals_total": 69,
+      "fifa_ranking": 190
+    },
+    "MLI": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 206
+    },
+    "LKA": {
+      "olympic_medals_total": 11,
+      "fifa_ranking": 205
+    },
+    "SYR": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 206
+    },
+    "KAZ": {
+      "olympic_medals_total": 27,
+      "fifa_ranking": 201
+    },
+    "CHL": {
+      "olympic_medals_total": 31,
+      "fifa_ranking": 200
+    },
+    "ZMB": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 206
+    },
+    "ROU": {
+      "olympic_medals_total": 34,
+      "fifa_ranking": 200
+    },
+    "TCD": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 207
+    },
+    "SOM": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 207
+    },
+    "SEN": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 207
+    },
+    "NLD": {
+      "olympic_medals_total": 95,
+      "fifa_ranking": 184
+    },
+    "GTM": {
+      "olympic_medals_total": 13,
+      "fifa_ranking": 205
+    },
+    "ECU": {
+      "olympic_medals_total": 13,
+      "fifa_ranking": 205
+    },
+    "ZWE": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 207
+    },
+    "GIN": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 207
+    },
+    "RWA": {
+      "olympic_medals_total": 4,
+      "fifa_ranking": 208
+    },
+    "BEN": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 207
+    },
+    "BDI": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 208
+    },
+    "BOL": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 207
+    },
+    "TUN": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 207
+    },
+    "HTI": {
+      "olympic_medals_total": 4,
+      "fifa_ranking": 208
+    },
+    "BEL": {
+      "olympic_medals_total": 55,
+      "fifa_ranking": 195
+    },
+    "JOR": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 207
+    },
+    "DOM": {
+      "olympic_medals_total": 12,
+      "fifa_ranking": 206
+    },
+    "CUB": {
+      "olympic_medals_total": 11,
+      "fifa_ranking": 206
+    },
+    "SSD": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 208
+    },
+    "SWE": {
+      "olympic_medals_total": 52,
+      "fifa_ranking": 196
+    },
+    "HND": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 208
+    },
+    "CZE": {
+      "olympic_medals_total": 29,
+      "fifa_ranking": 202
+    },
+    "AZE": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 207
+    },
+    "GRC": {
+      "olympic_medals_total": 22,
+      "fifa_ranking": 203
+    },
+    "PNG": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 208
+    },
+    "PRT": {
+      "olympic_medals_total": 26,
+      "fifa_ranking": 203
+    },
+    "HUN": {
+      "olympic_medals_total": 20,
+      "fifa_ranking": 204
+    },
+    "TJK": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 208
+    },
+    "ARE": {
+      "olympic_medals_total": 45,
+      "fifa_ranking": 198
+    },
+    "BLR": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 207
+    },
+    "ISR": {
+      "olympic_medals_total": 44,
+      "fifa_ranking": 198
+    },
+    "TGO": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 208
+    },
+    "AUT": {
+      "olympic_medals_total": 45,
+      "fifa_ranking": 198
+    },
+    "CHE": {
+      "olympic_medals_total": 77,
+      "fifa_ranking": 190
+    },
+    "SLE": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "LAO": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "HKG": {
+      "olympic_medals_total": 34,
+      "fifa_ranking": 201
+    },
+    "SRB": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 207
+    },
+    "NIC": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "LBY": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 208
+    },
+    "PRY": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 208
+    },
+    "KGZ": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "BGR": {
+      "olympic_medals_total": 10,
+      "fifa_ranking": 207
+    },
+    "TKM": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 207
+    },
+    "SLV": {
+      "olympic_medals_total": 4,
+      "fifa_ranking": 208
+    },
+    "COG": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "SGP": {
+      "olympic_medals_total": 43,
+      "fifa_ranking": 199
+    },
+    "DNK": {
+      "olympic_medals_total": 35,
+      "fifa_ranking": 201
+    },
+    "SVK": {
+      "olympic_medals_total": 12,
+      "fifa_ranking": 206
+    },
+    "CAF": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 209
+    },
+    "FIN": {
+      "olympic_medals_total": 26,
+      "fifa_ranking": 203
+    },
+    "NOR": {
+      "olympic_medals_total": 45,
+      "fifa_ranking": 198
+    },
+    "LBR": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 209
+    },
+    "PSE": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "NZL": {
+      "olympic_medals_total": 21,
+      "fifa_ranking": 204
+    },
+    "CRI": {
+      "olympic_medals_total": 9,
+      "fifa_ranking": 207
+    },
+    "IRL": {
+      "olympic_medals_total": 45,
+      "fifa_ranking": 198
+    },
+    "MRT": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "OMN": {
+      "olympic_medals_total": 10,
+      "fifa_ranking": 207
+    },
+    "PAN": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 208
+    },
+    "KWT": {
+      "olympic_medals_total": 14,
+      "fifa_ranking": 206
+    },
+    "HRV": {
+      "olympic_medals_total": 8,
+      "fifa_ranking": 208
+    },
+    "GEO": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "ERI": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 209
+    },
+    "URY": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 208
+    },
+    "MNG": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "BIH": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "QAT": {
+      "olympic_medals_total": 18,
+      "fifa_ranking": 205
+    },
+    "NAM": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "ARM": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "LTU": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 208
+    },
+    "JAM": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "ALB": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "GMB": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "GAB": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "BWA": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "LSO": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "GNB": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "SVN": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 208
+    },
+    "GNQ": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "LVA": {
+      "olympic_medals_total": 4,
+      "fifa_ranking": 209
+    },
+    "MKD": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "BHR": {
+      "olympic_medals_total": 4,
+      "fifa_ranking": 209
+    },
+    "TTO": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "TLS": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "CYP": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "EST": {
+      "olympic_medals_total": 4,
+      "fifa_ranking": 209
+    },
+    "MUS": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "SWZ": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "DJI": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "FJI": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "COM": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "GUY": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "BTN": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "SLB": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "LUX": {
+      "olympic_medals_total": 7,
+      "fifa_ranking": 208
+    },
+    "MNE": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "SUR": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "CPV": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "MDV": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "MLT": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "BRN": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "BLZ": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "BHS": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "ISL": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "VUT": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "BRB": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "STP": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "WSM": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "LCA": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "KIR": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "GRD": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "VCT": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "FSM": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "SYC": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "ATG": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "AND": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "DMA": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "MHL": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "KNA": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "MCO": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "LIE": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
+    },
+    "SMR": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "PLW": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "NRU": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "TUV": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "VAT": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "BFA": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 206
+    },
+    "KHM": {
+      "olympic_medals_total": 6,
+      "fifa_ranking": 207
+    },
+    "LBN": {
+      "olympic_medals_total": 3,
+      "fifa_ranking": 209
+    },
+    "MWI": {
+      "olympic_medals_total": 5,
+      "fifa_ranking": 207
+    },
+    "MDA": {
+      "olympic_medals_total": 2,
+      "fifa_ranking": 209
+    },
+    "TON": {
+      "olympic_medals_total": 0,
+      "fifa_ranking": 210
+    },
+    "XKX": {
+      "olympic_medals_total": 1,
+      "fifa_ranking": 210
     }
   }
 }

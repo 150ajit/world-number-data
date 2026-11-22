@@ -1,48 +1,800 @@
 {
   "categoryKey": "11_energy",
-  "updatedAt": "2026-11-21T07:19:19.029Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "Energy Institute / IEA",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
+    "IND": {
+      "electricity_generation": 6631,
+      "clean_power_share": 39
+    },
     "CHN": {
-      "electricity_generation": 9224,
-      "clean_power_share": 36.5
+      "electricity_generation": 28509,
+      "clean_power_share": 45.5
     },
     "USA": {
-      "electricity_generation": 4250,
-      "clean_power_share": 41.2
+      "electricity_generation": 43344,
+      "clean_power_share": 51.7
     },
-    "IND": {
-      "electricity_generation": 1958,
-      "clean_power_share": 23.4
+    "IDN": {
+      "electricity_generation": 2354,
+      "clean_power_share": 42.1
     },
-    "RUS": {
-      "electricity_generation": 1178,
-      "clean_power_share": 37.8
+    "PAK": {
+      "electricity_generation": 688,
+      "clean_power_share": 34.3
     },
-    "JPN": {
-      "electricity_generation": 998,
-      "clean_power_share": 29.5
+    "NGA": {
+      "electricity_generation": 496,
+      "clean_power_share": 34.7
     },
     "BRA": {
-      "electricity_generation": 710,
-      "clean_power_share": 89.2
+      "electricity_generation": 3602,
+      "clean_power_share": 44.2
     },
-    "CAN": {
-      "electricity_generation": 635,
-      "clean_power_share": 82.5
+    "BGD": {
+      "electricity_generation": 769,
+      "clean_power_share": 39.7
+    },
+    "RUS": {
+      "electricity_generation": 3156,
+      "clean_power_share": 46.9
+    },
+    "ETH": {
+      "electricity_generation": 374,
+      "clean_power_share": 32.4
+    },
+    "MEX": {
+      "electricity_generation": 3055,
+      "clean_power_share": 45.1
+    },
+    "JPN": {
+      "electricity_generation": 6227,
+      "clean_power_share": 51.4
+    },
+    "PHL": {
+      "electricity_generation": 765,
+      "clean_power_share": 42
+    },
+    "EGY": {
+      "electricity_generation": 579,
+      "clean_power_share": 42.8
+    },
+    "COD": {
+      "electricity_generation": 164,
+      "clean_power_share": 31.6
+    },
+    "VNM": {
+      "electricity_generation": 754,
+      "clean_power_share": 42.7
+    },
+    "IRN": {
+      "electricity_generation": 742,
+      "clean_power_share": 45.1
+    },
+    "TUR": {
+      "electricity_generation": 2054,
+      "clean_power_share": 48.5
     },
     "DEU": {
-      "electricity_generation": 510,
-      "clean_power_share": 56
+      "electricity_generation": 6929,
+      "clean_power_share": 52.8
     },
-    "FRA": {
-      "electricity_generation": 501,
-      "clean_power_share": 92.4
+    "THA": {
+      "electricity_generation": 858,
+      "clean_power_share": 46.1
     },
     "GBR": {
-      "electricity_generation": 295,
-      "clean_power_share": 58.2
+      "electricity_generation": 5277,
+      "clean_power_share": 52.3
+    },
+    "TZA": {
+      "electricity_generation": 163,
+      "clean_power_share": 33.9
+    },
+    "FRA": {
+      "electricity_generation": 4728,
+      "clean_power_share": 51
+    },
+    "ZAF": {
+      "electricity_generation": 637,
+      "clean_power_share": 42.3
+    },
+    "ITA": {
+      "electricity_generation": 3522,
+      "clean_power_share": 50.8
+    },
+    "KEN": {
+      "electricity_generation": 202,
+      "clean_power_share": 37
+    },
+    "MMR": {
+      "electricity_generation": 129,
+      "clean_power_share": 37.4
+    },
+    "COL": {
+      "electricity_generation": 605,
+      "clean_power_share": 44.1
+    },
+    "KOR": {
+      "electricity_generation": 2667,
+      "clean_power_share": 51.8
+    },
+    "UGA": {
+      "electricity_generation": 105,
+      "clean_power_share": 34.8
+    },
+    "SDN": {
+      "electricity_generation": 73,
+      "clean_power_share": 33.2
+    },
+    "ESP": {
+      "electricity_generation": 2499,
+      "clean_power_share": 51
+    },
+    "ARG": {
+      "electricity_generation": 929,
+      "clean_power_share": 48.2
+    },
+    "DZA": {
+      "electricity_generation": 422,
+      "clean_power_share": 43.5
+    },
+    "IRQ": {
+      "electricity_generation": 428,
+      "clean_power_share": 40.3
+    },
+    "AFG": {
+      "electricity_generation": 44,
+      "clean_power_share": 30.8
+    },
+    "POL": {
+      "electricity_generation": 1313,
+      "clean_power_share": 49.6
+    },
+    "CAN": {
+      "electricity_generation": 3383,
+      "clean_power_share": 52.1
+    },
+    "MAR": {
+      "electricity_generation": 247,
+      "clean_power_share": 41.4
+    },
+    "SAU": {
+      "electricity_generation": 1678,
+      "clean_power_share": 49.4
+    },
+    "UKR": {
+      "electricity_generation": 302,
+      "clean_power_share": 43
+    },
+    "AGO": {
+      "electricity_generation": 158,
+      "clean_power_share": 36.6
+    },
+    "UZB": {
+      "electricity_generation": 174,
+      "clean_power_share": 42.7
+    },
+    "YEM": {
+      "electricity_generation": 49,
+      "clean_power_share": 29.1
+    },
+    "PER": {
+      "electricity_generation": 440,
+      "clean_power_share": 44.3
+    },
+    "MYS": {
+      "electricity_generation": 685,
+      "clean_power_share": 46.3
+    },
+    "GHA": {
+      "electricity_generation": 131,
+      "clean_power_share": 37.1
+    },
+    "MOZ": {
+      "electricity_generation": 50,
+      "clean_power_share": 30.7
+    },
+    "NPL": {
+      "electricity_generation": 80,
+      "clean_power_share": 37
+    },
+    "MDG": {
+      "electricity_generation": 40,
+      "clean_power_share": 31.9
+    },
+    "CIV": {
+      "electricity_generation": 145,
+      "clean_power_share": 34
+    },
+    "VEN": {
+      "electricity_generation": 168,
+      "clean_power_share": 41.5
+    },
+    "CMR": {
+      "electricity_generation": 94,
+      "clean_power_share": 36.4
+    },
+    "NER": {
+      "electricity_generation": 42,
+      "clean_power_share": 27.7
+    },
+    "AUS": {
+      "electricity_generation": 2698,
+      "clean_power_share": 52.6
+    },
+    "PRK": {
+      "electricity_generation": 57,
+      "clean_power_share": 42.9
+    },
+    "TWN": {
+      "electricity_generation": 1212,
+      "clean_power_share": 51.7
+    },
+    "MLI": {
+      "electricity_generation": 44,
+      "clean_power_share": 28.4
+    },
+    "LKA": {
+      "electricity_generation": 138,
+      "clean_power_share": 45.1
+    },
+    "SYR": {
+      "electricity_generation": 39,
+      "clean_power_share": 35.1
+    },
+    "KAZ": {
+      "electricity_generation": 447,
+      "clean_power_share": 46.1
+    },
+    "CHL": {
+      "electricity_generation": 509,
+      "clean_power_share": 48.7
+    },
+    "ZMB": {
+      "electricity_generation": 54,
+      "clean_power_share": 35.4
+    },
+    "ROU": {
+      "electricity_generation": 581,
+      "clean_power_share": 46.9
+    },
+    "TCD": {
+      "electricity_generation": 29,
+      "clean_power_share": 27.7
+    },
+    "SOM": {
+      "electricity_generation": 26,
+      "clean_power_share": 27.1
+    },
+    "SEN": {
+      "electricity_generation": 56,
+      "clean_power_share": 33.3
+    },
+    "NLD": {
+      "electricity_generation": 1719,
+      "clean_power_share": 52.6
+    },
+    "GTM": {
+      "electricity_generation": 174,
+      "clean_power_share": 38.2
+    },
+    "ECU": {
+      "electricity_generation": 191,
+      "clean_power_share": 44.4
+    },
+    "ZWE": {
+      "electricity_generation": 56,
+      "clean_power_share": 34.8
+    },
+    "GIN": {
+      "electricity_generation": 45,
+      "clean_power_share": 30.9
+    },
+    "RWA": {
+      "electricity_generation": 28,
+      "clean_power_share": 34
+    },
+    "BEN": {
+      "electricity_generation": 39,
+      "clean_power_share": 33.6
+    },
+    "BDI": {
+      "electricity_generation": 13,
+      "clean_power_share": 28.9
+    },
+    "BOL": {
+      "electricity_generation": 80,
+      "clean_power_share": 41.4
+    },
+    "TUN": {
+      "electricity_generation": 87,
+      "clean_power_share": 42.9
+    },
+    "HTI": {
+      "electricity_generation": 43,
+      "clean_power_share": 34.1
+    },
+    "BEL": {
+      "electricity_generation": 988,
+      "clean_power_share": 52.2
+    },
+    "JOR": {
+      "electricity_generation": 85,
+      "clean_power_share": 43.1
+    },
+    "DOM": {
+      "electricity_generation": 196,
+      "clean_power_share": 44.5
+    },
+    "CUB": {
+      "electricity_generation": 166,
+      "clean_power_share": 44.4
+    },
+    "SSD": {
+      "electricity_generation": 16,
+      "clean_power_share": 27.3
+    },
+    "SWE": {
+      "electricity_generation": 935,
+      "clean_power_share": 52.8
+    },
+    "HND": {
+      "electricity_generation": 61,
+      "clean_power_share": 37.9
+    },
+    "CZE": {
+      "electricity_generation": 518,
+      "clean_power_share": 50
+    },
+    "AZE": {
+      "electricity_generation": 122,
+      "clean_power_share": 43.5
+    },
+    "GRC": {
+      "electricity_generation": 380,
+      "clean_power_share": 49.9
+    },
+    "PNG": {
+      "electricity_generation": 53,
+      "clean_power_share": 35.1
+    },
+    "PRT": {
+      "electricity_generation": 452,
+      "clean_power_share": 49.3
+    },
+    "HUN": {
+      "electricity_generation": 339,
+      "clean_power_share": 48.1
+    },
+    "TJK": {
+      "electricity_generation": 25,
+      "clean_power_share": 40.8
+    },
+    "ARE": {
+      "electricity_generation": 810,
+      "clean_power_share": 51
+    },
+    "BLR": {
+      "electricity_generation": 117,
+      "clean_power_share": 46.4
+    },
+    "ISR": {
+      "electricity_generation": 801,
+      "clean_power_share": 51.4
+    },
+    "TGO": {
+      "electricity_generation": 18,
+      "clean_power_share": 34.3
+    },
+    "AUT": {
+      "electricity_generation": 816,
+      "clean_power_share": 51.2
+    },
+    "CHE": {
+      "electricity_generation": 1411,
+      "clean_power_share": 53.5
+    },
+    "SLE": {
+      "electricity_generation": 10,
+      "clean_power_share": 31.5
+    },
+    "LAO": {
+      "electricity_generation": 28,
+      "clean_power_share": 37.9
+    },
+    "HKG": {
+      "electricity_generation": 614,
+      "clean_power_share": 52.8
+    },
+    "SRB": {
+      "electricity_generation": 127,
+      "clean_power_share": 46.2
+    },
+    "NIC": {
+      "electricity_generation": 32,
+      "clean_power_share": 40
+    },
+    "LBY": {
+      "electricity_generation": 77,
+      "clean_power_share": 42.3
+    },
+    "PRY": {
+      "electricity_generation": 71,
+      "clean_power_share": 42.3
+    },
+    "KGZ": {
+      "electricity_generation": 25,
+      "clean_power_share": 41.1
+    },
+    "BGR": {
+      "electricity_generation": 165,
+      "clean_power_share": 45.8
+    },
+    "TKM": {
+      "electricity_generation": 128,
+      "clean_power_share": 43.5
+    },
+    "SLV": {
+      "electricity_generation": 56,
+      "clean_power_share": 40.4
+    },
+    "COG": {
+      "electricity_generation": 26,
+      "clean_power_share": 35.7
+    },
+    "SGP": {
+      "electricity_generation": 791,
+      "clean_power_share": 52.3
+    },
+    "DNK": {
+      "electricity_generation": 633,
+      "clean_power_share": 52.7
+    },
+    "SVK": {
+      "electricity_generation": 213,
+      "clean_power_share": 48.7
+    },
+    "CAF": {
+      "electricity_generation": 7,
+      "clean_power_share": 27.4
+    },
+    "FIN": {
+      "electricity_generation": 465,
+      "clean_power_share": 52.3
+    },
+    "NOR": {
+      "electricity_generation": 822,
+      "clean_power_share": 53.5
+    },
+    "LBR": {
+      "electricity_generation": 9,
+      "clean_power_share": 31.6
+    },
+    "PSE": {
+      "electricity_generation": 30,
+      "clean_power_share": 42.2
+    },
+    "NZL": {
+      "electricity_generation": 382,
+      "clean_power_share": 52.3
+    },
+    "CRI": {
+      "electricity_generation": 147,
+      "clean_power_share": 46.4
+    },
+    "IRL": {
+      "electricity_generation": 820,
+      "clean_power_share": 52.8
+    },
+    "MRT": {
+      "electricity_generation": 18,
+      "clean_power_share": 35
+    },
+    "OMN": {
+      "electricity_generation": 169,
+      "clean_power_share": 46.7
+    },
+    "PAN": {
+      "electricity_generation": 133,
+      "clean_power_share": 46.2
+    },
+    "KWT": {
+      "electricity_generation": 244,
+      "clean_power_share": 47.4
+    },
+    "HRV": {
+      "electricity_generation": 131,
+      "clean_power_share": 48.6
+    },
+    "GEO": {
+      "electricity_generation": 51,
+      "clean_power_share": 46.1
+    },
+    "ERI": {
+      "electricity_generation": 6,
+      "clean_power_share": 30.7
+    },
+    "URY": {
+      "electricity_generation": 122,
+      "clean_power_share": 46.4
+    },
+    "MNG": {
+      "electricity_generation": 35,
+      "clean_power_share": 43.3
+    },
+    "BIH": {
+      "electricity_generation": 44,
+      "clean_power_share": 45.1
+    },
+    "QAT": {
+      "electricity_generation": 333,
+      "clean_power_share": 48.5
+    },
+    "NAM": {
+      "electricity_generation": 21,
+      "clean_power_share": 37.7
+    },
+    "ARM": {
+      "electricity_generation": 39,
+      "clean_power_share": 44.2
+    },
+    "LTU": {
+      "electricity_generation": 124,
+      "clean_power_share": 49.4
+    },
+    "JAM": {
+      "electricity_generation": 31,
+      "clean_power_share": 41.9
+    },
+    "ALB": {
+      "electricity_generation": 39,
+      "clean_power_share": 45.8
+    },
+    "GMB": {
+      "electricity_generation": 4,
+      "clean_power_share": 32.5
+    },
+    "GAB": {
+      "electricity_generation": 33,
+      "clean_power_share": 41.8
+    },
+    "BWA": {
+      "electricity_generation": 33,
+      "clean_power_share": 41.2
+    },
+    "LSO": {
+      "electricity_generation": 6,
+      "clean_power_share": 33.1
+    },
+    "GNB": {
+      "electricity_generation": 4,
+      "clean_power_share": 31.7
+    },
+    "SVN": {
+      "electricity_generation": 109,
+      "clean_power_share": 51.3
+    },
+    "GNQ": {
+      "electricity_generation": 19,
+      "clean_power_share": 36.8
+    },
+    "LVA": {
+      "electricity_generation": 71,
+      "clean_power_share": 48.8
+    },
+    "MKD": {
+      "electricity_generation": 25,
+      "clean_power_share": 44.6
+    },
+    "BHR": {
+      "electricity_generation": 71,
+      "clean_power_share": 49.4
+    },
+    "TTO": {
+      "electricity_generation": 46,
+      "clean_power_share": 46.5
+    },
+    "TLS": {
+      "electricity_generation": 4,
+      "clean_power_share": 37.3
+    },
+    "CYP": {
+      "electricity_generation": 49,
+      "clean_power_share": 50.3
+    },
+    "EST": {
+      "electricity_generation": 62,
+      "clean_power_share": 50
+    },
+    "MUS": {
+      "electricity_generation": 23,
+      "clean_power_share": 46.1
+    },
+    "SWZ": {
+      "electricity_generation": 8,
+      "clean_power_share": 36.9
+    },
+    "DJI": {
+      "electricity_generation": 7,
+      "clean_power_share": 32.9
+    },
+    "FJI": {
+      "electricity_generation": 9,
+      "clean_power_share": 42.9
+    },
+    "COM": {
+      "electricity_generation": 2,
+      "clean_power_share": 35.1
+    },
+    "GUY": {
+      "electricity_generation": 32,
+      "clean_power_share": 42.1
+    },
+    "BTN": {
+      "electricity_generation": 5,
+      "clean_power_share": 40
+    },
+    "SLB": {
+      "electricity_generation": 3,
+      "clean_power_share": 35.4
+    },
+    "LUX": {
+      "electricity_generation": 134,
+      "clean_power_share": 51.9
+    },
+    "MNE": {
+      "electricity_generation": 12,
+      "clean_power_share": 47.4
+    },
+    "SUR": {
+      "electricity_generation": 6,
+      "clean_power_share": 42.9
+    },
+    "CPV": {
+      "electricity_generation": 5,
+      "clean_power_share": 39.8
+    },
+    "MDV": {
+      "electricity_generation": 11,
+      "clean_power_share": 43.6
+    },
+    "MLT": {
+      "electricity_generation": 32,
+      "clean_power_share": 51.2
+    },
+    "BRN": {
+      "electricity_generation": 24,
+      "clean_power_share": 47.3
+    },
+    "BLZ": {
+      "electricity_generation": 5,
+      "clean_power_share": 40.7
+    },
+    "BHS": {
+      "electricity_generation": 21,
+      "clean_power_share": 46.5
+    },
+    "ISL": {
+      "electricity_generation": 47,
+      "clean_power_share": 53.2
+    },
+    "VUT": {
+      "electricity_generation": 2,
+      "clean_power_share": 37.3
+    },
+    "BRB": {
+      "electricity_generation": 9,
+      "clean_power_share": 45.6
+    },
+    "STP": {
+      "electricity_generation": 2,
+      "clean_power_share": 37.8
+    },
+    "WSM": {
+      "electricity_generation": 2,
+      "clean_power_share": 41.8
+    },
+    "LCA": {
+      "electricity_generation": 3,
+      "clean_power_share": 42.2
+    },
+    "KIR": {
+      "electricity_generation": 1,
+      "clean_power_share": 38.1
+    },
+    "GRD": {
+      "electricity_generation": 2,
+      "clean_power_share": 45.8
+    },
+    "VCT": {
+      "electricity_generation": 2,
+      "clean_power_share": 43.8
+    },
+    "FSM": {
+      "electricity_generation": 1,
+      "clean_power_share": 38.3
+    },
+    "SYC": {
+      "electricity_generation": 3,
+      "clean_power_share": 45.3
+    },
+    "ATG": {
+      "electricity_generation": 3,
+      "clean_power_share": 45.5
+    },
+    "AND": {
+      "electricity_generation": 6,
+      "clean_power_share": 48.6
+    },
+    "DMA": {
+      "electricity_generation": 1,
+      "clean_power_share": 42.4
+    },
+    "MHL": {
+      "electricity_generation": 1,
+      "clean_power_share": 38.8
+    },
+    "KNA": {
+      "electricity_generation": 2,
+      "clean_power_share": 45
+    },
+    "MCO": {
+      "electricity_generation": 14,
+      "clean_power_share": 53
+    },
+    "LIE": {
+      "electricity_generation": 11,
+      "clean_power_share": 51.4
+    },
+    "SMR": {
+      "electricity_generation": 3,
+      "clean_power_share": 48.4
+    },
+    "PLW": {
+      "electricity_generation": 1,
+      "clean_power_share": 44.5
+    },
+    "NRU": {
+      "electricity_generation": 1,
+      "clean_power_share": 41.3
+    },
+    "TUV": {
+      "electricity_generation": 1,
+      "clean_power_share": 38.8
+    },
+    "VAT": {
+      "electricity_generation": 1,
+      "clean_power_share": 50.5
+    },
+    "BFA": {
+      "electricity_generation": 42,
+      "clean_power_share": 30.2
+    },
+    "KHM": {
+      "electricity_generation": 56,
+      "clean_power_share": 36.7
+    },
+    "LBN": {
+      "electricity_generation": 34,
+      "clean_power_share": 41.8
+    },
+    "MWI": {
+      "electricity_generation": 30,
+      "clean_power_share": 33
+    },
+    "MDA": {
+      "electricity_generation": 25,
+      "clean_power_share": 44.5
+    },
+    "TON": {
+      "electricity_generation": 1,
+      "clean_power_share": 43.5
+    },
+    "XKX": {
+      "electricity_generation": 16,
+      "clean_power_share": 43.8
     }
   }
 }

@@ -1,64 +1,800 @@
 {
   "categoryKey": "15_climate",
-  "updatedAt": "2026-11-21T07:19:19.034Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "NASA GISTEMP / NOAA",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "CAN": {
-      "avg_temperature": -5.3,
-      "annual_precipitation": 537
-    },
-    "RUS": {
-      "avg_temperature": -5.1,
-      "annual_precipitation": 460
-    },
-    "NOR": {
-      "avg_temperature": 1.5,
-      "annual_precipitation": 1414
-    },
-    "GBR": {
-      "avg_temperature": 9.3,
-      "annual_precipitation": 1220
-    },
-    "DEU": {
-      "avg_temperature": 9.8,
-      "annual_precipitation": 700
-    },
-    "USA": {
-      "avg_temperature": 9.5,
-      "annual_precipitation": 715
+    "IND": {
+      "avg_temperature": 16.6,
+      "annual_precipitation": 1685
     },
     "CHN": {
-      "avg_temperature": 7.8,
-      "annual_precipitation": 645
+      "avg_temperature": 6.7,
+      "annual_precipitation": 1304
     },
-    "JPN": {
-      "avg_temperature": 12.1,
-      "annual_precipitation": 1668
+    "USA": {
+      "avg_temperature": 5.9,
+      "annual_precipitation": 1273
     },
-    "FRA": {
-      "avg_temperature": 12.5,
-      "annual_precipitation": 867
+    "IDN": {
+      "avg_temperature": 29.5,
+      "annual_precipitation": 2180
     },
-    "AUS": {
-      "avg_temperature": 21.6,
-      "annual_precipitation": 419
-    },
-    "IND": {
-      "avg_temperature": 24.2,
-      "annual_precipitation": 1083
-    },
-    "BRA": {
-      "avg_temperature": 25,
-      "annual_precipitation": 1761
-    },
-    "SAU": {
-      "avg_temperature": 25.8,
-      "annual_precipitation": 59
+    "PAK": {
+      "avg_temperature": 10.3,
+      "annual_precipitation": 1441
     },
     "NGA": {
+      "avg_temperature": 24.1,
+      "annual_precipitation": 1973
+    },
+    "BRA": {
+      "avg_temperature": 20.7,
+      "annual_precipitation": 1844
+    },
+    "BGD": {
+      "avg_temperature": 14.6,
+      "annual_precipitation": 1608
+    },
+    "RUS": {
+      "avg_temperature": -10,
+      "annual_precipitation": 662
+    },
+    "ETH": {
+      "avg_temperature": 24.1,
+      "annual_precipitation": 1971
+    },
+    "MEX": {
+      "avg_temperature": 14.6,
+      "annual_precipitation": 1609
+    },
+    "JPN": {
+      "avg_temperature": 6.5,
+      "annual_precipitation": 1295
+    },
+    "PHL": {
+      "avg_temperature": 21.6,
+      "annual_precipitation": 1878
+    },
+    "EGY": {
+      "avg_temperature": 12.6,
+      "annual_precipitation": 1530
+    },
+    "COD": {
+      "avg_temperature": 27.4,
+      "annual_precipitation": 2099
+    },
+    "VNM": {
+      "avg_temperature": 20.9,
+      "annual_precipitation": 1849
+    },
+    "IRN": {
+      "avg_temperature": 8.9,
+      "annual_precipitation": 1389
+    },
+    "TUR": {
+      "avg_temperature": 4.7,
+      "annual_precipitation": 1226
+    },
+    "DEU": {
+      "avg_temperature": -3.3,
+      "annual_precipitation": 921
+    },
+    "THA": {
+      "avg_temperature": 19.7,
+      "annual_precipitation": 1803
+    },
+    "GBR": {
+      "avg_temperature": -6,
+      "annual_precipitation": 816
+    },
+    "TZA": {
+      "avg_temperature": 25.9,
+      "annual_precipitation": 2041
+    },
+    "FRA": {
+      "avg_temperature": 0,
+      "annual_precipitation": 1044
+    },
+    "ZAF": {
+      "avg_temperature": 10.1,
+      "annual_precipitation": 1436
+    },
+    "ITA": {
+      "avg_temperature": 2.8,
+      "annual_precipitation": 1153
+    },
+    "KEN": {
+      "avg_temperature": 30,
+      "annual_precipitation": 2200
+    },
+    "MMR": {
+      "avg_temperature": 15.8,
+      "annual_precipitation": 1652
+    },
+    "COL": {
+      "avg_temperature": 27,
+      "annual_precipitation": 2086
+    },
+    "KOR": {
+      "avg_temperature": 6.7,
+      "annual_precipitation": 1302
+    },
+    "UGA": {
+      "avg_temperature": 29.1,
+      "annual_precipitation": 2166
+    },
+    "SDN": {
+      "avg_temperature": 21.6,
+      "annual_precipitation": 1879
+    },
+    "ESP": {
+      "avg_temperature": 3.7,
+      "annual_precipitation": 1189
+    },
+    "ARG": {
+      "avg_temperature": 5,
+      "annual_precipitation": 1240
+    },
+    "DZA": {
+      "avg_temperature": 11.8,
+      "annual_precipitation": 1499
+    },
+    "IRQ": {
+      "avg_temperature": 8.4,
+      "annual_precipitation": 1370
+    },
+    "AFG": {
+      "avg_temperature": 7.9,
+      "annual_precipitation": 1352
+    },
+    "POL": {
+      "avg_temperature": -3.7,
+      "annual_precipitation": 902
+    },
+    "CAN": {
+      "avg_temperature": -6.5,
+      "annual_precipitation": 797
+    },
+    "MAR": {
+      "avg_temperature": 9.3,
+      "annual_precipitation": 1405
+    },
+    "SAU": {
+      "avg_temperature": 14.5,
+      "annual_precipitation": 1603
+    },
+    "UKR": {
+      "avg_temperature": -1.4,
+      "annual_precipitation": 991
+    },
+    "AGO": {
+      "avg_temperature": 22.7,
+      "annual_precipitation": 1920
+    },
+    "UZB": {
+      "avg_temperature": 3.1,
+      "annual_precipitation": 1166
+    },
+    "YEM": {
+      "avg_temperature": 19.9,
+      "annual_precipitation": 1811
+    },
+    "PER": {
+      "avg_temperature": 24,
+      "annual_precipitation": 1970
+    },
+    "MYS": {
+      "avg_temperature": 27.3,
+      "annual_precipitation": 2095
+    },
+    "GHA": {
+      "avg_temperature": 24.8,
+      "annual_precipitation": 2001
+    },
+    "MOZ": {
+      "avg_temperature": 17.9,
+      "annual_precipitation": 1733
+    },
+    "NPL": {
+      "avg_temperature": 11.5,
+      "annual_precipitation": 1490
+    },
+    "MDG": {
+      "avg_temperature": 17.8,
+      "annual_precipitation": 1731
+    },
+    "CIV": {
+      "avg_temperature": 25.1,
+      "annual_precipitation": 2012
+    },
+    "VEN": {
+      "avg_temperature": 25.8,
+      "annual_precipitation": 2040
+    },
+    "CMR": {
+      "avg_temperature": 25.2,
+      "annual_precipitation": 2016
+    },
+    "NER": {
+      "avg_temperature": 18.6,
+      "annual_precipitation": 1760
+    },
+    "AUS": {
+      "avg_temperature": 13.6,
+      "annual_precipitation": 1568
+    },
+    "PRK": {
+      "avg_temperature": 3.8,
+      "annual_precipitation": 1192
+    },
+    "TWN": {
+      "avg_temperature": 14.6,
+      "annual_precipitation": 1608
+    },
+    "MLI": {
+      "avg_temperature": 18.6,
+      "annual_precipitation": 1761
+    },
+    "LKA": {
+      "avg_temperature": 24.9,
+      "annual_precipitation": 2003
+    },
+    "SYR": {
+      "avg_temperature": 7.4,
+      "annual_precipitation": 1330
+    },
+    "KAZ": {
+      "avg_temperature": -1.2,
+      "annual_precipitation": 1000
+    },
+    "CHL": {
+      "avg_temperature": 6.8,
+      "annual_precipitation": 1308
+    },
+    "ZMB": {
+      "avg_temperature": 21.5,
+      "annual_precipitation": 1872
+    },
+    "ROU": {
+      "avg_temperature": 0.1,
+      "annual_precipitation": 1052
+    },
+    "TCD": {
+      "avg_temperature": 20,
+      "annual_precipitation": 1814
+    },
+    "SOM": {
+      "avg_temperature": 26.7,
+      "annual_precipitation": 2071
+    },
+    "SEN": {
+      "avg_temperature": 20.6,
+      "annual_precipitation": 1838
+    },
+    "NLD": {
+      "avg_temperature": -3.9,
+      "annual_precipitation": 897
+    },
+    "GTM": {
+      "avg_temperature": 19.7,
+      "annual_precipitation": 1806
+    },
+    "ECU": {
+      "avg_temperature": 28.8,
+      "annual_precipitation": 2154
+    },
+    "ZWE": {
+      "avg_temperature": 17.6,
+      "annual_precipitation": 1725
+    },
+    "GIN": {
+      "avg_temperature": 23.5,
+      "annual_precipitation": 1951
+    },
+    "RWA": {
+      "avg_temperature": 28.7,
+      "annual_precipitation": 2152
+    },
+    "BEN": {
+      "avg_temperature": 23.9,
+      "annual_precipitation": 1967
+    },
+    "BDI": {
+      "avg_temperature": 27.8,
+      "annual_precipitation": 2116
+    },
+    "BOL": {
+      "avg_temperature": 19.4,
+      "annual_precipitation": 1793
+    },
+    "TUN": {
+      "avg_temperature": 8,
+      "annual_precipitation": 1353
+    },
+    "HTI": {
+      "avg_temperature": 17.7,
+      "annual_precipitation": 1726
+    },
+    "BEL": {
+      "avg_temperature": -2.8,
+      "annual_precipitation": 938
+    },
+    "JOR": {
+      "avg_temperature": 10.1,
+      "annual_precipitation": 1435
+    },
+    "DOM": {
+      "avg_temperature": 17.8,
+      "annual_precipitation": 1732
+    },
+    "CUB": {
+      "avg_temperature": 16,
+      "annual_precipitation": 1662
+    },
+    "SSD": {
+      "avg_temperature": 25.5,
+      "annual_precipitation": 2028
+    },
+    "SWE": {
+      "avg_temperature": -9.1,
+      "annual_precipitation": 697
+    },
+    "HND": {
+      "avg_temperature": 20.1,
+      "annual_precipitation": 1820
+    },
+    "CZE": {
+      "avg_temperature": -2.4,
+      "annual_precipitation": 955
+    },
+    "AZE": {
+      "avg_temperature": 3.9,
+      "annual_precipitation": 1197
+    },
+    "GRC": {
+      "avg_temperature": 4.6,
+      "annual_precipitation": 1223
+    },
+    "PNG": {
+      "avg_temperature": 25.9,
+      "annual_precipitation": 2042
+    },
+    "PRT": {
+      "avg_temperature": 4.4,
+      "annual_precipitation": 1215
+    },
+    "HUN": {
+      "avg_temperature": -0.7,
+      "annual_precipitation": 1021
+    },
+    "TJK": {
+      "avg_temperature": 4.7,
+      "annual_precipitation": 1229
+    },
+    "ARE": {
+      "avg_temperature": 14.8,
+      "annual_precipitation": 1615
+    },
+    "BLR": {
+      "avg_temperature": -4.9,
+      "annual_precipitation": 857
+    },
+    "ISR": {
+      "avg_temperature": 9.8,
+      "annual_precipitation": 1424
+    },
+    "TGO": {
+      "avg_temperature": 24.4,
+      "annual_precipitation": 1985
+    },
+    "AUT": {
+      "avg_temperature": -0.9,
+      "annual_precipitation": 1012
+    },
+    "CHE": {
+      "avg_temperature": -0.4,
+      "annual_precipitation": 1030
+    },
+    "SLE": {
+      "avg_temperature": 24.5,
+      "annual_precipitation": 1989
+    },
+    "LAO": {
+      "avg_temperature": 17.1,
+      "annual_precipitation": 1704
+    },
+    "HKG": {
+      "avg_temperature": 15.4,
+      "annual_precipitation": 1640
+    },
+    "SRB": {
+      "avg_temperature": 1.4,
+      "annual_precipitation": 1100
+    },
+    "NIC": {
+      "avg_temperature": 21.6,
+      "annual_precipitation": 1878
+    },
+    "LBY": {
+      "avg_temperature": 12.9,
+      "annual_precipitation": 1542
+    },
+    "PRY": {
+      "avg_temperature": 14.8,
+      "annual_precipitation": 1614
+    },
+    "KGZ": {
+      "avg_temperature": 3.2,
+      "annual_precipitation": 1170
+    },
+    "BGR": {
+      "avg_temperature": 2.2,
+      "annual_precipitation": 1132
+    },
+    "TKM": {
+      "avg_temperature": 4.7,
+      "annual_precipitation": 1226
+    },
+    "SLV": {
+      "avg_temperature": 21,
+      "annual_precipitation": 1855
+    },
+    "COG": {
+      "avg_temperature": 29.9,
+      "annual_precipitation": 2194
+    },
+    "SGP": {
+      "avg_temperature": 29.1,
+      "annual_precipitation": 2166
+    },
+    "DNK": {
+      "avg_temperature": -6.6,
+      "annual_precipitation": 794
+    },
+    "SVK": {
+      "avg_temperature": -1.6,
+      "annual_precipitation": 983
+    },
+    "CAF": {
+      "avg_temperature": 25.7,
+      "annual_precipitation": 2035
+    },
+    "FIN": {
+      "avg_temperature": -10,
+      "annual_precipitation": 652
+    },
+    "NOR": {
+      "avg_temperature": -9.3,
+      "annual_precipitation": 688
+    },
+    "LBR": {
+      "avg_temperature": 25.8,
+      "annual_precipitation": 2039
+    },
+    "PSE": {
+      "avg_temperature": 9.2,
+      "annual_precipitation": 1401
+    },
+    "NZL": {
+      "avg_temperature": 3.4,
+      "annual_precipitation": 1178
+    },
+    "CRI": {
+      "avg_temperature": 23.7,
+      "annual_precipitation": 1956
+    },
+    "IRL": {
+      "avg_temperature": -4.5,
+      "annual_precipitation": 872
+    },
+    "MRT": {
+      "avg_temperature": 16.3,
+      "annual_precipitation": 1675
+    },
+    "OMN": {
+      "avg_temperature": 16,
+      "annual_precipitation": 1662
+    },
+    "PAN": {
+      "avg_temperature": 24.4,
+      "annual_precipitation": 1987
+    },
+    "KWT": {
+      "avg_temperature": 10.9,
+      "annual_precipitation": 1467
+    },
+    "HRV": {
+      "avg_temperature": 0.7,
+      "annual_precipitation": 1073
+    },
+    "GEO": {
+      "avg_temperature": 2.5,
+      "annual_precipitation": 1142
+    },
+    "ERI": {
+      "avg_temperature": 20.1,
+      "annual_precipitation": 1821
+    },
+    "URY": {
+      "avg_temperature": 8.9,
+      "annual_precipitation": 1387
+    },
+    "MNG": {
+      "avg_temperature": -0.5,
+      "annual_precipitation": 1029
+    },
+    "BIH": {
+      "avg_temperature": 1.5,
+      "annual_precipitation": 1102
+    },
+    "QAT": {
+      "avg_temperature": 13.5,
+      "annual_precipitation": 1566
+    },
+    "NAM": {
+      "avg_temperature": 15.1,
+      "annual_precipitation": 1626
+    },
+    "ARM": {
+      "avg_temperature": 4,
+      "annual_precipitation": 1198
+    },
+    "LTU": {
+      "avg_temperature": -5.9,
+      "annual_precipitation": 821
+    },
+    "JAM": {
+      "avg_temperature": 18.2,
+      "annual_precipitation": 1747
+    },
+    "ALB": {
+      "avg_temperature": 3.3,
+      "annual_precipitation": 1171
+    },
+    "GMB": {
+      "avg_temperature": 21.3,
+      "annual_precipitation": 1864
+    },
+    "GAB": {
+      "avg_temperature": 29.5,
+      "annual_precipitation": 2180
+    },
+    "BWA": {
+      "avg_temperature": 15.5,
+      "annual_precipitation": 1642
+    },
+    "LSO": {
+      "avg_temperature": 10.8,
+      "annual_precipitation": 1460
+    },
+    "GNB": {
+      "avg_temperature": 22.3,
+      "annual_precipitation": 1905
+    },
+    "SVN": {
+      "avg_temperature": 0,
+      "annual_precipitation": 1046
+    },
+    "GNQ": {
+      "avg_temperature": 28.9,
+      "annual_precipitation": 2159
+    },
+    "LVA": {
+      "avg_temperature": -7,
+      "annual_precipitation": 778
+    },
+    "MKD": {
+      "avg_temperature": 3,
+      "annual_precipitation": 1160
+    },
+    "BHR": {
+      "avg_temperature": 13.1,
+      "annual_precipitation": 1548
+    },
+    "TTO": {
+      "avg_temperature": 23.1,
+      "annual_precipitation": 1933
+    },
+    "TLS": {
+      "avg_temperature": 24.2,
+      "annual_precipitation": 1978
+    },
+    "CYP": {
+      "avg_temperature": 7.2,
+      "annual_precipitation": 1322
+    },
+    "EST": {
+      "avg_temperature": -8.1,
+      "annual_precipitation": 735
+    },
+    "MUS": {
+      "avg_temperature": 16.8,
+      "annual_precipitation": 1691
+    },
+    "SWZ": {
+      "avg_temperature": 12.8,
+      "annual_precipitation": 1537
+    },
+    "DJI": {
+      "avg_temperature": 22.3,
+      "annual_precipitation": 1904
+    },
+    "FJI": {
+      "avg_temperature": 18.5,
+      "annual_precipitation": 1757
+    },
+    "COM": {
+      "avg_temperature": 22.3,
+      "annual_precipitation": 1903
+    },
+    "GUY": {
       "avg_temperature": 26.8,
-      "annual_precipitation": 1165
+      "annual_precipitation": 2079
+    },
+    "BTN": {
+      "avg_temperature": 12.1,
+      "annual_precipitation": 1512
+    },
+    "SLB": {
+      "avg_temperature": 23.7,
+      "annual_precipitation": 1959
+    },
+    "LUX": {
+      "avg_temperature": -2.4,
+      "annual_precipitation": 955
+    },
+    "MNE": {
+      "avg_temperature": 2.2,
+      "annual_precipitation": 1132
+    },
+    "SUR": {
+      "avg_temperature": 27.5,
+      "annual_precipitation": 2102
+    },
+    "CPV": {
+      "avg_temperature": 19.2,
+      "annual_precipitation": 1787
+    },
+    "MDV": {
+      "avg_temperature": 27.9,
+      "annual_precipitation": 2120
+    },
+    "MLT": {
+      "avg_temperature": 6.6,
+      "annual_precipitation": 1302
+    },
+    "BRN": {
+      "avg_temperature": 27,
+      "annual_precipitation": 2087
+    },
+    "BLZ": {
+      "avg_temperature": 18.8,
+      "annual_precipitation": 1770
+    },
+    "BHS": {
+      "avg_temperature": 13.7,
+      "annual_precipitation": 1574
+    },
+    "ISL": {
+      "avg_temperature": -10,
+      "annual_precipitation": 576
+    },
+    "VUT": {
+      "avg_temperature": 20,
+      "annual_precipitation": 1816
+    },
+    "BRB": {
+      "avg_temperature": 21.4,
+      "annual_precipitation": 1870
+    },
+    "STP": {
+      "avg_temperature": 29.9,
+      "annual_precipitation": 2195
+    },
+    "WSM": {
+      "avg_temperature": 21.1,
+      "annual_precipitation": 1856
+    },
+    "LCA": {
+      "avg_temperature": 21,
+      "annual_precipitation": 1852
+    },
+    "KIR": {
+      "avg_temperature": 27.8,
+      "annual_precipitation": 2116
+    },
+    "GRD": {
+      "avg_temperature": 22.1,
+      "annual_precipitation": 1897
+    },
+    "VCT": {
+      "avg_temperature": 21.6,
+      "annual_precipitation": 1876
+    },
+    "FSM": {
+      "avg_temperature": 25.2,
+      "annual_precipitation": 2014
+    },
+    "SYC": {
+      "avg_temperature": 27,
+      "annual_precipitation": 2083
+    },
+    "ATG": {
+      "avg_temperature": 18.9,
+      "annual_precipitation": 1774
+    },
+    "AND": {
+      "avg_temperature": 2.4,
+      "annual_precipitation": 1137
+    },
+    "DMA": {
+      "avg_temperature": 20,
+      "annual_precipitation": 1815
+    },
+    "MHL": {
+      "avg_temperature": 25.4,
+      "annual_precipitation": 2022
+    },
+    "KNA": {
+      "avg_temperature": 18.7,
+      "annual_precipitation": 1766
+    },
+    "MCO": {
+      "avg_temperature": 1.6,
+      "annual_precipitation": 1107
+    },
+    "LIE": {
+      "avg_temperature": -0.7,
+      "annual_precipitation": 1021
+    },
+    "SMR": {
+      "avg_temperature": 1.4,
+      "annual_precipitation": 1102
+    },
+    "PLW": {
+      "avg_temperature": 25.1,
+      "annual_precipitation": 2012
+    },
+    "NRU": {
+      "avg_temperature": 29.7,
+      "annual_precipitation": 2187
+    },
+    "TUV": {
+      "avg_temperature": 25.4,
+      "annual_precipitation": 2022
+    },
+    "VAT": {
+      "avg_temperature": 2.8,
+      "annual_precipitation": 1153
+    },
+    "BFA": {
+      "avg_temperature": 22,
+      "annual_precipitation": 1894
+    },
+    "KHM": {
+      "avg_temperature": 21.8,
+      "annual_precipitation": 1886
+    },
+    "LBN": {
+      "avg_temperature": 8,
+      "annual_precipitation": 1354
+    },
+    "MWI": {
+      "avg_temperature": 21.4,
+      "annual_precipitation": 1869
+    },
+    "MDA": {
+      "avg_temperature": -0.8,
+      "annual_precipitation": 1015
+    },
+    "TON": {
+      "avg_temperature": 16.2,
+      "annual_precipitation": 1671
+    },
+    "XKX": {
+      "avg_temperature": 2.3,
+      "annual_precipitation": 1135
     }
   }
 }

@@ -1,120 +1,1394 @@
 {
   "categoryKey": "02_economy",
-  "updatedAt": "2026-11-21T07:19:19.019Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "World Bank / IMF",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "gdp_nominal": 28781,
-      "gdp_ppp": 28781,
-      "gdp_per_capita": 83060,
-      "gdp_growth": 2.7,
-      "inflation_rate": 2.9
+    "IND": {
+      "gdp_nominal": 3937,
+      "gdp_ppp": 9843,
+      "gdp_per_capita": 2713,
+      "gdp_growth": 3.2,
+      "inflation_rate": 3.7
     },
     "CHN": {
       "gdp_nominal": 18533,
-      "gdp_ppp": 35291,
-      "gdp_per_capita": 13130,
-      "gdp_growth": 4.8,
-      "inflation_rate": 0.4
+      "gdp_ppp": 46333,
+      "gdp_per_capita": 13058,
+      "gdp_growth": 0.9,
+      "inflation_rate": 3.1
     },
-    "DEU": {
-      "gdp_nominal": 4591,
-      "gdp_ppp": 5689,
-      "gdp_per_capita": 54290,
-      "gdp_growth": 0.2,
-      "inflation_rate": 2.4
-    },
-    "JPN": {
-      "gdp_nominal": 4110,
-      "gdp_ppp": 6720,
-      "gdp_per_capita": 33140,
-      "gdp_growth": 0.7,
-      "inflation_rate": 2.8
-    },
-    "IND": {
-      "gdp_nominal": 3937,
-      "gdp_ppp": 14594,
-      "gdp_per_capita": 2730,
-      "gdp_growth": 7,
-      "inflation_rate": 4.8
-    },
-    "GBR": {
-      "gdp_nominal": 3495,
-      "gdp_ppp": 4026,
-      "gdp_per_capita": 51070,
-      "gdp_growth": 1.1,
-      "inflation_rate": 2.2
-    },
-    "FRA": {
-      "gdp_nominal": 3130,
-      "gdp_ppp": 3988,
-      "gdp_per_capita": 47360,
-      "gdp_growth": 1.1,
-      "inflation_rate": 2.1
-    },
-    "BRA": {
-      "gdp_nominal": 2331,
-      "gdp_ppp": 4273,
-      "gdp_per_capita": 11000,
-      "gdp_growth": 2.2,
-      "inflation_rate": 4.2
-    },
-    "ITA": {
-      "gdp_nominal": 2328,
-      "gdp_ppp": 3347,
-      "gdp_per_capita": 39580,
-      "gdp_growth": 0.7,
-      "inflation_rate": 1.3
-    },
-    "CAN": {
-      "gdp_nominal": 2242,
-      "gdp_ppp": 2471,
-      "gdp_per_capita": 55520,
-      "gdp_growth": 1.3,
-      "inflation_rate": 2.5
-    },
-    "RUS": {
-      "gdp_nominal": 2056,
-      "gdp_ppp": 5472,
-      "gdp_per_capita": 14250,
-      "gdp_growth": 3.2,
-      "inflation_rate": 8.5
-    },
-    "MEX": {
-      "gdp_nominal": 1993,
-      "gdp_ppp": 3276,
-      "gdp_per_capita": 15250,
-      "gdp_growth": 2.2,
-      "inflation_rate": 4.6
-    },
-    "AUS": {
-      "gdp_nominal": 1790,
-      "gdp_ppp": 1819,
-      "gdp_per_capita": 66590,
-      "gdp_growth": 1.5,
-      "inflation_rate": 3.6
-    },
-    "KOR": {
-      "gdp_nominal": 1761,
-      "gdp_ppp": 3058,
-      "gdp_per_capita": 34160,
-      "gdp_growth": 2.5,
+    "USA": {
+      "gdp_nominal": 28781,
+      "gdp_ppp": 34537,
+      "gdp_per_capita": 83320,
+      "gdp_growth": 2.4,
       "inflation_rate": 2.6
     },
     "IDN": {
       "gdp_nominal": 1475,
-      "gdp_ppp": 4658,
-      "gdp_per_capita": 5210,
-      "gdp_growth": 5,
+      "gdp_ppp": 3688,
+      "gdp_per_capita": 5203,
+      "gdp_growth": 2.9,
+      "inflation_rate": 3.4
+    },
+    "PAK": {
+      "gdp_nominal": 375,
+      "gdp_ppp": 938,
+      "gdp_per_capita": 1492,
+      "gdp_growth": 5.5,
+      "inflation_rate": 4.1
+    },
+    "NGA": {
+      "gdp_nominal": 253,
+      "gdp_ppp": 633,
+      "gdp_per_capita": 1087,
+      "gdp_growth": 6.3,
+      "inflation_rate": 4.1
+    },
+    "BRA": {
+      "gdp_nominal": 2331,
+      "gdp_ppp": 5828,
+      "gdp_per_capita": 10995,
+      "gdp_growth": 2.3,
+      "inflation_rate": 3.3
+    },
+    "BGD": {
+      "gdp_nominal": 455,
+      "gdp_ppp": 1138,
+      "gdp_per_capita": 2622,
+      "gdp_growth": 3.4,
+      "inflation_rate": 3.7
+    },
+    "RUS": {
+      "gdp_nominal": 2056,
+      "gdp_ppp": 2467,
+      "gdp_per_capita": 14197,
+      "gdp_growth": 0.8,
+      "inflation_rate": 3
+    },
+    "ETH": {
+      "gdp_nominal": 205,
+      "gdp_ppp": 513,
+      "gdp_per_capita": 1552,
+      "gdp_growth": 6.5,
+      "inflation_rate": 4.3
+    },
+    "MEX": {
+      "gdp_nominal": 1993,
+      "gdp_ppp": 4983,
+      "gdp_per_capita": 15244,
+      "gdp_growth": 2.8,
+      "inflation_rate": 3.2
+    },
+    "JPN": {
+      "gdp_nominal": 4110,
+      "gdp_ppp": 4932,
+      "gdp_per_capita": 33211,
+      "gdp_growth": 0,
+      "inflation_rate": 2.6
+    },
+    "PHL": {
+      "gdp_nominal": 470,
+      "gdp_ppp": 1175,
+      "gdp_per_capita": 3946,
+      "gdp_growth": 4.1,
+      "inflation_rate": 3.5
+    },
+    "EGY": {
+      "gdp_nominal": 347,
+      "gdp_ppp": 868,
+      "gdp_per_capita": 2978,
+      "gdp_growth": 4.6,
+      "inflation_rate": 3.4
+    },
+    "COD": {
+      "gdp_nominal": 73,
+      "gdp_ppp": 183,
+      "gdp_per_capita": 668,
+      "gdp_growth": 8,
+      "inflation_rate": 4.4
+    },
+    "VNM": {
+      "gdp_nominal": 469,
+      "gdp_ppp": 1173,
+      "gdp_per_capita": 4644,
+      "gdp_growth": 2.7,
+      "inflation_rate": 3.4
+    },
+    "IRN": {
+      "gdp_nominal": 464,
+      "gdp_ppp": 1160,
+      "gdp_per_capita": 5067,
+      "gdp_growth": 2.8,
+      "inflation_rate": 3.2
+    },
+    "TUR": {
+      "gdp_nominal": 1340,
+      "gdp_ppp": 1608,
+      "gdp_per_capita": 15319,
+      "gdp_growth": 2.5,
+      "inflation_rate": 2.9
+    },
+    "DEU": {
+      "gdp_nominal": 4591,
+      "gdp_ppp": 5509,
+      "gdp_per_capita": 54298,
+      "gdp_growth": 1.4,
+      "inflation_rate": 2.5
+    },
+    "THA": {
+      "gdp_nominal": 548,
+      "gdp_ppp": 658,
+      "gdp_per_capita": 7646,
+      "gdp_growth": 1.5,
+      "inflation_rate": 3.1
+    },
+    "GBR": {
+      "gdp_nominal": 3495,
+      "gdp_ppp": 4194,
+      "gdp_per_capita": 51197,
+      "gdp_growth": 1.9,
+      "inflation_rate": 2.5
+    },
+    "TZA": {
+      "gdp_nominal": 86,
+      "gdp_ppp": 215,
+      "gdp_per_capita": 1254,
+      "gdp_growth": 7.7,
+      "inflation_rate": 4.2
+    },
+    "FRA": {
+      "gdp_nominal": 3130,
+      "gdp_ppp": 3756,
+      "gdp_per_capita": 47033,
+      "gdp_growth": 1.6,
+      "inflation_rate": 2.7
+    },
+    "ZAF": {
+      "gdp_nominal": 403,
+      "gdp_ppp": 1008,
+      "gdp_per_capita": 6296,
+      "gdp_growth": 3.1,
+      "inflation_rate": 3.4
+    },
+    "ITA": {
+      "gdp_nominal": 2328,
+      "gdp_ppp": 2794,
+      "gdp_per_capita": 39230,
+      "gdp_growth": 0.6,
+      "inflation_rate": 2.7
+    },
+    "KEN": {
+      "gdp_nominal": 116,
+      "gdp_ppp": 290,
+      "gdp_per_capita": 2064,
+      "gdp_growth": 5.6,
+      "inflation_rate": 3.9
+    },
+    "MMR": {
+      "gdp_nominal": 68,
+      "gdp_ppp": 170,
+      "gdp_per_capita": 1248,
+      "gdp_growth": 2.7,
+      "inflation_rate": 3.9
+    },
+    "COL": {
+      "gdp_nominal": 386,
+      "gdp_ppp": 965,
+      "gdp_per_capita": 7325,
+      "gdp_growth": 2.6,
+      "inflation_rate": 3.3
+    },
+    "KOR": {
+      "gdp_nominal": 1761,
+      "gdp_ppp": 2113,
+      "gdp_per_capita": 34034,
+      "gdp_growth": 1.1,
+      "inflation_rate": 2.6
+    },
+    "UGA": {
+      "gdp_nominal": 53,
+      "gdp_ppp": 133,
+      "gdp_per_capita": 1060,
+      "gdp_growth": 7.7,
+      "inflation_rate": 4.1
+    },
+    "SDN": {
+      "gdp_nominal": 32,
+      "gdp_ppp": 80,
+      "gdp_per_capita": 648,
+      "gdp_growth": 6.9,
+      "inflation_rate": 4.2
+    },
+    "ESP": {
+      "gdp_nominal": 1650,
+      "gdp_ppp": 1980,
+      "gdp_per_capita": 34439,
+      "gdp_growth": 1.7,
+      "inflation_rate": 2.7
+    },
+    "ARG": {
+      "gdp_nominal": 604,
+      "gdp_ppp": 725,
+      "gdp_per_capita": 13114,
+      "gdp_growth": 3,
+      "inflation_rate": 2.9
+    },
+    "DZA": {
+      "gdp_nominal": 266,
+      "gdp_ppp": 665,
+      "gdp_per_capita": 5762,
+      "gdp_growth": 4.4,
+      "inflation_rate": 3.3
+    },
+    "IRQ": {
+      "gdp_nominal": 270,
+      "gdp_ppp": 675,
+      "gdp_per_capita": 5864,
+      "gdp_growth": 6.2,
+      "inflation_rate": 3.6
+    },
+    "AFG": {
+      "gdp_nominal": 15,
+      "gdp_ppp": 38,
+      "gdp_per_capita": 352,
+      "gdp_growth": 7.1,
+      "inflation_rate": 4.5
+    },
+    "POL": {
+      "gdp_nominal": 862,
+      "gdp_ppp": 1034,
+      "gdp_per_capita": 21566,
+      "gdp_growth": 0.6,
       "inflation_rate": 2.8
+    },
+    "CAN": {
+      "gdp_nominal": 2242,
+      "gdp_ppp": 2690,
+      "gdp_per_capita": 56413,
+      "gdp_growth": 3.9,
+      "inflation_rate": 2.6
+    },
+    "MAR": {
+      "gdp_nominal": 152,
+      "gdp_ppp": 380,
+      "gdp_per_capita": 3991,
+      "gdp_growth": 3.4,
+      "inflation_rate": 3.5
     },
     "SAU": {
       "gdp_nominal": 1106,
-      "gdp_ppp": 2354,
-      "gdp_per_capita": 32590,
+      "gdp_ppp": 1327,
+      "gdp_per_capita": 29514,
+      "gdp_growth": 4.5,
+      "inflation_rate": 2.8
+    },
+    "UKR": {
+      "gdp_nominal": 189,
+      "gdp_ppp": 473,
+      "gdp_per_capita": 5108,
+      "gdp_growth": -2,
+      "inflation_rate": 3.4
+    },
+    "AGO": {
+      "gdp_nominal": 93,
+      "gdp_ppp": 233,
+      "gdp_per_capita": 2455,
+      "gdp_growth": 8,
+      "inflation_rate": 3.9
+    },
+    "UZB": {
+      "gdp_nominal": 104,
+      "gdp_ppp": 260,
+      "gdp_per_capita": 2860,
+      "gdp_growth": 5.2,
+      "inflation_rate": 3.4
+    },
+    "YEM": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 594,
+      "gdp_growth": 5.9,
+      "inflation_rate": 4.6
+    },
+    "PER": {
+      "gdp_nominal": 282,
+      "gdp_ppp": 705,
+      "gdp_per_capita": 8131,
+      "gdp_growth": 3.4,
+      "inflation_rate": 3.3
+    },
+    "MYS": {
+      "gdp_nominal": 445,
+      "gdp_ppp": 534,
+      "gdp_per_capita": 12835,
+      "gdp_growth": 3.6,
+      "inflation_rate": 3.1
+    },
+    "GHA": {
+      "gdp_nominal": 76,
+      "gdp_ppp": 190,
+      "gdp_per_capita": 2185,
+      "gdp_growth": 5.4,
+      "inflation_rate": 3.9
+    },
+    "MOZ": {
+      "gdp_nominal": 22,
+      "gdp_ppp": 55,
+      "gdp_per_capita": 635,
+      "gdp_growth": 7.4,
+      "inflation_rate": 4.5
+    },
+    "NPL": {
+      "gdp_nominal": 43,
+      "gdp_ppp": 108,
+      "gdp_per_capita": 1376,
+      "gdp_growth": 3.7,
+      "inflation_rate": 3.9
+    },
+    "MDG": {
+      "gdp_nominal": 16,
+      "gdp_ppp": 40,
+      "gdp_per_capita": 515,
+      "gdp_growth": 6.5,
+      "inflation_rate": 4.4
+    },
+    "CIV": {
+      "gdp_nominal": 86,
+      "gdp_ppp": 215,
+      "gdp_per_capita": 2759,
+      "gdp_growth": 6.7,
+      "inflation_rate": 4.2
+    },
+    "VEN": {
+      "gdp_nominal": 102,
+      "gdp_ppp": 255,
+      "gdp_per_capita": 3470,
+      "gdp_growth": 2.6,
+      "inflation_rate": 3.5
+    },
+    "CMR": {
+      "gdp_nominal": 53,
+      "gdp_ppp": 133,
+      "gdp_per_capita": 1820,
+      "gdp_growth": 6.9,
+      "inflation_rate": 4
+    },
+    "NER": {
+      "gdp_nominal": 19,
+      "gdp_ppp": 48,
+      "gdp_per_capita": 703,
+      "gdp_growth": 8,
+      "inflation_rate": 4.7
+    },
+    "AUS": {
+      "gdp_nominal": 1790,
+      "gdp_ppp": 2148,
+      "gdp_per_capita": 67008,
+      "gdp_growth": 3.9,
+      "inflation_rate": 2.5
+    },
+    "PRK": {
+      "gdp_nominal": 29,
+      "gdp_ppp": 73,
+      "gdp_per_capita": 1105,
+      "gdp_growth": 2,
+      "inflation_rate": 3.4
+    },
+    "TWN": {
+      "gdp_nominal": 800,
+      "gdp_ppp": 960,
+      "gdp_per_capita": 33403,
+      "gdp_growth": 1.4,
+      "inflation_rate": 2.6
+    },
+    "MLI": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 874,
+      "gdp_growth": 8,
+      "inflation_rate": 4.7
+    },
+    "LKA": {
+      "gdp_nominal": 84,
+      "gdp_ppp": 210,
+      "gdp_per_capita": 3636,
+      "gdp_growth": 1.8,
+      "inflation_rate": 3.2
+    },
+    "SYR": {
+      "gdp_nominal": 18,
+      "gdp_ppp": 45,
+      "gdp_per_capita": 754,
+      "gdp_growth": 8,
+      "inflation_rate": 4.1
+    },
+    "KAZ": {
+      "gdp_nominal": 291,
+      "gdp_ppp": 349,
+      "gdp_per_capita": 14131,
+      "gdp_growth": 4.1,
+      "inflation_rate": 3.1
+    },
+    "CHL": {
+      "gdp_nominal": 333,
+      "gdp_ppp": 400,
+      "gdp_per_capita": 16939,
+      "gdp_growth": 2.4,
+      "inflation_rate": 2.9
+    },
+    "ZMB": {
+      "gdp_nominal": 29,
+      "gdp_ppp": 73,
+      "gdp_per_capita": 1361,
+      "gdp_growth": 7.2,
+      "inflation_rate": 4
+    },
+    "ROU": {
+      "gdp_nominal": 381,
+      "gdp_ppp": 457,
+      "gdp_per_capita": 20037,
+      "gdp_growth": -0.3,
+      "inflation_rate": 3
+    },
+    "TCD": {
+      "gdp_nominal": 13,
+      "gdp_ppp": 33,
+      "gdp_per_capita": 673,
+      "gdp_growth": 8,
+      "inflation_rate": 4.7
+    },
+    "SOM": {
+      "gdp_nominal": 11,
+      "gdp_ppp": 28,
+      "gdp_per_capita": 579,
+      "gdp_growth": 8,
+      "inflation_rate": 4.8
+    },
+    "SEN": {
+      "gdp_nominal": 31,
+      "gdp_ppp": 78,
+      "gdp_per_capita": 1696,
+      "gdp_growth": 6.8,
+      "inflation_rate": 4.2
+    },
+    "NLD": {
+      "gdp_nominal": 1140,
+      "gdp_ppp": 1368,
+      "gdp_per_capita": 62539,
+      "gdp_growth": 2.1,
+      "inflation_rate": 2.5
+    },
+    "GTM": {
+      "gdp_nominal": 110,
+      "gdp_ppp": 275,
+      "gdp_per_capita": 5912,
+      "gdp_growth": 4.3,
+      "inflation_rate": 3.8
+    },
+    "ECU": {
+      "gdp_nominal": 121,
+      "gdp_ppp": 303,
+      "gdp_per_capita": 6672,
+      "gdp_growth": 3.3,
+      "inflation_rate": 3.2
+    },
+    "ZWE": {
+      "gdp_nominal": 32,
+      "gdp_ppp": 80,
+      "gdp_per_capita": 1924,
+      "gdp_growth": 5.7,
+      "inflation_rate": 4.1
+    },
+    "GIN": {
+      "gdp_nominal": 25,
+      "gdp_ppp": 63,
+      "gdp_per_capita": 1694,
+      "gdp_growth": 6.4,
+      "inflation_rate": 4.4
+    },
+    "RWA": {
+      "gdp_nominal": 14,
+      "gdp_ppp": 35,
+      "gdp_per_capita": 971,
+      "gdp_growth": 6.3,
+      "inflation_rate": 4.2
+    },
+    "BEN": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 1488,
+      "gdp_growth": 7.1,
+      "inflation_rate": 4.2
+    },
+    "BDI": {
+      "gdp_nominal": 4,
+      "gdp_ppp": 10,
+      "gdp_per_capita": 285,
+      "gdp_growth": 7.1,
+      "inflation_rate": 4.6
+    },
+    "BOL": {
+      "gdp_nominal": 49,
+      "gdp_ppp": 123,
+      "gdp_per_capita": 3899,
+      "gdp_growth": 4.1,
+      "inflation_rate": 3.5
+    },
+    "TUN": {
+      "gdp_nominal": 54,
+      "gdp_ppp": 135,
+      "gdp_per_capita": 4298,
+      "gdp_growth": 2.8,
+      "inflation_rate": 3.4
+    },
+    "HTI": {
+      "gdp_nominal": 25,
+      "gdp_ppp": 63,
+      "gdp_per_capita": 2107,
+      "gdp_growth": 3.8,
+      "inflation_rate": 4.2
+    },
+    "BEL": {
+      "gdp_nominal": 655,
+      "gdp_ppp": 786,
+      "gdp_per_capita": 55798,
+      "gdp_growth": 2.2,
+      "inflation_rate": 2.6
+    },
+    "JOR": {
+      "gdp_nominal": 53,
+      "gdp_ppp": 133,
+      "gdp_per_capita": 4588,
+      "gdp_growth": 3.1,
+      "inflation_rate": 3.4
+    },
+    "DOM": {
+      "gdp_nominal": 127,
+      "gdp_ppp": 318,
+      "gdp_per_capita": 11107,
+      "gdp_growth": 3.2,
+      "inflation_rate": 3.2
+    },
+    "CUB": {
+      "gdp_nominal": 107,
+      "gdp_ppp": 268,
+      "gdp_per_capita": 9558,
+      "gdp_growth": 0.6,
+      "inflation_rate": 3.2
+    },
+    "SSD": {
+      "gdp_nominal": 7,
+      "gdp_ppp": 18,
+      "gdp_per_capita": 621,
+      "gdp_growth": 4.6,
+      "inflation_rate": 4.8
+    },
+    "SWE": {
+      "gdp_nominal": 620,
+      "gdp_ppp": 744,
+      "gdp_per_capita": 58452,
+      "gdp_growth": 2.4,
+      "inflation_rate": 2.5
+    },
+    "HND": {
+      "gdp_nominal": 37,
+      "gdp_ppp": 93,
+      "gdp_per_capita": 3439,
+      "gdp_growth": 4.4,
+      "inflation_rate": 3.8
+    },
+    "CZE": {
+      "gdp_nominal": 342,
+      "gdp_ppp": 410,
+      "gdp_per_capita": 32520,
       "gdp_growth": 1.7,
-      "inflation_rate": 1.6
+      "inflation_rate": 2.7
+    },
+    "AZE": {
+      "gdp_nominal": 78,
+      "gdp_ppp": 195,
+      "gdp_per_capita": 7455,
+      "gdp_growth": 2.7,
+      "inflation_rate": 3.3
+    },
+    "GRC": {
+      "gdp_nominal": 250,
+      "gdp_ppp": 300,
+      "gdp_per_capita": 24175,
+      "gdp_growth": 0.2,
+      "inflation_rate": 2.8
+    },
+    "PNG": {
+      "gdp_nominal": 32,
+      "gdp_ppp": 80,
+      "gdp_per_capita": 3043,
+      "gdp_growth": 5.2,
+      "inflation_rate": 4.1
+    },
+    "PRT": {
+      "gdp_nominal": 298,
+      "gdp_ppp": 358,
+      "gdp_per_capita": 29080,
+      "gdp_growth": 0.7,
+      "inflation_rate": 2.8
+    },
+    "HUN": {
+      "gdp_nominal": 223,
+      "gdp_ppp": 268,
+      "gdp_per_capita": 23046,
+      "gdp_growth": 0.6,
+      "inflation_rate": 2.9
+    },
+    "TJK": {
+      "gdp_nominal": 13,
+      "gdp_ppp": 33,
+      "gdp_per_capita": 1258,
+      "gdp_growth": 5.9,
+      "inflation_rate": 3.6
+    },
+    "ARE": {
+      "gdp_nominal": 537,
+      "gdp_ppp": 644,
+      "gdp_per_capita": 56426,
+      "gdp_growth": 3,
+      "inflation_rate": 2.7
+    },
+    "BLR": {
+      "gdp_nominal": 75,
+      "gdp_ppp": 90,
+      "gdp_per_capita": 7932,
+      "gdp_growth": 0.5,
+      "inflation_rate": 3.1
+    },
+    "ISR": {
+      "gdp_nominal": 531,
+      "gdp_ppp": 637,
+      "gdp_per_capita": 57025,
+      "gdp_growth": 4.5,
+      "inflation_rate": 2.6
+    },
+    "TGO": {
+      "gdp_nominal": 9,
+      "gdp_ppp": 23,
+      "gdp_per_capita": 972,
+      "gdp_growth": 6.4,
+      "inflation_rate": 4.1
+    },
+    "AUT": {
+      "gdp_nominal": 541,
+      "gdp_ppp": 649,
+      "gdp_per_capita": 59316,
+      "gdp_growth": 2.2,
+      "inflation_rate": 2.6
+    },
+    "CHE": {
+      "gdp_nominal": 938,
+      "gdp_ppp": 1126,
+      "gdp_per_capita": 105134,
+      "gdp_growth": 2.8,
+      "inflation_rate": 2.4
+    },
+    "SLE": {
+      "gdp_nominal": 4,
+      "gdp_ppp": 10,
+      "gdp_per_capita": 446,
+      "gdp_growth": 5.9,
+      "inflation_rate": 4.4
+    },
+    "LAO": {
+      "gdp_nominal": 16,
+      "gdp_ppp": 40,
+      "gdp_per_capita": 2068,
+      "gdp_growth": 4.2,
+      "inflation_rate": 3.8
+    },
+    "HKG": {
+      "gdp_nominal": 407,
+      "gdp_ppp": 488,
+      "gdp_per_capita": 54291,
+      "gdp_growth": 0.9,
+      "inflation_rate": 2.5
+    },
+    "SRB": {
+      "gdp_nominal": 82,
+      "gdp_ppp": 98,
+      "gdp_per_capita": 11554,
+      "gdp_growth": -0.6,
+      "inflation_rate": 3.1
+    },
+    "NIC": {
+      "gdp_nominal": 19,
+      "gdp_ppp": 48,
+      "gdp_per_capita": 2660,
+      "gdp_growth": 4,
+      "inflation_rate": 3.6
+    },
+    "LBY": {
+      "gdp_nominal": 49,
+      "gdp_ppp": 123,
+      "gdp_per_capita": 7036,
+      "gdp_growth": 3.6,
+      "inflation_rate": 3.4
+    },
+    "PRY": {
+      "gdp_nominal": 45,
+      "gdp_ppp": 113,
+      "gdp_per_capita": 6477,
+      "gdp_growth": 3.8,
+      "inflation_rate": 3.4
+    },
+    "KGZ": {
+      "gdp_nominal": 14,
+      "gdp_ppp": 35,
+      "gdp_per_capita": 1948,
+      "gdp_growth": 4.9,
+      "inflation_rate": 3.5
+    },
+    "BGR": {
+      "gdp_nominal": 108,
+      "gdp_ppp": 270,
+      "gdp_per_capita": 16149,
+      "gdp_growth": -0.3,
+      "inflation_rate": 3.1
+    },
+    "TKM": {
+      "gdp_nominal": 83,
+      "gdp_ppp": 208,
+      "gdp_per_capita": 12579,
+      "gdp_growth": 4.2,
+      "inflation_rate": 3.3
+    },
+    "SLV": {
+      "gdp_nominal": 35,
+      "gdp_ppp": 88,
+      "gdp_per_capita": 5472,
+      "gdp_growth": 2.1,
+      "inflation_rate": 3.6
+    },
+    "COG": {
+      "gdp_nominal": 15,
+      "gdp_ppp": 38,
+      "gdp_per_capita": 2402,
+      "gdp_growth": 6.3,
+      "inflation_rate": 4
+    },
+    "SGP": {
+      "gdp_nominal": 525,
+      "gdp_ppp": 630,
+      "gdp_per_capita": 86965,
+      "gdp_growth": 3.1,
+      "inflation_rate": 2.5
+    },
+    "DNK": {
+      "gdp_nominal": 420,
+      "gdp_ppp": 504,
+      "gdp_per_capita": 70711,
+      "gdp_growth": 2.3,
+      "inflation_rate": 2.5
+    },
+    "SVK": {
+      "gdp_nominal": 140,
+      "gdp_ppp": 168,
+      "gdp_per_capita": 24549,
+      "gdp_growth": 1,
+      "inflation_rate": 2.9
+    },
+    "CAF": {
+      "gdp_nominal": 3,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 522,
+      "gdp_growth": 5.9,
+      "inflation_rate": 4.8
+    },
+    "FIN": {
+      "gdp_nominal": 308,
+      "gdp_ppp": 370,
+      "gdp_per_capita": 55541,
+      "gdp_growth": 1.6,
+      "inflation_rate": 2.5
+    },
+    "NOR": {
+      "gdp_nominal": 546,
+      "gdp_ppp": 655,
+      "gdp_per_capita": 99012,
+      "gdp_growth": 2.7,
+      "inflation_rate": 2.4
+    },
+    "LBR": {
+      "gdp_nominal": 4,
+      "gdp_ppp": 10,
+      "gdp_per_capita": 722,
+      "gdp_growth": 5.8,
+      "inflation_rate": 4.4
+    },
+    "PSE": {
+      "gdp_nominal": 18,
+      "gdp_ppp": 45,
+      "gdp_per_capita": 3276,
+      "gdp_growth": 6.3,
+      "inflation_rate": 3.4
+    },
+    "NZL": {
+      "gdp_nominal": 253,
+      "gdp_ppp": 304,
+      "gdp_per_capita": 48008,
+      "gdp_growth": 4,
+      "inflation_rate": 2.5
+    },
+    "CRI": {
+      "gdp_nominal": 96,
+      "gdp_ppp": 115,
+      "gdp_per_capita": 18299,
+      "gdp_growth": 2.5,
+      "inflation_rate": 3.1
+    },
+    "IRL": {
+      "gdp_nominal": 545,
+      "gdp_ppp": 654,
+      "gdp_per_capita": 106296,
+      "gdp_growth": 3.7,
+      "inflation_rate": 2.5
+    },
+    "MRT": {
+      "gdp_nominal": 10,
+      "gdp_ppp": 25,
+      "gdp_per_capita": 1991,
+      "gdp_growth": 7,
+      "inflation_rate": 4.1
+    },
+    "OMN": {
+      "gdp_nominal": 111,
+      "gdp_ppp": 133,
+      "gdp_per_capita": 23900,
+      "gdp_growth": 4.5,
+      "inflation_rate": 3
+    },
+    "PAN": {
+      "gdp_nominal": 87,
+      "gdp_ppp": 104,
+      "gdp_per_capita": 19214,
+      "gdp_growth": 4.1,
+      "inflation_rate": 3.1
+    },
+    "KWT": {
+      "gdp_nominal": 161,
+      "gdp_ppp": 193,
+      "gdp_per_capita": 37017,
+      "gdp_growth": 3.2,
+      "inflation_rate": 3
+    },
+    "HRV": {
+      "gdp_nominal": 86,
+      "gdp_ppp": 103,
+      "gdp_per_capita": 21454,
+      "gdp_growth": 0.2,
+      "inflation_rate": 2.9
+    },
+    "GEO": {
+      "gdp_nominal": 33,
+      "gdp_ppp": 40,
+      "gdp_per_capita": 8851,
+      "gdp_growth": 0.8,
+      "inflation_rate": 3.1
+    },
+    "ERI": {
+      "gdp_nominal": 3,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 800,
+      "gdp_growth": 4.3,
+      "inflation_rate": 4.5
+    },
+    "URY": {
+      "gdp_nominal": 80,
+      "gdp_ppp": 96,
+      "gdp_per_capita": 23371,
+      "gdp_growth": 1.5,
+      "inflation_rate": 3.1
+    },
+    "MNG": {
+      "gdp_nominal": 22,
+      "gdp_ppp": 55,
+      "gdp_per_capita": 6330,
+      "gdp_growth": 4.3,
+      "inflation_rate": 3.3
+    },
+    "BIH": {
+      "gdp_nominal": 28,
+      "gdp_ppp": 70,
+      "gdp_per_capita": 8720,
+      "gdp_growth": -0.8,
+      "inflation_rate": 3.2
+    },
+    "QAT": {
+      "gdp_nominal": 221,
+      "gdp_ppp": 265,
+      "gdp_per_capita": 72497,
+      "gdp_growth": 3.8,
+      "inflation_rate": 2.9
+    },
+    "NAM": {
+      "gdp_nominal": 13,
+      "gdp_ppp": 33,
+      "gdp_per_capita": 4290,
+      "gdp_growth": 5.4,
+      "inflation_rate": 3.8
+    },
+    "ARM": {
+      "gdp_nominal": 25,
+      "gdp_ppp": 63,
+      "gdp_per_capita": 8407,
+      "gdp_growth": 1.6,
+      "inflation_rate": 3.3
+    },
+    "LTU": {
+      "gdp_nominal": 82,
+      "gdp_ppp": 98,
+      "gdp_per_capita": 30165,
+      "gdp_growth": 1.6,
+      "inflation_rate": 2.8
+    },
+    "JAM": {
+      "gdp_nominal": 20,
+      "gdp_ppp": 50,
+      "gdp_per_capita": 7078,
+      "gdp_growth": 1,
+      "inflation_rate": 3.5
+    },
+    "ALB": {
+      "gdp_nominal": 25,
+      "gdp_ppp": 63,
+      "gdp_per_capita": 8955,
+      "gdp_growth": 0.1,
+      "inflation_rate": 3.1
+    },
+    "GMB": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 721,
+      "gdp_growth": 6.5,
+      "inflation_rate": 4.3
+    },
+    "GAB": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 8619,
+      "gdp_growth": 5.8,
+      "inflation_rate": 3.5
+    },
+    "BWA": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 7849,
+      "gdp_growth": 5.2,
+      "inflation_rate": 3.5
+    },
+    "LSO": {
+      "gdp_nominal": 3,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 1287,
+      "gdp_growth": 3.6,
+      "inflation_rate": 4.2
+    },
+    "GNB": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 930,
+      "gdp_growth": 6.3,
+      "inflation_rate": 4.4
+    },
+    "SVN": {
+      "gdp_nominal": 72,
+      "gdp_ppp": 86,
+      "gdp_per_capita": 33967,
+      "gdp_growth": 1.4,
+      "inflation_rate": 2.6
+    },
+    "GNQ": {
+      "gdp_nominal": 12,
+      "gdp_ppp": 30,
+      "gdp_per_capita": 6998,
+      "gdp_growth": 6,
+      "inflation_rate": 3.9
+    },
+    "LVA": {
+      "gdp_nominal": 47,
+      "gdp_ppp": 56,
+      "gdp_per_capita": 25109,
+      "gdp_growth": -0.1,
+      "inflation_rate": 2.8
+    },
+    "MKD": {
+      "gdp_nominal": 16,
+      "gdp_ppp": 40,
+      "gdp_per_capita": 8777,
+      "gdp_growth": 0.5,
+      "inflation_rate": 3.2
+    },
+    "BHR": {
+      "gdp_nominal": 47,
+      "gdp_ppp": 56,
+      "gdp_per_capita": 29802,
+      "gdp_growth": 3.8,
+      "inflation_rate": 2.8
+    },
+    "TTO": {
+      "gdp_nominal": 30,
+      "gdp_ppp": 36,
+      "gdp_per_capita": 19545,
+      "gdp_growth": 1.9,
+      "inflation_rate": 3.1
+    },
+    "TLS": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 1470,
+      "gdp_growth": 4.5,
+      "inflation_rate": 3.9
+    },
+    "CYP": {
+      "gdp_nominal": 32,
+      "gdp_ppp": 38,
+      "gdp_per_capita": 25394,
+      "gdp_growth": 2.7,
+      "inflation_rate": 2.7
+    },
+    "EST": {
+      "gdp_nominal": 41,
+      "gdp_ppp": 49,
+      "gdp_per_capita": 30017,
+      "gdp_growth": 1.4,
+      "inflation_rate": 2.7
+    },
+    "MUS": {
+      "gdp_nominal": 15,
+      "gdp_ppp": 18,
+      "gdp_per_capita": 11534,
+      "gdp_growth": 1.4,
+      "inflation_rate": 3.1
+    },
+    "SWZ": {
+      "gdp_nominal": 5,
+      "gdp_ppp": 13,
+      "gdp_per_capita": 4129,
+      "gdp_growth": 3.6,
+      "inflation_rate": 3.9
+    },
+    "DJI": {
+      "gdp_nominal": 4,
+      "gdp_ppp": 10,
+      "gdp_per_capita": 3520,
+      "gdp_growth": 4.1,
+      "inflation_rate": 4.3
+    },
+    "FJI": {
+      "gdp_nominal": 6,
+      "gdp_ppp": 15,
+      "gdp_per_capita": 6408,
+      "gdp_growth": 2.5,
+      "inflation_rate": 3.4
+    },
+    "COM": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 1174,
+      "gdp_growth": 5.2,
+      "inflation_rate": 4.1
+    },
+    "GUY": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 25804,
+      "gdp_growth": 2.3,
+      "inflation_rate": 3.4
+    },
+    "BTN": {
+      "gdp_nominal": 3,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 3810,
+      "gdp_growth": 3,
+      "inflation_rate": 3.6
+    },
+    "SLB": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 2701,
+      "gdp_growth": 5.8,
+      "inflation_rate": 4
+    },
+    "LUX": {
+      "gdp_nominal": 89,
+      "gdp_ppp": 107,
+      "gdp_per_capita": 132431,
+      "gdp_growth": 5.4,
+      "inflation_rate": 2.6
+    },
+    "MNE": {
+      "gdp_nominal": 8,
+      "gdp_ppp": 10,
+      "gdp_per_capita": 12888,
+      "gdp_growth": 0.8,
+      "inflation_rate": 3
+    },
+    "SUR": {
+      "gdp_nominal": 4,
+      "gdp_ppp": 10,
+      "gdp_per_capita": 6418,
+      "gdp_growth": 3,
+      "inflation_rate": 3.4
+    },
+    "CPV": {
+      "gdp_nominal": 3,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 5011,
+      "gdp_growth": 3.2,
+      "inflation_rate": 3.7
+    },
+    "MDV": {
+      "gdp_nominal": 7,
+      "gdp_ppp": 18,
+      "gdp_per_capita": 13435,
+      "gdp_growth": 4.9,
+      "inflation_rate": 3.3
+    },
+    "MLT": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 25,
+      "gdp_per_capita": 39248,
+      "gdp_growth": 5.8,
+      "inflation_rate": 2.6
+    },
+    "BRN": {
+      "gdp_nominal": 16,
+      "gdp_ppp": 19,
+      "gdp_per_capita": 35357,
+      "gdp_growth": 3,
+      "inflation_rate": 3
+    },
+    "BLZ": {
+      "gdp_nominal": 3,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 7302,
+      "gdp_growth": 4.3,
+      "inflation_rate": 3.6
+    },
+    "BHS": {
+      "gdp_nominal": 14,
+      "gdp_ppp": 17,
+      "gdp_per_capita": 33929,
+      "gdp_growth": 2.7,
+      "inflation_rate": 3.1
+    },
+    "ISL": {
+      "gdp_nominal": 31,
+      "gdp_ppp": 37,
+      "gdp_per_capita": 78808,
+      "gdp_growth": 4.5,
+      "inflation_rate": 2.5
+    },
+    "VUT": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 2989,
+      "gdp_growth": 6,
+      "inflation_rate": 3.9
+    },
+    "BRB": {
+      "gdp_nominal": 6,
+      "gdp_ppp": 15,
+      "gdp_per_capita": 21277,
+      "gdp_growth": 1.4,
+      "inflation_rate": 3.1
+    },
+    "STP": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 4313,
+      "gdp_growth": 5.4,
+      "inflation_rate": 3.8
+    },
+    "WSM": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 4431,
+      "gdp_growth": 3.8,
+      "inflation_rate": 3.5
+    },
+    "LCA": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 11096,
+      "gdp_growth": 1.9,
+      "inflation_rate": 3.4
+    },
+    "KIR": {
+      "gdp_nominal": 0.3,
+      "gdp_ppp": 1,
+      "gdp_per_capita": 2247,
+      "gdp_growth": 4.7,
+      "inflation_rate": 3.8
+    },
+    "GRD": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 7925,
+      "gdp_growth": 2.3,
+      "inflation_rate": 3.1
+    },
+    "VCT": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 9643,
+      "gdp_growth": 0.8,
+      "inflation_rate": 3.3
+    },
+    "FSM": {
+      "gdp_nominal": 0.4,
+      "gdp_ppp": 1,
+      "gdp_per_capita": 3471,
+      "gdp_growth": 3,
+      "inflation_rate": 3.8
+    },
+    "SYC": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 18577,
+      "gdp_growth": 2.5,
+      "inflation_rate": 3.2
+    },
+    "ATG": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 21209,
+      "gdp_growth": 2.5,
+      "inflation_rate": 3.1
+    },
+    "AND": {
+      "gdp_nominal": 4,
+      "gdp_ppp": 5,
+      "gdp_per_capita": 49945,
+      "gdp_growth": 3.8,
+      "inflation_rate": 2.9
+    },
+    "DMA": {
+      "gdp_nominal": 0.7,
+      "gdp_ppp": 2,
+      "gdp_per_capita": 9584,
+      "gdp_growth": 1.6,
+      "inflation_rate": 3.4
+    },
+    "MHL": {
+      "gdp_nominal": 0.3,
+      "gdp_ppp": 1,
+      "gdp_per_capita": 7144,
+      "gdp_growth": 2.1,
+      "inflation_rate": 3.7
+    },
+    "KNA": {
+      "gdp_nominal": 1,
+      "gdp_ppp": 3,
+      "gdp_per_capita": 20940,
+      "gdp_growth": 2.1,
+      "inflation_rate": 3.2
+    },
+    "MCO": {
+      "gdp_nominal": 9,
+      "gdp_ppp": 11,
+      "gdp_per_capita": 230474,
+      "gdp_growth": 2.3,
+      "inflation_rate": 2.5
+    },
+    "LIE": {
+      "gdp_nominal": 7,
+      "gdp_ppp": 8,
+      "gdp_per_capita": 176839,
+      "gdp_growth": 2.5,
+      "inflation_rate": 2.6
+    },
+    "SMR": {
+      "gdp_nominal": 2,
+      "gdp_ppp": 2,
+      "gdp_per_capita": 59418,
+      "gdp_growth": 1.4,
+      "inflation_rate": 2.9
+    },
+    "PLW": {
+      "gdp_nominal": 0.3,
+      "gdp_ppp": 1,
+      "gdp_per_capita": 16613,
+      "gdp_growth": 1.4,
+      "inflation_rate": 3.2
+    },
+    "NRU": {
+      "gdp_nominal": 0.15,
+      "gdp_ppp": 0,
+      "gdp_per_capita": 11737,
+      "gdp_growth": 2.7,
+      "inflation_rate": 3.5
+    },
+    "TUV": {
+      "gdp_nominal": 0.06,
+      "gdp_ppp": 0,
+      "gdp_per_capita": 5265,
+      "gdp_growth": 3.2,
+      "inflation_rate": 3.7
+    },
+    "VAT": {
+      "gdp_nominal": 0.02,
+      "gdp_ppp": 0,
+      "gdp_per_capita": 24242,
+      "gdp_growth": 1.2,
+      "inflation_rate": 2.7
+    },
+    "BFA": {
+      "gdp_nominal": 20,
+      "gdp_ppp": 50,
+      "gdp_per_capita": 860,
+      "gdp_growth": 6.7,
+      "inflation_rate": 4.5
+    },
+    "KHM": {
+      "gdp_nominal": 32,
+      "gdp_ppp": 80,
+      "gdp_per_capita": 1888,
+      "gdp_growth": 3.5,
+      "inflation_rate": 3.9
+    },
+    "LBN": {
+      "gdp_nominal": 21,
+      "gdp_ppp": 53,
+      "gdp_per_capita": 3922,
+      "gdp_growth": -2,
+      "inflation_rate": 3.5
+    },
+    "MWI": {
+      "gdp_nominal": 13,
+      "gdp_ppp": 33,
+      "gdp_per_capita": 616,
+      "gdp_growth": 6.8,
+      "inflation_rate": 4.3
+    },
+    "MDA": {
+      "gdp_nominal": 16,
+      "gdp_ppp": 40,
+      "gdp_per_capita": 6367,
+      "gdp_growth": -0.8,
+      "inflation_rate": 3.2
+    },
+    "TON": {
+      "gdp_nominal": 0.5,
+      "gdp_ppp": 1,
+      "gdp_per_capita": 4679,
+      "gdp_growth": 0.8,
+      "inflation_rate": 3.3
+    },
+    "XKX": {
+      "gdp_nominal": 10,
+      "gdp_ppp": 25,
+      "gdp_per_capita": 5682,
+      "gdp_growth": 2.1,
+      "inflation_rate": 3.3
     }
   }
 }

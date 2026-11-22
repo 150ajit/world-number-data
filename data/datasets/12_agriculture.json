@@ -1,40 +1,800 @@
 {
   "categoryKey": "12_agriculture",
-  "updatedAt": "2026-11-21T07:19:19.030Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "FAO / FAOSTAT",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "agricultural_land_pct": 44.4,
-      "cereal_yield": 8420
+    "IND": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6152
     },
     "CHN": {
-      "agricultural_land_pct": 55.3,
-      "cereal_yield": 6310
+      "agricultural_land_pct": 36,
+      "cereal_yield": 7304
     },
-    "IND": {
-      "agricultural_land_pct": 60.4,
-      "cereal_yield": 3350
+    "USA": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8416
+    },
+    "IDN": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6704
+    },
+    "PAK": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5320
+    },
+    "NGA": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5384
     },
     "BRA": {
-      "agricultural_land_pct": 33.8,
-      "cereal_yield": 5120
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7080
     },
-    "FRA": {
-      "agricultural_land_pct": 52.4,
-      "cereal_yield": 7140
+    "BGD": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6288
+    },
+    "RUS": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7568
+    },
+    "ETH": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4984
+    },
+    "MEX": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7248
+    },
+    "JPN": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8360
+    },
+    "PHL": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6680
+    },
+    "EGY": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6824
+    },
+    "COD": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 4848
+    },
+    "VNM": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6808
+    },
+    "IRN": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7240
+    },
+    "TUR": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7840
     },
     "DEU": {
-      "agricultural_land_pct": 47.6,
-      "cereal_yield": 7280
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8600
+    },
+    "THA": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7424
+    },
+    "GBR": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 8520
+    },
+    "TZA": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5256
+    },
+    "FRA": {
+      "agricultural_land_pct": 62,
+      "cereal_yield": 8280
+    },
+    "ZAF": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6736
+    },
+    "ITA": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8248
+    },
+    "KEN": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5808
+    },
+    "MMR": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5864
+    },
+    "COL": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7064
+    },
+    "KOR": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 8432
+    },
+    "UGA": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5400
+    },
+    "SDN": {
+      "agricultural_land_pct": 29,
+      "cereal_yield": 5128
+    },
+    "ESP": {
+      "agricultural_land_pct": 56,
+      "cereal_yield": 8288
+    },
+    "ARG": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7792
+    },
+    "DZA": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6960
+    },
+    "IRQ": {
+      "agricultural_land_pct": 57,
+      "cereal_yield": 6384
+    },
+    "AFG": {
+      "agricultural_land_pct": 49,
+      "cereal_yield": 4696
+    },
+    "POL": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 8048
     },
     "CAN": {
-      "agricultural_land_pct": 6.8,
-      "cereal_yield": 3950
+      "agricultural_land_pct": 55,
+      "cereal_yield": 8480
+    },
+    "MAR": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6584
+    },
+    "SAU": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 8000
+    },
+    "UKR": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6872
+    },
+    "AGO": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5728
+    },
+    "UZB": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6816
+    },
+    "YEM": {
+      "agricultural_land_pct": 33,
+      "cereal_yield": 4392
+    },
+    "PER": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7096
+    },
+    "MYS": {
+      "agricultural_land_pct": 42,
+      "cereal_yield": 7456
+    },
+    "GHA": {
+      "agricultural_land_pct": 38,
+      "cereal_yield": 5816
+    },
+    "MOZ": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 4688
+    },
+    "NPL": {
+      "agricultural_land_pct": 56,
+      "cereal_yield": 5808
+    },
+    "MDG": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 4896
+    },
+    "CIV": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5272
+    },
+    "VEN": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6592
+    },
+    "CMR": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5696
+    },
+    "NER": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 4152
     },
     "AUS": {
-      "agricultural_land_pct": 48.2,
-      "cereal_yield": 2420
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8568
+    },
+    "PRK": {
+      "agricultural_land_pct": 33,
+      "cereal_yield": 6840
+    },
+    "TWN": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8408
+    },
+    "MLI": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 4280
+    },
+    "LKA": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7240
+    },
+    "SYR": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5456
+    },
+    "KAZ": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7416
+    },
+    "CHL": {
+      "agricultural_land_pct": 37,
+      "cereal_yield": 7880
+    },
+    "ZMB": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5520
+    },
+    "ROU": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7568
+    },
+    "TCD": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4152
+    },
+    "SOM": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 4040
+    },
+    "SEN": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5136
+    },
+    "NLD": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 8568
+    },
+    "GTM": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6016
+    },
+    "ECU": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7120
+    },
+    "ZWE": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5400
+    },
+    "GIN": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4720
+    },
+    "RWA": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5272
+    },
+    "BEN": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5200
+    },
+    "BDI": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4360
+    },
+    "BOL": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6584
+    },
+    "TUN": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6856
+    },
+    "HTI": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5280
+    },
+    "BEL": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 8496
+    },
+    "JOR": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6888
+    },
+    "DOM": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7128
+    },
+    "CUB": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7112
+    },
+    "SSD": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 4080
+    },
+    "SWE": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 8616
+    },
+    "HND": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5968
+    },
+    "CZE": {
+      "agricultural_land_pct": 32,
+      "cereal_yield": 8112
+    },
+    "AZE": {
+      "agricultural_land_pct": 54,
+      "cereal_yield": 6960
+    },
+    "GRC": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8096
+    },
+    "PNG": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5464
+    },
+    "PRT": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7992
+    },
+    "HUN": {
+      "agricultural_land_pct": 33,
+      "cereal_yield": 7768
+    },
+    "TJK": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6480
+    },
+    "ARE": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 8288
+    },
+    "BLR": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7464
+    },
+    "ISR": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 8352
+    },
+    "TGO": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5312
+    },
+    "AUT": {
+      "agricultural_land_pct": 30,
+      "cereal_yield": 8328
+    },
+    "CHE": {
+      "agricultural_land_pct": 61,
+      "cereal_yield": 8736
+    },
+    "SLE": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 4816
+    },
+    "LAO": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5960
+    },
+    "HKG": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 8616
+    },
+    "SRB": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7440
+    },
+    "NIC": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6336
+    },
+    "LBY": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6744
+    },
+    "PRY": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6736
+    },
+    "KGZ": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6536
+    },
+    "BGR": {
+      "agricultural_land_pct": 37,
+      "cereal_yield": 7360
+    },
+    "TKM": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6960
+    },
+    "SLV": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6400
+    },
+    "COG": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5568
+    },
+    "SGP": {
+      "agricultural_land_pct": 64,
+      "cereal_yield": 8512
+    },
+    "DNK": {
+      "agricultural_land_pct": 59,
+      "cereal_yield": 8584
+    },
+    "SVK": {
+      "agricultural_land_pct": 33,
+      "cereal_yield": 7880
+    },
+    "CAF": {
+      "agricultural_land_pct": 49,
+      "cereal_yield": 4096
+    },
+    "FIN": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 8520
+    },
+    "NOR": {
+      "agricultural_land_pct": 53,
+      "cereal_yield": 8728
+    },
+    "LBR": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4848
+    },
+    "PSE": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6728
+    },
+    "NZL": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 8512
+    },
+    "CRI": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7472
+    },
+    "IRL": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 8600
+    },
+    "MRT": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5448
+    },
+    "OMN": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7528
+    },
+    "PAN": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7440
+    },
+    "KWT": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7648
+    },
+    "HRV": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7864
+    },
+    "GEO": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7416
+    },
+    "ERI": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4672
+    },
+    "URY": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7472
+    },
+    "MNG": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6912
+    },
+    "BIH": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7240
+    },
+    "QAT": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7840
+    },
+    "NAM": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5920
+    },
+    "ARM": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7072
+    },
+    "LTU": {
+      "agricultural_land_pct": 59,
+      "cereal_yield": 8000
+    },
+    "JAM": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6672
+    },
+    "ALB": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7368
+    },
+    "GMB": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5000
+    },
+    "GAB": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6648
+    },
+    "BWA": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6544
+    },
+    "LSO": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5112
+    },
+    "GNB": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4864
+    },
+    "SVN": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8344
+    },
+    "GNQ": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5768
+    },
+    "LVA": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7904
+    },
+    "MKD": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7160
+    },
+    "BHR": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 8000
+    },
+    "TTO": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7480
+    },
+    "TLS": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5856
+    },
+    "CYP": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 8168
+    },
+    "EST": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 8120
+    },
+    "MUS": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7416
+    },
+    "SWZ": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5776
+    },
+    "DJI": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 5072
+    },
+    "FJI": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6840
+    },
+    "COM": {
+      "agricultural_land_pct": 60,
+      "cereal_yield": 5464
+    },
+    "GUY": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6712
+    },
+    "BTN": {
+      "agricultural_land_pct": 62,
+      "cereal_yield": 6328
+    },
+    "SLB": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5512
+    },
+    "LUX": {
+      "agricultural_land_pct": 39,
+      "cereal_yield": 8440
+    },
+    "MNE": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7656
+    },
+    "SUR": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 6840
+    },
+    "CPV": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6296
+    },
+    "MDV": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6976
+    },
+    "MLT": {
+      "agricultural_land_pct": 61,
+      "cereal_yield": 8320
+    },
+    "BRN": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7632
+    },
+    "BLZ": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6464
+    },
+    "BHS": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 7496
+    },
+    "ISL": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 8672
+    },
+    "VUT": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 5856
+    },
+    "BRB": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7320
+    },
+    "STP": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 5944
+    },
+    "WSM": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6656
+    },
+    "LCA": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 6720
+    },
+    "KIR": {
+      "agricultural_land_pct": 35,
+      "cereal_yield": 5992
+    },
+    "GRD": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7360
+    },
+    "VCT": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7008
+    },
+    "FSM": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6024
+    },
+    "SYC": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7280
+    },
+    "ATG": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 7304
+    },
+    "AND": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 7864
+    },
+    "DMA": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6760
+    },
+    "MHL": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6112
+    },
+    "KNA": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7216
+    },
+    "MCO": {
+      "agricultural_land_pct": 27,
+      "cereal_yield": 8648
+    },
+    "LIE": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 8352
+    },
+    "SMR": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7824
+    },
+    "PLW": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 7136
+    },
+    "NRU": {
+      "agricultural_land_pct": 45,
+      "cereal_yield": 6568
+    },
+    "TUV": {
+      "agricultural_land_pct": 55,
+      "cereal_yield": 6128
+    },
+    "VAT": {
+      "agricultural_land_pct": 25.5,
+      "cereal_yield": 8200
+    },
+    "BFA": {
+      "agricultural_land_pct": 25,
+      "cereal_yield": 4592
+    },
+    "KHM": {
+      "agricultural_land_pct": 60,
+      "cereal_yield": 5744
+    },
+    "LBN": {
+      "agricultural_land_pct": 37,
+      "cereal_yield": 6648
+    },
+    "MWI": {
+      "agricultural_land_pct": 29,
+      "cereal_yield": 5096
+    },
+    "MDA": {
+      "agricultural_land_pct": 31,
+      "cereal_yield": 7136
+    },
+    "TON": {
+      "agricultural_land_pct": 52,
+      "cereal_yield": 6960
+    },
+    "XKX": {
+      "agricultural_land_pct": 32,
+      "cereal_yield": 7000
     }
   }
 }

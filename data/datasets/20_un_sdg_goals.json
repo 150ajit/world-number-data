@@ -1,56 +1,602 @@
 {
   "categoryKey": "20_un_sdg_goals",
-  "updatedAt": "2026-11-21T07:19:19.060Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "UN SDSN / Cambridge",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "FIN": {
-      "sdg_overall_score": 86.4
-    },
-    "SWE": {
-      "sdg_overall_score": 86
-    },
-    "DNK": {
-      "sdg_overall_score": 85.7
-    },
-    "DEU": {
-      "sdg_overall_score": 83.4
-    },
-    "FRA": {
-      "sdg_overall_score": 82.8
-    },
-    "GBR": {
-      "sdg_overall_score": 80.6
-    },
-    "JPN": {
-      "sdg_overall_score": 79.9
-    },
-    "CAN": {
-      "sdg_overall_score": 78.5
-    },
-    "USA": {
-      "sdg_overall_score": 74.4
+    "IND": {
+      "sdg_overall_score": 62.7
     },
     "CHN": {
-      "sdg_overall_score": 72.8
+      "sdg_overall_score": 75
     },
-    "BRA": {
-      "sdg_overall_score": 73.7
-    },
-    "RUS": {
-      "sdg_overall_score": 74.1
-    },
-    "IND": {
-      "sdg_overall_score": 66.8
+    "USA": {
+      "sdg_overall_score": 86.8
     },
     "IDN": {
-      "sdg_overall_score": 70.2
+      "sdg_overall_score": 68.6
     },
-    "ZAF": {
-      "sdg_overall_score": 64
+    "PAK": {
+      "sdg_overall_score": 53.9
     },
     "NGA": {
-      "sdg_overall_score": 54.3
+      "sdg_overall_score": 54.6
+    },
+    "BRA": {
+      "sdg_overall_score": 72.6
+    },
+    "BGD": {
+      "sdg_overall_score": 64.2
+    },
+    "RUS": {
+      "sdg_overall_score": 77.8
+    },
+    "ETH": {
+      "sdg_overall_score": 50.3
+    },
+    "MEX": {
+      "sdg_overall_score": 74.4
+    },
+    "JPN": {
+      "sdg_overall_score": 86.2
+    },
+    "PHL": {
+      "sdg_overall_score": 68.3
+    },
+    "EGY": {
+      "sdg_overall_score": 69.9
+    },
+    "COD": {
+      "sdg_overall_score": 48.9
+    },
+    "VNM": {
+      "sdg_overall_score": 69.7
+    },
+    "IRN": {
+      "sdg_overall_score": 74.3
+    },
+    "TUR": {
+      "sdg_overall_score": 80.7
+    },
+    "DEU": {
+      "sdg_overall_score": 88
+    },
+    "THA": {
+      "sdg_overall_score": 76.3
+    },
+    "GBR": {
+      "sdg_overall_score": 87.9
+    },
+    "TZA": {
+      "sdg_overall_score": 53.2
+    },
+    "FRA": {
+      "sdg_overall_score": 85.4
+    },
+    "ZAF": {
+      "sdg_overall_score": 68.9
+    },
+    "ITA": {
+      "sdg_overall_score": 85
+    },
+    "KEN": {
+      "sdg_overall_score": 59.1
+    },
+    "MMR": {
+      "sdg_overall_score": 59.7
+    },
+    "COL": {
+      "sdg_overall_score": 72.4
+    },
+    "KOR": {
+      "sdg_overall_score": 87
+    },
+    "UGA": {
+      "sdg_overall_score": 54.8
+    },
+    "SDN": {
+      "sdg_overall_score": 51.9
+    },
+    "ESP": {
+      "sdg_overall_score": 85.4
+    },
+    "ARG": {
+      "sdg_overall_score": 80.2
+    },
+    "DZA": {
+      "sdg_overall_score": 71.3
+    },
+    "IRQ": {
+      "sdg_overall_score": 65.2
+    },
+    "AFG": {
+      "sdg_overall_score": 47.3
+    },
+    "POL": {
+      "sdg_overall_score": 82.9
+    },
+    "CAN": {
+      "sdg_overall_score": 87.5
+    },
+    "MAR": {
+      "sdg_overall_score": 67.3
+    },
+    "SAU": {
+      "sdg_overall_score": 82.4
+    },
+    "UKR": {
+      "sdg_overall_score": 70.4
+    },
+    "AGO": {
+      "sdg_overall_score": 58.2
+    },
+    "UZB": {
+      "sdg_overall_score": 69.8
+    },
+    "YEM": {
+      "sdg_overall_score": 44
+    },
+    "PER": {
+      "sdg_overall_score": 72.8
+    },
+    "MYS": {
+      "sdg_overall_score": 76.6
+    },
+    "GHA": {
+      "sdg_overall_score": 59.2
+    },
+    "MOZ": {
+      "sdg_overall_score": 47.2
+    },
+    "NPL": {
+      "sdg_overall_score": 59.1
+    },
+    "MDG": {
+      "sdg_overall_score": 49.4
+    },
+    "CIV": {
+      "sdg_overall_score": 53.4
+    },
+    "VEN": {
+      "sdg_overall_score": 67.4
+    },
+    "CMR": {
+      "sdg_overall_score": 57.9
+    },
+    "NER": {
+      "sdg_overall_score": 41.5
+    },
+    "AUS": {
+      "sdg_overall_score": 88
+    },
+    "PRK": {
+      "sdg_overall_score": 70
+    },
+    "TWN": {
+      "sdg_overall_score": 86.7
+    },
+    "MLI": {
+      "sdg_overall_score": 42.9
+    },
+    "LKA": {
+      "sdg_overall_score": 74.3
+    },
+    "SYR": {
+      "sdg_overall_score": 55.3
+    },
+    "KAZ": {
+      "sdg_overall_score": 76.2
+    },
+    "CHL": {
+      "sdg_overall_score": 81.1
+    },
+    "ZMB": {
+      "sdg_overall_score": 56
+    },
+    "ROU": {
+      "sdg_overall_score": 77.8
+    },
+    "TCD": {
+      "sdg_overall_score": 41.5
+    },
+    "SOM": {
+      "sdg_overall_score": 40.3
+    },
+    "SEN": {
+      "sdg_overall_score": 51.9
+    },
+    "NLD": {
+      "sdg_overall_score": 88
+    },
+    "GTM": {
+      "sdg_overall_score": 61.3
+    },
+    "ECU": {
+      "sdg_overall_score": 73
+    },
+    "ZWE": {
+      "sdg_overall_score": 54.8
+    },
+    "GIN": {
+      "sdg_overall_score": 47.5
+    },
+    "RWA": {
+      "sdg_overall_score": 53.4
+    },
+    "BEN": {
+      "sdg_overall_score": 52.6
+    },
+    "BDI": {
+      "sdg_overall_score": 43.7
+    },
+    "BOL": {
+      "sdg_overall_score": 67.3
+    },
+    "TUN": {
+      "sdg_overall_score": 70.2
+    },
+    "HTI": {
+      "sdg_overall_score": 53.5
+    },
+    "BEL": {
+      "sdg_overall_score": 87.6
+    },
+    "JOR": {
+      "sdg_overall_score": 70.6
+    },
+    "DOM": {
+      "sdg_overall_score": 73.1
+    },
+    "CUB": {
+      "sdg_overall_score": 72.9
+    },
+    "SSD": {
+      "sdg_overall_score": 40.7
+    },
+    "SWE": {
+      "sdg_overall_score": 88
+    },
+    "HND": {
+      "sdg_overall_score": 60.8
+    },
+    "CZE": {
+      "sdg_overall_score": 83.6
+    },
+    "AZE": {
+      "sdg_overall_score": 71.3
+    },
+    "GRC": {
+      "sdg_overall_score": 83.4
+    },
+    "PNG": {
+      "sdg_overall_score": 55.4
+    },
+    "PRT": {
+      "sdg_overall_score": 82.3
+    },
+    "HUN": {
+      "sdg_overall_score": 79.9
+    },
+    "TJK": {
+      "sdg_overall_score": 66.2
+    },
+    "ARE": {
+      "sdg_overall_score": 85.4
+    },
+    "BLR": {
+      "sdg_overall_score": 76.7
+    },
+    "ISR": {
+      "sdg_overall_score": 86.1
+    },
+    "TGO": {
+      "sdg_overall_score": 53.8
+    },
+    "AUT": {
+      "sdg_overall_score": 85.9
+    },
+    "CHE": {
+      "sdg_overall_score": 88
+    },
+    "SLE": {
+      "sdg_overall_score": 48.5
+    },
+    "LAO": {
+      "sdg_overall_score": 60.7
+    },
+    "HKG": {
+      "sdg_overall_score": 88
+    },
+    "SRB": {
+      "sdg_overall_score": 76.4
+    },
+    "NIC": {
+      "sdg_overall_score": 64.7
+    },
+    "LBY": {
+      "sdg_overall_score": 69
+    },
+    "PRY": {
+      "sdg_overall_score": 68.9
+    },
+    "KGZ": {
+      "sdg_overall_score": 66.8
+    },
+    "BGR": {
+      "sdg_overall_score": 75.6
+    },
+    "TKM": {
+      "sdg_overall_score": 71.3
+    },
+    "SLV": {
+      "sdg_overall_score": 65.4
+    },
+    "COG": {
+      "sdg_overall_score": 56.5
+    },
+    "SGP": {
+      "sdg_overall_score": 87.8
+    },
+    "DNK": {
+      "sdg_overall_score": 88
+    },
+    "SVK": {
+      "sdg_overall_score": 81.1
+    },
+    "CAF": {
+      "sdg_overall_score": 40.9
+    },
+    "FIN": {
+      "sdg_overall_score": 87.9
+    },
+    "NOR": {
+      "sdg_overall_score": 88
+    },
+    "LBR": {
+      "sdg_overall_score": 48.9
+    },
+    "PSE": {
+      "sdg_overall_score": 68.9
+    },
+    "NZL": {
+      "sdg_overall_score": 87.8
+    },
+    "CRI": {
+      "sdg_overall_score": 76.8
+    },
+    "IRL": {
+      "sdg_overall_score": 88
+    },
+    "MRT": {
+      "sdg_overall_score": 55.3
+    },
+    "OMN": {
+      "sdg_overall_score": 77.4
+    },
+    "PAN": {
+      "sdg_overall_score": 76.4
+    },
+    "KWT": {
+      "sdg_overall_score": 78.6
+    },
+    "HRV": {
+      "sdg_overall_score": 80.9
+    },
+    "GEO": {
+      "sdg_overall_score": 76.2
+    },
+    "ERI": {
+      "sdg_overall_score": 47
+    },
+    "URY": {
+      "sdg_overall_score": 76.8
+    },
+    "MNG": {
+      "sdg_overall_score": 70.8
+    },
+    "BIH": {
+      "sdg_overall_score": 74.3
+    },
+    "QAT": {
+      "sdg_overall_score": 80.7
+    },
+    "NAM": {
+      "sdg_overall_score": 60.3
+    },
+    "ARM": {
+      "sdg_overall_score": 72.5
+    },
+    "LTU": {
+      "sdg_overall_score": 82.4
+    },
+    "JAM": {
+      "sdg_overall_score": 68.3
+    },
+    "ALB": {
+      "sdg_overall_score": 75.7
+    },
+    "GMB": {
+      "sdg_overall_score": 50.5
+    },
+    "GAB": {
+      "sdg_overall_score": 68
+    },
+    "BWA": {
+      "sdg_overall_score": 66.9
+    },
+    "LSO": {
+      "sdg_overall_score": 51.7
+    },
+    "GNB": {
+      "sdg_overall_score": 49.1
+    },
+    "SVN": {
+      "sdg_overall_score": 86
+    },
+    "GNQ": {
+      "sdg_overall_score": 58.7
+    },
+    "LVA": {
+      "sdg_overall_score": 81.4
+    },
+    "MKD": {
+      "sdg_overall_score": 73.5
+    },
+    "BHR": {
+      "sdg_overall_score": 82.4
+    },
+    "TTO": {
+      "sdg_overall_score": 76.9
+    },
+    "TLS": {
+      "sdg_overall_score": 59.6
+    },
+    "CYP": {
+      "sdg_overall_score": 84.2
+    },
+    "EST": {
+      "sdg_overall_score": 83.7
+    },
+    "MUS": {
+      "sdg_overall_score": 76.2
+    },
+    "SWZ": {
+      "sdg_overall_score": 58.7
+    },
+    "DJI": {
+      "sdg_overall_score": 51.3
+    },
+    "FJI": {
+      "sdg_overall_score": 70
+    },
+    "COM": {
+      "sdg_overall_score": 55.4
+    },
+    "GUY": {
+      "sdg_overall_score": 68.7
+    },
+    "BTN": {
+      "sdg_overall_score": 64.6
+    },
+    "SLB": {
+      "sdg_overall_score": 55.9
+    },
+    "LUX": {
+      "sdg_overall_score": 87
+    },
+    "MNE": {
+      "sdg_overall_score": 78.7
+    },
+    "SUR": {
+      "sdg_overall_score": 70
+    },
+    "CPV": {
+      "sdg_overall_score": 64.3
+    },
+    "MDV": {
+      "sdg_overall_score": 71.5
+    },
+    "MLT": {
+      "sdg_overall_score": 85.8
+    },
+    "BRN": {
+      "sdg_overall_score": 78.5
+    },
+    "BLZ": {
+      "sdg_overall_score": 66.1
+    },
+    "BHS": {
+      "sdg_overall_score": 77
+    },
+    "ISL": {
+      "sdg_overall_score": 88
+    },
+    "VUT": {
+      "sdg_overall_score": 59.6
+    },
+    "BRB": {
+      "sdg_overall_score": 75.2
+    },
+    "STP": {
+      "sdg_overall_score": 60.5
+    },
+    "WSM": {
+      "sdg_overall_score": 68.1
+    },
+    "LCA": {
+      "sdg_overall_score": 68.8
+    },
+    "KIR": {
+      "sdg_overall_score": 61
+    },
+    "GRD": {
+      "sdg_overall_score": 75.6
+    },
+    "VCT": {
+      "sdg_overall_score": 71.8
+    },
+    "FSM": {
+      "sdg_overall_score": 61.4
+    },
+    "SYC": {
+      "sdg_overall_score": 74.7
+    },
+    "ATG": {
+      "sdg_overall_score": 75
+    },
+    "AND": {
+      "sdg_overall_score": 80.9
+    },
+    "DMA": {
+      "sdg_overall_score": 69.2
+    },
+    "MHL": {
+      "sdg_overall_score": 62.3
+    },
+    "KNA": {
+      "sdg_overall_score": 74
+    },
+    "MCO": {
+      "sdg_overall_score": 88
+    },
+    "LIE": {
+      "sdg_overall_score": 86.1
+    },
+    "SMR": {
+      "sdg_overall_score": 80.5
+    },
+    "PLW": {
+      "sdg_overall_score": 73.2
+    },
+    "NRU": {
+      "sdg_overall_score": 67.2
+    },
+    "TUV": {
+      "sdg_overall_score": 62.5
+    },
+    "VAT": {
+      "sdg_overall_score": 84.5
+    },
+    "BFA": {
+      "sdg_overall_score": 46.2
+    },
+    "KHM": {
+      "sdg_overall_score": 58.4
+    },
+    "LBN": {
+      "sdg_overall_score": 68
+    },
+    "MWI": {
+      "sdg_overall_score": 51.5
+    },
+    "MDA": {
+      "sdg_overall_score": 73.2
+    },
+    "TON": {
+      "sdg_overall_score": 71.3
+    },
+    "XKX": {
+      "sdg_overall_score": 71.8
     }
   }
 }

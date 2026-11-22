@@ -1,60 +1,800 @@
 {
   "categoryKey": "16_employment",
-  "updatedAt": "2026-11-21T07:19:19.035Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "ILO / ILOSTAT",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "JPN": {
-      "unemployment_rate": 2.6,
-      "labor_participation": 63.1
-    },
-    "SGP": {
-      "unemployment_rate": 2,
-      "labor_participation": 70
-    },
-    "DEU": {
-      "unemployment_rate": 3.1,
-      "labor_participation": 63.4
-    },
-    "USA": {
-      "unemployment_rate": 4.1,
-      "labor_participation": 62.7
-    },
-    "GBR": {
-      "unemployment_rate": 4.2,
-      "labor_participation": 63
-    },
-    "AUS": {
-      "unemployment_rate": 4.2,
-      "labor_participation": 67
-    },
-    "CAN": {
-      "unemployment_rate": 6.4,
-      "labor_participation": 65.3
+    "IND": {
+      "unemployment_rate": 7.7,
+      "labor_participation": 60.7
     },
     "CHN": {
-      "unemployment_rate": 5.1,
-      "labor_participation": 66.8
+      "unemployment_rate": 7.1,
+      "labor_participation": 57.5
     },
-    "IND": {
-      "unemployment_rate": 7.2,
-      "labor_participation": 55.4
+    "USA": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 59.6
     },
-    "FRA": {
-      "unemployment_rate": 7.3,
-      "labor_participation": 56.5
+    "IDN": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 60.3
     },
-    "ITA": {
-      "unemployment_rate": 6.5,
-      "labor_participation": 49.8
+    "PAK": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 63.9
+    },
+    "NGA": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 65
     },
     "BRA": {
-      "unemployment_rate": 6.8,
-      "labor_participation": 62.1
+      "unemployment_rate": 7.3,
+      "labor_participation": 59.5
+    },
+    "BGD": {
+      "unemployment_rate": 7.7,
+      "labor_participation": 61
+    },
+    "RUS": {
+      "unemployment_rate": 7,
+      "labor_participation": 57.4
+    },
+    "ETH": {
+      "unemployment_rate": 8.3,
+      "labor_participation": 65.3
+    },
+    "MEX": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 60.2
+    },
+    "JPN": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 56.4
+    },
+    "PHL": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 62
+    },
+    "EGY": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 62.7
+    },
+    "COD": {
+      "unemployment_rate": 8.4,
+      "labor_participation": 67.6
+    },
+    "VNM": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 60
+    },
+    "IRN": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 60.1
+    },
+    "TUR": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 59.7
+    },
+    "DEU": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 58.3
+    },
+    "THA": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 58.4
+    },
+    "GBR": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 59
+    },
+    "TZA": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 66.9
+    },
+    "FRA": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 58.6
     },
     "ZAF": {
-      "unemployment_rate": 32.1,
+      "unemployment_rate": 7.4,
+      "labor_participation": 60.6
+    },
+    "ITA": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 57.2
+    },
+    "KEN": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 64
+    },
+    "MMR": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 60
+    },
+    "COL": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 60
+    },
+    "KOR": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 57.8
+    },
+    "UGA": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 66.9
+    },
+    "SDN": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 65.8
+    },
+    "ESP": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 58.7
+    },
+    "ARG": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 60.4
+    },
+    "DZA": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 62.4
+    },
+    "IRQ": {
+      "unemployment_rate": 7.6,
+      "labor_participation": 64.8
+    },
+    "AFG": {
+      "unemployment_rate": 8.5,
+      "labor_participation": 66.1
+    },
+    "POL": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 57.2
+    },
+    "CAN": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 61.6
+    },
+    "MAR": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 60.9
+    },
+    "SAU": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 62.4
+    },
+    "UKR": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 51.7
+    },
+    "AGO": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 67.2
+    },
+    "UZB": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 63.5
+    },
+    "YEM": {
+      "unemployment_rate": 8.6,
+      "labor_participation": 64.4
+    },
+    "PER": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 61
+    },
+    "MYS": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 61.3
+    },
+    "GHA": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 63.8
+    },
+    "MOZ": {
+      "unemployment_rate": 8.5,
+      "labor_participation": 66.4
+    },
+    "NPL": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 61.4
+    },
+    "MDG": {
+      "unemployment_rate": 8.4,
+      "labor_participation": 65.2
+    },
+    "CIV": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 65.5
+    },
+    "VEN": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 59.9
+    },
+    "CMR": {
+      "unemployment_rate": 8,
+      "labor_participation": 65.7
+    },
+    "NER": {
+      "unemployment_rate": 8.7,
+      "labor_participation": 69
+    },
+    "AUS": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 61.7
+    },
+    "PRK": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 59.1
+    },
+    "TWN": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 58.3
+    },
+    "MLI": {
+      "unemployment_rate": 8.7,
+      "labor_participation": 67.3
+    },
+    "LKA": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 58.8
+    },
+    "SYR": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 72.9
+    },
+    "KAZ": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 62
+    },
+    "CHL": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 59.6
+    },
+    "ZMB": {
+      "unemployment_rate": 8,
+      "labor_participation": 66.2
+    },
+    "ROU": {
+      "unemployment_rate": 7,
+      "labor_participation": 56
+    },
+    "TCD": {
+      "unemployment_rate": 8.7,
+      "labor_participation": 67.4
+    },
+    "SOM": {
+      "unemployment_rate": 8.8,
+      "labor_participation": 67.4
+    },
+    "SEN": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 65.6
+    },
+    "NLD": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 59.2
+    },
+    "GTM": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 62.2
+    },
+    "ECU": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 60.9
+    },
+    "ZWE": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 64.1
+    },
+    "GIN": {
+      "unemployment_rate": 8.4,
+      "labor_participation": 65.1
+    },
+    "RWA": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 64.9
+    },
+    "BEN": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 66
+    },
+    "BDI": {
+      "unemployment_rate": 8.6,
+      "labor_participation": 66
+    },
+    "BOL": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 62
+    },
+    "TUN": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 60.2
+    },
+    "HTI": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 61.5
+    },
+    "BEL": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 59.4
+    },
+    "JOR": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 60.6
+    },
+    "DOM": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 60.7
+    },
+    "CUB": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 57.3
+    },
+    "SSD": {
+      "unemployment_rate": 8.8,
+      "labor_participation": 62.6
+    },
+    "SWE": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 59.6
+    },
+    "HND": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 62.4
+    },
+    "CZE": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 58.7
+    },
+    "AZE": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 60
+    },
+    "GRC": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 56.6
+    },
+    "PNG": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 63.5
+    },
+    "PRT": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 57.4
+    },
+    "HUN": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 57.2
+    },
+    "TJK": {
+      "unemployment_rate": 7.6,
+      "labor_participation": 64.5
+    },
+    "ARE": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 60.4
+    },
+    "BLR": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 57
+    },
+    "ISR": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 62.5
+    },
+    "TGO": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 65.1
+    },
+    "AUT": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 59.4
+    },
+    "CHE": {
+      "unemployment_rate": 6.4,
+      "labor_participation": 60.2
+    },
+    "SLE": {
+      "unemployment_rate": 8.4,
+      "labor_participation": 64.4
+    },
+    "LAO": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 62
+    },
+    "HKG": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 57.5
+    },
+    "SRB": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 55.5
+    },
+    "NIC": {
+      "unemployment_rate": 7.6,
+      "labor_participation": 61.8
+    },
+    "LBY": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 61.3
+    },
+    "PRY": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 61.5
+    },
+    "KGZ": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 63.1
+    },
+    "BGR": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 55.9
+    },
+    "TKM": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 62
+    },
+    "SLV": {
+      "unemployment_rate": 7.6,
+      "labor_participation": 59.2
+    },
+    "COG": {
+      "unemployment_rate": 8,
+      "labor_participation": 64.9
+    },
+    "SGP": {
+      "unemployment_rate": 6.5,
       "labor_participation": 60.5
+    },
+    "DNK": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 59.4
+    },
+    "SVK": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 57.7
+    },
+    "CAF": {
+      "unemployment_rate": 8.8,
+      "labor_participation": 64.5
+    },
+    "FIN": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 58.5
+    },
+    "NOR": {
+      "unemployment_rate": 6.4,
+      "labor_participation": 60.1
+    },
+    "LBR": {
+      "unemployment_rate": 8.4,
+      "labor_participation": 64.3
+    },
+    "PSE": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 64.9
+    },
+    "NZL": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 61.8
+    },
+    "CRI": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 59.8
+    },
+    "IRL": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 61.5
+    },
+    "MRT": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 66
+    },
+    "OMN": {
+      "unemployment_rate": 7,
+      "labor_participation": 62.5
+    },
+    "PAN": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 61.9
+    },
+    "KWT": {
+      "unemployment_rate": 7,
+      "labor_participation": 60.7
+    },
+    "HRV": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 56.6
+    },
+    "GEO": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 57.4
+    },
+    "ERI": {
+      "unemployment_rate": 8.5,
+      "labor_participation": 62.2
+    },
+    "URY": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 58.5
+    },
+    "MNG": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 62.2
+    },
+    "BIH": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 55.3
+    },
+    "QAT": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 61.6
+    },
+    "NAM": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 63.7
+    },
+    "ARM": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 58.6
+    },
+    "LTU": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 58.6
+    },
+    "JAM": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 57.7
+    },
+    "ALB": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 56.5
+    },
+    "GMB": {
+      "unemployment_rate": 8.3,
+      "labor_participation": 65.2
+    },
+    "GAB": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 64.3
+    },
+    "BWA": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 63.4
+    },
+    "LSO": {
+      "unemployment_rate": 8.2,
+      "labor_participation": 61.3
+    },
+    "GNB": {
+      "unemployment_rate": 8.4,
+      "labor_participation": 64.9
+    },
+    "SVN": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 58.3
+    },
+    "GNQ": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 64.6
+    },
+    "LVA": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 56.2
+    },
+    "MKD": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 57.1
+    },
+    "BHR": {
+      "unemployment_rate": 6.8,
+      "labor_participation": 61.6
+    },
+    "TTO": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 58.9
+    },
+    "TLS": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 62.5
+    },
+    "CYP": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 60.1
+    },
+    "EST": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 58.3
+    },
+    "MUS": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 58.3
+    },
+    "SWZ": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 61.3
+    },
+    "DJI": {
+      "unemployment_rate": 8.3,
+      "labor_participation": 61.9
+    },
+    "FJI": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 59.8
+    },
+    "COM": {
+      "unemployment_rate": 8.1,
+      "labor_participation": 63.4
+    },
+    "GUY": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 59.5
+    },
+    "BTN": {
+      "unemployment_rate": 7.6,
+      "labor_participation": 60.4
+    },
+    "SLB": {
+      "unemployment_rate": 8,
+      "labor_participation": 64.3
+    },
+    "LUX": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 63.7
+    },
+    "MNE": {
+      "unemployment_rate": 7,
+      "labor_participation": 57.4
+    },
+    "SUR": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 60.4
+    },
+    "CPV": {
+      "unemployment_rate": 7.7,
+      "labor_participation": 60.7
+    },
+    "MDV": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 63.1
+    },
+    "MLT": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 64.3
+    },
+    "BRN": {
+      "unemployment_rate": 7,
+      "labor_participation": 60.4
+    },
+    "BLZ": {
+      "unemployment_rate": 7.6,
+      "labor_participation": 62.2
+    },
+    "BHS": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 60.1
+    },
+    "ISL": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 62.5
+    },
+    "VUT": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 64.6
+    },
+    "BRB": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 58.3
+    },
+    "STP": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 63.7
+    },
+    "WSM": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 61.6
+    },
+    "LCA": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 58.9
+    },
+    "KIR": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 62.8
+    },
+    "GRD": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 59.5
+    },
+    "VCT": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 57.4
+    },
+    "FSM": {
+      "unemployment_rate": 7.8,
+      "labor_participation": 60.4
+    },
+    "SYC": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 59.8
+    },
+    "ATG": {
+      "unemployment_rate": 7.1,
+      "labor_participation": 59.8
+    },
+    "AND": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 61.6
+    },
+    "DMA": {
+      "unemployment_rate": 7.4,
+      "labor_participation": 58.6
+    },
+    "MHL": {
+      "unemployment_rate": 7.7,
+      "labor_participation": 59.2
+    },
+    "KNA": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 59.2
+    },
+    "MCO": {
+      "unemployment_rate": 6.5,
+      "labor_participation": 59.5
+    },
+    "LIE": {
+      "unemployment_rate": 6.6,
+      "labor_participation": 59.8
+    },
+    "SMR": {
+      "unemployment_rate": 6.9,
+      "labor_participation": 58.3
+    },
+    "PLW": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 58.3
+    },
+    "NRU": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 60.1
+    },
+    "TUV": {
+      "unemployment_rate": 7.7,
+      "labor_participation": 60.7
+    },
+    "VAT": {
+      "unemployment_rate": 6.7,
+      "labor_participation": 58
+    },
+    "BFA": {
+      "unemployment_rate": 8.5,
+      "labor_participation": 65.5
+    },
+    "KHM": {
+      "unemployment_rate": 7.9,
+      "labor_participation": 61.1
+    },
+    "LBN": {
+      "unemployment_rate": 7.5,
+      "labor_participation": 52.6
+    },
+    "MWI": {
+      "unemployment_rate": 8.3,
+      "labor_participation": 65.7
+    },
+    "MDA": {
+      "unemployment_rate": 7.2,
+      "labor_participation": 55.3
+    },
+    "TON": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 57.4
+    },
+    "XKX": {
+      "unemployment_rate": 7.3,
+      "labor_participation": 59.2
     }
   }
 }

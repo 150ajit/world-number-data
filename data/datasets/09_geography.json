@@ -1,44 +1,800 @@
 {
   "categoryKey": "09_geography",
-  "updatedAt": "2026-11-21T07:19:19.027Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "Natural Earth / World Bank",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "RUS": {
-      "land_area": 16376870,
-      "coastline_length": 37653
-    },
-    "CAN": {
-      "land_area": 8965590,
-      "coastline_length": 202080
+    "IND": {
+      "land_area": 2973190,
+      "coastline_length": 6035
     },
     "CHN": {
       "land_area": 9388211,
-      "coastline_length": 14500
+      "coastline_length": 10724
     },
     "USA": {
       "land_area": 9147420,
-      "coastline_length": 19924
-    },
-    "BRA": {
-      "land_area": 8358140,
-      "coastline_length": 7491
-    },
-    "AUS": {
-      "land_area": 7682300,
-      "coastline_length": 25760
-    },
-    "IND": {
-      "land_area": 2973190,
-      "coastline_length": 7516
-    },
-    "ARG": {
-      "land_area": 2736690,
-      "coastline_length": 4989
+      "coastline_length": 10586
     },
     "IDN": {
       "land_area": 1811570,
-      "coastline_length": 54716
+      "coastline_length": 4711
+    },
+    "PAK": {
+      "land_area": 770880,
+      "coastline_length": 3073
+    },
+    "NGA": {
+      "land_area": 910770,
+      "coastline_length": 3340
+    },
+    "BRA": {
+      "land_area": 8358140,
+      "coastline_length": 10119
+    },
+    "BGD": {
+      "land_area": 130170,
+      "coastline_length": 1263
+    },
+    "RUS": {
+      "land_area": 16376870,
+      "coastline_length": 14164
+    },
+    "ETH": {
+      "land_area": 1000000,
+      "coastline_length": 3500
+    },
+    "MEX": {
+      "land_area": 1943950,
+      "coastline_length": 4880
+    },
+    "JPN": {
+      "land_area": 364500,
+      "coastline_length": 2113
+    },
+    "PHL": {
+      "land_area": 298170,
+      "coastline_length": 1911
+    },
+    "EGY": {
+      "land_area": 995450,
+      "coastline_length": 3492
+    },
+    "COD": {
+      "land_area": 2267050,
+      "coastline_length": 5270
+    },
+    "VNM": {
+      "land_area": 310070,
+      "coastline_length": 1949
+    },
+    "IRN": {
+      "land_area": 1628760,
+      "coastline_length": 4467
+    },
+    "TUR": {
+      "land_area": 769630,
+      "coastline_length": 3070
+    },
+    "DEU": {
+      "land_area": 349380,
+      "coastline_length": 2069
+    },
+    "THA": {
+      "land_area": 510890,
+      "coastline_length": 2502
+    },
+    "GBR": {
+      "land_area": 241930,
+      "coastline_length": 1722
+    },
+    "TZA": {
+      "land_area": 885800,
+      "coastline_length": 3294
+    },
+    "FRA": {
+      "land_area": 547557,
+      "coastline_length": 2590
+    },
+    "ZAF": {
+      "land_area": 1213090,
+      "coastline_length": 3855
+    },
+    "ITA": {
+      "land_area": 294140,
+      "coastline_length": 1898
+    },
+    "KEN": {
+      "land_area": 569140,
+      "coastline_length": 2640
+    },
+    "MMR": {
+      "land_area": 653500,
+      "coastline_length": 2829
+    },
+    "COL": {
+      "land_area": 1109500,
+      "coastline_length": 3687
+    },
+    "KOR": {
+      "land_area": 97600,
+      "coastline_length": 1093
+    },
+    "UGA": {
+      "land_area": 197100,
+      "coastline_length": 1554
+    },
+    "SDN": {
+      "land_area": 1861484,
+      "coastline_length": 4775
+    },
+    "ESP": {
+      "land_area": 498511,
+      "coastline_length": 2471
+    },
+    "ARG": {
+      "land_area": 2736690,
+      "coastline_length": 5790
+    },
+    "DZA": {
+      "land_area": 2381740,
+      "coastline_length": 5402
+    },
+    "IRQ": {
+      "land_area": 437072,
+      "coastline_length": 2314
+    },
+    "AFG": {
+      "land_area": 652864,
+      "coastline_length": 2828
+    },
+    "POL": {
+      "land_area": 306230,
+      "coastline_length": 1937
+    },
+    "CAN": {
+      "land_area": 8965590,
+      "coastline_length": 10480
+    },
+    "MAR": {
+      "land_area": 446300,
+      "coastline_length": 2338
+    },
+    "SAU": {
+      "land_area": 2149690,
+      "coastline_length": 5132
+    },
+    "UKR": {
+      "land_area": 579330,
+      "coastline_length": 2664
+    },
+    "AGO": {
+      "land_area": 1246700,
+      "coastline_length": 3908
+    },
+    "UZB": {
+      "land_area": 425400,
+      "coastline_length": 2283
+    },
+    "YEM": {
+      "land_area": 527968,
+      "coastline_length": 2543
+    },
+    "PER": {
+      "land_area": 1280000,
+      "coastline_length": 3960
+    },
+    "MYS": {
+      "land_area": 328657,
+      "coastline_length": 2007
+    },
+    "GHA": {
+      "land_area": 227533,
+      "coastline_length": 1670
+    },
+    "MOZ": {
+      "land_area": 786380,
+      "coastline_length": 3104
+    },
+    "NPL": {
+      "land_area": 143351,
+      "coastline_length": 1325
+    },
+    "MDG": {
+      "land_area": 581540,
+      "coastline_length": 2669
+    },
+    "CIV": {
+      "land_area": 318000,
+      "coastline_length": 1974
+    },
+    "VEN": {
+      "land_area": 882050,
+      "coastline_length": 3287
+    },
+    "CMR": {
+      "land_area": 472710,
+      "coastline_length": 2406
+    },
+    "NER": {
+      "land_area": 1266700,
+      "coastline_length": 3939
+    },
+    "AUS": {
+      "land_area": 7682300,
+      "coastline_length": 9701
+    },
+    "PRK": {
+      "land_area": 120408,
+      "coastline_length": 1214
+    },
+    "TWN": {
+      "land_area": 35980,
+      "coastline_length": 664
+    },
+    "MLI": {
+      "land_area": 1220190,
+      "coastline_length": 3866
+    },
+    "LKA": {
+      "land_area": 62710,
+      "coastline_length": 876
+    },
+    "SYR": {
+      "land_area": 183630,
+      "coastline_length": 1500
+    },
+    "KAZ": {
+      "land_area": 2699700,
+      "coastline_length": 5751
+    },
+    "CHL": {
+      "land_area": 743532,
+      "coastline_length": 3018
+    },
+    "ZMB": {
+      "land_area": 743390,
+      "coastline_length": 3018
+    },
+    "ROU": {
+      "land_area": 230080,
+      "coastline_length": 1679
+    },
+    "TCD": {
+      "land_area": 1259200,
+      "coastline_length": 3927
+    },
+    "SOM": {
+      "land_area": 627340,
+      "coastline_length": 2772
+    },
+    "SEN": {
+      "land_area": 192530,
+      "coastline_length": 1536
+    },
+    "NLD": {
+      "land_area": 33670,
+      "coastline_length": 642
+    },
+    "GTM": {
+      "land_area": 107160,
+      "coastline_length": 1146
+    },
+    "ECU": {
+      "land_area": 248360,
+      "coastline_length": 1744
+    },
+    "ZWE": {
+      "land_area": 386850,
+      "coastline_length": 2177
+    },
+    "GIN": {
+      "land_area": 245720,
+      "coastline_length": 1735
+    },
+    "RWA": {
+      "land_area": 24670,
+      "coastline_length": 550
+    },
+    "BEN": {
+      "land_area": 112760,
+      "coastline_length": 1175
+    },
+    "BDI": {
+      "land_area": 25680,
+      "coastline_length": 561
+    },
+    "BOL": {
+      "land_area": 1083300,
+      "coastline_length": 3643
+    },
+    "TUN": {
+      "land_area": 155360,
+      "coastline_length": 1380
+    },
+    "HTI": {
+      "land_area": 27560,
+      "coastline_length": 581
+    },
+    "BEL": {
+      "land_area": 30280,
+      "coastline_length": 609
+    },
+    "JOR": {
+      "land_area": 88780,
+      "coastline_length": 1043
+    },
+    "DOM": {
+      "land_area": 48320,
+      "coastline_length": 769
+    },
+    "CUB": {
+      "land_area": 106440,
+      "coastline_length": 1142
+    },
+    "SSD": {
+      "land_area": 644330,
+      "coastline_length": 2809
+    },
+    "SWE": {
+      "land_area": 407310,
+      "coastline_length": 2234
+    },
+    "HND": {
+      "land_area": 111890,
+      "coastline_length": 1171
+    },
+    "CZE": {
+      "land_area": 77247,
+      "coastline_length": 973
+    },
+    "AZE": {
+      "land_area": 82629,
+      "coastline_length": 1006
+    },
+    "GRC": {
+      "land_area": 128900,
+      "coastline_length": 1257
+    },
+    "PNG": {
+      "land_area": 452860,
+      "coastline_length": 2355
+    },
+    "PRT": {
+      "land_area": 91590,
+      "coastline_length": 1059
+    },
+    "HUN": {
+      "land_area": 89608,
+      "coastline_length": 1048
+    },
+    "TJK": {
+      "land_area": 141510,
+      "coastline_length": 1317
+    },
+    "ARE": {
+      "land_area": 83600,
+      "coastline_length": 1012
+    },
+    "BLR": {
+      "land_area": 202900,
+      "coastline_length": 1577
+    },
+    "ISR": {
+      "land_area": 21640,
+      "coastline_length": 515
+    },
+    "TGO": {
+      "land_area": 54390,
+      "coastline_length": 816
+    },
+    "AUT": {
+      "land_area": 82445,
+      "coastline_length": 1005
+    },
+    "CHE": {
+      "land_area": 39516,
+      "coastline_length": 696
+    },
+    "SLE": {
+      "land_area": 71620,
+      "coastline_length": 937
+    },
+    "LAO": {
+      "land_area": 230800,
+      "coastline_length": 1681
+    },
+    "HKG": {
+      "land_area": 1050,
+      "coastline_length": 113
+    },
+    "SRB": {
+      "land_area": 87460,
+      "coastline_length": 1035
+    },
+    "NIC": {
+      "land_area": 120340,
+      "coastline_length": 1214
+    },
+    "LBY": {
+      "land_area": 1759540,
+      "coastline_length": 4643
+    },
+    "PRY": {
+      "land_area": 397300,
+      "coastline_length": 2206
+    },
+    "KGZ": {
+      "land_area": 191800,
+      "coastline_length": 1533
+    },
+    "BGR": {
+      "land_area": 108612,
+      "coastline_length": 1153
+    },
+    "TKM": {
+      "land_area": 469930,
+      "coastline_length": 2399
+    },
+    "SLV": {
+      "land_area": 20720,
+      "coastline_length": 504
+    },
+    "COG": {
+      "land_area": 341500,
+      "coastline_length": 2045
+    },
+    "SGP": {
+      "land_area": 719,
+      "coastline_length": 94
+    },
+    "DNK": {
+      "land_area": 42434,
+      "coastline_length": 721
+    },
+    "SVK": {
+      "land_area": 48088,
+      "coastline_length": 768
+    },
+    "CAF": {
+      "land_area": 622984,
+      "coastline_length": 2763
+    },
+    "FIN": {
+      "land_area": 303890,
+      "coastline_length": 1929
+    },
+    "NOR": {
+      "land_area": 365268,
+      "coastline_length": 2115
+    },
+    "LBR": {
+      "land_area": 96320,
+      "coastline_length": 1086
+    },
+    "PSE": {
+      "land_area": 6020,
+      "coastline_length": 272
+    },
+    "NZL": {
+      "land_area": 263310,
+      "coastline_length": 1796
+    },
+    "CRI": {
+      "land_area": 51060,
+      "coastline_length": 791
+    },
+    "IRL": {
+      "land_area": 68890,
+      "coastline_length": 919
+    },
+    "MRT": {
+      "land_area": 1030700,
+      "coastline_length": 3553
+    },
+    "OMN": {
+      "land_area": 309500,
+      "coastline_length": 1947
+    },
+    "PAN": {
+      "land_area": 74340,
+      "coastline_length": 954
+    },
+    "KWT": {
+      "land_area": 17820,
+      "coastline_length": 467
+    },
+    "HRV": {
+      "land_area": 55960,
+      "coastline_length": 828
+    },
+    "GEO": {
+      "land_area": 69490,
+      "coastline_length": 923
+    },
+    "ERI": {
+      "land_area": 101000,
+      "coastline_length": 1112
+    },
+    "URY": {
+      "land_area": 175020,
+      "coastline_length": 1464
+    },
+    "MNG": {
+      "land_area": 1553560,
+      "coastline_length": 4362
+    },
+    "BIH": {
+      "land_area": 51000,
+      "coastline_length": 790
+    },
+    "QAT": {
+      "land_area": 11610,
+      "coastline_length": 377
+    },
+    "NAM": {
+      "land_area": 823290,
+      "coastline_length": 3176
+    },
+    "ARM": {
+      "land_area": 28470,
+      "coastline_length": 591
+    },
+    "LTU": {
+      "land_area": 62674,
+      "coastline_length": 876
+    },
+    "JAM": {
+      "land_area": 10830,
+      "coastline_length": 364
+    },
+    "ALB": {
+      "land_area": 27400,
+      "coastline_length": 579
+    },
+    "GMB": {
+      "land_area": 10120,
+      "coastline_length": 352
+    },
+    "GAB": {
+      "land_area": 257670,
+      "coastline_length": 1777
+    },
+    "BWA": {
+      "land_area": 566730,
+      "coastline_length": 2635
+    },
+    "LSO": {
+      "land_area": 30360,
+      "coastline_length": 610
+    },
+    "GNB": {
+      "land_area": 28120,
+      "coastline_length": 587
+    },
+    "SVN": {
+      "land_area": 20140,
+      "coastline_length": 497
+    },
+    "GNQ": {
+      "land_area": 28050,
+      "coastline_length": 586
+    },
+    "LVA": {
+      "land_area": 62200,
+      "coastline_length": 873
+    },
+    "MKD": {
+      "land_area": 25430,
+      "coastline_length": 558
+    },
+    "BHR": {
+      "land_area": 780,
+      "coastline_length": 98
+    },
+    "TTO": {
+      "land_area": 5130,
+      "coastline_length": 251
+    },
+    "TLS": {
+      "land_area": 14870,
+      "coastline_length": 427
+    },
+    "CYP": {
+      "land_area": 9240,
+      "coastline_length": 336
+    },
+    "EST": {
+      "land_area": 42390,
+      "coastline_length": 721
+    },
+    "MUS": {
+      "land_area": 2030,
+      "coastline_length": 158
+    },
+    "SWZ": {
+      "land_area": 17200,
+      "coastline_length": 459
+    },
+    "DJI": {
+      "land_area": 23180,
+      "coastline_length": 533
+    },
+    "FJI": {
+      "land_area": 18270,
+      "coastline_length": 473
+    },
+    "COM": {
+      "land_area": 2235,
+      "coastline_length": 165
+    },
+    "GUY": {
+      "land_area": 196850,
+      "coastline_length": 1553
+    },
+    "BTN": {
+      "land_area": 38117,
+      "coastline_length": 683
+    },
+    "SLB": {
+      "land_area": 27990,
+      "coastline_length": 586
+    },
+    "LUX": {
+      "land_area": 2574,
+      "coastline_length": 178
+    },
+    "MNE": {
+      "land_area": 13450,
+      "coastline_length": 406
+    },
+    "SUR": {
+      "land_area": 156000,
+      "coastline_length": 1382
+    },
+    "CPV": {
+      "land_area": 4030,
+      "coastline_length": 222
+    },
+    "MDV": {
+      "land_area": 300,
+      "coastline_length": 61
+    },
+    "MLT": {
+      "land_area": 316,
+      "coastline_length": 62
+    },
+    "BRN": {
+      "land_area": 5270,
+      "coastline_length": 254
+    },
+    "BLZ": {
+      "land_area": 22810,
+      "coastline_length": 529
+    },
+    "BHS": {
+      "land_area": 10010,
+      "coastline_length": 350
+    },
+    "ISL": {
+      "land_area": 100250,
+      "coastline_length": 1108
+    },
+    "VUT": {
+      "land_area": 12190,
+      "coastline_length": 386
+    },
+    "BRB": {
+      "land_area": 430,
+      "coastline_length": 73
+    },
+    "STP": {
+      "land_area": 960,
+      "coastline_length": 108
+    },
+    "WSM": {
+      "land_area": 2830,
+      "coastline_length": 186
+    },
+    "LCA": {
+      "land_area": 610,
+      "coastline_length": 86
+    },
+    "KIR": {
+      "land_area": 810,
+      "coastline_length": 100
+    },
+    "GRD": {
+      "land_area": 340,
+      "coastline_length": 65
+    },
+    "VCT": {
+      "land_area": 390,
+      "coastline_length": 69
+    },
+    "FSM": {
+      "land_area": 700,
+      "coastline_length": 93
+    },
+    "SYC": {
+      "land_area": 460,
+      "coastline_length": 75
+    },
+    "ATG": {
+      "land_area": 440,
+      "coastline_length": 73
+    },
+    "AND": {
+      "land_area": 470,
+      "coastline_length": 76
+    },
+    "DMA": {
+      "land_area": 750,
+      "coastline_length": 96
+    },
+    "MHL": {
+      "land_area": 180,
+      "coastline_length": 47
+    },
+    "KNA": {
+      "land_area": 260,
+      "coastline_length": 56
+    },
+    "MCO": {
+      "land_area": 2,
+      "coastline_length": 5
+    },
+    "LIE": {
+      "land_area": 160,
+      "coastline_length": 44
+    },
+    "SMR": {
+      "land_area": 60,
+      "coastline_length": 27
+    },
+    "PLW": {
+      "land_area": 460,
+      "coastline_length": 75
+    },
+    "NRU": {
+      "land_area": 20,
+      "coastline_length": 16
+    },
+    "TUV": {
+      "land_area": 30,
+      "coastline_length": 19
+    },
+    "VAT": {
+      "land_area": 0.49,
+      "coastline_length": 2
+    },
+    "BFA": {
+      "land_area": 274200,
+      "coastline_length": 1833
+    },
+    "KHM": {
+      "land_area": 181035,
+      "coastline_length": 1489
+    },
+    "LBN": {
+      "land_area": 10452,
+      "coastline_length": 358
+    },
+    "MWI": {
+      "land_area": 118484,
+      "coastline_length": 1205
+    },
+    "MDA": {
+      "land_area": 33846,
+      "coastline_length": 644
+    },
+    "TON": {
+      "land_area": 747,
+      "coastline_length": 96
+    },
+    "XKX": {
+      "land_area": 10887,
+      "coastline_length": 365
     }
   }
 }

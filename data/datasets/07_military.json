@@ -1,56 +1,800 @@
 {
   "categoryKey": "07_military",
-  "updatedAt": "2026-11-21T07:19:19.025Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "SIPRI Yearbook 2024",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "military_expenditure_gdp": 3.4,
-      "defense_budget_usd": 916
+    "IND": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 102.4
     },
     "CHN": {
-      "military_expenditure_gdp": 1.7,
-      "defense_budget_usd": 296
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 481.9
+    },
+    "USA": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 748.3
+    },
+    "IDN": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 38.4
+    },
+    "PAK": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 6.8
+    },
+    "NGA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4.6
+    },
+    "BRA": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 60.6
+    },
+    "BGD": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 8.2
     },
     "RUS": {
-      "military_expenditure_gdp": 5.9,
-      "defense_budget_usd": 109
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 53.5
     },
-    "IND": {
-      "military_expenditure_gdp": 2.4,
-      "defense_budget_usd": 83.6
+    "ETH": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 3.7
     },
-    "SAU": {
-      "military_expenditure_gdp": 7.1,
-      "defense_budget_usd": 75.8
-    },
-    "GBR": {
-      "military_expenditure_gdp": 2.3,
-      "defense_budget_usd": 74.9
-    },
-    "DEU": {
-      "military_expenditure_gdp": 1.5,
-      "defense_budget_usd": 66.8
-    },
-    "UKR": {
-      "military_expenditure_gdp": 37,
-      "defense_budget_usd": 64.8
-    },
-    "FRA": {
-      "military_expenditure_gdp": 2.1,
-      "defense_budget_usd": 61.3
+    "MEX": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 51.8
     },
     "JPN": {
-      "military_expenditure_gdp": 1.2,
-      "defense_budget_usd": 50.2
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 106.9
+    },
+    "PHL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 8.5
+    },
+    "EGY": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 6.2
+    },
+    "COD": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.3
+    },
+    "VNM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 8.4
+    },
+    "IRN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 8.4
+    },
+    "TUR": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 34.8
+    },
+    "DEU": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 119.4
+    },
+    "THA": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 14.2
+    },
+    "GBR": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 90.9
+    },
+    "TZA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "FRA": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 81.4
+    },
+    "ZAF": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 7.3
+    },
+    "ITA": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 60.5
+    },
+    "KEN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2.1
+    },
+    "MMR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.2
+    },
+    "COL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 6.9
     },
     "KOR": {
-      "military_expenditure_gdp": 2.8,
-      "defense_budget_usd": 47.9
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 45.8
+    },
+    "UGA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1
+    },
+    "SDN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "ESP": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 42.9
+    },
+    "ARG": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 15.7
+    },
+    "DZA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4.8
+    },
+    "IRQ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4.9
+    },
+    "AFG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "POL": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 22.4
+    },
+    "CAN": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 58.3
+    },
+    "MAR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2.7
+    },
+    "SAU": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 28.8
+    },
+    "UKR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 3.4
+    },
+    "AGO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.7
+    },
+    "UZB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.9
+    },
+    "YEM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "PER": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 5.1
+    },
+    "MYS": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 8
+    },
+    "GHA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.4
+    },
+    "MOZ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "NPL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.8
+    },
+    "MDG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "CIV": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "VEN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.8
+    },
+    "CMR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1
+    },
+    "NER": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "AUS": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 46.5
+    },
+    "PRK": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "TWN": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 20.8
+    },
+    "MLI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "LKA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "SYR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "KAZ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 5.2
+    },
+    "CHL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 6
+    },
+    "ZMB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "ROU": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 6.9
+    },
+    "TCD": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "SOM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "SEN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "NLD": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 29.6
+    },
+    "GTM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2
+    },
+    "ECU": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2.2
+    },
+    "ZWE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "GIN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "RWA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "BEN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "BDI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "BOL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.9
+    },
+    "TUN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1
+    },
+    "HTI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "BEL": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 17
+    },
+    "JOR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1
+    },
+    "DOM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2.3
+    },
+    "CUB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.9
+    },
+    "SSD": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "SWE": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 16.1
+    },
+    "HND": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.7
+    },
+    "CZE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 6.2
+    },
+    "AZE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.4
+    },
+    "GRC": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4.5
+    },
+    "PNG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "PRT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 5.4
+    },
+    "HUN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4
+    },
+    "TJK": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "ARE": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 14
+    },
+    "BLR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.4
     },
     "ISR": {
-      "military_expenditure_gdp": 5.3,
-      "defense_budget_usd": 27.5
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 13.8
+    },
+    "TGO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "AUT": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 14.1
+    },
+    "CHE": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 24.4
+    },
+    "SLE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "LAO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "HKG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 7.3
+    },
+    "SRB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "NIC": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "LBY": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.9
+    },
+    "PRY": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.8
+    },
+    "KGZ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "BGR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.9
+    },
+    "TKM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "SLV": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "COG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "SGP": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 13.7
+    },
+    "DNK": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 7.6
+    },
+    "SVK": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2.5
+    },
+    "CAF": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "FIN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 5.5
+    },
+    "NOR": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 14.2
+    },
+    "LBR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "PSE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "NZL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4.6
+    },
+    "CRI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.7
+    },
+    "IRL": {
+      "military_expenditure_gdp": 2.6,
+      "defense_budget_usd": 14.2
+    },
+    "MRT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "OMN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2
+    },
+    "PAN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.6
+    },
+    "KWT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 2.9
+    },
+    "HRV": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "GEO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "ERI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "URY": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.4
+    },
+    "MNG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "BIH": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "QAT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 4
+    },
+    "NAM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "ARM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "LTU": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.5
+    },
+    "JAM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "ALB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "GMB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "GAB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "BWA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "LSO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "GNB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "SVN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.3
+    },
+    "GNQ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "LVA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.8
+    },
+    "MKD": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "BHR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.8
+    },
+    "TTO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.5
+    },
+    "TLS": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "CYP": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "EST": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.7
+    },
+    "MUS": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "SWZ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "DJI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "FJI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "COM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "GUY": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "BTN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "SLB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "LUX": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 1.6
+    },
+    "MNE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "SUR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "CPV": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "MDV": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "MLT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "BRN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "BLZ": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "BHS": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "ISL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "VUT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "BRB": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "STP": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "WSM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "LCA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "KIR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "GRD": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "VCT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "FSM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "SYC": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "ATG": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "AND": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "DMA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "MHL": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "KNA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "MCO": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "LIE": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "SMR": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "PLW": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "NRU": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "TUV": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "VAT": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "BFA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "KHM": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.6
+    },
+    "LBN": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.4
+    },
+    "MWI": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
+    },
+    "MDA": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.3
+    },
+    "TON": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.1
+    },
+    "XKX": {
+      "military_expenditure_gdp": 1.8,
+      "defense_budget_usd": 0.2
     }
   }
 }

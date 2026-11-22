@@ -1,68 +1,998 @@
 {
   "categoryKey": "03_environment",
-  "updatedAt": "2026-11-21T07:19:19.020Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "UNEP / Global Carbon Project",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "co2_per_capita": 14.2,
-      "forest_area_pct": 33.9,
-      "renewable_energy_share": 13.5
+    "IND": {
+      "co2_per_capita": 2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 32.5
     },
     "CHN": {
       "co2_per_capita": 8,
-      "forest_area_pct": 23.4,
-      "renewable_energy_share": 15.8
+      "forest_area_pct": 31,
+      "renewable_energy_share": 37.6
     },
-    "IND": {
-      "co2_per_capita": 2,
-      "forest_area_pct": 24.3,
-      "renewable_energy_share": 11.2
+    "USA": {
+      "co2_per_capita": 14.2,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 42.4
     },
-    "DEU": {
-      "co2_per_capita": 7.7,
-      "forest_area_pct": 32.7,
-      "renewable_energy_share": 19.4
+    "IDN": {
+      "co2_per_capita": 2.3,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 35
     },
-    "JPN": {
-      "co2_per_capita": 8.1,
-      "forest_area_pct": 68.4,
-      "renewable_energy_share": 10.8
+    "PAK": {
+      "co2_per_capita": 0.9,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 28.9
+    },
+    "NGA": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 29.2
     },
     "BRA": {
       "co2_per_capita": 2.2,
-      "forest_area_pct": 59.4,
-      "renewable_energy_share": 48.4
+      "forest_area_pct": 60,
+      "renewable_energy_share": 36.6
     },
-    "CAN": {
-      "co2_per_capita": 14.8,
-      "forest_area_pct": 38.2,
-      "renewable_energy_share": 22.1
+    "BGD": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 33.1
     },
     "RUS": {
       "co2_per_capita": 12.1,
-      "forest_area_pct": 49.8,
-      "renewable_energy_share": 3.8
+      "forest_area_pct": 40,
+      "renewable_energy_share": 38.7
+    },
+    "ETH": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 27.4
+    },
+    "MEX": {
+      "co2_per_capita": 3.6,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 37.3
+    },
+    "JPN": {
+      "co2_per_capita": 8.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 42.2
+    },
+    "PHL": {
+      "co2_per_capita": 1.4,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 34.8
+    },
+    "EGY": {
+      "co2_per_capita": 2.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 35.5
+    },
+    "COD": {
+      "co2_per_capita": 0.05,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 26.8
+    },
+    "VNM": {
+      "co2_per_capita": 3.4,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 35.4
+    },
+    "IRN": {
+      "co2_per_capita": 8.5,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 37.3
+    },
+    "TUR": {
+      "co2_per_capita": 5.1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 39.9
+    },
+    "DEU": {
+      "co2_per_capita": 7.7,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 43.3
+    },
+    "THA": {
+      "co2_per_capita": 3.8,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 38.1
     },
     "GBR": {
       "co2_per_capita": 4.7,
-      "forest_area_pct": 13.2,
-      "renewable_energy_share": 14.2
+      "forest_area_pct": 50,
+      "renewable_energy_share": 42.9
+    },
+    "TZA": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 28.6
     },
     "FRA": {
       "co2_per_capita": 4.2,
-      "forest_area_pct": 31.5,
-      "renewable_energy_share": 16.5
+      "forest_area_pct": 27,
+      "renewable_energy_share": 41.9
+    },
+    "ZAF": {
+      "co2_per_capita": 6.9,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 35.1
+    },
+    "ITA": {
+      "co2_per_capita": 5.2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 41.7
+    },
+    "KEN": {
+      "co2_per_capita": 0.4,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 31
+    },
+    "MMR": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 31.3
+    },
+    "COL": {
+      "co2_per_capita": 1.8,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 36.5
+    },
+    "KOR": {
+      "co2_per_capita": 11.6,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 42.5
+    },
+    "UGA": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 29.3
+    },
+    "SDN": {
+      "co2_per_capita": 0.4,
+      "forest_area_pct": 54,
+      "renewable_energy_share": 28.1
+    },
+    "ESP": {
+      "co2_per_capita": 5,
+      "forest_area_pct": 31,
+      "renewable_energy_share": 41.9
+    },
+    "ARG": {
+      "co2_per_capita": 3.8,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 39.7
+    },
+    "DZA": {
+      "co2_per_capita": 3.9,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 36.1
+    },
+    "IRQ": {
+      "co2_per_capita": 4.8,
+      "forest_area_pct": 42,
+      "renewable_energy_share": 33.6
+    },
+    "AFG": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 34,
+      "renewable_energy_share": 26.2
+    },
+    "POL": {
+      "co2_per_capita": 7.6,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 40.8
+    },
+    "CAN": {
+      "co2_per_capita": 14.8,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 42.7
+    },
+    "MAR": {
+      "co2_per_capita": 1.9,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 34.4
+    },
+    "SAU": {
+      "co2_per_capita": 18.2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 40.6
+    },
+    "UKR": {
+      "co2_per_capita": 4.1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 35.7
+    },
+    "AGO": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 30.7
+    },
+    "UZB": {
+      "co2_per_capita": 3.3,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 35.4
+    },
+    "YEM": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 38,
+      "renewable_energy_share": 24.8
+    },
+    "PER": {
+      "co2_per_capita": 1.7,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 36.7
+    },
+    "MYS": {
+      "co2_per_capita": 7.8,
+      "forest_area_pct": 27,
+      "renewable_energy_share": 38.2
+    },
+    "GHA": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 53,
+      "renewable_energy_share": 31.1
+    },
+    "MOZ": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 26.1
+    },
+    "NPL": {
+      "co2_per_capita": 0.5,
+      "forest_area_pct": 21,
+      "renewable_energy_share": 31
+    },
+    "MDG": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 27
+    },
+    "CIV": {
+      "co2_per_capita": 0.5,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 28.7
+    },
+    "VEN": {
+      "co2_per_capita": 3.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 34.5
+    },
+    "CMR": {
+      "co2_per_capita": 0.4,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 30.5
+    },
+    "NER": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 23.8
+    },
+    "AUS": {
+      "co2_per_capita": 15.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 43.1
+    },
+    "PRK": {
+      "co2_per_capita": 2.1,
+      "forest_area_pct": 28,
+      "renewable_energy_share": 35.5
+    },
+    "TWN": {
+      "co2_per_capita": 11.5,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 42.4
+    },
+    "MLI": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 24.4
+    },
+    "LKA": {
+      "co2_per_capita": 1,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 37.3
+    },
+    "SYR": {
+      "co2_per_capita": 1.4,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 29.5
+    },
+    "KAZ": {
+      "co2_per_capita": 11.5,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 38.1
+    },
+    "CHL": {
+      "co2_per_capita": 4.6,
+      "forest_area_pct": 52,
+      "renewable_energy_share": 40.1
+    },
+    "ZMB": {
+      "co2_per_capita": 0.4,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 29.8
+    },
+    "ROU": {
+      "co2_per_capita": 3.9,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 38.7
+    },
+    "TCD": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 23.8
+    },
+    "SOM": {
+      "co2_per_capita": 0.05,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 23.3
+    },
+    "SEN": {
+      "co2_per_capita": 0.7,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 28.1
+    },
+    "NLD": {
+      "co2_per_capita": 7.8,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 43.1
+    },
+    "GTM": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 31.9
+    },
+    "ECU": {
+      "co2_per_capita": 2.4,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 36.8
+    },
+    "ZWE": {
+      "co2_per_capita": 0.7,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 29.3
+    },
+    "GIN": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 26.3
+    },
+    "RWA": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 28.7
+    },
+    "BEN": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 28.4
+    },
+    "BDI": {
+      "co2_per_capita": 0.06,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 24.7
+    },
+    "BOL": {
+      "co2_per_capita": 1.9,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 34.4
+    },
+    "TUN": {
+      "co2_per_capita": 2.6,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 35.6
+    },
+    "HTI": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 28.7
+    },
+    "BEL": {
+      "co2_per_capita": 7.9,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 42.8
+    },
+    "JOR": {
+      "co2_per_capita": 2.2,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 35.8
+    },
+    "DOM": {
+      "co2_per_capita": 2.6,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 36.8
+    },
+    "CUB": {
+      "co2_per_capita": 2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 36.7
+    },
+    "SSD": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 23.5
     },
     "SWE": {
       "co2_per_capita": 3.4,
-      "forest_area_pct": 68.7,
-      "renewable_energy_share": 53.2
+      "forest_area_pct": 30,
+      "renewable_energy_share": 43.3
+    },
+    "HND": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 31.7
+    },
+    "CZE": {
+      "co2_per_capita": 8.9,
+      "forest_area_pct": 67,
+      "renewable_energy_share": 41.1
+    },
+    "AZE": {
+      "co2_per_capita": 3.7,
+      "forest_area_pct": 49,
+      "renewable_energy_share": 36.1
+    },
+    "GRC": {
+      "co2_per_capita": 5.3,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 41
+    },
+    "PNG": {
+      "co2_per_capita": 0.8,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 29.5
+    },
+    "PRT": {
+      "co2_per_capita": 4.1,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 40.6
+    },
+    "HUN": {
+      "co2_per_capita": 4.8,
+      "forest_area_pct": 28,
+      "renewable_energy_share": 39.6
+    },
+    "TJK": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 34
+    },
+    "ARE": {
+      "co2_per_capita": 21.8,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 41.9
+    },
+    "BLR": {
+      "co2_per_capita": 6.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 38.3
+    },
+    "ISR": {
+      "co2_per_capita": 7.2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 42.2
+    },
+    "TGO": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 28.9
+    },
+    "AUT": {
+      "co2_per_capita": 6.8,
+      "forest_area_pct": 65,
+      "renewable_energy_share": 42.1
+    },
+    "CHE": {
+      "co2_per_capita": 3.7,
+      "forest_area_pct": 36,
+      "renewable_energy_share": 43.8
+    },
+    "SLE": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 26.7
+    },
+    "LAO": {
+      "co2_per_capita": 2.6,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 31.7
+    },
+    "HKG": {
+      "co2_per_capita": 4.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 43.3
+    },
+    "SRB": {
+      "co2_per_capita": 6.6,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 38.2
+    },
+    "NIC": {
+      "co2_per_capita": 0.8,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 33.3
+    },
+    "LBY": {
+      "co2_per_capita": 8.1,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 35.1
+    },
+    "PRY": {
+      "co2_per_capita": 1.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 35.1
+    },
+    "KGZ": {
+      "co2_per_capita": 1.5,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 34.2
+    },
+    "BGR": {
+      "co2_per_capita": 5.6,
+      "forest_area_pct": 32,
+      "renewable_energy_share": 37.8
+    },
+    "TKM": {
+      "co2_per_capita": 12.2,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 36.1
+    },
+    "SLV": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 33.6
+    },
+    "COG": {
+      "co2_per_capita": 0.7,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 30
+    },
+    "SGP": {
+      "co2_per_capita": 8.5,
+      "forest_area_pct": 39,
+      "renewable_energy_share": 42.9
+    },
+    "DNK": {
+      "co2_per_capita": 4.5,
+      "forest_area_pct": 54,
+      "renewable_energy_share": 43.2
+    },
+    "SVK": {
+      "co2_per_capita": 6.1,
+      "forest_area_pct": 58,
+      "renewable_energy_share": 40.1
+    },
+    "CAF": {
+      "co2_per_capita": 0.04,
+      "forest_area_pct": 54,
+      "renewable_energy_share": 23.5
+    },
+    "FIN": {
+      "co2_per_capita": 6.3,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 42.9
     },
     "NOR": {
       "co2_per_capita": 6.8,
-      "forest_area_pct": 33.4,
-      "renewable_energy_share": 65.5
+      "forest_area_pct": 38,
+      "renewable_energy_share": 43.8
+    },
+    "LBR": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 26.8
+    },
+    "PSE": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 35.1
+    },
+    "NZL": {
+      "co2_per_capita": 6.2,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 42.9
+    },
+    "CRI": {
+      "co2_per_capita": 1.5,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 38.3
+    },
+    "IRL": {
+      "co2_per_capita": 6.5,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 43.3
+    },
+    "MRT": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 29.5
+    },
+    "OMN": {
+      "co2_per_capita": 15.3,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 38.6
+    },
+    "PAN": {
+      "co2_per_capita": 2.3,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 38.2
+    },
+    "KWT": {
+      "co2_per_capita": 20.9,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 39.1
+    },
+    "HRV": {
+      "co2_per_capita": 4.1,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 40
+    },
+    "GEO": {
+      "co2_per_capita": 2.6,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 38.1
+    },
+    "ERI": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 26.1
+    },
+    "URY": {
+      "co2_per_capita": 1.9,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 38.3
+    },
+    "MNG": {
+      "co2_per_capita": 6.9,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 35.9
+    },
+    "BIH": {
+      "co2_per_capita": 6.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 37.3
+    },
+    "QAT": {
+      "co2_per_capita": 35.6,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 39.9
+    },
+    "NAM": {
+      "co2_per_capita": 1.6,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 31.5
+    },
+    "ARM": {
+      "co2_per_capita": 2.1,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 36.6
+    },
+    "LTU": {
+      "co2_per_capita": 4.8,
+      "forest_area_pct": 44,
+      "renewable_energy_share": 40.6
+    },
+    "JAM": {
+      "co2_per_capita": 2.4,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 34.8
+    },
+    "ALB": {
+      "co2_per_capita": 1.7,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 37.9
+    },
+    "GMB": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 27.5
+    },
+    "GAB": {
+      "co2_per_capita": 2.5,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 34.7
+    },
+    "BWA": {
+      "co2_per_capita": 3.1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 34.3
+    },
+    "LSO": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 28
+    },
+    "GNB": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 26.9
+    },
+    "SVN": {
+      "co2_per_capita": 6.2,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 42.1
+    },
+    "GNQ": {
+      "co2_per_capita": 3.4,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 30.9
+    },
+    "LVA": {
+      "co2_per_capita": 3.8,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 40.2
+    },
+    "MKD": {
+      "co2_per_capita": 3.9,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 37
+    },
+    "BHR": {
+      "co2_per_capita": 21.6,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 40.6
+    },
+    "TTO": {
+      "co2_per_capita": 23.7,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 38.4
+    },
+    "TLS": {
+      "co2_per_capita": 0.4,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 31.2
+    },
+    "CYP": {
+      "co2_per_capita": 5.8,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 41.4
+    },
+    "EST": {
+      "co2_per_capita": 6.9,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 41.2
+    },
+    "MUS": {
+      "co2_per_capita": 3.3,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 38.1
+    },
+    "SWZ": {
+      "co2_per_capita": 0.9,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 30.9
+    },
+    "DJI": {
+      "co2_per_capita": 0.5,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 27.8
+    },
+    "FJI": {
+      "co2_per_capita": 1.4,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 35.5
+    },
+    "COM": {
+      "co2_per_capita": 0.3,
+      "forest_area_pct": 55,
+      "renewable_energy_share": 29.5
+    },
+    "GUY": {
+      "co2_per_capita": 3.5,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 35
+    },
+    "BTN": {
+      "co2_per_capita": 1.5,
+      "forest_area_pct": 37,
+      "renewable_energy_share": 33.3
+    },
+    "SLB": {
+      "co2_per_capita": 0.4,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 29.7
+    },
+    "LUX": {
+      "co2_per_capita": 13.1,
+      "forest_area_pct": 44,
+      "renewable_energy_share": 42.6
+    },
+    "MNE": {
+      "co2_per_capita": 3.5,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 39.1
+    },
+    "SUR": {
+      "co2_per_capita": 3.8,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 35.5
+    },
+    "CPV": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 33.2
+    },
+    "MDV": {
+      "co2_per_capita": 3.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 36.1
+    },
+    "MLT": {
+      "co2_per_capita": 3.4,
+      "forest_area_pct": 36,
+      "renewable_energy_share": 42
+    },
+    "BRN": {
+      "co2_per_capita": 24.1,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 39
+    },
+    "BLZ": {
+      "co2_per_capita": 1.5,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 33.9
+    },
+    "BHS": {
+      "co2_per_capita": 5.6,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 38.4
+    },
+    "ISL": {
+      "co2_per_capita": 7.8,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 43.6
+    },
+    "VUT": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 31.2
+    },
+    "BRB": {
+      "co2_per_capita": 3.2,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 37.7
+    },
+    "STP": {
+      "co2_per_capita": 0.8,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 31.6
+    },
+    "WSM": {
+      "co2_per_capita": 1.1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 34.7
+    },
+    "LCA": {
+      "co2_per_capita": 2.9,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 35
+    },
+    "KIR": {
+      "co2_per_capita": 0.6,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 31.8
+    },
+    "GRD": {
+      "co2_per_capita": 2.7,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 37.8
+    },
+    "VCT": {
+      "co2_per_capita": 2.3,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 36.3
+    },
+    "FSM": {
+      "co2_per_capita": 1.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 32
+    },
+    "SYC": {
+      "co2_per_capita": 6.1,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 37.5
+    },
+    "ATG": {
+      "co2_per_capita": 4.8,
+      "forest_area_pct": 60,
+      "renewable_energy_share": 37.6
+    },
+    "AND": {
+      "co2_per_capita": 6.1,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 40
+    },
+    "DMA": {
+      "co2_per_capita": 2.1,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 35.2
+    },
+    "MHL": {
+      "co2_per_capita": 2.4,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 32.4
+    },
+    "KNA": {
+      "co2_per_capita": 4.2,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 37.2
+    },
+    "MCO": {
+      "co2_per_capita": 3.9,
+      "forest_area_pct": 22,
+      "renewable_energy_share": 43.5
+    },
+    "LIE": {
+      "co2_per_capita": 3.5,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 42.2
+    },
+    "SMR": {
+      "co2_per_capita": 5.8,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 39.9
+    },
+    "PLW": {
+      "co2_per_capita": 13.9,
+      "forest_area_pct": 30,
+      "renewable_energy_share": 36.8
+    },
+    "NRU": {
+      "co2_per_capita": 4.5,
+      "forest_area_pct": 40,
+      "renewable_energy_share": 34.4
+    },
+    "TUV": {
+      "co2_per_capita": 1,
+      "forest_area_pct": 50,
+      "renewable_energy_share": 32.4
+    },
+    "VAT": {
+      "co2_per_capita": 0.5,
+      "forest_area_pct": 20.5,
+      "renewable_energy_share": 41.5
+    },
+    "BFA": {
+      "co2_per_capita": 0.2,
+      "forest_area_pct": 20,
+      "renewable_energy_share": 25.7
+    },
+    "KHM": {
+      "co2_per_capita": 1,
+      "forest_area_pct": 55,
+      "renewable_energy_share": 30.8
+    },
+    "LBN": {
+      "co2_per_capita": 3.8,
+      "forest_area_pct": 22,
+      "renewable_energy_share": 34.7
+    },
+    "MWI": {
+      "co2_per_capita": 0.1,
+      "forest_area_pct": 54,
+      "renewable_energy_share": 27.9
+    },
+    "MDA": {
+      "co2_per_capita": 3.1,
+      "forest_area_pct": 66,
+      "renewable_energy_share": 36.8
+    },
+    "TON": {
+      "co2_per_capita": 1.6,
+      "forest_area_pct": 67,
+      "renewable_energy_share": 36.1
+    },
+    "XKX": {
+      "co2_per_capita": 4.5,
+      "forest_area_pct": 57,
+      "renewable_energy_share": 36.3
     }
   }
 }

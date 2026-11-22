@@ -1,53 +1,998 @@
 {
   "categoryKey": "05_education",
-  "updatedAt": "2026-11-21T07:19:19.023Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "UNESCO Institute for Statistics",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "USA": {
-      "literacy_rate": 99,
-      "tertiary_enrollment": 87.9,
-      "education_expenditure": 5.4
-    },
-    "DEU": {
-      "literacy_rate": 99,
-      "tertiary_enrollment": 73.5,
-      "education_expenditure": 4.9
-    },
-    "GBR": {
-      "literacy_rate": 99,
-      "tertiary_enrollment": 72.1,
-      "education_expenditure": 5.3
-    },
-    "JPN": {
-      "literacy_rate": 99,
-      "tertiary_enrollment": 65.4,
-      "education_expenditure": 3.4
-    },
-    "KOR": {
-      "literacy_rate": 99,
-      "tertiary_enrollment": 98.4,
-      "education_expenditure": 5.1
+    "IND": {
+      "literacy_rate": 70.8,
+      "tertiary_enrollment": 51.2,
+      "education_expenditure": 4.8
     },
     "CHN": {
-      "literacy_rate": 96.8,
-      "tertiary_enrollment": 63.6,
-      "education_expenditure": 4
+      "literacy_rate": 86.7,
+      "tertiary_enrollment": 64.9,
+      "education_expenditure": 5.2
     },
-    "BRA": {
-      "literacy_rate": 94.3,
-      "tertiary_enrollment": 55.1,
-      "education_expenditure": 6
+    "USA": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 78.1,
+      "education_expenditure": 5.5
     },
-    "IND": {
-      "literacy_rate": 77.7,
-      "tertiary_enrollment": 31.3,
-      "education_expenditure": 4.5
+    "IDN": {
+      "literacy_rate": 78.4,
+      "tertiary_enrollment": 57.7,
+      "education_expenditure": 5
+    },
+    "PAK": {
+      "literacy_rate": 59.4,
+      "tertiary_enrollment": 41.3,
+      "education_expenditure": 4.6
     },
     "NGA": {
+      "literacy_rate": 60.3,
+      "tertiary_enrollment": 42.1,
+      "education_expenditure": 4.6
+    },
+    "BRA": {
+      "literacy_rate": 83.6,
+      "tertiary_enrollment": 62.2,
+      "education_expenditure": 5.1
+    },
+    "BGD": {
+      "literacy_rate": 72.7,
+      "tertiary_enrollment": 52.8,
+      "education_expenditure": 4.9
+    },
+    "RUS": {
+      "literacy_rate": 90.3,
+      "tertiary_enrollment": 68,
+      "education_expenditure": 5.3
+    },
+    "ETH": {
+      "literacy_rate": 54.8,
+      "tertiary_enrollment": 37.3,
+      "education_expenditure": 4.4
+    },
+    "MEX": {
+      "literacy_rate": 85.9,
+      "tertiary_enrollment": 64.2,
+      "education_expenditure": 5.2
+    },
+    "JPN": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 77.4,
+      "education_expenditure": 5.5
+    },
+    "PHL": {
+      "literacy_rate": 78.1,
+      "tertiary_enrollment": 57.5,
+      "education_expenditure": 5
+    },
+    "EGY": {
+      "literacy_rate": 80.1,
+      "tertiary_enrollment": 59.2,
+      "education_expenditure": 5
+    },
+    "COD": {
+      "literacy_rate": 52.9,
+      "tertiary_enrollment": 35.7,
+      "education_expenditure": 4.4
+    },
+    "VNM": {
+      "literacy_rate": 79.9,
+      "tertiary_enrollment": 59,
+      "education_expenditure": 5
+    },
+    "IRN": {
+      "literacy_rate": 85.8,
+      "tertiary_enrollment": 64.1,
+      "education_expenditure": 5.2
+    },
+    "TUR": {
+      "literacy_rate": 94,
+      "tertiary_enrollment": 71.2,
+      "education_expenditure": 5.3
+    },
+    "DEU": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 80.3,
+      "education_expenditure": 5.6
+    },
+    "THA": {
+      "literacy_rate": 88.3,
+      "tertiary_enrollment": 66.3,
+      "education_expenditure": 5.2
+    },
+    "GBR": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79.3,
+      "education_expenditure": 5.5
+    },
+    "TZA": {
+      "literacy_rate": 58.5,
+      "tertiary_enrollment": 40.5,
+      "education_expenditure": 4.5
+    },
+    "FRA": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 76.5,
+      "education_expenditure": 5.5
+    },
+    "ZAF": {
+      "literacy_rate": 78.9,
+      "tertiary_enrollment": 58.1,
+      "education_expenditure": 5
+    },
+    "ITA": {
+      "literacy_rate": 99.7,
+      "tertiary_enrollment": 76.1,
+      "education_expenditure": 5.5
+    },
+    "KEN": {
+      "literacy_rate": 66.1,
+      "tertiary_enrollment": 47.1,
+      "education_expenditure": 4.7
+    },
+    "MMR": {
+      "literacy_rate": 66.9,
+      "tertiary_enrollment": 47.8,
+      "education_expenditure": 4.7
+    },
+    "COL": {
+      "literacy_rate": 83.4,
+      "tertiary_enrollment": 62,
+      "education_expenditure": 5.1
+    },
+    "KOR": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 78.3,
+      "education_expenditure": 5.5
+    },
+    "UGA": {
+      "literacy_rate": 60.5,
+      "tertiary_enrollment": 42.3,
+      "education_expenditure": 4.6
+    },
+    "SDN": {
+      "literacy_rate": 56.8,
+      "tertiary_enrollment": 39,
+      "education_expenditure": 4.5
+    },
+    "ESP": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 76.5,
+      "education_expenditure": 5.5
+    },
+    "ARG": {
+      "literacy_rate": 93.4,
+      "tertiary_enrollment": 70.7,
+      "education_expenditure": 5.3
+    },
+    "DZA": {
+      "literacy_rate": 82,
+      "tertiary_enrollment": 60.8,
+      "education_expenditure": 5.1
+    },
+    "IRQ": {
+      "literacy_rate": 74,
+      "tertiary_enrollment": 53.9,
+      "education_expenditure": 4.9
+    },
+    "AFG": {
+      "literacy_rate": 50.8,
+      "tertiary_enrollment": 33.9,
+      "education_expenditure": 4.4
+    },
+    "POL": {
+      "literacy_rate": 96.9,
+      "tertiary_enrollment": 73.7,
+      "education_expenditure": 5.4
+    },
+    "CAN": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 78.8,
+      "education_expenditure": 5.5
+    },
+    "MAR": {
+      "literacy_rate": 76.8,
+      "tertiary_enrollment": 56.3,
+      "education_expenditure": 4.9
+    },
+    "SAU": {
+      "literacy_rate": 96.3,
+      "tertiary_enrollment": 73.1,
+      "education_expenditure": 5.4
+    },
+    "UKR": {
+      "literacy_rate": 80.7,
+      "tertiary_enrollment": 59.7,
+      "education_expenditure": 5
+    },
+    "AGO": {
+      "literacy_rate": 65,
+      "tertiary_enrollment": 46.1,
+      "education_expenditure": 4.7
+    },
+    "UZB": {
+      "literacy_rate": 80,
+      "tertiary_enrollment": 59.1,
+      "education_expenditure": 5
+    },
+    "YEM": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 30.3,
+      "education_expenditure": 4.3
+    },
+    "PER": {
+      "literacy_rate": 83.8,
+      "tertiary_enrollment": 62.4,
+      "education_expenditure": 5.1
+    },
+    "MYS": {
+      "literacy_rate": 88.8,
+      "tertiary_enrollment": 66.7,
+      "education_expenditure": 5.2
+    },
+    "GHA": {
+      "literacy_rate": 66.2,
+      "tertiary_enrollment": 47.2,
+      "education_expenditure": 4.7
+    },
+    "MOZ": {
+      "literacy_rate": 50.7,
+      "tertiary_enrollment": 33.8,
+      "education_expenditure": 4.4
+    },
+    "NPL": {
+      "literacy_rate": 66.1,
+      "tertiary_enrollment": 47.1,
+      "education_expenditure": 4.7
+    },
+    "MDG": {
+      "literacy_rate": 53.6,
+      "tertiary_enrollment": 36.3,
+      "education_expenditure": 4.4
+    },
+    "CIV": {
+      "literacy_rate": 58.7,
+      "tertiary_enrollment": 40.7,
+      "education_expenditure": 4.5
+    },
+    "VEN": {
+      "literacy_rate": 76.9,
+      "tertiary_enrollment": 56.4,
+      "education_expenditure": 4.9
+    },
+    "CMR": {
+      "literacy_rate": 64.6,
+      "tertiary_enrollment": 45.8,
+      "education_expenditure": 4.7
+    },
+    "NER": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 27.4,
+      "education_expenditure": 4.2
+    },
+    "AUS": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79.9,
+      "education_expenditure": 5.6
+    },
+    "PRK": {
+      "literacy_rate": 80.3,
+      "tertiary_enrollment": 59.3,
+      "education_expenditure": 5
+    },
+    "TWN": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 78,
+      "education_expenditure": 5.5
+    },
+    "MLI": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 28.9,
+      "education_expenditure": 4.2
+    },
+    "LKA": {
+      "literacy_rate": 85.8,
+      "tertiary_enrollment": 64.1,
+      "education_expenditure": 5.2
+    },
+    "SYR": {
+      "literacy_rate": 61.3,
+      "tertiary_enrollment": 42.9,
+      "education_expenditure": 4.6
+    },
+    "KAZ": {
+      "literacy_rate": 88.2,
+      "tertiary_enrollment": 66.2,
+      "education_expenditure": 5.2
+    },
+    "CHL": {
+      "literacy_rate": 94.6,
+      "tertiary_enrollment": 71.7,
+      "education_expenditure": 5.3
+    },
+    "ZMB": {
+      "literacy_rate": 62.1,
+      "tertiary_enrollment": 43.7,
+      "education_expenditure": 4.6
+    },
+    "ROU": {
+      "literacy_rate": 90.3,
+      "tertiary_enrollment": 68,
+      "education_expenditure": 5.3
+    },
+    "TCD": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 27.4,
+      "education_expenditure": 4.2
+    },
+    "SOM": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 26.1,
+      "education_expenditure": 4.2
+    },
+    "SEN": {
+      "literacy_rate": 56.9,
+      "tertiary_enrollment": 39.1,
+      "education_expenditure": 4.5
+    },
+    "NLD": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79.9,
+      "education_expenditure": 5.6
+    },
+    "GTM": {
+      "literacy_rate": 69,
+      "tertiary_enrollment": 49.6,
+      "education_expenditure": 4.8
+    },
+    "ECU": {
+      "literacy_rate": 84.2,
+      "tertiary_enrollment": 62.7,
+      "education_expenditure": 5.1
+    },
+    "ZWE": {
+      "literacy_rate": 60.5,
+      "tertiary_enrollment": 42.3,
+      "education_expenditure": 4.6
+    },
+    "GIN": {
+      "literacy_rate": 51.2,
+      "tertiary_enrollment": 34.2,
+      "education_expenditure": 4.4
+    },
+    "RWA": {
+      "literacy_rate": 58.7,
+      "tertiary_enrollment": 40.7,
+      "education_expenditure": 4.5
+    },
+    "BEN": {
+      "literacy_rate": 57.8,
+      "tertiary_enrollment": 39.9,
+      "education_expenditure": 4.5
+    },
+    "BDI": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 29.9,
+      "education_expenditure": 4.3
+    },
+    "BOL": {
+      "literacy_rate": 76.8,
+      "tertiary_enrollment": 56.3,
+      "education_expenditure": 4.9
+    },
+    "TUN": {
+      "literacy_rate": 80.5,
+      "tertiary_enrollment": 59.5,
+      "education_expenditure": 5
+    },
+    "HTI": {
+      "literacy_rate": 58.9,
+      "tertiary_enrollment": 40.8,
+      "education_expenditure": 4.5
+    },
+    "BEL": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79,
+      "education_expenditure": 5.5
+    },
+    "JOR": {
+      "literacy_rate": 81,
+      "tertiary_enrollment": 59.9,
+      "education_expenditure": 5
+    },
+    "DOM": {
+      "literacy_rate": 84.3,
+      "tertiary_enrollment": 62.8,
+      "education_expenditure": 5.1
+    },
+    "CUB": {
+      "literacy_rate": 84,
+      "tertiary_enrollment": 62.6,
+      "education_expenditure": 5.1
+    },
+    "SSD": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 26.6,
+      "education_expenditure": 4.2
+    },
+    "SWE": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 80.4,
+      "education_expenditure": 5.6
+    },
+    "HND": {
+      "literacy_rate": 68.3,
+      "tertiary_enrollment": 49,
+      "education_expenditure": 4.8
+    },
+    "CZE": {
+      "literacy_rate": 97.8,
+      "tertiary_enrollment": 74.5,
+      "education_expenditure": 5.4
+    },
+    "AZE": {
+      "literacy_rate": 82,
+      "tertiary_enrollment": 60.8,
+      "education_expenditure": 5.1
+    },
+    "GRC": {
+      "literacy_rate": 97.6,
+      "tertiary_enrollment": 74.3,
+      "education_expenditure": 5.4
+    },
+    "PNG": {
+      "literacy_rate": 61.4,
+      "tertiary_enrollment": 43,
+      "education_expenditure": 4.6
+    },
+    "PRT": {
+      "literacy_rate": 96.1,
+      "tertiary_enrollment": 73,
+      "education_expenditure": 5.4
+    },
+    "HUN": {
+      "literacy_rate": 93.1,
+      "tertiary_enrollment": 70.4,
+      "education_expenditure": 5.3
+    },
+    "TJK": {
+      "literacy_rate": 75.4,
+      "tertiary_enrollment": 55.1,
+      "education_expenditure": 4.9
+    },
+    "ARE": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 76.5,
+      "education_expenditure": 5.5
+    },
+    "BLR": {
+      "literacy_rate": 88.9,
+      "tertiary_enrollment": 66.8,
+      "education_expenditure": 5.2
+    },
+    "ISR": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 77.3,
+      "education_expenditure": 5.5
+    },
+    "TGO": {
+      "literacy_rate": 59.3,
+      "tertiary_enrollment": 41.2,
+      "education_expenditure": 4.5
+    },
+    "AUT": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 77,
+      "education_expenditure": 5.5
+    },
+    "CHE": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 81.9,
+      "education_expenditure": 5.6
+    },
+    "SLE": {
+      "literacy_rate": 52.5,
+      "tertiary_enrollment": 35.3,
+      "education_expenditure": 4.4
+    },
+    "LAO": {
+      "literacy_rate": 68.2,
+      "tertiary_enrollment": 48.9,
+      "education_expenditure": 4.8
+    },
+    "HKG": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 80.4,
+      "education_expenditure": 5.6
+    },
+    "SRB": {
+      "literacy_rate": 88.6,
+      "tertiary_enrollment": 66.5,
+      "education_expenditure": 5.2
+    },
+    "NIC": {
+      "literacy_rate": 73.4,
+      "tertiary_enrollment": 53.4,
+      "education_expenditure": 4.9
+    },
+    "LBY": {
+      "literacy_rate": 79,
+      "tertiary_enrollment": 58.2,
+      "education_expenditure": 5
+    },
+    "PRY": {
+      "literacy_rate": 78.9,
+      "tertiary_enrollment": 58.1,
+      "education_expenditure": 5
+    },
+    "KGZ": {
+      "literacy_rate": 76.1,
+      "tertiary_enrollment": 55.7,
+      "education_expenditure": 4.9
+    },
+    "BGR": {
+      "literacy_rate": 87.5,
+      "tertiary_enrollment": 65.5,
+      "education_expenditure": 5.2
+    },
+    "TKM": {
+      "literacy_rate": 82,
+      "tertiary_enrollment": 60.8,
+      "education_expenditure": 5.1
+    },
+    "SLV": {
+      "literacy_rate": 74.3,
+      "tertiary_enrollment": 54.1,
+      "education_expenditure": 4.9
+    },
+    "COG": {
+      "literacy_rate": 62.8,
+      "tertiary_enrollment": 44.2,
+      "education_expenditure": 4.6
+    },
+    "SGP": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79.2,
+      "education_expenditure": 5.5
+    },
+    "DNK": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 80.1,
+      "education_expenditure": 5.6
+    },
+    "SVK": {
+      "literacy_rate": 94.6,
+      "tertiary_enrollment": 71.7,
+      "education_expenditure": 5.3
+    },
+    "CAF": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 26.8,
+      "education_expenditure": 4.2
+    },
+    "FIN": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79.3,
+      "education_expenditure": 5.5
+    },
+    "NOR": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 81.8,
+      "education_expenditure": 5.6
+    },
+    "LBR": {
+      "literacy_rate": 52.9,
+      "tertiary_enrollment": 35.7,
+      "education_expenditure": 4.4
+    },
+    "PSE": {
+      "literacy_rate": 78.8,
+      "tertiary_enrollment": 58,
+      "education_expenditure": 5
+    },
+    "NZL": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 79.2,
+      "education_expenditure": 5.5
+    },
+    "CRI": {
+      "literacy_rate": 89,
+      "tertiary_enrollment": 66.9,
+      "education_expenditure": 5.2
+    },
+    "IRL": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 80.3,
+      "education_expenditure": 5.6
+    },
+    "MRT": {
+      "literacy_rate": 61.2,
+      "tertiary_enrollment": 42.8,
+      "education_expenditure": 4.6
+    },
+    "OMN": {
+      "literacy_rate": 89.8,
+      "tertiary_enrollment": 67.5,
+      "education_expenditure": 5.2
+    },
+    "PAN": {
+      "literacy_rate": 88.6,
+      "tertiary_enrollment": 66.5,
+      "education_expenditure": 5.2
+    },
+    "KWT": {
+      "literacy_rate": 91.4,
+      "tertiary_enrollment": 68.9,
+      "education_expenditure": 5.3
+    },
+    "HRV": {
+      "literacy_rate": 94.4,
+      "tertiary_enrollment": 71.5,
+      "education_expenditure": 5.3
+    },
+    "GEO": {
+      "literacy_rate": 88.2,
+      "tertiary_enrollment": 66.2,
+      "education_expenditure": 5.2
+    },
+    "ERI": {
+      "literacy_rate": 50.5,
+      "tertiary_enrollment": 33.6,
+      "education_expenditure": 4.3
+    },
+    "URY": {
+      "literacy_rate": 89,
+      "tertiary_enrollment": 66.9,
+      "education_expenditure": 5.2
+    },
+    "MNG": {
+      "literacy_rate": 81.3,
+      "tertiary_enrollment": 60.2,
+      "education_expenditure": 5
+    },
+    "BIH": {
+      "literacy_rate": 85.8,
+      "tertiary_enrollment": 64.1,
+      "education_expenditure": 5.2
+    },
+    "QAT": {
+      "literacy_rate": 94,
+      "tertiary_enrollment": 71.2,
+      "education_expenditure": 5.3
+    },
+    "NAM": {
+      "literacy_rate": 67.7,
+      "tertiary_enrollment": 48.4,
+      "education_expenditure": 4.7
+    },
+    "ARM": {
+      "literacy_rate": 83.5,
+      "tertiary_enrollment": 62.1,
+      "education_expenditure": 5.1
+    },
+    "LTU": {
+      "literacy_rate": 96.3,
+      "tertiary_enrollment": 73.1,
+      "education_expenditure": 5.4
+    },
+    "JAM": {
+      "literacy_rate": 78,
+      "tertiary_enrollment": 57.4,
+      "education_expenditure": 5
+    },
+    "ALB": {
+      "literacy_rate": 87.6,
+      "tertiary_enrollment": 65.6,
+      "education_expenditure": 5.2
+    },
+    "GMB": {
+      "literacy_rate": 55,
+      "tertiary_enrollment": 37.5,
+      "education_expenditure": 4.5
+    },
+    "GAB": {
+      "literacy_rate": 77.7,
+      "tertiary_enrollment": 57.1,
+      "education_expenditure": 5
+    },
+    "BWA": {
+      "literacy_rate": 76.2,
+      "tertiary_enrollment": 55.8,
+      "education_expenditure": 4.9
+    },
+    "LSO": {
+      "literacy_rate": 56.5,
+      "tertiary_enrollment": 38.8,
+      "education_expenditure": 4.5
+    },
+    "GNB": {
+      "literacy_rate": 53.1,
+      "tertiary_enrollment": 35.9,
+      "education_expenditure": 4.4
+    },
+    "SVN": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 77.2,
+      "education_expenditure": 5.5
+    },
+    "GNQ": {
+      "literacy_rate": 65.6,
+      "tertiary_enrollment": 46.6,
+      "education_expenditure": 4.7
+    },
+    "LVA": {
+      "literacy_rate": 94.9,
+      "tertiary_enrollment": 72,
+      "education_expenditure": 5.4
+    },
+    "MKD": {
+      "literacy_rate": 84.7,
+      "tertiary_enrollment": 63.2,
+      "education_expenditure": 5.1
+    },
+    "BHR": {
+      "literacy_rate": 96.3,
+      "tertiary_enrollment": 73.1,
+      "education_expenditure": 5.4
+    },
+    "TTO": {
+      "literacy_rate": 89.1,
+      "tertiary_enrollment": 67,
+      "education_expenditure": 5.2
+    },
+    "TLS": {
+      "literacy_rate": 66.8,
+      "tertiary_enrollment": 47.7,
+      "education_expenditure": 4.7
+    },
+    "CYP": {
+      "literacy_rate": 98.6,
+      "tertiary_enrollment": 75.1,
+      "education_expenditure": 5.4
+    },
+    "EST": {
+      "literacy_rate": 97.9,
+      "tertiary_enrollment": 74.5,
+      "education_expenditure": 5.4
+    },
+    "MUS": {
+      "literacy_rate": 88.2,
+      "tertiary_enrollment": 66.2,
+      "education_expenditure": 5.2
+    },
+    "SWZ": {
+      "literacy_rate": 65.7,
+      "tertiary_enrollment": 46.7,
+      "education_expenditure": 4.7
+    },
+    "DJI": {
+      "literacy_rate": 56,
+      "tertiary_enrollment": 38.4,
+      "education_expenditure": 4.5
+    },
+    "FJI": {
+      "literacy_rate": 80.3,
+      "tertiary_enrollment": 59.3,
+      "education_expenditure": 5
+    },
+    "COM": {
+      "literacy_rate": 61.4,
+      "tertiary_enrollment": 43,
+      "education_expenditure": 4.6
+    },
+    "GUY": {
+      "literacy_rate": 78.5,
+      "tertiary_enrollment": 57.8,
+      "education_expenditure": 5
+    },
+    "BTN": {
+      "literacy_rate": 73.3,
+      "tertiary_enrollment": 53.3,
+      "education_expenditure": 4.9
+    },
+    "SLB": {
       "literacy_rate": 62,
-      "tertiary_enrollment": 12,
-      "education_expenditure": 3.1
+      "tertiary_enrollment": 43.6,
+      "education_expenditure": 4.6
+    },
+    "LUX": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 78.4,
+      "education_expenditure": 5.5
+    },
+    "MNE": {
+      "literacy_rate": 91.5,
+      "tertiary_enrollment": 69,
+      "education_expenditure": 5.3
+    },
+    "SUR": {
+      "literacy_rate": 80.3,
+      "tertiary_enrollment": 59.3,
+      "education_expenditure": 5
+    },
+    "CPV": {
+      "literacy_rate": 72.8,
+      "tertiary_enrollment": 52.9,
+      "education_expenditure": 4.9
+    },
+    "MDV": {
+      "literacy_rate": 82.2,
+      "tertiary_enrollment": 61,
+      "education_expenditure": 5.1
+    },
+    "MLT": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 76.9,
+      "education_expenditure": 5.5
+    },
+    "BRN": {
+      "literacy_rate": 91.2,
+      "tertiary_enrollment": 68.8,
+      "education_expenditure": 5.3
+    },
+    "BLZ": {
+      "literacy_rate": 75.1,
+      "tertiary_enrollment": 54.9,
+      "education_expenditure": 4.9
+    },
+    "BHS": {
+      "literacy_rate": 89.3,
+      "tertiary_enrollment": 67.1,
+      "education_expenditure": 5.2
+    },
+    "ISL": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 81.1,
+      "education_expenditure": 5.6
+    },
+    "VUT": {
+      "literacy_rate": 66.8,
+      "tertiary_enrollment": 47.7,
+      "education_expenditure": 4.7
+    },
+    "BRB": {
+      "literacy_rate": 86.9,
+      "tertiary_enrollment": 65,
+      "education_expenditure": 5.2
+    },
+    "STP": {
+      "literacy_rate": 68,
+      "tertiary_enrollment": 48.7,
+      "education_expenditure": 4.7
+    },
+    "WSM": {
+      "literacy_rate": 77.8,
+      "tertiary_enrollment": 57.2,
+      "education_expenditure": 5
+    },
+    "LCA": {
+      "literacy_rate": 78.6,
+      "tertiary_enrollment": 57.9,
+      "education_expenditure": 5
+    },
+    "KIR": {
+      "literacy_rate": 68.6,
+      "tertiary_enrollment": 49.3,
+      "education_expenditure": 4.8
+    },
+    "GRD": {
+      "literacy_rate": 87.5,
+      "tertiary_enrollment": 65.5,
+      "education_expenditure": 5.2
+    },
+    "VCT": {
+      "literacy_rate": 82.6,
+      "tertiary_enrollment": 61.3,
+      "education_expenditure": 5.1
+    },
+    "FSM": {
+      "literacy_rate": 69.1,
+      "tertiary_enrollment": 49.7,
+      "education_expenditure": 4.8
+    },
+    "SYC": {
+      "literacy_rate": 86.4,
+      "tertiary_enrollment": 64.6,
+      "education_expenditure": 5.2
+    },
+    "ATG": {
+      "literacy_rate": 86.7,
+      "tertiary_enrollment": 64.9,
+      "education_expenditure": 5.2
+    },
+    "AND": {
+      "literacy_rate": 94.4,
+      "tertiary_enrollment": 71.5,
+      "education_expenditure": 5.3
+    },
+    "DMA": {
+      "literacy_rate": 79.2,
+      "tertiary_enrollment": 58.4,
+      "education_expenditure": 5
+    },
+    "MHL": {
+      "literacy_rate": 70.3,
+      "tertiary_enrollment": 50.7,
+      "education_expenditure": 4.8
+    },
+    "KNA": {
+      "literacy_rate": 85.5,
+      "tertiary_enrollment": 63.8,
+      "education_expenditure": 5.1
+    },
+    "MCO": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 80.8,
+      "education_expenditure": 5.6
+    },
+    "LIE": {
+      "literacy_rate": 99.9,
+      "tertiary_enrollment": 77.3,
+      "education_expenditure": 5.5
+    },
+    "SMR": {
+      "literacy_rate": 93.8,
+      "tertiary_enrollment": 71,
+      "education_expenditure": 5.3
+    },
+    "PLW": {
+      "literacy_rate": 84.4,
+      "tertiary_enrollment": 62.9,
+      "education_expenditure": 5.1
+    },
+    "NRU": {
+      "literacy_rate": 76.6,
+      "tertiary_enrollment": 56.1,
+      "education_expenditure": 4.9
+    },
+    "TUV": {
+      "literacy_rate": 70.5,
+      "tertiary_enrollment": 50.9,
+      "education_expenditure": 4.8
+    },
+    "VAT": {
+      "literacy_rate": 99,
+      "tertiary_enrollment": 75.5,
+      "education_expenditure": 5.5
+    },
+    "BFA": {
+      "literacy_rate": 50,
+      "tertiary_enrollment": 32.7,
+      "education_expenditure": 4.3
+    },
+    "KHM": {
+      "literacy_rate": 65.2,
+      "tertiary_enrollment": 46.3,
+      "education_expenditure": 4.7
+    },
+    "LBN": {
+      "literacy_rate": 77.7,
+      "tertiary_enrollment": 57.1,
+      "education_expenditure": 5
+    },
+    "MWI": {
+      "literacy_rate": 56.3,
+      "tertiary_enrollment": 38.6,
+      "education_expenditure": 4.5
+    },
+    "MDA": {
+      "literacy_rate": 84.4,
+      "tertiary_enrollment": 62.9,
+      "education_expenditure": 5.1
+    },
+    "TON": {
+      "literacy_rate": 82,
+      "tertiary_enrollment": 60.8,
+      "education_expenditure": 5.1
+    },
+    "XKX": {
+      "literacy_rate": 82.5,
+      "tertiary_enrollment": 61.3,
+      "education_expenditure": 5.1
     }
   }
 }

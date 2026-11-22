@@ -1,48 +1,800 @@
 {
   "categoryKey": "17_science",
-  "updatedAt": "2026-11-21T07:19:19.036Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "UNESCO / Scopus",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "ISR": {
-      "rnd_expenditure_gdp": 5.6,
-      "scientific_publications": 24000
-    },
-    "KOR": {
-      "rnd_expenditure_gdp": 4.9,
-      "scientific_publications": 89000
-    },
-    "USA": {
-      "rnd_expenditure_gdp": 3.5,
-      "scientific_publications": 460000
-    },
-    "JPN": {
-      "rnd_expenditure_gdp": 3.3,
-      "scientific_publications": 105000
-    },
-    "DEU": {
-      "rnd_expenditure_gdp": 3.1,
-      "scientific_publications": 120000
+    "IND": {
+      "rnd_expenditure_gdp": 1.26,
+      "scientific_publications": 177165
     },
     "CHN": {
-      "rnd_expenditure_gdp": 2.4,
-      "scientific_publications": 800000
+      "rnd_expenditure_gdp": 1.72,
+      "scientific_publications": 833985
     },
-    "GBR": {
-      "rnd_expenditure_gdp": 2.9,
-      "scientific_publications": 115000
+    "USA": {
+      "rnd_expenditure_gdp": 2.17,
+      "scientific_publications": 1295145
     },
-    "FRA": {
-      "rnd_expenditure_gdp": 2.2,
-      "scientific_publications": 80000
+    "IDN": {
+      "rnd_expenditure_gdp": 1.48,
+      "scientific_publications": 66375
     },
-    "IND": {
-      "rnd_expenditure_gdp": 0.7,
-      "scientific_publications": 185000
+    "PAK": {
+      "rnd_expenditure_gdp": 0.93,
+      "scientific_publications": 16875
+    },
+    "NGA": {
+      "rnd_expenditure_gdp": 0.95,
+      "scientific_publications": 11385
     },
     "BRA": {
+      "rnd_expenditure_gdp": 1.63,
+      "scientific_publications": 104895
+    },
+    "BGD": {
+      "rnd_expenditure_gdp": 1.32,
+      "scientific_publications": 20475
+    },
+    "RUS": {
+      "rnd_expenditure_gdp": 1.83,
+      "scientific_publications": 92520
+    },
+    "ETH": {
+      "rnd_expenditure_gdp": 0.79,
+      "scientific_publications": 9225
+    },
+    "MEX": {
+      "rnd_expenditure_gdp": 1.7,
+      "scientific_publications": 89685
+    },
+    "JPN": {
+      "rnd_expenditure_gdp": 2.14,
+      "scientific_publications": 184950
+    },
+    "PHL": {
+      "rnd_expenditure_gdp": 1.47,
+      "scientific_publications": 21150
+    },
+    "EGY": {
+      "rnd_expenditure_gdp": 1.53,
+      "scientific_publications": 15615
+    },
+    "COD": {
+      "rnd_expenditure_gdp": 0.74,
+      "scientific_publications": 3285
+    },
+    "VNM": {
+      "rnd_expenditure_gdp": 1.52,
+      "scientific_publications": 21105
+    },
+    "IRN": {
+      "rnd_expenditure_gdp": 1.7,
+      "scientific_publications": 20880
+    },
+    "TUR": {
+      "rnd_expenditure_gdp": 1.94,
+      "scientific_publications": 60300
+    },
+    "DEU": {
+      "rnd_expenditure_gdp": 2.24,
+      "scientific_publications": 206595
+    },
+    "THA": {
+      "rnd_expenditure_gdp": 1.77,
+      "scientific_publications": 24660
+    },
+    "GBR": {
+      "rnd_expenditure_gdp": 2.21,
+      "scientific_publications": 157275
+    },
+    "TZA": {
+      "rnd_expenditure_gdp": 0.9,
+      "scientific_publications": 3870
+    },
+    "FRA": {
+      "rnd_expenditure_gdp": 2.11,
+      "scientific_publications": 140850
+    },
+    "ZAF": {
+      "rnd_expenditure_gdp": 1.49,
+      "scientific_publications": 18135
+    },
+    "ITA": {
+      "rnd_expenditure_gdp": 2.1,
+      "scientific_publications": 104760
+    },
+    "KEN": {
+      "rnd_expenditure_gdp": 1.12,
+      "scientific_publications": 5220
+    },
+    "MMR": {
+      "rnd_expenditure_gdp": 1.15,
+      "scientific_publications": 3060
+    },
+    "COL": {
+      "rnd_expenditure_gdp": 1.63,
+      "scientific_publications": 17370
+    },
+    "KOR": {
+      "rnd_expenditure_gdp": 2.17,
+      "scientific_publications": 79245
+    },
+    "UGA": {
+      "rnd_expenditure_gdp": 0.96,
+      "scientific_publications": 2385
+    },
+    "SDN": {
+      "rnd_expenditure_gdp": 0.85,
+      "scientific_publications": 1440
+    },
+    "ESP": {
+      "rnd_expenditure_gdp": 2.12,
+      "scientific_publications": 74250
+    },
+    "ARG": {
+      "rnd_expenditure_gdp": 1.92,
+      "scientific_publications": 27180
+    },
+    "DZA": {
+      "rnd_expenditure_gdp": 1.58,
+      "scientific_publications": 11970
+    },
+    "IRQ": {
+      "rnd_expenditure_gdp": 1.35,
+      "scientific_publications": 12150
+    },
+    "AFG": {
+      "rnd_expenditure_gdp": 0.68,
+      "scientific_publications": 675
+    },
+    "POL": {
+      "rnd_expenditure_gdp": 2.02,
+      "scientific_publications": 38790
+    },
+    "CAN": {
+      "rnd_expenditure_gdp": 2.19,
+      "scientific_publications": 100890
+    },
+    "MAR": {
+      "rnd_expenditure_gdp": 1.43,
+      "scientific_publications": 6840
+    },
+    "SAU": {
+      "rnd_expenditure_gdp": 2,
+      "scientific_publications": 49770
+    },
+    "UKR": {
+      "rnd_expenditure_gdp": 1.55,
+      "scientific_publications": 8505
+    },
+    "AGO": {
+      "rnd_expenditure_gdp": 1.09,
+      "scientific_publications": 4185
+    },
+    "UZB": {
+      "rnd_expenditure_gdp": 1.53,
+      "scientific_publications": 4680
+    },
+    "YEM": {
+      "rnd_expenditure_gdp": 0.56,
+      "scientific_publications": 945
+    },
+    "PER": {
+      "rnd_expenditure_gdp": 1.64,
+      "scientific_publications": 12690
+    },
+    "MYS": {
+      "rnd_expenditure_gdp": 1.78,
+      "scientific_publications": 20025
+    },
+    "GHA": {
+      "rnd_expenditure_gdp": 1.13,
+      "scientific_publications": 3420
+    },
+    "MOZ": {
+      "rnd_expenditure_gdp": 0.68,
+      "scientific_publications": 990
+    },
+    "NPL": {
+      "rnd_expenditure_gdp": 1.12,
+      "scientific_publications": 1935
+    },
+    "MDG": {
+      "rnd_expenditure_gdp": 0.76,
+      "scientific_publications": 720
+    },
+    "CIV": {
+      "rnd_expenditure_gdp": 0.91,
+      "scientific_publications": 3870
+    },
+    "VEN": {
+      "rnd_expenditure_gdp": 1.44,
+      "scientific_publications": 4590
+    },
+    "CMR": {
+      "rnd_expenditure_gdp": 1.08,
+      "scientific_publications": 2385
+    },
+    "NER": {
+      "rnd_expenditure_gdp": 0.46,
+      "scientific_publications": 855
+    },
+    "AUS": {
+      "rnd_expenditure_gdp": 2.23,
+      "scientific_publications": 80550
+    },
+    "PRK": {
+      "rnd_expenditure_gdp": 1.54,
+      "scientific_publications": 1305
+    },
+    "TWN": {
+      "rnd_expenditure_gdp": 2.16,
+      "scientific_publications": 36000
+    },
+    "MLI": {
+      "rnd_expenditure_gdp": 0.51,
+      "scientific_publications": 945
+    },
+    "LKA": {
+      "rnd_expenditure_gdp": 1.7,
+      "scientific_publications": 3780
+    },
+    "SYR": {
+      "rnd_expenditure_gdp": 0.98,
+      "scientific_publications": 810
+    },
+    "KAZ": {
+      "rnd_expenditure_gdp": 1.77,
+      "scientific_publications": 13095
+    },
+    "CHL": {
+      "rnd_expenditure_gdp": 1.95,
+      "scientific_publications": 14985
+    },
+    "ZMB": {
+      "rnd_expenditure_gdp": 1.01,
+      "scientific_publications": 1305
+    },
+    "ROU": {
+      "rnd_expenditure_gdp": 1.83,
+      "scientific_publications": 17145
+    },
+    "TCD": {
+      "rnd_expenditure_gdp": 0.46,
+      "scientific_publications": 585
+    },
+    "SOM": {
+      "rnd_expenditure_gdp": 0.42,
+      "scientific_publications": 495
+    },
+    "SEN": {
+      "rnd_expenditure_gdp": 0.85,
+      "scientific_publications": 1395
+    },
+    "NLD": {
+      "rnd_expenditure_gdp": 2.23,
+      "scientific_publications": 51300
+    },
+    "GTM": {
+      "rnd_expenditure_gdp": 1.21,
+      "scientific_publications": 4950
+    },
+    "ECU": {
+      "rnd_expenditure_gdp": 1.65,
+      "scientific_publications": 5445
+    },
+    "ZWE": {
+      "rnd_expenditure_gdp": 0.96,
+      "scientific_publications": 1440
+    },
+    "GIN": {
+      "rnd_expenditure_gdp": 0.69,
+      "scientific_publications": 1125
+    },
+    "RWA": {
+      "rnd_expenditure_gdp": 0.91,
+      "scientific_publications": 630
+    },
+    "BEN": {
+      "rnd_expenditure_gdp": 0.88,
+      "scientific_publications": 945
+    },
+    "BDI": {
+      "rnd_expenditure_gdp": 0.54,
+      "scientific_publications": 180
+    },
+    "BOL": {
+      "rnd_expenditure_gdp": 1.43,
+      "scientific_publications": 2205
+    },
+    "TUN": {
+      "rnd_expenditure_gdp": 1.54,
+      "scientific_publications": 2430
+    },
+    "HTI": {
+      "rnd_expenditure_gdp": 0.91,
+      "scientific_publications": 1125
+    },
+    "BEL": {
+      "rnd_expenditure_gdp": 2.2,
+      "scientific_publications": 29475
+    },
+    "JOR": {
+      "rnd_expenditure_gdp": 1.56,
+      "scientific_publications": 2385
+    },
+    "DOM": {
+      "rnd_expenditure_gdp": 1.65,
+      "scientific_publications": 5715
+    },
+    "CUB": {
+      "rnd_expenditure_gdp": 1.64,
+      "scientific_publications": 4815
+    },
+    "SSD": {
+      "rnd_expenditure_gdp": 0.43,
+      "scientific_publications": 315
+    },
+    "SWE": {
+      "rnd_expenditure_gdp": 2.25,
+      "scientific_publications": 27900
+    },
+    "HND": {
+      "rnd_expenditure_gdp": 1.19,
+      "scientific_publications": 1665
+    },
+    "CZE": {
+      "rnd_expenditure_gdp": 2.04,
+      "scientific_publications": 15390
+    },
+    "AZE": {
+      "rnd_expenditure_gdp": 1.58,
+      "scientific_publications": 3510
+    },
+    "GRC": {
+      "rnd_expenditure_gdp": 2.04,
+      "scientific_publications": 11250
+    },
+    "PNG": {
+      "rnd_expenditure_gdp": 0.99,
+      "scientific_publications": 1440
+    },
+    "PRT": {
+      "rnd_expenditure_gdp": 2,
+      "scientific_publications": 13410
+    },
+    "HUN": {
+      "rnd_expenditure_gdp": 1.91,
+      "scientific_publications": 10035
+    },
+    "TJK": {
+      "rnd_expenditure_gdp": 1.39,
+      "scientific_publications": 585
+    },
+    "ARE": {
+      "rnd_expenditure_gdp": 2.12,
+      "scientific_publications": 24165
+    },
+    "BLR": {
+      "rnd_expenditure_gdp": 1.79,
+      "scientific_publications": 3375
+    },
+    "ISR": {
+      "rnd_expenditure_gdp": 2.14,
+      "scientific_publications": 23895
+    },
+    "TGO": {
+      "rnd_expenditure_gdp": 0.92,
+      "scientific_publications": 405
+    },
+    "AUT": {
+      "rnd_expenditure_gdp": 2.13,
+      "scientific_publications": 24345
+    },
+    "CHE": {
+      "rnd_expenditure_gdp": 2.29,
+      "scientific_publications": 42210
+    },
+    "SLE": {
+      "rnd_expenditure_gdp": 0.73,
+      "scientific_publications": 180
+    },
+    "LAO": {
+      "rnd_expenditure_gdp": 1.18,
+      "scientific_publications": 720
+    },
+    "HKG": {
+      "rnd_expenditure_gdp": 2.25,
+      "scientific_publications": 18315
+    },
+    "SRB": {
+      "rnd_expenditure_gdp": 1.78,
+      "scientific_publications": 3690
+    },
+    "NIC": {
+      "rnd_expenditure_gdp": 1.33,
+      "scientific_publications": 855
+    },
+    "LBY": {
+      "rnd_expenditure_gdp": 1.5,
+      "scientific_publications": 2205
+    },
+    "PRY": {
+      "rnd_expenditure_gdp": 1.49,
+      "scientific_publications": 2025
+    },
+    "KGZ": {
+      "rnd_expenditure_gdp": 1.41,
+      "scientific_publications": 630
+    },
+    "BGR": {
+      "rnd_expenditure_gdp": 1.74,
+      "scientific_publications": 4860
+    },
+    "TKM": {
+      "rnd_expenditure_gdp": 1.58,
+      "scientific_publications": 3735
+    },
+    "SLV": {
+      "rnd_expenditure_gdp": 1.36,
+      "scientific_publications": 1575
+    },
+    "COG": {
+      "rnd_expenditure_gdp": 1.03,
+      "scientific_publications": 675
+    },
+    "SGP": {
+      "rnd_expenditure_gdp": 2.2,
+      "scientific_publications": 23625
+    },
+    "DNK": {
+      "rnd_expenditure_gdp": 2.23,
+      "scientific_publications": 18900
+    },
+    "SVK": {
+      "rnd_expenditure_gdp": 1.95,
+      "scientific_publications": 6300
+    },
+    "CAF": {
+      "rnd_expenditure_gdp": 0.44,
+      "scientific_publications": 135
+    },
+    "FIN": {
+      "rnd_expenditure_gdp": 2.21,
+      "scientific_publications": 13860
+    },
+    "NOR": {
+      "rnd_expenditure_gdp": 2.29,
+      "scientific_publications": 24570
+    },
+    "LBR": {
+      "rnd_expenditure_gdp": 0.74,
+      "scientific_publications": 180
+    },
+    "PSE": {
+      "rnd_expenditure_gdp": 1.49,
+      "scientific_publications": 810
+    },
+    "NZL": {
+      "rnd_expenditure_gdp": 2.2,
+      "scientific_publications": 11385
+    },
+    "CRI": {
+      "rnd_expenditure_gdp": 1.79,
+      "scientific_publications": 4320
+    },
+    "IRL": {
+      "rnd_expenditure_gdp": 2.24,
+      "scientific_publications": 24525
+    },
+    "MRT": {
+      "rnd_expenditure_gdp": 0.98,
+      "scientific_publications": 450
+    },
+    "OMN": {
+      "rnd_expenditure_gdp": 1.81,
+      "scientific_publications": 4995
+    },
+    "PAN": {
+      "rnd_expenditure_gdp": 1.78,
+      "scientific_publications": 3915
+    },
+    "KWT": {
+      "rnd_expenditure_gdp": 1.86,
+      "scientific_publications": 7245
+    },
+    "HRV": {
+      "rnd_expenditure_gdp": 1.95,
+      "scientific_publications": 3870
+    },
+    "GEO": {
+      "rnd_expenditure_gdp": 1.77,
+      "scientific_publications": 1485
+    },
+    "ERI": {
+      "rnd_expenditure_gdp": 0.67,
+      "scientific_publications": 135
+    },
+    "URY": {
+      "rnd_expenditure_gdp": 1.79,
+      "scientific_publications": 3600
+    },
+    "MNG": {
+      "rnd_expenditure_gdp": 1.56,
+      "scientific_publications": 990
+    },
+    "BIH": {
+      "rnd_expenditure_gdp": 1.7,
+      "scientific_publications": 1260
+    },
+    "QAT": {
+      "rnd_expenditure_gdp": 1.94,
+      "scientific_publications": 9945
+    },
+    "NAM": {
+      "rnd_expenditure_gdp": 1.17,
+      "scientific_publications": 585
+    },
+    "ARM": {
+      "rnd_expenditure_gdp": 1.63,
+      "scientific_publications": 1125
+    },
+    "LTU": {
+      "rnd_expenditure_gdp": 2,
+      "scientific_publications": 3690
+    },
+    "JAM": {
+      "rnd_expenditure_gdp": 1.47,
+      "scientific_publications": 900
+    },
+    "ALB": {
+      "rnd_expenditure_gdp": 1.75,
+      "scientific_publications": 1125
+    },
+    "GMB": {
+      "rnd_expenditure_gdp": 0.8,
+      "scientific_publications": 90
+    },
+    "GAB": {
+      "rnd_expenditure_gdp": 1.46,
+      "scientific_publications": 945
+    },
+    "BWA": {
+      "rnd_expenditure_gdp": 1.42,
+      "scientific_publications": 945
+    },
+    "LSO": {
+      "rnd_expenditure_gdp": 0.84,
+      "scientific_publications": 135
+    },
+    "GNB": {
+      "rnd_expenditure_gdp": 0.75,
+      "scientific_publications": 90
+    },
+    "SVN": {
+      "rnd_expenditure_gdp": 2.14,
+      "scientific_publications": 3240
+    },
+    "GNQ": {
+      "rnd_expenditure_gdp": 1.11,
+      "scientific_publications": 540
+    },
+    "LVA": {
+      "rnd_expenditure_gdp": 1.96,
+      "scientific_publications": 2115
+    },
+    "MKD": {
+      "rnd_expenditure_gdp": 1.66,
+      "scientific_publications": 720
+    },
+    "BHR": {
+      "rnd_expenditure_gdp": 2,
+      "scientific_publications": 2115
+    },
+    "TTO": {
+      "rnd_expenditure_gdp": 1.79,
+      "scientific_publications": 1350
+    },
+    "TLS": {
+      "rnd_expenditure_gdp": 1.14,
+      "scientific_publications": 90
+    },
+    "CYP": {
+      "rnd_expenditure_gdp": 2.07,
+      "scientific_publications": 1440
+    },
+    "EST": {
+      "rnd_expenditure_gdp": 2.05,
+      "scientific_publications": 1845
+    },
+    "MUS": {
+      "rnd_expenditure_gdp": 1.77,
+      "scientific_publications": 675
+    },
+    "SWZ": {
+      "rnd_expenditure_gdp": 1.11,
+      "scientific_publications": 225
+    },
+    "DJI": {
+      "rnd_expenditure_gdp": 0.83,
+      "scientific_publications": 180
+    },
+    "FJI": {
+      "rnd_expenditure_gdp": 1.54,
+      "scientific_publications": 270
+    },
+    "COM": {
+      "rnd_expenditure_gdp": 0.99,
+      "scientific_publications": 45
+    },
+    "GUY": {
+      "rnd_expenditure_gdp": 1.48,
+      "scientific_publications": 945
+    },
+    "BTN": {
+      "rnd_expenditure_gdp": 1.33,
+      "scientific_publications": 135
+    },
+    "SLB": {
+      "rnd_expenditure_gdp": 1,
+      "scientific_publications": 90
+    },
+    "LUX": {
+      "rnd_expenditure_gdp": 2.18,
+      "scientific_publications": 4005
+    },
+    "MNE": {
+      "rnd_expenditure_gdp": 1.86,
+      "scientific_publications": 360
+    },
+    "SUR": {
+      "rnd_expenditure_gdp": 1.54,
+      "scientific_publications": 180
+    },
+    "CPV": {
+      "rnd_expenditure_gdp": 1.32,
+      "scientific_publications": 135
+    },
+    "MDV": {
+      "rnd_expenditure_gdp": 1.59,
+      "scientific_publications": 315
+    },
+    "MLT": {
+      "rnd_expenditure_gdp": 2.13,
+      "scientific_publications": 945
+    },
+    "BRN": {
+      "rnd_expenditure_gdp": 1.85,
+      "scientific_publications": 720
+    },
+    "BLZ": {
+      "rnd_expenditure_gdp": 1.39,
+      "scientific_publications": 135
+    },
+    "BHS": {
+      "rnd_expenditure_gdp": 1.8,
+      "scientific_publications": 630
+    },
+    "ISL": {
+      "rnd_expenditure_gdp": 2.27,
+      "scientific_publications": 1395
+    },
+    "VUT": {
+      "rnd_expenditure_gdp": 1.14,
+      "scientific_publications": 45
+    },
+    "BRB": {
+      "rnd_expenditure_gdp": 1.73,
+      "scientific_publications": 270
+    },
+    "STP": {
+      "rnd_expenditure_gdp": 1.18,
+      "scientific_publications": 45
+    },
+    "WSM": {
+      "rnd_expenditure_gdp": 1.46,
+      "scientific_publications": 45
+    },
+    "LCA": {
+      "rnd_expenditure_gdp": 1.49,
+      "scientific_publications": 90
+    },
+    "KIR": {
       "rnd_expenditure_gdp": 1.2,
-      "scientific_publications": 80000
+      "scientific_publications": 14
+    },
+    "GRD": {
+      "rnd_expenditure_gdp": 1.74,
+      "scientific_publications": 45
+    },
+    "VCT": {
+      "rnd_expenditure_gdp": 1.6,
+      "scientific_publications": 45
+    },
+    "FSM": {
+      "rnd_expenditure_gdp": 1.21,
+      "scientific_publications": 18
+    },
+    "SYC": {
+      "rnd_expenditure_gdp": 1.71,
+      "scientific_publications": 90
+    },
+    "ATG": {
+      "rnd_expenditure_gdp": 1.72,
+      "scientific_publications": 90
+    },
+    "AND": {
+      "rnd_expenditure_gdp": 1.95,
+      "scientific_publications": 180
+    },
+    "DMA": {
+      "rnd_expenditure_gdp": 1.5,
+      "scientific_publications": 31
+    },
+    "MHL": {
+      "rnd_expenditure_gdp": 1.24,
+      "scientific_publications": 14
+    },
+    "KNA": {
+      "rnd_expenditure_gdp": 1.69,
+      "scientific_publications": 45
+    },
+    "MCO": {
+      "rnd_expenditure_gdp": 2.26,
+      "scientific_publications": 405
+    },
+    "LIE": {
+      "rnd_expenditure_gdp": 2.14,
+      "scientific_publications": 315
+    },
+    "SMR": {
+      "rnd_expenditure_gdp": 1.93,
+      "scientific_publications": 90
+    },
+    "PLW": {
+      "rnd_expenditure_gdp": 1.65,
+      "scientific_publications": 14
+    },
+    "NRU": {
+      "rnd_expenditure_gdp": 1.43,
+      "scientific_publications": 10
+    },
+    "TUV": {
+      "rnd_expenditure_gdp": 1.25,
+      "scientific_publications": 10
+    },
+    "VAT": {
+      "rnd_expenditure_gdp": 2.08,
+      "scientific_publications": 10
+    },
+    "BFA": {
+      "rnd_expenditure_gdp": 0.64,
+      "scientific_publications": 900
+    },
+    "KHM": {
+      "rnd_expenditure_gdp": 1.1,
+      "scientific_publications": 1440
+    },
+    "LBN": {
+      "rnd_expenditure_gdp": 1.46,
+      "scientific_publications": 945
+    },
+    "MWI": {
+      "rnd_expenditure_gdp": 0.84,
+      "scientific_publications": 585
+    },
+    "MDA": {
+      "rnd_expenditure_gdp": 1.65,
+      "scientific_publications": 720
+    },
+    "TON": {
+      "rnd_expenditure_gdp": 1.58,
+      "scientific_publications": 23
+    },
+    "XKX": {
+      "rnd_expenditure_gdp": 1.6,
+      "scientific_publications": 450
     }
   }
 }

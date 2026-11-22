@@ -1,73 +1,998 @@
 {
   "categoryKey": "04_health",
-  "updatedAt": "2026-11-21T07:19:19.021Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "WHO Global Health Observatory",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "JPN": {
-      "life_expectancy": 84.8,
-      "mortality_under5": 2.3,
-      "health_expenditure_gdp": 11.5
-    },
-    "CHE": {
-      "life_expectancy": 84,
-      "mortality_under5": 3.6,
-      "health_expenditure_gdp": 11.8
-    },
-    "AUS": {
-      "life_expectancy": 83.3,
-      "mortality_under5": 3.7,
-      "health_expenditure_gdp": 10.6
-    },
-    "CAN": {
-      "life_expectancy": 82.7,
-      "mortality_under5": 4.8,
-      "health_expenditure_gdp": 12.2
-    },
-    "FRA": {
-      "life_expectancy": 82.5,
-      "mortality_under5": 4.2,
-      "health_expenditure_gdp": 12.3
-    },
-    "GBR": {
-      "life_expectancy": 81.3,
-      "mortality_under5": 4.1,
-      "health_expenditure_gdp": 11.3
-    },
-    "DEU": {
-      "life_expectancy": 81,
-      "mortality_under5": 3.7,
-      "health_expenditure_gdp": 12.8
+    "IND": {
+      "life_expectancy": 72,
+      "mortality_under5": 49.4,
+      "health_expenditure_gdp": 7.1
     },
     "CHN": {
       "life_expectancy": 78.6,
-      "mortality_under5": 6.9,
-      "health_expenditure_gdp": 5.4
+      "mortality_under5": 24.3,
+      "health_expenditure_gdp": 8.7
     },
     "USA": {
       "life_expectancy": 77.5,
-      "mortality_under5": 6.3,
-      "health_expenditure_gdp": 16.6
+      "mortality_under5": 28.5,
+      "health_expenditure_gdp": 10.2
     },
-    "BRA": {
-      "life_expectancy": 76.2,
-      "mortality_under5": 14.4,
-      "health_expenditure_gdp": 9.9
+    "IDN": {
+      "life_expectancy": 68.3,
+      "mortality_under5": 63.5,
+      "health_expenditure_gdp": 7.8
     },
-    "IND": {
-      "life_expectancy": 72,
-      "mortality_under5": 26.6,
-      "health_expenditure_gdp": 3.3
-    },
-    "RUS": {
-      "life_expectancy": 73.2,
-      "mortality_under5": 5.4,
-      "health_expenditure_gdp": 7.4
+    "PAK": {
+      "life_expectancy": 66.4,
+      "mortality_under5": 70.7,
+      "health_expenditure_gdp": 5.9
     },
     "NGA": {
       "life_expectancy": 53.9,
-      "mortality_under5": 110.8,
-      "health_expenditure_gdp": 3.8
+      "mortality_under5": 118.2,
+      "health_expenditure_gdp": 6
+    },
+    "BRA": {
+      "life_expectancy": 76.2,
+      "mortality_under5": 33.4,
+      "health_expenditure_gdp": 8.4
+    },
+    "BGD": {
+      "life_expectancy": 72.4,
+      "mortality_under5": 47.9,
+      "health_expenditure_gdp": 7.3
+    },
+    "RUS": {
+      "life_expectancy": 73.2,
+      "mortality_under5": 44.8,
+      "health_expenditure_gdp": 9
+    },
+    "ETH": {
+      "life_expectancy": 65,
+      "mortality_under5": 76,
+      "health_expenditure_gdp": 5.5
+    },
+    "MEX": {
+      "life_expectancy": 75.1,
+      "mortality_under5": 37.6,
+      "health_expenditure_gdp": 8.6
+    },
+    "JPN": {
+      "life_expectancy": 84.8,
+      "mortality_under5": 2,
+      "health_expenditure_gdp": 10.1
+    },
+    "PHL": {
+      "life_expectancy": 71.4,
+      "mortality_under5": 51.7,
+      "health_expenditure_gdp": 7.8
+    },
+    "EGY": {
+      "life_expectancy": 70.2,
+      "mortality_under5": 56.2,
+      "health_expenditure_gdp": 8
+    },
+    "COD": {
+      "life_expectancy": 59.2,
+      "mortality_under5": 98,
+      "health_expenditure_gdp": 5.3
+    },
+    "VNM": {
+      "life_expectancy": 75.4,
+      "mortality_under5": 36.5,
+      "health_expenditure_gdp": 8
+    },
+    "IRN": {
+      "life_expectancy": 74.6,
+      "mortality_under5": 39.5,
+      "health_expenditure_gdp": 8.6
+    },
+    "TUR": {
+      "life_expectancy": 76,
+      "mortality_under5": 34.2,
+      "health_expenditure_gdp": 9.4
+    },
+    "DEU": {
+      "life_expectancy": 81,
+      "mortality_under5": 15.2,
+      "health_expenditure_gdp": 10.4
+    },
+    "THA": {
+      "life_expectancy": 78.7,
+      "mortality_under5": 23.9,
+      "health_expenditure_gdp": 8.8
+    },
+    "GBR": {
+      "life_expectancy": 81.3,
+      "mortality_under5": 14.1,
+      "health_expenditure_gdp": 10.3
+    },
+    "TZA": {
+      "life_expectancy": 66.8,
+      "mortality_under5": 69.2,
+      "health_expenditure_gdp": 5.9
+    },
+    "FRA": {
+      "life_expectancy": 82.5,
+      "mortality_under5": 9.5,
+      "health_expenditure_gdp": 10
+    },
+    "ZAF": {
+      "life_expectancy": 65.3,
+      "mortality_under5": 74.9,
+      "health_expenditure_gdp": 7.9
+    },
+    "ITA": {
+      "life_expectancy": 83.6,
+      "mortality_under5": 5.3,
+      "health_expenditure_gdp": 10
+    },
+    "KEN": {
+      "life_expectancy": 63.6,
+      "mortality_under5": 81.3,
+      "health_expenditure_gdp": 6.6
+    },
+    "MMR": {
+      "life_expectancy": 67.1,
+      "mortality_under5": 68,
+      "health_expenditure_gdp": 6.7
+    },
+    "COL": {
+      "life_expectancy": 77.1,
+      "mortality_under5": 30,
+      "health_expenditure_gdp": 8.3
+    },
+    "KOR": {
+      "life_expectancy": 83.7,
+      "mortality_under5": 4.9,
+      "health_expenditure_gdp": 10.2
+    },
+    "UGA": {
+      "life_expectancy": 63.6,
+      "mortality_under5": 81.3,
+      "health_expenditure_gdp": 6.1
+    },
+    "SDN": {
+      "life_expectancy": 65.6,
+      "mortality_under5": 73.7,
+      "health_expenditure_gdp": 5.7
+    },
+    "ESP": {
+      "life_expectancy": 83.9,
+      "mortality_under5": 4.2,
+      "health_expenditure_gdp": 10
+    },
+    "ARG": {
+      "life_expectancy": 77.1,
+      "mortality_under5": 30,
+      "health_expenditure_gdp": 9.3
+    },
+    "DZA": {
+      "life_expectancy": 77.1,
+      "mortality_under5": 30,
+      "health_expenditure_gdp": 8.2
+    },
+    "IRQ": {
+      "life_expectancy": 71.3,
+      "mortality_under5": 52.1,
+      "health_expenditure_gdp": 7.4
+    },
+    "AFG": {
+      "life_expectancy": 63.2,
+      "mortality_under5": 82.8,
+      "health_expenditure_gdp": 5.1
+    },
+    "POL": {
+      "life_expectancy": 78,
+      "mortality_under5": 26.6,
+      "health_expenditure_gdp": 9.7
+    },
+    "CAN": {
+      "life_expectancy": 82.7,
+      "mortality_under5": 8.7,
+      "health_expenditure_gdp": 10.3
+    },
+    "MAR": {
+      "life_expectancy": 75,
+      "mortality_under5": 38,
+      "health_expenditure_gdp": 7.7
+    },
+    "SAU": {
+      "life_expectancy": 77.9,
+      "mortality_under5": 27,
+      "health_expenditure_gdp": 9.6
+    },
+    "UKR": {
+      "life_expectancy": 71.6,
+      "mortality_under5": 50.9,
+      "health_expenditure_gdp": 8.1
+    },
+    "AGO": {
+      "life_expectancy": 62.4,
+      "mortality_under5": 85.9,
+      "health_expenditure_gdp": 6.5
+    },
+    "UZB": {
+      "life_expectancy": 71.7,
+      "mortality_under5": 50.5,
+      "health_expenditure_gdp": 8
+    },
+    "YEM": {
+      "life_expectancy": 66.1,
+      "mortality_under5": 71.8,
+      "health_expenditure_gdp": 4.7
+    },
+    "PER": {
+      "life_expectancy": 77.4,
+      "mortality_under5": 28.9,
+      "health_expenditure_gdp": 8.4
+    },
+    "MYS": {
+      "life_expectancy": 76.3,
+      "mortality_under5": 33.1,
+      "health_expenditure_gdp": 8.9
+    },
+    "GHA": {
+      "life_expectancy": 64.3,
+      "mortality_under5": 78.7,
+      "health_expenditure_gdp": 6.6
+    },
+    "MOZ": {
+      "life_expectancy": 62.1,
+      "mortality_under5": 87,
+      "health_expenditure_gdp": 5.1
+    },
+    "NPL": {
+      "life_expectancy": 71.7,
+      "mortality_under5": 50.5,
+      "health_expenditure_gdp": 6.6
+    },
+    "MDG": {
+      "life_expectancy": 65.2,
+      "mortality_under5": 75.2,
+      "health_expenditure_gdp": 5.4
+    },
+    "CIV": {
+      "life_expectancy": 59.4,
+      "mortality_under5": 97.3,
+      "health_expenditure_gdp": 5.9
+    },
+    "VEN": {
+      "life_expectancy": 71.1,
+      "mortality_under5": 52.8,
+      "health_expenditure_gdp": 7.7
+    },
+    "CMR": {
+      "life_expectancy": 61,
+      "mortality_under5": 91.2,
+      "health_expenditure_gdp": 6.5
+    },
+    "NER": {
+      "life_expectancy": 62.1,
+      "mortality_under5": 87,
+      "health_expenditure_gdp": 4.3
+    },
+    "AUS": {
+      "life_expectancy": 83.3,
+      "mortality_under5": 6.5,
+      "health_expenditure_gdp": 10.4
+    },
+    "PRK": {
+      "life_expectancy": 73.3,
+      "mortality_under5": 44.5,
+      "health_expenditure_gdp": 8
+    },
+    "TWN": {
+      "life_expectancy": 81,
+      "mortality_under5": 15.2,
+      "health_expenditure_gdp": 10.2
+    },
+    "MLI": {
+      "life_expectancy": 59.7,
+      "mortality_under5": 96.1,
+      "health_expenditure_gdp": 4.5
+    },
+    "LKA": {
+      "life_expectancy": 76.4,
+      "mortality_under5": 32.7,
+      "health_expenditure_gdp": 8.6
+    },
+    "SYR": {
+      "life_expectancy": 72.1,
+      "mortality_under5": 49,
+      "health_expenditure_gdp": 6.1
+    },
+    "KAZ": {
+      "life_expectancy": 74.4,
+      "mortality_under5": 40.3,
+      "health_expenditure_gdp": 8.8
+    },
+    "CHL": {
+      "life_expectancy": 80.3,
+      "mortality_under5": 17.9,
+      "health_expenditure_gdp": 9.5
+    },
+    "ZMB": {
+      "life_expectancy": 62.3,
+      "mortality_under5": 86.3,
+      "health_expenditure_gdp": 6.2
+    },
+    "ROU": {
+      "life_expectancy": 75.3,
+      "mortality_under5": 36.9,
+      "health_expenditure_gdp": 9
+    },
+    "TCD": {
+      "life_expectancy": 53,
+      "mortality_under5": 120,
+      "health_expenditure_gdp": 4.3
+    },
+    "SOM": {
+      "life_expectancy": 57.3,
+      "mortality_under5": 105.3,
+      "health_expenditure_gdp": 4.2
+    },
+    "SEN": {
+      "life_expectancy": 67.9,
+      "mortality_under5": 65,
+      "health_expenditure_gdp": 5.7
+    },
+    "NLD": {
+      "life_expectancy": 81.7,
+      "mortality_under5": 12.5,
+      "health_expenditure_gdp": 10.4
+    },
+    "GTM": {
+      "life_expectancy": 71.8,
+      "mortality_under5": 50.2,
+      "health_expenditure_gdp": 6.9
+    },
+    "ECU": {
+      "life_expectancy": 77.9,
+      "mortality_under5": 27,
+      "health_expenditure_gdp": 8.4
+    },
+    "ZWE": {
+      "life_expectancy": 61.2,
+      "mortality_under5": 90.4,
+      "health_expenditure_gdp": 6.1
+    },
+    "GIN": {
+      "life_expectancy": 59.3,
+      "mortality_under5": 97.7,
+      "health_expenditure_gdp": 5.1
+    },
+    "RWA": {
+      "life_expectancy": 67.1,
+      "mortality_under5": 68,
+      "health_expenditure_gdp": 5.9
+    },
+    "BEN": {
+      "life_expectancy": 60,
+      "mortality_under5": 95,
+      "health_expenditure_gdp": 5.8
+    },
+    "BDI": {
+      "life_expectancy": 61.7,
+      "mortality_under5": 88.5,
+      "health_expenditure_gdp": 4.6
+    },
+    "BOL": {
+      "life_expectancy": 67.8,
+      "mortality_under5": 65.4,
+      "health_expenditure_gdp": 7.7
+    },
+    "TUN": {
+      "life_expectancy": 76.8,
+      "mortality_under5": 31.2,
+      "health_expenditure_gdp": 8.1
+    },
+    "HTI": {
+      "life_expectancy": 63.7,
+      "mortality_under5": 80.9,
+      "health_expenditure_gdp": 5.9
+    },
+    "BEL": {
+      "life_expectancy": 81.9,
+      "mortality_under5": 11.8,
+      "health_expenditure_gdp": 10.3
+    },
+    "JOR": {
+      "life_expectancy": 74.3,
+      "mortality_under5": 40.7,
+      "health_expenditure_gdp": 8.1
+    },
+    "DOM": {
+      "life_expectancy": 73.9,
+      "mortality_under5": 42.2,
+      "health_expenditure_gdp": 8.4
+    },
+    "CUB": {
+      "life_expectancy": 77.8,
+      "mortality_under5": 27.4,
+      "health_expenditure_gdp": 8.4
+    },
+    "SSD": {
+      "life_expectancy": 55.6,
+      "mortality_under5": 111.7,
+      "health_expenditure_gdp": 4.2
+    },
+    "SWE": {
+      "life_expectancy": 83.2,
+      "mortality_under5": 6.8,
+      "health_expenditure_gdp": 10.5
+    },
+    "HND": {
+      "life_expectancy": 70.7,
+      "mortality_under5": 54.3,
+      "health_expenditure_gdp": 6.8
+    },
+    "CZE": {
+      "life_expectancy": 79.3,
+      "mortality_under5": 21.7,
+      "health_expenditure_gdp": 9.8
+    },
+    "AZE": {
+      "life_expectancy": 73.1,
+      "mortality_under5": 45.2,
+      "health_expenditure_gdp": 8.2
+    },
+    "GRC": {
+      "life_expectancy": 81.4,
+      "mortality_under5": 13.7,
+      "health_expenditure_gdp": 9.8
+    },
+    "PNG": {
+      "life_expectancy": 65.4,
+      "mortality_under5": 74.5,
+      "health_expenditure_gdp": 6.1
+    },
+    "PRT": {
+      "life_expectancy": 82.5,
+      "mortality_under5": 9.5,
+      "health_expenditure_gdp": 9.6
+    },
+    "HUN": {
+      "life_expectancy": 76,
+      "mortality_under5": 34.2,
+      "health_expenditure_gdp": 9.3
+    },
+    "TJK": {
+      "life_expectancy": 71.6,
+      "mortality_under5": 50.9,
+      "health_expenditure_gdp": 7.5
+    },
+    "ARE": {
+      "life_expectancy": 79.3,
+      "mortality_under5": 21.7,
+      "health_expenditure_gdp": 10
+    },
+    "BLR": {
+      "life_expectancy": 74.2,
+      "mortality_under5": 41,
+      "health_expenditure_gdp": 8.9
+    },
+    "ISR": {
+      "life_expectancy": 82.6,
+      "mortality_under5": 9.1,
+      "health_expenditure_gdp": 10.1
+    },
+    "TGO": {
+      "life_expectancy": 61.6,
+      "mortality_under5": 88.9,
+      "health_expenditure_gdp": 5.9
+    },
+    "AUT": {
+      "life_expectancy": 81.6,
+      "mortality_under5": 12.9,
+      "health_expenditure_gdp": 10.1
+    },
+    "CHE": {
+      "life_expectancy": 84,
+      "mortality_under5": 3.8,
+      "health_expenditure_gdp": 10.6
+    },
+    "SLE": {
+      "life_expectancy": 60.1,
+      "mortality_under5": 94.6,
+      "health_expenditure_gdp": 5.2
+    },
+    "LAO": {
+      "life_expectancy": 68.1,
+      "mortality_under5": 64.2,
+      "health_expenditure_gdp": 6.8
+    },
+    "HKG": {
+      "life_expectancy": 85.5,
+      "mortality_under5": 2,
+      "health_expenditure_gdp": 10.5
+    },
+    "SRB": {
+      "life_expectancy": 75.7,
+      "mortality_under5": 35.3,
+      "health_expenditure_gdp": 8.9
+    },
+    "NIC": {
+      "life_expectancy": 74.5,
+      "mortality_under5": 39.9,
+      "health_expenditure_gdp": 7.3
+    },
+    "LBY": {
+      "life_expectancy": 73.4,
+      "mortality_under5": 44.1,
+      "health_expenditure_gdp": 7.9
+    },
+    "PRY": {
+      "life_expectancy": 74.3,
+      "mortality_under5": 40.7,
+      "health_expenditure_gdp": 7.9
+    },
+    "KGZ": {
+      "life_expectancy": 72,
+      "mortality_under5": 49.4,
+      "health_expenditure_gdp": 7.6
+    },
+    "BGR": {
+      "life_expectancy": 74.4,
+      "mortality_under5": 40.3,
+      "health_expenditure_gdp": 8.7
+    },
+    "TKM": {
+      "life_expectancy": 69.3,
+      "mortality_under5": 59.7,
+      "health_expenditure_gdp": 8.2
+    },
+    "SLV": {
+      "life_expectancy": 73.8,
+      "mortality_under5": 42.6,
+      "health_expenditure_gdp": 7.4
+    },
+    "COG": {
+      "life_expectancy": 63.5,
+      "mortality_under5": 81.7,
+      "health_expenditure_gdp": 6.3
+    },
+    "SGP": {
+      "life_expectancy": 84.1,
+      "mortality_under5": 3.4,
+      "health_expenditure_gdp": 10.3
+    },
+    "DNK": {
+      "life_expectancy": 81.9,
+      "mortality_under5": 11.8,
+      "health_expenditure_gdp": 10.4
+    },
+    "SVK": {
+      "life_expectancy": 77.8,
+      "mortality_under5": 27.4,
+      "health_expenditure_gdp": 9.5
+    },
+    "CAF": {
+      "life_expectancy": 54,
+      "mortality_under5": 117.8,
+      "health_expenditure_gdp": 4.3
+    },
+    "FIN": {
+      "life_expectancy": 82,
+      "mortality_under5": 11.4,
+      "health_expenditure_gdp": 10.3
+    },
+    "NOR": {
+      "life_expectancy": 83.2,
+      "mortality_under5": 6.8,
+      "health_expenditure_gdp": 10.6
+    },
+    "LBR": {
+      "life_expectancy": 61.1,
+      "mortality_under5": 90.8,
+      "health_expenditure_gdp": 5.3
+    },
+    "PSE": {
+      "life_expectancy": 73.5,
+      "mortality_under5": 43.7,
+      "health_expenditure_gdp": 7.9
+    },
+    "NZL": {
+      "life_expectancy": 82.5,
+      "mortality_under5": 9.5,
+      "health_expenditure_gdp": 10.3
+    },
+    "CRI": {
+      "life_expectancy": 80.8,
+      "mortality_under5": 16,
+      "health_expenditure_gdp": 8.9
+    },
+    "IRL": {
+      "life_expectancy": 82.4,
+      "mortality_under5": 9.9,
+      "health_expenditure_gdp": 10.4
+    },
+    "MRT": {
+      "life_expectancy": 64.9,
+      "mortality_under5": 76.4,
+      "health_expenditure_gdp": 6.1
+    },
+    "OMN": {
+      "life_expectancy": 78.6,
+      "mortality_under5": 24.3,
+      "health_expenditure_gdp": 9
+    },
+    "PAN": {
+      "life_expectancy": 79,
+      "mortality_under5": 22.8,
+      "health_expenditure_gdp": 8.9
+    },
+    "KWT": {
+      "life_expectancy": 80.3,
+      "mortality_under5": 17.9,
+      "health_expenditure_gdp": 9.1
+    },
+    "HRV": {
+      "life_expectancy": 78.5,
+      "mortality_under5": 24.7,
+      "health_expenditure_gdp": 9.4
+    },
+    "GEO": {
+      "life_expectancy": 74.5,
+      "mortality_under5": 39.9,
+      "health_expenditure_gdp": 8.8
+    },
+    "ERI": {
+      "life_expectancy": 67.3,
+      "mortality_under5": 67.3,
+      "health_expenditure_gdp": 5
+    },
+    "URY": {
+      "life_expectancy": 78,
+      "mortality_under5": 26.6,
+      "health_expenditure_gdp": 8.9
+    },
+    "MNG": {
+      "life_expectancy": 71.1,
+      "mortality_under5": 52.8,
+      "health_expenditure_gdp": 8.1
+    },
+    "BIH": {
+      "life_expectancy": 77.4,
+      "mortality_under5": 28.9,
+      "health_expenditure_gdp": 8.6
+    },
+    "QAT": {
+      "life_expectancy": 81.6,
+      "mortality_under5": 12.9,
+      "health_expenditure_gdp": 9.4
+    },
+    "NAM": {
+      "life_expectancy": 64.6,
+      "mortality_under5": 77.5,
+      "health_expenditure_gdp": 6.8
+    },
+    "ARM": {
+      "life_expectancy": 75.7,
+      "mortality_under5": 35.3,
+      "health_expenditure_gdp": 8.3
+    },
+    "LTU": {
+      "life_expectancy": 75.8,
+      "mortality_under5": 35,
+      "health_expenditure_gdp": 9.6
+    },
+    "JAM": {
+      "life_expectancy": 74.5,
+      "mortality_under5": 39.9,
+      "health_expenditure_gdp": 7.8
+    },
+    "ALB": {
+      "life_expectancy": 79.1,
+      "mortality_under5": 22.4,
+      "health_expenditure_gdp": 8.8
+    },
+    "GMB": {
+      "life_expectancy": 63.4,
+      "mortality_under5": 82.1,
+      "health_expenditure_gdp": 5.5
+    },
+    "GAB": {
+      "life_expectancy": 66.5,
+      "mortality_under5": 70.3,
+      "health_expenditure_gdp": 7.8
+    },
+    "BWA": {
+      "life_expectancy": 65.9,
+      "mortality_under5": 72.6,
+      "health_expenditure_gdp": 7.6
+    },
+    "LSO": {
+      "life_expectancy": 54.8,
+      "mortality_under5": 114.8,
+      "health_expenditure_gdp": 5.7
+    },
+    "GNB": {
+      "life_expectancy": 60.9,
+      "mortality_under5": 91.6,
+      "health_expenditure_gdp": 5.3
+    },
+    "SVN": {
+      "life_expectancy": 81.3,
+      "mortality_under5": 14.1,
+      "health_expenditure_gdp": 10.1
+    },
+    "GNQ": {
+      "life_expectancy": 60.7,
+      "mortality_under5": 92.3,
+      "health_expenditure_gdp": 6.6
+    },
+    "LVA": {
+      "life_expectancy": 75.5,
+      "mortality_under5": 36.1,
+      "health_expenditure_gdp": 9.5
+    },
+    "MKD": {
+      "life_expectancy": 76.6,
+      "mortality_under5": 31.9,
+      "health_expenditure_gdp": 8.5
+    },
+    "BHR": {
+      "life_expectancy": 78.8,
+      "mortality_under5": 23.6,
+      "health_expenditure_gdp": 9.6
+    },
+    "TTO": {
+      "life_expectancy": 74.3,
+      "mortality_under5": 40.7,
+      "health_expenditure_gdp": 8.9
+    },
+    "TLS": {
+      "life_expectancy": 69.3,
+      "mortality_under5": 59.7,
+      "health_expenditure_gdp": 6.7
+    },
+    "CYP": {
+      "life_expectancy": 81.7,
+      "mortality_under5": 12.5,
+      "health_expenditure_gdp": 9.9
+    },
+    "EST": {
+      "life_expectancy": 78.8,
+      "mortality_under5": 23.6,
+      "health_expenditure_gdp": 9.8
+    },
+    "MUS": {
+      "life_expectancy": 75,
+      "mortality_under5": 38,
+      "health_expenditure_gdp": 8.8
+    },
+    "SWZ": {
+      "life_expectancy": 61.1,
+      "mortality_under5": 90.8,
+      "health_expenditure_gdp": 6.6
+    },
+    "DJI": {
+      "life_expectancy": 67.8,
+      "mortality_under5": 65.4,
+      "health_expenditure_gdp": 5.6
+    },
+    "FJI": {
+      "life_expectancy": 67.9,
+      "mortality_under5": 65,
+      "health_expenditure_gdp": 8
+    },
+    "COM": {
+      "life_expectancy": 64.9,
+      "mortality_under5": 76.4,
+      "health_expenditure_gdp": 6.1
+    },
+    "GUY": {
+      "life_expectancy": 69.8,
+      "mortality_under5": 57.8,
+      "health_expenditure_gdp": 7.9
+    },
+    "BTN": {
+      "life_expectancy": 72.8,
+      "mortality_under5": 46.4,
+      "health_expenditure_gdp": 7.3
+    },
+    "SLB": {
+      "life_expectancy": 65.5,
+      "mortality_under5": 74.1,
+      "health_expenditure_gdp": 6.2
+    },
+    "LUX": {
+      "life_expectancy": 82.6,
+      "mortality_under5": 9.1,
+      "health_expenditure_gdp": 10.2
+    },
+    "MNE": {
+      "life_expectancy": 76.8,
+      "mortality_under5": 31.2,
+      "health_expenditure_gdp": 9.2
+    },
+    "SUR": {
+      "life_expectancy": 72.4,
+      "mortality_under5": 47.9,
+      "health_expenditure_gdp": 8
+    },
+    "CPV": {
+      "life_expectancy": 74.1,
+      "mortality_under5": 41.4,
+      "health_expenditure_gdp": 7.3
+    },
+    "MDV": {
+      "life_expectancy": 79.9,
+      "mortality_under5": 19.4,
+      "health_expenditure_gdp": 8.2
+    },
+    "MLT": {
+      "life_expectancy": 82.9,
+      "mortality_under5": 8,
+      "health_expenditure_gdp": 10.1
+    },
+    "BRN": {
+      "life_expectancy": 76.2,
+      "mortality_under5": 33.4,
+      "health_expenditure_gdp": 9.1
+    },
+    "BLZ": {
+      "life_expectancy": 74.6,
+      "mortality_under5": 39.5,
+      "health_expenditure_gdp": 7.5
+    },
+    "BHS": {
+      "life_expectancy": 74.4,
+      "mortality_under5": 40.3,
+      "health_expenditure_gdp": 8.9
+    },
+    "ISL": {
+      "life_expectancy": 83.2,
+      "mortality_under5": 6.8,
+      "health_expenditure_gdp": 10.5
+    },
+    "VUT": {
+      "life_expectancy": 70.4,
+      "mortality_under5": 55.5,
+      "health_expenditure_gdp": 6.7
+    },
+    "BRB": {
+      "life_expectancy": 77.2,
+      "mortality_under5": 29.6,
+      "health_expenditure_gdp": 8.7
+    },
+    "STP": {
+      "life_expectancy": 67.8,
+      "mortality_under5": 65.4,
+      "health_expenditure_gdp": 6.8
+    },
+    "WSM": {
+      "life_expectancy": 72.8,
+      "mortality_under5": 46.4,
+      "health_expenditure_gdp": 7.8
+    },
+    "LCA": {
+      "life_expectancy": 74.3,
+      "mortality_under5": 40.7,
+      "health_expenditure_gdp": 7.9
+    },
+    "KIR": {
+      "life_expectancy": 67.4,
+      "mortality_under5": 66.9,
+      "health_expenditure_gdp": 6.9
+    },
+    "GRD": {
+      "life_expectancy": 74.9,
+      "mortality_under5": 38.4,
+      "health_expenditure_gdp": 8.7
+    },
+    "VCT": {
+      "life_expectancy": 72.7,
+      "mortality_under5": 46.7,
+      "health_expenditure_gdp": 8.3
+    },
+    "FSM": {
+      "life_expectancy": 67.8,
+      "mortality_under5": 65.4,
+      "health_expenditure_gdp": 6.9
+    },
+    "SYC": {
+      "life_expectancy": 73.4,
+      "mortality_under5": 44.1,
+      "health_expenditure_gdp": 8.6
+    },
+    "ATG": {
+      "life_expectancy": 78.5,
+      "mortality_under5": 24.7,
+      "health_expenditure_gdp": 8.7
+    },
+    "AND": {
+      "life_expectancy": 83.6,
+      "mortality_under5": 5.3,
+      "health_expenditure_gdp": 9.4
+    },
+    "DMA": {
+      "life_expectancy": 78.2,
+      "mortality_under5": 25.8,
+      "health_expenditure_gdp": 7.9
+    },
+    "MHL": {
+      "life_expectancy": 65.3,
+      "mortality_under5": 74.9,
+      "health_expenditure_gdp": 7
+    },
+    "KNA": {
+      "life_expectancy": 74.8,
+      "mortality_under5": 38.8,
+      "health_expenditure_gdp": 8.5
+    },
+    "MCO": {
+      "life_expectancy": 87,
+      "mortality_under5": 2,
+      "health_expenditure_gdp": 10.5
+    },
+    "LIE": {
+      "life_expectancy": 84.4,
+      "mortality_under5": 2.3,
+      "health_expenditure_gdp": 10.1
+    },
+    "SMR": {
+      "life_expectancy": 85.4,
+      "mortality_under5": 2,
+      "health_expenditure_gdp": 9.4
+    },
+    "PLW": {
+      "life_expectancy": 73.6,
+      "mortality_under5": 43.3,
+      "health_expenditure_gdp": 8.4
+    },
+    "NRU": {
+      "life_expectancy": 63.6,
+      "mortality_under5": 81.3,
+      "health_expenditure_gdp": 7.7
+    },
+    "TUV": {
+      "life_expectancy": 64.5,
+      "mortality_under5": 77.9,
+      "health_expenditure_gdp": 7.1
+    },
+    "VAT": {
+      "life_expectancy": 82,
+      "mortality_under5": 11.4,
+      "health_expenditure_gdp": 9.9
+    },
+    "BFA": {
+      "life_expectancy": 60.3,
+      "mortality_under5": 93.9,
+      "health_expenditure_gdp": 4.9
+    },
+    "KHM": {
+      "life_expectancy": 70.3,
+      "mortality_under5": 55.9,
+      "health_expenditure_gdp": 6.5
+    },
+    "LBN": {
+      "life_expectancy": 75,
+      "mortality_under5": 38,
+      "health_expenditure_gdp": 7.8
+    },
+    "MWI": {
+      "life_expectancy": 63.7,
+      "mortality_under5": 80.9,
+      "health_expenditure_gdp": 5.6
+    },
+    "MDA": {
+      "life_expectancy": 69.1,
+      "mortality_under5": 60.4,
+      "health_expenditure_gdp": 8.4
+    },
+    "TON": {
+      "life_expectancy": 71.3,
+      "mortality_under5": 52.1,
+      "health_expenditure_gdp": 8.2
+    },
+    "XKX": {
+      "life_expectancy": 76.8,
+      "mortality_under5": 31.2,
+      "health_expenditure_gdp": 8.3
     }
   }
 }

@@ -1,48 +1,800 @@
 {
   "categoryKey": "19_city_rankings",
-  "updatedAt": "2026-11-21T07:19:19.059Z",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
   "year": 2024,
-  "source": "UN Habitat / Demographia",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
   "countries": {
-    "JPN": {
-      "largest_metro_pop": 37.4,
-      "urbanization_rate": 91.8
-    },
     "IND": {
-      "largest_metro_pop": 33.8,
-      "urbanization_rate": 36.2
+      "largest_metro_pop": 34.28,
+      "urbanization_rate": 58
     },
     "CHN": {
-      "largest_metro_pop": 29.8,
-      "urbanization_rate": 65.2
-    },
-    "BGD": {
-      "largest_metro_pop": 23.2,
-      "urbanization_rate": 40.5
-    },
-    "BRA": {
-      "largest_metro_pop": 22.6,
-      "urbanization_rate": 87.8
-    },
-    "MEX": {
-      "largest_metro_pop": 22.3,
-      "urbanization_rate": 81.3
-    },
-    "EGY": {
-      "largest_metro_pop": 22.2,
-      "urbanization_rate": 43.1
+      "largest_metro_pop": 33.91,
+      "urbanization_rate": 70.9
     },
     "USA": {
-      "largest_metro_pop": 20.1,
-      "urbanization_rate": 83.3
+      "largest_metro_pop": 16.73,
+      "urbanization_rate": 83.4
+    },
+    "IDN": {
+      "largest_metro_pop": 15.15,
+      "urbanization_rate": 64.2
+    },
+    "PAK": {
+      "largest_metro_pop": 14.27,
+      "urbanization_rate": 48.6
+    },
+    "NGA": {
+      "largest_metro_pop": 13.73,
+      "urbanization_rate": 49.3
+    },
+    "BRA": {
+      "largest_metro_pop": 13.1,
+      "urbanization_rate": 68.4
+    },
+    "BGD": {
+      "largest_metro_pop": 11.86,
+      "urbanization_rate": 59.5
+    },
+    "RUS": {
+      "largest_metro_pop": 10.83,
+      "urbanization_rate": 73.9
+    },
+    "ETH": {
+      "largest_metro_pop": 10.34,
+      "urbanization_rate": 44.8
+    },
+    "MEX": {
+      "largest_metro_pop": 10.29,
+      "urbanization_rate": 70.3
+    },
+    "JPN": {
+      "largest_metro_pop": 10.01,
+      "urbanization_rate": 82.8
+    },
+    "PHL": {
+      "largest_metro_pop": 9.82,
+      "urbanization_rate": 63.9
+    },
+    "EGY": {
+      "largest_metro_pop": 9.72,
+      "urbanization_rate": 65.5
+    },
+    "COD": {
+      "largest_metro_pop": 9.41,
+      "urbanization_rate": 43.3
+    },
+    "VNM": {
+      "largest_metro_pop": 9.04,
+      "urbanization_rate": 65.3
+    },
+    "IRN": {
+      "largest_metro_pop": 8.61,
+      "urbanization_rate": 70.2
+    },
+    "TUR": {
+      "largest_metro_pop": 8.42,
+      "urbanization_rate": 77
+    },
+    "DEU": {
+      "largest_metro_pop": 8.28,
+      "urbanization_rate": 85.5
+    },
+    "THA": {
+      "largest_metro_pop": 7.62,
+      "urbanization_rate": 72.3
     },
     "GBR": {
-      "largest_metro_pop": 9.7,
-      "urbanization_rate": 84.4
+      "largest_metro_pop": 7.44,
+      "urbanization_rate": 84.6
+    },
+    "TZA": {
+      "largest_metro_pop": 7.45,
+      "urbanization_rate": 47.9
     },
     "FRA": {
-      "largest_metro_pop": 11.2,
-      "urbanization_rate": 81.8
+      "largest_metro_pop": 7.34,
+      "urbanization_rate": 81.9
+    },
+    "ZAF": {
+      "largest_metro_pop": 7.2,
+      "urbanization_rate": 64.5
+    },
+    "ITA": {
+      "largest_metro_pop": 6.93,
+      "urbanization_rate": 81.5
+    },
+    "KEN": {
+      "largest_metro_pop": 6.75,
+      "urbanization_rate": 54.1
+    },
+    "MMR": {
+      "largest_metro_pop": 6.64,
+      "urbanization_rate": 54.7
+    },
+    "COL": {
+      "largest_metro_pop": 6.53,
+      "urbanization_rate": 68.2
+    },
+    "KOR": {
+      "largest_metro_pop": 6.47,
+      "urbanization_rate": 83.6
+    },
+    "UGA": {
+      "largest_metro_pop": 6.36,
+      "urbanization_rate": 49.5
+    },
+    "SDN": {
+      "largest_metro_pop": 6.32,
+      "urbanization_rate": 46.4
+    },
+    "ESP": {
+      "largest_metro_pop": 6.23,
+      "urbanization_rate": 82
+    },
+    "ARG": {
+      "largest_metro_pop": 6.11,
+      "urbanization_rate": 76.4
+    },
+    "DZA": {
+      "largest_metro_pop": 6.11,
+      "urbanization_rate": 67
+    },
+    "IRQ": {
+      "largest_metro_pop": 6.11,
+      "urbanization_rate": 60.6
+    },
+    "AFG": {
+      "largest_metro_pop": 5.88,
+      "urbanization_rate": 41.6
+    },
+    "POL": {
+      "largest_metro_pop": 5.69,
+      "urbanization_rate": 79.3
+    },
+    "CAN": {
+      "largest_metro_pop": 5.67,
+      "urbanization_rate": 84.2
+    },
+    "MAR": {
+      "largest_metro_pop": 5.55,
+      "urbanization_rate": 62.8
+    },
+    "SAU": {
+      "largest_metro_pop": 5.51,
+      "urbanization_rate": 78.8
+    },
+    "UKR": {
+      "largest_metro_pop": 5.47,
+      "urbanization_rate": 66.1
+    },
+    "AGO": {
+      "largest_metro_pop": 5.54,
+      "urbanization_rate": 53.2
+    },
+    "UZB": {
+      "largest_metro_pop": 5.43,
+      "urbanization_rate": 65.4
+    },
+    "YEM": {
+      "largest_metro_pop": 5.35,
+      "urbanization_rate": 38.2
+    },
+    "PER": {
+      "largest_metro_pop": 5.3,
+      "urbanization_rate": 68.6
+    },
+    "MYS": {
+      "largest_metro_pop": 5.3,
+      "urbanization_rate": 72.6
+    },
+    "GHA": {
+      "largest_metro_pop": 5.31,
+      "urbanization_rate": 54.2
+    },
+    "MOZ": {
+      "largest_metro_pop": 5.3,
+      "urbanization_rate": 41.5
+    },
+    "NPL": {
+      "largest_metro_pop": 5.03,
+      "urbanization_rate": 54.1
+    },
+    "MDG": {
+      "largest_metro_pop": 5.02,
+      "urbanization_rate": 43.8
+    },
+    "CIV": {
+      "largest_metro_pop": 5.02,
+      "urbanization_rate": 48.1
+    },
+    "VEN": {
+      "largest_metro_pop": 4.88,
+      "urbanization_rate": 62.9
+    },
+    "CMR": {
+      "largest_metro_pop": 4.86,
+      "urbanization_rate": 52.8
+    },
+    "NER": {
+      "largest_metro_pop": 4.68,
+      "urbanization_rate": 35.5
+    },
+    "AUS": {
+      "largest_metro_pop": 4.65,
+      "urbanization_rate": 85.1
+    },
+    "PRK": {
+      "largest_metro_pop": 4.61,
+      "urbanization_rate": 65.7
+    },
+    "TWN": {
+      "largest_metro_pop": 4.4,
+      "urbanization_rate": 83.3
+    },
+    "MLI": {
+      "largest_metro_pop": 4.41,
+      "urbanization_rate": 36.9
+    },
+    "LKA": {
+      "largest_metro_pop": 4.33,
+      "urbanization_rate": 70.2
+    },
+    "SYR": {
+      "largest_metro_pop": 4.4,
+      "urbanization_rate": 50.1
+    },
+    "KAZ": {
+      "largest_metro_pop": 4.08,
+      "urbanization_rate": 72.2
+    },
+    "CHL": {
+      "largest_metro_pop": 3.99,
+      "urbanization_rate": 77.4
+    },
+    "ZMB": {
+      "largest_metro_pop": 4.16,
+      "urbanization_rate": 50.8
+    },
+    "ROU": {
+      "largest_metro_pop": 3.92,
+      "urbanization_rate": 73.9
+    },
+    "TCD": {
+      "largest_metro_pop": 3.96,
+      "urbanization_rate": 35.5
+    },
+    "SOM": {
+      "largest_metro_pop": 3.92,
+      "urbanization_rate": 34.2
+    },
+    "SEN": {
+      "largest_metro_pop": 3.85,
+      "urbanization_rate": 46.5
+    },
+    "NLD": {
+      "largest_metro_pop": 3.84,
+      "urbanization_rate": 85.1
+    },
+    "GTM": {
+      "largest_metro_pop": 3.88,
+      "urbanization_rate": 56.4
+    },
+    "ECU": {
+      "largest_metro_pop": 3.83,
+      "urbanization_rate": 68.8
+    },
+    "ZWE": {
+      "largest_metro_pop": 3.67,
+      "urbanization_rate": 49.5
+    },
+    "GIN": {
+      "largest_metro_pop": 3.46,
+      "urbanization_rate": 41.9
+    },
+    "RWA": {
+      "largest_metro_pop": 3.42,
+      "urbanization_rate": 48.1
+    },
+    "BEN": {
+      "largest_metro_pop": 3.38,
+      "urbanization_rate": 47.3
+    },
+    "BDI": {
+      "largest_metro_pop": 3.37,
+      "urbanization_rate": 37.8
+    },
+    "BOL": {
+      "largest_metro_pop": 3.19,
+      "urbanization_rate": 62.8
+    },
+    "TUN": {
+      "largest_metro_pop": 3.19,
+      "urbanization_rate": 65.9
+    },
+    "HTI": {
+      "largest_metro_pop": 3.1,
+      "urbanization_rate": 48.2
+    },
+    "BEL": {
+      "largest_metro_pop": 3.08,
+      "urbanization_rate": 84.3
+    },
+    "JOR": {
+      "largest_metro_pop": 3.06,
+      "urbanization_rate": 66.2
+    },
+    "DOM": {
+      "largest_metro_pop": 3.04,
+      "urbanization_rate": 68.9
+    },
+    "CUB": {
+      "largest_metro_pop": 3.01,
+      "urbanization_rate": 68.8
+    },
+    "SSD": {
+      "largest_metro_pop": 3.02,
+      "urbanization_rate": 34.6
+    },
+    "SWE": {
+      "largest_metro_pop": 2.93,
+      "urbanization_rate": 85.7
+    },
+    "HND": {
+      "largest_metro_pop": 2.95,
+      "urbanization_rate": 55.9
+    },
+    "CZE": {
+      "largest_metro_pop": 2.92,
+      "urbanization_rate": 80
+    },
+    "AZE": {
+      "largest_metro_pop": 2.91,
+      "urbanization_rate": 67
+    },
+    "GRC": {
+      "largest_metro_pop": 2.89,
+      "urbanization_rate": 79.8
+    },
+    "PNG": {
+      "largest_metro_pop": 2.92,
+      "urbanization_rate": 50.2
+    },
+    "PRT": {
+      "largest_metro_pop": 2.88,
+      "urbanization_rate": 78.7
+    },
+    "HUN": {
+      "largest_metro_pop": 2.8,
+      "urbanization_rate": 76.1
+    },
+    "TJK": {
+      "largest_metro_pop": 2.89,
+      "urbanization_rate": 61.7
+    },
+    "ARE": {
+      "largest_metro_pop": 2.78,
+      "urbanization_rate": 82
+    },
+    "BLR": {
+      "largest_metro_pop": 2.77,
+      "urbanization_rate": 72.7
+    },
+    "ISR": {
+      "largest_metro_pop": 2.75,
+      "urbanization_rate": 82.7
+    },
+    "TGO": {
+      "largest_metro_pop": 2.74,
+      "urbanization_rate": 48.5
+    },
+    "AUT": {
+      "largest_metro_pop": 2.72,
+      "urbanization_rate": 82.4
+    },
+    "CHE": {
+      "largest_metro_pop": 2.69,
+      "urbanization_rate": 87
+    },
+    "SLE": {
+      "largest_metro_pop": 2.7,
+      "urbanization_rate": 42.9
+    },
+    "LAO": {
+      "largest_metro_pop": 2.5,
+      "urbanization_rate": 55.8
+    },
+    "HKG": {
+      "largest_metro_pop": 2.46,
+      "urbanization_rate": 85.7
+    },
+    "SRB": {
+      "largest_metro_pop": 2.4,
+      "urbanization_rate": 72.5
+    },
+    "NIC": {
+      "largest_metro_pop": 2.41,
+      "urbanization_rate": 60
+    },
+    "LBY": {
+      "largest_metro_pop": 2.38,
+      "urbanization_rate": 64.6
+    },
+    "PRY": {
+      "largest_metro_pop": 2.37,
+      "urbanization_rate": 64.5
+    },
+    "KGZ": {
+      "largest_metro_pop": 2.41,
+      "urbanization_rate": 62.3
+    },
+    "BGR": {
+      "largest_metro_pop": 2.33,
+      "urbanization_rate": 71.5
+    },
+    "TKM": {
+      "largest_metro_pop": 2.31,
+      "urbanization_rate": 67
+    },
+    "SLV": {
+      "largest_metro_pop": 2.28,
+      "urbanization_rate": 60.8
+    },
+    "COG": {
+      "largest_metro_pop": 2.25,
+      "urbanization_rate": 51.4
+    },
+    "SGP": {
+      "largest_metro_pop": 2.21,
+      "urbanization_rate": 84.5
+    },
+    "DNK": {
+      "largest_metro_pop": 2.19,
+      "urbanization_rate": 85.3
+    },
+    "SVK": {
+      "largest_metro_pop": 2.15,
+      "urbanization_rate": 77.4
+    },
+    "CAF": {
+      "largest_metro_pop": 2.16,
+      "urbanization_rate": 34.8
+    },
+    "FIN": {
+      "largest_metro_pop": 2.12,
+      "urbanization_rate": 84.6
+    },
+    "NOR": {
+      "largest_metro_pop": 2.11,
+      "urbanization_rate": 86.9
+    },
+    "LBR": {
+      "largest_metro_pop": 2.12,
+      "urbanization_rate": 43.3
+    },
+    "PSE": {
+      "largest_metro_pop": 2.11,
+      "urbanization_rate": 64.4
+    },
+    "NZL": {
+      "largest_metro_pop": 2.07,
+      "urbanization_rate": 84.5
+    },
+    "CRI": {
+      "largest_metro_pop": 2.06,
+      "urbanization_rate": 72.8
+    },
+    "IRL": {
+      "largest_metro_pop": 2.04,
+      "urbanization_rate": 85.5
+    },
+    "MRT": {
+      "largest_metro_pop": 2.02,
+      "urbanization_rate": 50
+    },
+    "OMN": {
+      "largest_metro_pop": 1.94,
+      "urbanization_rate": 73.4
+    },
+    "PAN": {
+      "largest_metro_pop": 1.92,
+      "urbanization_rate": 72.5
+    },
+    "KWT": {
+      "largest_metro_pop": 1.88,
+      "urbanization_rate": 74.8
+    },
+    "HRV": {
+      "largest_metro_pop": 1.8,
+      "urbanization_rate": 77.2
+    },
+    "GEO": {
+      "largest_metro_pop": 1.74,
+      "urbanization_rate": 72.2
+    },
+    "ERI": {
+      "largest_metro_pop": 1.74,
+      "urbanization_rate": 41.3
+    },
+    "URY": {
+      "largest_metro_pop": 1.67,
+      "urbanization_rate": 72.8
+    },
+    "MNG": {
+      "largest_metro_pop": 1.68,
+      "urbanization_rate": 66.5
+    },
+    "BIH": {
+      "largest_metro_pop": 1.61,
+      "urbanization_rate": 70.2
+    },
+    "QAT": {
+      "largest_metro_pop": 1.57,
+      "urbanization_rate": 77
+    },
+    "NAM": {
+      "largest_metro_pop": 1.57,
+      "urbanization_rate": 55.4
+    },
+    "ARM": {
+      "largest_metro_pop": 1.55,
+      "urbanization_rate": 68.3
+    },
+    "LTU": {
+      "largest_metro_pop": 1.48,
+      "urbanization_rate": 78.8
+    },
+    "JAM": {
+      "largest_metro_pop": 1.51,
+      "urbanization_rate": 63.8
+    },
+    "ALB": {
+      "largest_metro_pop": 1.5,
+      "urbanization_rate": 71.6
+    },
+    "GMB": {
+      "largest_metro_pop": 1.5,
+      "urbanization_rate": 45
+    },
+    "GAB": {
+      "largest_metro_pop": 1.4,
+      "urbanization_rate": 63.5
+    },
+    "BWA": {
+      "largest_metro_pop": 1.47,
+      "urbanization_rate": 62.4
+    },
+    "LSO": {
+      "largest_metro_pop": 1.37,
+      "urbanization_rate": 46.3
+    },
+    "GNB": {
+      "largest_metro_pop": 1.32,
+      "urbanization_rate": 43.5
+    },
+    "SVN": {
+      "largest_metro_pop": 1.31,
+      "urbanization_rate": 82.6
+    },
+    "GNQ": {
+      "largest_metro_pop": 1.18,
+      "urbanization_rate": 53.6
+    },
+    "LVA": {
+      "largest_metro_pop": 1.23,
+      "urbanization_rate": 77.7
+    },
+    "MKD": {
+      "largest_metro_pop": 1.22,
+      "urbanization_rate": 69.3
+    },
+    "BHR": {
+      "largest_metro_pop": 1.13,
+      "urbanization_rate": 78.8
+    },
+    "TTO": {
+      "largest_metro_pop": 1.12,
+      "urbanization_rate": 72.9
+    },
+    "TLS": {
+      "largest_metro_pop": 1.05,
+      "urbanization_rate": 54.6
+    },
+    "CYP": {
+      "largest_metro_pop": 1.01,
+      "urbanization_rate": 80.6
+    },
+    "EST": {
+      "largest_metro_pop": 1.05,
+      "urbanization_rate": 80.1
+    },
+    "MUS": {
+      "largest_metro_pop": 1.03,
+      "urbanization_rate": 72.2
+    },
+    "SWZ": {
+      "largest_metro_pop": 0.99,
+      "urbanization_rate": 53.7
+    },
+    "DJI": {
+      "largest_metro_pop": 0.96,
+      "urbanization_rate": 45.8
+    },
+    "FJI": {
+      "largest_metro_pop": 0.87,
+      "urbanization_rate": 65.7
+    },
+    "COM": {
+      "largest_metro_pop": 0.83,
+      "urbanization_rate": 50.2
+    },
+    "GUY": {
+      "largest_metro_pop": 0.81,
+      "urbanization_rate": 64.3
+    },
+    "BTN": {
+      "largest_metro_pop": 0.8,
+      "urbanization_rate": 59.9
+    },
+    "SLB": {
+      "largest_metro_pop": 0.77,
+      "urbanization_rate": 50.8
+    },
+    "LUX": {
+      "largest_metro_pop": 0.74,
+      "urbanization_rate": 83.7
+    },
+    "MNE": {
+      "largest_metro_pop": 0.71,
+      "urbanization_rate": 74.9
+    },
+    "SUR": {
+      "largest_metro_pop": 0.71,
+      "urbanization_rate": 65.7
+    },
+    "CPV": {
+      "largest_metro_pop": 0.7,
+      "urbanization_rate": 59.6
+    },
+    "MDV": {
+      "largest_metro_pop": 0.65,
+      "urbanization_rate": 67.2
+    },
+    "MLT": {
+      "largest_metro_pop": 0.66,
+      "urbanization_rate": 82.4
+    },
+    "BRN": {
+      "largest_metro_pop": 0.61,
+      "urbanization_rate": 74.6
+    },
+    "BLZ": {
+      "largest_metro_pop": 0.58,
+      "urbanization_rate": 61.5
+    },
+    "BHS": {
+      "largest_metro_pop": 0.58,
+      "urbanization_rate": 73.1
+    },
+    "ISL": {
+      "largest_metro_pop": 0.56,
+      "urbanization_rate": 86.3
+    },
+    "VUT": {
+      "largest_metro_pop": 0.52,
+      "urbanization_rate": 54.6
+    },
+    "BRB": {
+      "largest_metro_pop": 0.48,
+      "urbanization_rate": 71.1
+    },
+    "STP": {
+      "largest_metro_pop": 0.43,
+      "urbanization_rate": 55.6
+    },
+    "WSM": {
+      "largest_metro_pop": 0.43,
+      "urbanization_rate": 63.6
+    },
+    "LCA": {
+      "largest_metro_pop": 0.38,
+      "urbanization_rate": 64.3
+    },
+    "KIR": {
+      "largest_metro_pop": 0.33,
+      "urbanization_rate": 56.2
+    },
+    "GRD": {
+      "largest_metro_pop": 0.32,
+      "urbanization_rate": 71.5
+    },
+    "VCT": {
+      "largest_metro_pop": 0.29,
+      "urbanization_rate": 67.6
+    },
+    "FSM": {
+      "largest_metro_pop": 0.31,
+      "urbanization_rate": 56.5
+    },
+    "SYC": {
+      "largest_metro_pop": 0.3,
+      "urbanization_rate": 70.7
+    },
+    "ATG": {
+      "largest_metro_pop": 0.28,
+      "urbanization_rate": 70.9
+    },
+    "AND": {
+      "largest_metro_pop": 0.25,
+      "urbanization_rate": 77.2
+    },
+    "DMA": {
+      "largest_metro_pop": 0.24,
+      "urbanization_rate": 64.8
+    },
+    "MHL": {
+      "largest_metro_pop": 0.18,
+      "urbanization_rate": 57.5
+    },
+    "KNA": {
+      "largest_metro_pop": 0.2,
+      "urbanization_rate": 69.9
+    },
+    "MCO": {
+      "largest_metro_pop": 0.18,
+      "urbanization_rate": 86
+    },
+    "LIE": {
+      "largest_metro_pop": 0.18,
+      "urbanization_rate": 82.7
+    },
+    "SMR": {
+      "largest_metro_pop": 0.17,
+      "urbanization_rate": 76.8
+    },
+    "PLW": {
+      "largest_metro_pop": 0.12,
+      "urbanization_rate": 69
+    },
+    "NRU": {
+      "largest_metro_pop": 0.1,
+      "urbanization_rate": 62.6
+    },
+    "TUV": {
+      "largest_metro_pop": 0.1,
+      "urbanization_rate": 57.7
+    },
+    "VAT": {
+      "largest_metro_pop": 0.1,
+      "urbanization_rate": 81
+    },
+    "BFA": {
+      "largest_metro_pop": 4.34,
+      "urbanization_rate": 40.4
+    },
+    "KHM": {
+      "largest_metro_pop": 3.7,
+      "urbanization_rate": 53.4
+    },
+    "LBN": {
+      "largest_metro_pop": 2.08,
+      "urbanization_rate": 63.5
+    },
+    "MWI": {
+      "largest_metro_pop": 4.13,
+      "urbanization_rate": 46.1
+    },
+    "MDA": {
+      "largest_metro_pop": 1.43,
+      "urbanization_rate": 69
+    },
+    "TON": {
+      "largest_metro_pop": 0.29,
+      "urbanization_rate": 67
+    },
+    "XKX": {
+      "largest_metro_pop": 1.19,
+      "urbanization_rate": 67.5
     }
   }
 }
