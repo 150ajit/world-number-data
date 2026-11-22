@@ -467,6 +467,33 @@ function toDoubleStr(v) {
     return s.includes('.') ? s : s + '.0';
 }
 
+// Collect top 15 countries per indicator for DefaultIndicatorValues.kt
+const indicatorGroups = {};
+allIndicatorValuesKotlin.forEach(item => {
+    if (!indicatorGroups[item.indicatorId]) indicatorGroups[item.indicatorId] = [];
+    indicatorGroups[item.indicatorId].push(item);
+});
+
+const topBaselineValues = [];
+Object.keys(indicatorGroups).forEach(indKey => {
+    const sorted = [...indicatorGroups[indKey]].sort((a, b) => b.value - a.value);
+    topBaselineValues.push(...sorted.slice(0, 15));
+});
+
+// Format as compact CSV lines: iso,indicatorId,categoryId,year,value,formattedValue
+const csvLines = topBaselineValues.map(item => {
+    const fmt = formatVal(item.value);
+    const dVal = toDoubleStr(item.value);
+    return `${item.isoCode},${item.indicatorId},${item.categoryId},${item.year},${dVal},${fmt}`;
+});
+
+// Split CSV lines into chunks of 250 lines to keep each string constant small
+const chunkSize = 250;
+const chunks = [];
+for (let i = 0; i < csvLines.length; i += chunkSize) {
+    chunks.push(csvLines.slice(i, i + chunkSize).join("\\n"));
+}
+
 const kotlinSb = [];
 kotlinSb.push("package com.example.worldpopulation.data.local");
 kotlinSb.push("");
@@ -474,27 +501,28 @@ kotlinSb.push("import com.example.worldpopulation.data.local.entity.CountryIndic
 kotlinSb.push("");
 kotlinSb.push("object DefaultIndicatorValues {");
 
-// Group values by category to keep each method well under the JVM 64KB bytecode limit
-const valuesByCategory = {};
-allIndicatorValuesKotlin.forEach(item => {
-    if (!valuesByCategory[item.categoryId]) valuesByCategory[item.categoryId] = [];
-    valuesByCategory[item.categoryId].push(item);
+chunks.forEach((chunk, idx) => {
+    kotlinSb.push(`    private const val CHUNK_${idx + 1} = "${chunk}"`);
 });
 
-const catIds = Object.keys(valuesByCategory);
-catIds.forEach(catId => {
-    kotlinSb.push(`    private fun getValues_${catId}(): List<CountryIndicatorValueEntity> = listOf(`);
-    valuesByCategory[catId].forEach(item => {
-        const fmt = formatVal(item.value);
-        const dVal = toDoubleStr(item.value);
-        kotlinSb.push(`        CountryIndicatorValueEntity(isoCode = "${item.isoCode}", indicatorId = "${item.indicatorId}", categoryId = "${item.categoryId}", year = ${item.year}, value = ${dVal}, formattedValue = "${fmt}", status = "OBSERVED"),`);
-    });
-    kotlinSb.push("    )");
-    kotlinSb.push("");
-});
-
+const chunkJoined = chunks.map((_, idx) => `CHUNK_${idx + 1}`).join(" + \"\\n\" + ");
+kotlinSb.push(`    private val rawData = ${chunkJoined}`);
+kotlinSb.push("");
 kotlinSb.push("    val list: List<CountryIndicatorValueEntity> by lazy {");
-kotlinSb.push("        " + catIds.map(id => `getValues_${id}()`).join(" +\n        "));
+kotlinSb.push("        rawData.lineSequence()");
+kotlinSb.push("            .filter { it.isNotBlank() }");
+kotlinSb.push("            .map { line ->");
+kotlinSb.push("                val p = line.split(\",\")");
+kotlinSb.push("                CountryIndicatorValueEntity(");
+kotlinSb.push("                    isoCode = p[0],");
+kotlinSb.push("                    indicatorId = p[1],");
+kotlinSb.push("                    categoryId = p[2],");
+kotlinSb.push("                    year = p[3].toInt(),");
+kotlinSb.push("                    value = p[4].toDouble(),");
+kotlinSb.push("                    formattedValue = p[5],");
+kotlinSb.push("                    status = \"OBSERVED\"");
+kotlinSb.push("                )");
+kotlinSb.push("            }.toList()");
 kotlinSb.push("    }");
 kotlinSb.push("");
 kotlinSb.push("    fun getValuesForIndicator(indicatorId: String, sortDesc: Boolean = true): List<CountryIndicatorValueEntity> {");
@@ -505,7 +533,7 @@ kotlinSb.push("}");
 
 const defaultIndicatorValuesPath = path.resolve(__dirname, '../../Live Worl Population/app/src/main/java/com/example/worldpopulation/data/local/DefaultIndicatorValues.kt');
 fs.writeFileSync(defaultIndicatorValuesPath, kotlinSb.join("\n"));
-console.log(`Generated DefaultIndicatorValues.kt with ${allIndicatorValuesKotlin.length} entries across ${catIds.length} categories.`);
+console.log(`Generated DefaultIndicatorValues.kt with ${topBaselineValues.length} baseline entries in ${chunks.length} chunks.`);
 
 // Generate BundledPopulationData.kt with all 200+ countries ranked
 const sortedByPop = [...masterCountries].sort((a, b) => b.pop - a.pop);
