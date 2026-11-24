@@ -1,0 +1,1913 @@
+[
+  {
+    "id": "pop_total_pop",
+    "categoryId": "population",
+    "name": "Total Population",
+    "description": "Sovereign and global total population counts and estimates.",
+    "orderIndex": 1
+  },
+  {
+    "id": "pop_density",
+    "categoryId": "population",
+    "name": "Population Density",
+    "description": "Human inhabitants per square kilometer of land area.",
+    "orderIndex": 2
+  },
+  {
+    "id": "pop_age_distribution",
+    "categoryId": "population",
+    "name": "Age Distribution",
+    "description": "Demographic age structures, youth shares, and median ages.",
+    "orderIndex": 3
+  },
+  {
+    "id": "pop_gender_distribution",
+    "categoryId": "population",
+    "name": "Gender Distribution",
+    "description": "Sex ratio at birth and female-to-male population breakdown.",
+    "orderIndex": 4
+  },
+  {
+    "id": "pop_births_fertility",
+    "categoryId": "population",
+    "name": "Births and Fertility",
+    "description": "Total fertility rate (births per woman) and crude birth rates.",
+    "orderIndex": 5
+  },
+  {
+    "id": "pop_deaths_mortality",
+    "categoryId": "population",
+    "name": "Deaths and Mortality",
+    "description": "Crude death rates and age-specific mortality measures.",
+    "orderIndex": 6
+  },
+  {
+    "id": "pop_life_expectancy",
+    "categoryId": "population",
+    "name": "Life Expectancy",
+    "description": "Average projected life span at birth for national populations.",
+    "orderIndex": 7
+  },
+  {
+    "id": "pop_migration",
+    "categoryId": "population",
+    "name": "Migration",
+    "description": "Net cross-border migration rates and immigrant population shares.",
+    "orderIndex": 8
+  },
+  {
+    "id": "pop_urban_rural",
+    "categoryId": "population",
+    "name": "Urban and Rural Population",
+    "description": "Distribution of citizens residing in urban vs rural environments.",
+    "orderIndex": 9
+  },
+  {
+    "id": "pop_projections",
+    "categoryId": "population",
+    "name": "Population Projections",
+    "description": "United Nations demographic forecasts for 2050 and 2100.",
+    "orderIndex": 10
+  },
+  {
+    "id": "pop_family_household",
+    "categoryId": "population",
+    "name": "Family and Household",
+    "description": "Average household size, marriage age, and family structures.",
+    "orderIndex": 11
+  },
+  {
+    "id": "pop_milestones",
+    "categoryId": "population",
+    "name": "Population Milestones",
+    "description": "Historical thresholds crossed by global humanity.",
+    "orderIndex": 12
+  },
+  {
+    "id": "eco_gdp",
+    "categoryId": "economy",
+    "name": "GDP",
+    "description": "Gross Domestic Product in nominal and purchasing power parity terms.",
+    "orderIndex": 13
+  },
+  {
+    "id": "eco_gdp_per_capita",
+    "categoryId": "economy",
+    "name": "GDP Per Capita",
+    "description": "National economic output divided by total population.",
+    "orderIndex": 14
+  },
+  {
+    "id": "eco_inflation",
+    "categoryId": "economy",
+    "name": "Inflation",
+    "description": "Annual consumer price index change and currency purchasing power.",
+    "orderIndex": 15
+  },
+  {
+    "id": "eco_currency_rates",
+    "categoryId": "economy",
+    "name": "Currency and Exchange Rates",
+    "description": "National currencies and exchange values against global benchmarks.",
+    "orderIndex": 16
+  },
+  {
+    "id": "eco_govt_finance",
+    "categoryId": "economy",
+    "name": "Government Finance",
+    "description": "Fiscal budgets, tax revenues, and government expenditures.",
+    "orderIndex": 17
+  },
+  {
+    "id": "eco_public_debt",
+    "categoryId": "economy",
+    "name": "Public Debt",
+    "description": "Sovereign government debt-to-GDP percentages and liabilities.",
+    "orderIndex": 18
+  },
+  {
+    "id": "eco_trade",
+    "categoryId": "economy",
+    "name": "International Trade",
+    "description": "Merchandise export volumes, import receipts, and trade balances.",
+    "orderIndex": 19
+  },
+  {
+    "id": "eco_foreign_investment",
+    "categoryId": "economy",
+    "name": "Foreign Investment",
+    "description": "Foreign direct investment (FDI) inflows and outflows.",
+    "orderIndex": 20
+  },
+  {
+    "id": "eco_banking_interest",
+    "categoryId": "economy",
+    "name": "Banking and Interest Rates",
+    "description": "Central bank benchmark lending rates and banking assets.",
+    "orderIndex": 21
+  },
+  {
+    "id": "eco_stock_markets",
+    "categoryId": "economy",
+    "name": "Stock Markets",
+    "description": "Domestic equity market capitalization and leading exchanges.",
+    "orderIndex": 22
+  },
+  {
+    "id": "eco_poverty_inequality",
+    "categoryId": "economy",
+    "name": "Poverty and Inequality",
+    "description": "Extreme poverty headcounts and Gini income distribution indices.",
+    "orderIndex": 23
+  },
+  {
+    "id": "eco_foreign_reserves",
+    "categoryId": "economy",
+    "name": "Foreign Reserves",
+    "description": "Central bank gold and convertible foreign exchange holdings.",
+    "orderIndex": 24
+  },
+  {
+    "id": "env_air_pollution",
+    "categoryId": "environment",
+    "name": "Air Pollution",
+    "description": "Ambient particulate matter (PM2.5) concentrations and exposure.",
+    "orderIndex": 25
+  },
+  {
+    "id": "env_water_resources",
+    "categoryId": "environment",
+    "name": "Water Resources",
+    "description": "Total internal renewable freshwater resources per capita.",
+    "orderIndex": 26
+  },
+  {
+    "id": "env_water_quality",
+    "categoryId": "environment",
+    "name": "Water Quality",
+    "description": "Safely treated wastewater and ambient water quality monitoring.",
+    "orderIndex": 27
+  },
+  {
+    "id": "env_forests",
+    "categoryId": "environment",
+    "name": "Forests",
+    "description": "Forest cover percentage, canopy density, and afforestation rates.",
+    "orderIndex": 28
+  },
+  {
+    "id": "env_biodiversity",
+    "categoryId": "environment",
+    "name": "Biodiversity",
+    "description": "Threatened species richness and Red List environmental indices.",
+    "orderIndex": 29
+  },
+  {
+    "id": "env_wildlife",
+    "categoryId": "environment",
+    "name": "Wildlife",
+    "description": "Terrestrial and marine wildlife population trends.",
+    "orderIndex": 30
+  },
+  {
+    "id": "env_land_soil",
+    "categoryId": "environment",
+    "name": "Land and Soil",
+    "description": "Arable land quality, soil erosion, and land degradation neutrality.",
+    "orderIndex": 31
+  },
+  {
+    "id": "env_waste_management",
+    "categoryId": "environment",
+    "name": "Waste Management",
+    "description": "Municipal solid waste generation and plastic recycling rates.",
+    "orderIndex": 32
+  },
+  {
+    "id": "env_marine_environment",
+    "categoryId": "environment",
+    "name": "Marine Environment",
+    "description": "Ocean acidity, coral reef health, and marine conservation zones.",
+    "orderIndex": 33
+  },
+  {
+    "id": "env_natural_resources",
+    "categoryId": "environment",
+    "name": "Natural Resources",
+    "description": "Economic rents from minerals, energy reserves, and timber.",
+    "orderIndex": 34
+  },
+  {
+    "id": "env_protected_areas",
+    "categoryId": "environment",
+    "name": "Protected Areas",
+    "description": "Formally gazetted nature reserves and national parks.",
+    "orderIndex": 35
+  },
+  {
+    "id": "env_ecological_footprint",
+    "categoryId": "environment",
+    "name": "Ecological Footprint",
+    "description": "Biocapacity deficit or reserve in global hectares per capita.",
+    "orderIndex": 36
+  },
+  {
+    "id": "health_life_expectancy",
+    "categoryId": "health",
+    "name": "Life Expectancy",
+    "description": "Healthy life expectancy (HALE) and longevity milestones.",
+    "orderIndex": 37
+  },
+  {
+    "id": "health_infant_child",
+    "categoryId": "health",
+    "name": "Infant and Child Health",
+    "description": "Neonatal, infant, and under-5 child mortality statistics.",
+    "orderIndex": 38
+  },
+  {
+    "id": "health_maternal",
+    "categoryId": "health",
+    "name": "Maternal Health",
+    "description": "Maternal mortality ratios and skilled birth attendant coverage.",
+    "orderIndex": 39
+  },
+  {
+    "id": "health_diseases",
+    "categoryId": "health",
+    "name": "Diseases",
+    "description": "Prevalence and incidence of communicable and chronic diseases.",
+    "orderIndex": 40
+  },
+  {
+    "id": "health_causes_death",
+    "categoryId": "health",
+    "name": "Causes of Death",
+    "description": "Cardiovascular, oncology, respiratory, and injury mortality.",
+    "orderIndex": 41
+  },
+  {
+    "id": "health_healthcare_infra",
+    "categoryId": "health",
+    "name": "Healthcare Infrastructure",
+    "description": "Hospital beds, intensive care units, and clinic density.",
+    "orderIndex": 42
+  },
+  {
+    "id": "health_medical_workforce",
+    "categoryId": "health",
+    "name": "Medical Workforce",
+    "description": "Doctors, nurses, and certified medical professionals per 1,000.",
+    "orderIndex": 43
+  },
+  {
+    "id": "health_expenditure",
+    "categoryId": "health",
+    "name": "Health Expenditure",
+    "description": "National healthcare expenditure as a percentage of GDP.",
+    "orderIndex": 44
+  },
+  {
+    "id": "health_vaccination",
+    "categoryId": "health",
+    "name": "Vaccination",
+    "description": "Universal childhood immunization coverage (DTP, Measles).",
+    "orderIndex": 45
+  },
+  {
+    "id": "health_nutrition",
+    "categoryId": "health",
+    "name": "Nutrition",
+    "description": "Child stunting, wasting, adult obesity, and dietary health.",
+    "orderIndex": 46
+  },
+  {
+    "id": "health_mental_health",
+    "categoryId": "health",
+    "name": "Mental Health",
+    "description": "Psychiatric care facilities, support workforce, and wellbeing.",
+    "orderIndex": 47
+  },
+  {
+    "id": "health_sanitation_hygiene",
+    "categoryId": "health",
+    "name": "Sanitation and Hygiene",
+    "description": "Access to safely managed sanitation facilities and handwashing.",
+    "orderIndex": 48
+  },
+  {
+    "id": "edu_literacy",
+    "categoryId": "education",
+    "name": "Literacy",
+    "description": "Adult and youth literacy percentages across sovereign nations.",
+    "orderIndex": 49
+  },
+  {
+    "id": "edu_primary",
+    "categoryId": "education",
+    "name": "Primary Education",
+    "description": "Universal primary school enrollment and completion ratios.",
+    "orderIndex": 50
+  },
+  {
+    "id": "edu_secondary",
+    "categoryId": "education",
+    "name": "Secondary Education",
+    "description": "Lower and upper secondary school graduation and attendance.",
+    "orderIndex": 51
+  },
+  {
+    "id": "edu_higher",
+    "categoryId": "education",
+    "name": "Higher Education",
+    "description": "Tertiary education gross enrollment and university matriculation.",
+    "orderIndex": 52
+  },
+  {
+    "id": "edu_spending",
+    "categoryId": "education",
+    "name": "Education Spending",
+    "description": "Government budgetary allocation to education as % of GDP.",
+    "orderIndex": 53
+  },
+  {
+    "id": "edu_teachers",
+    "categoryId": "education",
+    "name": "Teachers",
+    "description": "Pupil-to-qualified-teacher ratios across school systems.",
+    "orderIndex": 54
+  },
+  {
+    "id": "edu_gender_equality",
+    "categoryId": "education",
+    "name": "Gender Equality",
+    "description": "Gender parity index across primary, secondary, and tertiary levels.",
+    "orderIndex": 55
+  },
+  {
+    "id": "edu_school_infra",
+    "categoryId": "education",
+    "name": "School Infrastructure",
+    "description": "Schools with reliable electricity, internet, and drinking water.",
+    "orderIndex": 56
+  },
+  {
+    "id": "edu_learning_outcomes",
+    "categoryId": "education",
+    "name": "Learning Outcomes",
+    "description": "Standardized reading and mathematics proficiency standards.",
+    "orderIndex": 57
+  },
+  {
+    "id": "edu_vocational",
+    "categoryId": "education",
+    "name": "Vocational Education",
+    "description": "Technical and vocational training enrollment and apprenticeships.",
+    "orderIndex": 58
+  },
+  {
+    "id": "edu_research_edu",
+    "categoryId": "education",
+    "name": "Research Education",
+    "description": "Doctoral graduate production and graduate research capacity.",
+    "orderIndex": 59
+  },
+  {
+    "id": "edu_education_access",
+    "categoryId": "education",
+    "name": "Education Access",
+    "description": "Out-of-school children and educational exclusion metrics.",
+    "orderIndex": 60
+  },
+  {
+    "id": "tech_internet_access",
+    "categoryId": "technology",
+    "name": "Internet Access",
+    "description": "Percentage of national population actively connected online.",
+    "orderIndex": 61
+  },
+  {
+    "id": "tech_mobile_connectivity",
+    "categoryId": "technology",
+    "name": "Mobile Connectivity",
+    "description": "Cellular phone subscriptions and SIM card penetration per 100.",
+    "orderIndex": 62
+  },
+  {
+    "id": "tech_broadband",
+    "categoryId": "technology",
+    "name": "Broadband",
+    "description": "Fixed broadband subscriptions and median high-speed bandwidth.",
+    "orderIndex": 63
+  },
+  {
+    "id": "tech_5g_networks",
+    "categoryId": "technology",
+    "name": "5G and Networks",
+    "description": "5G population coverage, spectrum deployment, and fiber backbones.",
+    "orderIndex": 64
+  },
+  {
+    "id": "tech_ai",
+    "categoryId": "technology",
+    "name": "Artificial Intelligence",
+    "description": "National AI readiness, computational infrastructure, and talent.",
+    "orderIndex": 65
+  },
+  {
+    "id": "tech_cybersecurity",
+    "categoryId": "technology",
+    "name": "Cybersecurity",
+    "description": "Global Cybersecurity Index rankings and critical infra defense.",
+    "orderIndex": 66
+  },
+  {
+    "id": "tech_digital_govt",
+    "categoryId": "technology",
+    "name": "Digital Government",
+    "description": "UN E-Government development index and digital public services.",
+    "orderIndex": 67
+  },
+  {
+    "id": "tech_innovation",
+    "categoryId": "technology",
+    "name": "Innovation",
+    "description": "Global Innovation Index (GII) scores and tech ecosystems.",
+    "orderIndex": 68
+  },
+  {
+    "id": "tech_patents_ip",
+    "categoryId": "technology",
+    "name": "Patents and Intellectual Property",
+    "description": "Annual resident patent applications and intellectual property filings.",
+    "orderIndex": 69
+  },
+  {
+    "id": "tech_rd",
+    "categoryId": "technology",
+    "name": "Research and Development",
+    "description": "Gross expenditure on research and scientific development (GERD).",
+    "orderIndex": 70
+  },
+  {
+    "id": "tech_robotics_automation",
+    "categoryId": "technology",
+    "name": "Robotics and Automation",
+    "description": "Operational industrial robots per 10,000 manufacturing workers.",
+    "orderIndex": 71
+  },
+  {
+    "id": "tech_exports",
+    "categoryId": "technology",
+    "name": "Technology Exports",
+    "description": "High-technology manufactured exports as % of total trade.",
+    "orderIndex": 72
+  },
+  {
+    "id": "mil_defence_budget",
+    "categoryId": "military",
+    "name": "Defence Budget",
+    "description": "Annual military spending in USD and share of national GDP.",
+    "orderIndex": 73
+  },
+  {
+    "id": "mil_personnel",
+    "categoryId": "military",
+    "name": "Military Personnel",
+    "description": "Active duty troops, reserve forces, and paramilitary personnel.",
+    "orderIndex": 74
+  },
+  {
+    "id": "mil_army",
+    "categoryId": "military",
+    "name": "Army",
+    "description": "Ground warfare main battle tanks, armored vehicles, and artillery.",
+    "orderIndex": 75
+  },
+  {
+    "id": "mil_air_force",
+    "categoryId": "military",
+    "name": "Air Force",
+    "description": "Combat aircraft, interceptors, attack helicopters, and transports.",
+    "orderIndex": 76
+  },
+  {
+    "id": "mil_navy",
+    "categoryId": "military",
+    "name": "Navy",
+    "description": "Aircraft carriers, destroyers, frigates, corvettes, and submarines.",
+    "orderIndex": 77
+  },
+  {
+    "id": "mil_nuclear_weapons",
+    "categoryId": "military",
+    "name": "Nuclear Weapons",
+    "description": "Estimated sovereign nuclear warhead stockpiles and treaties.",
+    "orderIndex": 78
+  },
+  {
+    "id": "mil_arms_exports",
+    "categoryId": "military",
+    "name": "Arms Exports",
+    "description": "SIPRI trend indicator values for major conventional arms exports.",
+    "orderIndex": 79
+  },
+  {
+    "id": "mil_arms_imports",
+    "categoryId": "military",
+    "name": "Arms Imports",
+    "description": "Major conventional weapons procurement and defense imports.",
+    "orderIndex": 80
+  },
+  {
+    "id": "mil_defence_industry",
+    "categoryId": "military",
+    "name": "Defence Industry",
+    "description": "Top global defense manufacturers and domestic production capacity.",
+    "orderIndex": 81
+  },
+  {
+    "id": "mil_alliances",
+    "categoryId": "military",
+    "name": "Military Alliances",
+    "description": "Collective defense treaties (NATO, bilateral pacts) and exercises.",
+    "orderIndex": 82
+  },
+  {
+    "id": "mil_peace_conflict",
+    "categoryId": "military",
+    "name": "Peace and Conflict",
+    "description": "Active armed conflicts, UN peacekeeping troop contributions.",
+    "orderIndex": 83
+  },
+  {
+    "id": "mil_rankings",
+    "categoryId": "military",
+    "name": "Military Rankings",
+    "description": "Conventional military strength composite indices and posture.",
+    "orderIndex": 84
+  },
+  {
+    "id": "idx_human_development",
+    "categoryId": "global_indices",
+    "name": "Human Development",
+    "description": "UNDP Human Development Index (HDI) scores combining health, education, income.",
+    "orderIndex": 85
+  },
+  {
+    "id": "idx_happiness",
+    "categoryId": "global_indices",
+    "name": "Happiness",
+    "description": "World Happiness Report life evaluation scores.",
+    "orderIndex": 86
+  },
+  {
+    "id": "idx_peace",
+    "categoryId": "global_indices",
+    "name": "Peace",
+    "description": "Global Peace Index measuring societal safety, conflict, and militarization.",
+    "orderIndex": 87
+  },
+  {
+    "id": "idx_corruption",
+    "categoryId": "global_indices",
+    "name": "Corruption",
+    "description": "Corruption Perceptions Index (CPI) scoring public sector integrity.",
+    "orderIndex": 88
+  },
+  {
+    "id": "idx_innovation",
+    "categoryId": "global_indices",
+    "name": "Innovation",
+    "description": "WIPO Global Innovation Index measuring institutions, human capital, research.",
+    "orderIndex": 89
+  },
+  {
+    "id": "idx_democracy",
+    "categoryId": "global_indices",
+    "name": "Democracy",
+    "description": "Democracy index evaluating electoral process, pluralism, and civil liberties.",
+    "orderIndex": 90
+  },
+  {
+    "id": "idx_press_freedom",
+    "categoryId": "global_indices",
+    "name": "Press Freedom",
+    "description": "Reporters Without Borders World Press Freedom Index.",
+    "orderIndex": 91
+  },
+  {
+    "id": "idx_gender_equality",
+    "categoryId": "global_indices",
+    "name": "Gender Equality",
+    "description": "Global Gender Gap Index tracking economic, political, educational parity.",
+    "orderIndex": 92
+  },
+  {
+    "id": "idx_economic_freedom",
+    "categoryId": "global_indices",
+    "name": "Economic Freedom",
+    "description": "Rule of law, government size, regulatory efficiency, and open markets.",
+    "orderIndex": 93
+  },
+  {
+    "id": "idx_passport_strength",
+    "categoryId": "global_indices",
+    "name": "Passport Strength",
+    "description": "Visa-free and visa-on-arrival travel access scores worldwide.",
+    "orderIndex": 94
+  },
+  {
+    "id": "idx_quality_of_life",
+    "categoryId": "global_indices",
+    "name": "Quality of Life",
+    "description": "Purchasing power, safety, healthcare, climate, and cost of living.",
+    "orderIndex": 95
+  },
+  {
+    "id": "idx_rule_of_law",
+    "categoryId": "global_indices",
+    "name": "Rule of Law",
+    "description": "World Justice Project constraints on government, fundamental rights.",
+    "orderIndex": 96
+  },
+  {
+    "id": "idx_environmental_performance",
+    "categoryId": "global_indices",
+    "name": "Environmental Performance",
+    "description": "Yale Environmental Performance Index (EPI) ecosystem vitality.",
+    "orderIndex": 97
+  },
+  {
+    "id": "idx_competitiveness",
+    "categoryId": "global_indices",
+    "name": "Competitiveness",
+    "description": "Productivity drivers, macroeconomic stability, and business dynamics.",
+    "orderIndex": 98
+  },
+  {
+    "id": "geo_countries_territories",
+    "categoryId": "geography",
+    "name": "Countries and Territories",
+    "description": "Official sovereign nations and recognized dependent territories.",
+    "orderIndex": 99
+  },
+  {
+    "id": "geo_continents_regions",
+    "categoryId": "geography",
+    "name": "Continents and Regions",
+    "description": "Continental landmasses and UN geoscheme regional classifications.",
+    "orderIndex": 100
+  },
+  {
+    "id": "geo_country_area",
+    "categoryId": "geography",
+    "name": "Country Area",
+    "description": "Total sovereign surface area in square kilometers including inland waters.",
+    "orderIndex": 101
+  },
+  {
+    "id": "geo_mountains",
+    "categoryId": "geography",
+    "name": "Mountains",
+    "description": "Highest peaks, mountain ranges, and continental summits.",
+    "orderIndex": 102
+  },
+  {
+    "id": "geo_rivers",
+    "categoryId": "geography",
+    "name": "Rivers",
+    "description": "Longest river systems, drainage basins, and annual discharge.",
+    "orderIndex": 103
+  },
+  {
+    "id": "geo_lakes",
+    "categoryId": "geography",
+    "name": "Lakes",
+    "description": "Greatest freshwater and saltwater lakes by surface area and volume.",
+    "orderIndex": 104
+  },
+  {
+    "id": "geo_oceans_seas",
+    "categoryId": "geography",
+    "name": "Oceans and Seas",
+    "description": "Earth oceans, marginal seas, maritime exclusive economic zones.",
+    "orderIndex": 105
+  },
+  {
+    "id": "geo_deserts",
+    "categoryId": "geography",
+    "name": "Deserts",
+    "description": "Subtropical, polar, and cold winter desert expanses.",
+    "orderIndex": 106
+  },
+  {
+    "id": "geo_islands",
+    "categoryId": "geography",
+    "name": "Islands",
+    "description": "Largest islands, archipelagos, and volcanic landforms.",
+    "orderIndex": 107
+  },
+  {
+    "id": "geo_borders",
+    "categoryId": "geography",
+    "name": "Borders",
+    "description": "International land border lengths and neighboring state counts.",
+    "orderIndex": 108
+  },
+  {
+    "id": "geo_coordinates",
+    "categoryId": "geography",
+    "name": "Coordinates",
+    "description": "Geographic latitude, longitude centers, and cardinal extremes.",
+    "orderIndex": 109
+  },
+  {
+    "id": "geo_time_zones",
+    "categoryId": "geography",
+    "name": "Time Zones",
+    "description": "UTC offsets, daylight saving systems, and national time spans.",
+    "orderIndex": 110
+  },
+  {
+    "id": "geo_natural_wonders",
+    "categoryId": "geography",
+    "name": "Natural Wonders",
+    "description": "Canyons, waterfalls, barrier reefs, and geologic landmarks.",
+    "orderIndex": 111
+  },
+  {
+    "id": "geo_earth_structure",
+    "categoryId": "geography",
+    "name": "Earth Structure",
+    "description": "Crustal tectonic plates, volcanic belts, and planetary dimensions.",
+    "orderIndex": 112
+  },
+  {
+    "id": "tour_tourist_arrivals",
+    "categoryId": "tourism",
+    "name": "Tourist Arrivals",
+    "description": "Annual international inbound overnight visitors.",
+    "orderIndex": 113
+  },
+  {
+    "id": "tour_tourism_revenue",
+    "categoryId": "tourism",
+    "name": "Tourism Revenue",
+    "description": "International tourism receipts and export services income.",
+    "orderIndex": 114
+  },
+  {
+    "id": "tour_tourism_economy",
+    "categoryId": "tourism",
+    "name": "Tourism Economy",
+    "description": "Travel and tourism direct contribution to gross domestic product.",
+    "orderIndex": 115
+  },
+  {
+    "id": "tour_most_visited_countries",
+    "categoryId": "tourism",
+    "name": "Most Visited Countries",
+    "description": "Top global travel destinations by annual tourist arrivals.",
+    "orderIndex": 116
+  },
+  {
+    "id": "tour_popular_cities",
+    "categoryId": "tourism",
+    "name": "Popular Cities",
+    "description": "Global destination cities index and international visitor traffic.",
+    "orderIndex": 117
+  },
+  {
+    "id": "tour_unesco_sites",
+    "categoryId": "tourism",
+    "name": "UNESCO Heritage Sites",
+    "description": "Inscribed cultural, natural, and mixed World Heritage properties.",
+    "orderIndex": 118
+  },
+  {
+    "id": "tour_natural_destinations",
+    "categoryId": "tourism",
+    "name": "Natural Destinations",
+    "description": "Ecotourism reserves, wilderness parks, and natural attractions.",
+    "orderIndex": 119
+  },
+  {
+    "id": "tour_travel_costs",
+    "categoryId": "tourism",
+    "name": "Travel Costs",
+    "description": "Average daily visitor expenses, dining, and transit price indices.",
+    "orderIndex": 120
+  },
+  {
+    "id": "tour_visa_access",
+    "categoryId": "tourism",
+    "name": "Visa Access",
+    "description": "Visa openness index and international traveler entry requirements.",
+    "orderIndex": 121
+  },
+  {
+    "id": "tour_airports",
+    "categoryId": "tourism",
+    "name": "Airports",
+    "description": "International passenger terminal traffic, hub connections, and runways.",
+    "orderIndex": 122
+  },
+  {
+    "id": "tour_hotels_accommodation",
+    "categoryId": "tourism",
+    "name": "Hotels and Accommodation",
+    "description": "Hotel room density, occupancy rates, and hospitality capacity.",
+    "orderIndex": 123
+  },
+  {
+    "id": "tour_cruise_tourism",
+    "categoryId": "tourism",
+    "name": "Cruise Tourism",
+    "description": "Ocean and river cruise passengers, ports of call, and passenger flows.",
+    "orderIndex": 124
+  },
+  {
+    "id": "energy_production",
+    "categoryId": "energy",
+    "name": "Energy Production",
+    "description": "Total primary energy production from all combined sources.",
+    "orderIndex": 125
+  },
+  {
+    "id": "energy_consumption",
+    "categoryId": "energy",
+    "name": "Energy Consumption",
+    "description": "Total primary energy consumed per capita and national total.",
+    "orderIndex": 126
+  },
+  {
+    "id": "energy_electricity_generation",
+    "categoryId": "energy",
+    "name": "Electricity Generation",
+    "description": "Total gross electrical energy generated in terawatt-hours (TWh).",
+    "orderIndex": 127
+  },
+  {
+    "id": "energy_renewable",
+    "categoryId": "energy",
+    "name": "Renewable Energy",
+    "description": "Clean renewable power share of total electricity generation.",
+    "orderIndex": 128
+  },
+  {
+    "id": "energy_solar",
+    "categoryId": "energy",
+    "name": "Solar Energy",
+    "description": "Installed solar photovoltaic capacity and annual solar power output.",
+    "orderIndex": 129
+  },
+  {
+    "id": "energy_wind",
+    "categoryId": "energy",
+    "name": "Wind Energy",
+    "description": "Onshore and offshore wind turbine generation capacity.",
+    "orderIndex": 130
+  },
+  {
+    "id": "energy_hydropower",
+    "categoryId": "energy",
+    "name": "Hydropower",
+    "description": "Hydroelectric dam capacity and run-of-river electrical generation.",
+    "orderIndex": 131
+  },
+  {
+    "id": "energy_nuclear",
+    "categoryId": "energy",
+    "name": "Nuclear Energy",
+    "description": "Commercial nuclear power reactors and electrical generation share.",
+    "orderIndex": 132
+  },
+  {
+    "id": "energy_coal",
+    "categoryId": "energy",
+    "name": "Coal",
+    "description": "Anthracite and lignite coal extraction, consumption, and plant phaseout.",
+    "orderIndex": 133
+  },
+  {
+    "id": "energy_oil",
+    "categoryId": "energy",
+    "name": "Oil",
+    "description": "Crude oil production barrels per day and petroleum refinery throughput.",
+    "orderIndex": 134
+  },
+  {
+    "id": "energy_natural_gas",
+    "categoryId": "energy",
+    "name": "Natural Gas",
+    "description": "Natural gas pipeline and LNG production volumes.",
+    "orderIndex": 135
+  },
+  {
+    "id": "energy_electricity_access",
+    "categoryId": "energy",
+    "name": "Electricity Access",
+    "description": "Share of national population with access to reliable grid power.",
+    "orderIndex": 136
+  },
+  {
+    "id": "energy_electricity_prices",
+    "categoryId": "energy",
+    "name": "Electricity Prices",
+    "description": "Residential and industrial retail electricity costs per kWh.",
+    "orderIndex": 137
+  },
+  {
+    "id": "energy_energy_trade",
+    "categoryId": "energy",
+    "name": "Energy Trade",
+    "description": "Net energy imports and dependency ratios on external fuel supplies.",
+    "orderIndex": 138
+  },
+  {
+    "id": "energy_energy_efficiency",
+    "categoryId": "energy",
+    "name": "Energy Efficiency",
+    "description": "Energy intensity of GDP (MJ per 2017 PPP dollar of output).",
+    "orderIndex": 139
+  },
+  {
+    "id": "agri_crop_production",
+    "categoryId": "agriculture",
+    "name": "Crop Production",
+    "description": "Major agricultural cereal, oilseed, and staple crop harvests.",
+    "orderIndex": 140
+  },
+  {
+    "id": "agri_food_production",
+    "categoryId": "agriculture",
+    "name": "Food Production",
+    "description": "Composite food production index relative to baseline periods.",
+    "orderIndex": 141
+  },
+  {
+    "id": "agri_livestock",
+    "categoryId": "agriculture",
+    "name": "Livestock",
+    "description": "Cattle, sheep, poultry heads, and animal product yields.",
+    "orderIndex": 142
+  },
+  {
+    "id": "agri_fisheries",
+    "categoryId": "agriculture",
+    "name": "Fisheries",
+    "description": "Capture fisheries and aquaculture marine production tonnage.",
+    "orderIndex": 143
+  },
+  {
+    "id": "agri_agricultural_land",
+    "categoryId": "agriculture",
+    "name": "Agricultural Land",
+    "description": "Arable land and permanent pasture as percentage of land area.",
+    "orderIndex": 144
+  },
+  {
+    "id": "agri_irrigation",
+    "categoryId": "agriculture",
+    "name": "Irrigation",
+    "description": "Agricultural land equipped for modern precision irrigation.",
+    "orderIndex": 145
+  },
+  {
+    "id": "agri_food_security",
+    "categoryId": "agriculture",
+    "name": "Food Security",
+    "description": "Prevalence of moderate and severe food insecurity in population.",
+    "orderIndex": 146
+  },
+  {
+    "id": "agri_food_prices",
+    "categoryId": "agriculture",
+    "name": "Food Prices",
+    "description": "FAO Food Price Index and domestic retail food basket inflation.",
+    "orderIndex": 147
+  },
+  {
+    "id": "agri_agricultural_exports",
+    "categoryId": "agriculture",
+    "name": "Agricultural Exports",
+    "description": "Value of farm and agricultural produce exported abroad.",
+    "orderIndex": 148
+  },
+  {
+    "id": "agri_fertilisers",
+    "categoryId": "agriculture",
+    "name": "Fertilisers",
+    "description": "Nitrogen, phosphorus, and potassium fertilizer application per hectare.",
+    "orderIndex": 149
+  },
+  {
+    "id": "agri_farm_productivity",
+    "categoryId": "agriculture",
+    "name": "Farm Productivity",
+    "description": "Cereal yields in kilograms per harvested hectare of land.",
+    "orderIndex": 150
+  },
+  {
+    "id": "agri_organic_farming",
+    "categoryId": "agriculture",
+    "name": "Organic Farming",
+    "description": "Certified organic agricultural land area and sustainable practices.",
+    "orderIndex": 151
+  },
+  {
+    "id": "agri_food_loss_waste",
+    "categoryId": "agriculture",
+    "name": "Food Loss and Waste",
+    "description": "Food loss percentage along supply chains from harvest to market.",
+    "orderIndex": 152
+  },
+  {
+    "id": "agri_agricultural_employment",
+    "categoryId": "agriculture",
+    "name": "Agricultural Employment",
+    "description": "Percentage of labor force employed in agriculture, forestry, fishing.",
+    "orderIndex": 153
+  },
+  {
+    "id": "pol_political_systems",
+    "categoryId": "politics",
+    "name": "Political Systems",
+    "description": "Constitutional systems: parliamentary, presidential, or mixed.",
+    "orderIndex": 154
+  },
+  {
+    "id": "pol_government_structure",
+    "categoryId": "politics",
+    "name": "Government Structure",
+    "description": "Unitary states versus federal governance arrangements.",
+    "orderIndex": 155
+  },
+  {
+    "id": "pol_heads_of_state",
+    "categoryId": "politics",
+    "name": "Heads of State",
+    "description": "Monarchs, presidents, and ceremonial national leaders.",
+    "orderIndex": 156
+  },
+  {
+    "id": "pol_heads_of_government",
+    "categoryId": "politics",
+    "name": "Heads of Government",
+    "description": "Prime ministers, chancellors, and chief executives.",
+    "orderIndex": 157
+  },
+  {
+    "id": "pol_parliaments",
+    "categoryId": "politics",
+    "name": "Parliaments",
+    "description": "Unicameral and bicameral legislative assemblies and seat numbers.",
+    "orderIndex": 158
+  },
+  {
+    "id": "pol_elections",
+    "categoryId": "politics",
+    "name": "Elections",
+    "description": "Voter turnout, universal suffrage, and national election cycles.",
+    "orderIndex": 159
+  },
+  {
+    "id": "pol_political_parties",
+    "categoryId": "politics",
+    "name": "Political Parties",
+    "description": "Party representation, coalition governance, and pluralism.",
+    "orderIndex": 160
+  },
+  {
+    "id": "pol_women_in_government",
+    "categoryId": "politics",
+    "name": "Women in Government",
+    "description": "Proportion of seats held by women in national parliaments.",
+    "orderIndex": 161
+  },
+  {
+    "id": "pol_governance",
+    "categoryId": "politics",
+    "name": "Governance",
+    "description": "Worldwide Governance Indicators: government effectiveness and voice.",
+    "orderIndex": 162
+  },
+  {
+    "id": "pol_corruption",
+    "categoryId": "politics",
+    "name": "Corruption",
+    "description": "Public accountability, anti-graft mechanisms, and transparency.",
+    "orderIndex": 163
+  },
+  {
+    "id": "pol_public_services",
+    "categoryId": "politics",
+    "name": "Public Services",
+    "description": "Civil service meritocracy, public registry efficiency, and delivery.",
+    "orderIndex": 164
+  },
+  {
+    "id": "pol_international_memberships",
+    "categoryId": "politics",
+    "name": "International Memberships",
+    "description": "United Nations, G20, OECD, ASEAN, EU, and multilateral bodies.",
+    "orderIndex": 165
+  },
+  {
+    "id": "pol_treaties_agreements",
+    "categoryId": "politics",
+    "name": "Treaties and Agreements",
+    "description": "Signatory status on major international conventions and climate accords.",
+    "orderIndex": 166
+  },
+  {
+    "id": "pol_administrative_divisions",
+    "categoryId": "politics",
+    "name": "Administrative Divisions",
+    "description": "First-order provinces, states, cantons, and regional governorates.",
+    "orderIndex": 167
+  },
+  {
+    "id": "infra_roads",
+    "categoryId": "infrastructure",
+    "name": "Roads",
+    "description": "Total road network length and percentage of paved roads.",
+    "orderIndex": 168
+  },
+  {
+    "id": "infra_highways",
+    "categoryId": "infrastructure",
+    "name": "Highways",
+    "description": "Controlled-access motorways, expressways, and interstate systems.",
+    "orderIndex": 169
+  },
+  {
+    "id": "infra_railways",
+    "categoryId": "infrastructure",
+    "name": "Railways",
+    "description": "Standard gauge, electrified, and total operational railway lines.",
+    "orderIndex": 170
+  },
+  {
+    "id": "infra_high_speed_rail",
+    "categoryId": "infrastructure",
+    "name": "High-Speed Rail",
+    "description": "Commercial bullet train track length operating over 250 km/h.",
+    "orderIndex": 171
+  },
+  {
+    "id": "infra_airports",
+    "categoryId": "infrastructure",
+    "name": "Airports",
+    "description": "Commercial paved airports and international passenger handling capacity.",
+    "orderIndex": 172
+  },
+  {
+    "id": "infra_seaports",
+    "categoryId": "infrastructure",
+    "name": "Seaports",
+    "description": "Container terminal throughput in twenty-foot equivalent units (TEU).",
+    "orderIndex": 173
+  },
+  {
+    "id": "infra_public_transport",
+    "categoryId": "infrastructure",
+    "name": "Public Transport",
+    "description": "Urban metro systems, light rail, and bus rapid transit networks.",
+    "orderIndex": 174
+  },
+  {
+    "id": "infra_bridges_tunnels",
+    "categoryId": "infrastructure",
+    "name": "Bridges and Tunnels",
+    "description": "Engineering mega-structures, undersea tunnels, and major spans.",
+    "orderIndex": 175
+  },
+  {
+    "id": "infra_electricity_infra",
+    "categoryId": "infrastructure",
+    "name": "Electricity Infrastructure",
+    "description": "Transmission grid reliability and cross-border interconnections.",
+    "orderIndex": 176
+  },
+  {
+    "id": "infra_water_infra",
+    "categoryId": "infrastructure",
+    "name": "Water Infrastructure",
+    "description": "Municipal drinking water distribution pipes and reservoir storage.",
+    "orderIndex": 177
+  },
+  {
+    "id": "infra_internet_infra",
+    "categoryId": "infrastructure",
+    "name": "Internet Infrastructure",
+    "description": "Submarine fiber cables, data centers, and internet exchange points.",
+    "orderIndex": 178
+  },
+  {
+    "id": "infra_logistics",
+    "categoryId": "infrastructure",
+    "name": "Logistics",
+    "description": "World Bank Logistics Performance Index tracking customs and timeliness.",
+    "orderIndex": 179
+  },
+  {
+    "id": "infra_urban_infra",
+    "categoryId": "infrastructure",
+    "name": "Urban Infrastructure",
+    "description": "Smart street lighting, storm drainage, and urban utilities.",
+    "orderIndex": 180
+  },
+  {
+    "id": "infra_construction",
+    "categoryId": "infrastructure",
+    "name": "Construction",
+    "description": "Construction sector volume, permits, and capital investment.",
+    "orderIndex": 181
+  },
+  {
+    "id": "infra_housing",
+    "categoryId": "infrastructure",
+    "name": "Housing",
+    "description": "Homeownership percentages, residential building stock, and density.",
+    "orderIndex": 182
+  },
+  {
+    "id": "clim_temperature",
+    "categoryId": "climate",
+    "name": "Temperature",
+    "description": "Annual mean surface temperature and historic baseline variance.",
+    "orderIndex": 183
+  },
+  {
+    "id": "clim_global_warming",
+    "categoryId": "climate",
+    "name": "Global Warming",
+    "description": "Global temperature anomalies relative to pre-industrial benchmarks.",
+    "orderIndex": 184
+  },
+  {
+    "id": "clim_rainfall",
+    "categoryId": "climate",
+    "name": "Rainfall",
+    "description": "Average annual precipitation depth in millimeters across land area.",
+    "orderIndex": 185
+  },
+  {
+    "id": "clim_snowfall",
+    "categoryId": "climate",
+    "name": "Snowfall",
+    "description": "Seasonal snow cover extent and winter precipitation patterns.",
+    "orderIndex": 186
+  },
+  {
+    "id": "clim_drought",
+    "categoryId": "climate",
+    "name": "Drought",
+    "description": "Standardized Precipitation Index tracking meteorological drought.",
+    "orderIndex": 187
+  },
+  {
+    "id": "clim_floods",
+    "categoryId": "climate",
+    "name": "Floods",
+    "description": "Extreme riverine and coastal flooding frequencies and impact.",
+    "orderIndex": 188
+  },
+  {
+    "id": "clim_cyclones",
+    "categoryId": "climate",
+    "name": "Cyclones",
+    "description": "Tropical storms, typhoons, hurricanes, and cyclone storm tracks.",
+    "orderIndex": 189
+  },
+  {
+    "id": "clim_extreme_weather",
+    "categoryId": "climate",
+    "name": "Extreme Weather",
+    "description": "Heatwaves, cold snaps, and catastrophic weather incident days.",
+    "orderIndex": 190
+  },
+  {
+    "id": "clim_sea_level",
+    "categoryId": "climate",
+    "name": "Sea Level",
+    "description": "Global mean sea-level rise measured by satellite altimetry.",
+    "orderIndex": 191
+  },
+  {
+    "id": "clim_glaciers",
+    "categoryId": "climate",
+    "name": "Glaciers",
+    "description": "Mountain glacier mass balance change and annual ice retreat.",
+    "orderIndex": 192
+  },
+  {
+    "id": "clim_polar_ice",
+    "categoryId": "climate",
+    "name": "Polar Ice",
+    "description": "Arctic and Antarctic summer minimum sea ice extent (million km²).",
+    "orderIndex": 193
+  },
+  {
+    "id": "clim_greenhouse_gases",
+    "categoryId": "climate",
+    "name": "Greenhouse Gases",
+    "description": "Atmospheric CO2 and methane concentrations in parts per million.",
+    "orderIndex": 194
+  },
+  {
+    "id": "clim_climate_risk",
+    "categoryId": "climate",
+    "name": "Climate Risk",
+    "description": "Global Climate Risk Index vulnerability to catastrophic weather.",
+    "orderIndex": 195
+  },
+  {
+    "id": "clim_climate_projections",
+    "categoryId": "climate",
+    "name": "Climate Projections",
+    "description": "IPCC Shared Socioeconomic Pathway (SSP) warming scenarios.",
+    "orderIndex": 196
+  },
+  {
+    "id": "emp_labour_force",
+    "categoryId": "employment",
+    "name": "Labour Force",
+    "description": "Total economically active population aged 15 and over.",
+    "orderIndex": 197
+  },
+  {
+    "id": "emp_employment_rate",
+    "categoryId": "employment",
+    "name": "Employment Rate",
+    "description": "Employment-to-population ratio of working-age adults.",
+    "orderIndex": 198
+  },
+  {
+    "id": "emp_unemployment",
+    "categoryId": "employment",
+    "name": "Unemployment",
+    "description": "Total unemployed labor force actively seeking employment.",
+    "orderIndex": 199
+  },
+  {
+    "id": "emp_youth_employment",
+    "categoryId": "employment",
+    "name": "Youth Employment",
+    "description": "Youth unemployment rates and youth not in employment, education (NEET).",
+    "orderIndex": 200
+  },
+  {
+    "id": "emp_wages_salaries",
+    "categoryId": "employment",
+    "name": "Wages and Salaries",
+    "description": "Average monthly wage in local currency and purchasing power parity USD.",
+    "orderIndex": 201
+  },
+  {
+    "id": "emp_working_hours",
+    "categoryId": "employment",
+    "name": "Working Hours",
+    "description": "Average weekly hours worked per employed person in main job.",
+    "orderIndex": 202
+  },
+  {
+    "id": "emp_labour_participation",
+    "categoryId": "employment",
+    "name": "Labour Participation",
+    "description": "Civilian labor force participation rate (% of total population 15+).",
+    "orderIndex": 203
+  },
+  {
+    "id": "emp_gender_gap",
+    "categoryId": "employment",
+    "name": "Gender Gap",
+    "description": "Female versus male labor force participation differential.",
+    "orderIndex": 204
+  },
+  {
+    "id": "emp_employment_by_sector",
+    "categoryId": "employment",
+    "name": "Employment by Sector",
+    "description": "Employment breakdown across agriculture, industry, and service sectors.",
+    "orderIndex": 205
+  },
+  {
+    "id": "emp_informal_employment",
+    "categoryId": "employment",
+    "name": "Informal Employment",
+    "description": "Informal sector jobs lacking formal contracts and social safety.",
+    "orderIndex": 206
+  },
+  {
+    "id": "emp_migrant_workers",
+    "categoryId": "employment",
+    "name": "Migrant Workers",
+    "description": "Foreign-born migrant workers contributing to national labor.",
+    "orderIndex": 207
+  },
+  {
+    "id": "emp_productivity",
+    "categoryId": "employment",
+    "name": "Productivity",
+    "description": "GDP output produced per hour worked across national economies.",
+    "orderIndex": 208
+  },
+  {
+    "id": "emp_occupational_safety",
+    "categoryId": "employment",
+    "name": "Occupational Safety",
+    "description": "Fatal and non-fatal occupational injuries per 100,000 workers.",
+    "orderIndex": 209
+  },
+  {
+    "id": "emp_social_protection",
+    "categoryId": "employment",
+    "name": "Social Protection",
+    "description": "Proportion of vulnerable population covered by social assistance.",
+    "orderIndex": 210
+  },
+  {
+    "id": "emp_child_labour",
+    "categoryId": "employment",
+    "name": "Child Labour",
+    "description": "Prevalence of children aged 5-17 engaged in economic labor.",
+    "orderIndex": 211
+  },
+  {
+    "id": "sci_research_spending",
+    "categoryId": "science",
+    "name": "Research Spending",
+    "description": "Gross expenditure on research and development as % of GDP.",
+    "orderIndex": 212
+  },
+  {
+    "id": "sci_researchers",
+    "categoryId": "science",
+    "name": "Researchers",
+    "description": "Full-time equivalent researchers per million inhabitants.",
+    "orderIndex": 213
+  },
+  {
+    "id": "sci_scientific_publications",
+    "categoryId": "science",
+    "name": "Scientific Publications",
+    "description": "Peer-reviewed citable journal articles published annually.",
+    "orderIndex": 214
+  },
+  {
+    "id": "sci_citations",
+    "categoryId": "science",
+    "name": "Citations",
+    "description": "Total citations received and scientific h-index impact metrics.",
+    "orderIndex": 215
+  },
+  {
+    "id": "sci_scientific_patents",
+    "categoryId": "science",
+    "name": "Scientific Patents",
+    "description": "Patents filed in cutting-edge biotechnology and physical sciences.",
+    "orderIndex": 216
+  },
+  {
+    "id": "sci_space_exploration",
+    "categoryId": "science",
+    "name": "Space Exploration",
+    "description": "National space agencies, orbital launches, and planetary missions.",
+    "orderIndex": 217
+  },
+  {
+    "id": "sci_satellites",
+    "categoryId": "science",
+    "name": "Satellites",
+    "description": "Active communication, Earth observation, and navigation satellites in orbit.",
+    "orderIndex": 218
+  },
+  {
+    "id": "sci_astronomy",
+    "categoryId": "science",
+    "name": "Astronomy",
+    "description": "Ground-based astronomical observatories, radio telescopes, and arrays.",
+    "orderIndex": 219
+  },
+  {
+    "id": "sci_biotechnology",
+    "categoryId": "science",
+    "name": "Biotechnology",
+    "description": "Genomics research, CRISPR applications, and biopharmaceutical patents.",
+    "orderIndex": 220
+  },
+  {
+    "id": "sci_medical_research",
+    "categoryId": "science",
+    "name": "Medical Research",
+    "description": "Registered clinical trials and biomedical health science grants.",
+    "orderIndex": 221
+  },
+  {
+    "id": "sci_physics_chemistry",
+    "categoryId": "science",
+    "name": "Physics and Chemistry",
+    "description": "High-energy particle accelerators, quantum science, and materials research.",
+    "orderIndex": 222
+  },
+  {
+    "id": "sci_engineering",
+    "categoryId": "science",
+    "name": "Engineering",
+    "description": "Advanced engineering graduates, civil innovation, and patents.",
+    "orderIndex": 223
+  },
+  {
+    "id": "sci_nobel_prizes",
+    "categoryId": "science",
+    "name": "Nobel Prizes",
+    "description": "Cumulative Nobel laureates in Physics, Chemistry, and Medicine.",
+    "orderIndex": 224
+  },
+  {
+    "id": "sci_research_infra",
+    "categoryId": "science",
+    "name": "Research Infrastructure",
+    "description": "National supercomputers, synchrotrons, and high-tech laboratories.",
+    "orderIndex": 225
+  },
+  {
+    "id": "sci_international_collaboration",
+    "categoryId": "science",
+    "name": "International Collaboration",
+    "description": "Scientific publications co-authored with foreign research partners.",
+    "orderIndex": 226
+  },
+  {
+    "id": "sports_olympic_games",
+    "categoryId": "sports",
+    "name": "Olympic Games",
+    "description": "All-time Summer and Winter Olympic medal counts and achievements.",
+    "orderIndex": 227
+  },
+  {
+    "id": "sports_paralympic_games",
+    "categoryId": "sports",
+    "name": "Paralympic Games",
+    "description": "Paralympic Games athletic medals and adaptive sport excellence.",
+    "orderIndex": 228
+  },
+  {
+    "id": "sports_football",
+    "categoryId": "sports",
+    "name": "Football",
+    "description": "FIFA Men and Women world rankings and World Cup championships.",
+    "orderIndex": 229
+  },
+  {
+    "id": "sports_cricket",
+    "categoryId": "sports",
+    "name": "Cricket",
+    "description": "ICC Test, ODI, and T20 team rankings and global titles.",
+    "orderIndex": 230
+  },
+  {
+    "id": "sports_basketball",
+    "categoryId": "sports",
+    "name": "Basketball",
+    "description": "FIBA world basketball rankings and Olympic tournament medalists.",
+    "orderIndex": 231
+  },
+  {
+    "id": "sports_tennis",
+    "categoryId": "sports",
+    "name": "Tennis",
+    "description": "Grand Slam singles champions and ATP/WTA professional rankings.",
+    "orderIndex": 232
+  },
+  {
+    "id": "sports_badminton",
+    "categoryId": "sports",
+    "name": "Badminton",
+    "description": "BWF world tour titles and Thomas/Uber Cup international champions.",
+    "orderIndex": 233
+  },
+  {
+    "id": "sports_hockey",
+    "categoryId": "sports",
+    "name": "Hockey",
+    "description": "FIH field hockey world rankings and Olympic tournament podiums.",
+    "orderIndex": 234
+  },
+  {
+    "id": "sports_athletics",
+    "categoryId": "sports",
+    "name": "Athletics",
+    "description": "Track and field world records, sprint, and distance championships.",
+    "orderIndex": 235
+  },
+  {
+    "id": "sports_swimming",
+    "categoryId": "sports",
+    "name": "Swimming",
+    "description": "World Aquatics championship medals and Olympic swimming records.",
+    "orderIndex": 236
+  },
+  {
+    "id": "sports_other_sports",
+    "categoryId": "sports",
+    "name": "Other Sports",
+    "description": "Rugby, volleyball, table tennis, wrestling, and martial arts.",
+    "orderIndex": 237
+  },
+  {
+    "id": "sports_world_records",
+    "categoryId": "sports",
+    "name": "World Records",
+    "description": "Recognized world sports records ratified by official federations.",
+    "orderIndex": 238
+  },
+  {
+    "id": "sports_sports_participation",
+    "categoryId": "sports",
+    "name": "Sports Participation",
+    "description": "Adult and youth participation in regular physical activity.",
+    "orderIndex": 239
+  },
+  {
+    "id": "sports_stadiums",
+    "categoryId": "sports",
+    "name": "Stadiums",
+    "description": "Largest national sporting arenas and spectator seating capacities.",
+    "orderIndex": 240
+  },
+  {
+    "id": "sports_historical_champions",
+    "categoryId": "sports",
+    "name": "Historical Champions",
+    "description": "Legendary sports icons, hall of fame inductees, and multi-era champions.",
+    "orderIndex": 241
+  },
+  {
+    "id": "city_largest_cities",
+    "categoryId": "city_rankings",
+    "name": "Largest Cities",
+    "description": "Global metropolitan areas ranked by contiguous urban population.",
+    "orderIndex": 242
+  },
+  {
+    "id": "city_population_growth",
+    "categoryId": "city_rankings",
+    "name": "City Population Growth",
+    "description": "Fastest growing municipal cities and annual expansion rates.",
+    "orderIndex": 243
+  },
+  {
+    "id": "city_population_density",
+    "categoryId": "city_rankings",
+    "name": "Population Density",
+    "description": "Urban residents per square kilometer within city borders.",
+    "orderIndex": 244
+  },
+  {
+    "id": "city_economic_cities",
+    "categoryId": "city_rankings",
+    "name": "Economic Cities",
+    "description": "Metropolitan gross product and global financial hubs.",
+    "orderIndex": 245
+  },
+  {
+    "id": "city_cost_of_living",
+    "categoryId": "city_rankings",
+    "name": "Cost of Living",
+    "description": "Mercer and EIU cost of living comparative city index.",
+    "orderIndex": 246
+  },
+  {
+    "id": "city_quality_of_life",
+    "categoryId": "city_rankings",
+    "name": "Quality of Life",
+    "description": "Mercer Quality of Living and EIU Global Liveability rankings.",
+    "orderIndex": 247
+  },
+  {
+    "id": "city_smart_cities",
+    "categoryId": "city_rankings",
+    "name": "Smart Cities",
+    "description": "IMD Smart City Index evaluating technology integration and services.",
+    "orderIndex": 248
+  },
+  {
+    "id": "city_cleanest_cities",
+    "categoryId": "city_rankings",
+    "name": "Cleanest Cities",
+    "description": "Urban cleanliness, air quality, and efficient municipal sanitation.",
+    "orderIndex": 249
+  },
+  {
+    "id": "city_green_cities",
+    "categoryId": "city_rankings",
+    "name": "Green Cities",
+    "description": "Urban tree canopy coverage, parks, and renewable power integration.",
+    "orderIndex": 250
+  },
+  {
+    "id": "city_city_transport",
+    "categoryId": "city_rankings",
+    "name": "City Transport",
+    "description": "Public transit ridership, metro track coverage, and commute times.",
+    "orderIndex": 251
+  },
+  {
+    "id": "city_housing",
+    "categoryId": "city_rankings",
+    "name": "Housing",
+    "description": "Median urban housing prices to income ratios and rent burdens.",
+    "orderIndex": 252
+  },
+  {
+    "id": "city_safety",
+    "categoryId": "city_rankings",
+    "name": "Safety",
+    "description": "Safe Cities Index tracking digital, health, infrastructure, and personal safety.",
+    "orderIndex": 253
+  },
+  {
+    "id": "city_tourism",
+    "categoryId": "city_rankings",
+    "name": "Tourism",
+    "description": "International visitor arrivals and tourist spending per city.",
+    "orderIndex": 254
+  },
+  {
+    "id": "city_skyscrapers",
+    "categoryId": "city_rankings",
+    "name": "Skyscrapers",
+    "description": "Completed buildings taller than 150 meters and skyline heights.",
+    "orderIndex": 255
+  },
+  {
+    "id": "city_urbanisation",
+    "categoryId": "city_rankings",
+    "name": "Urbanisation",
+    "description": "National percentage of population residing in designated urban centers.",
+    "orderIndex": 256
+  },
+  {
+    "id": "sdg_01_no_poverty",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 1: No Poverty",
+    "description": "End poverty in all its forms everywhere by 2030.",
+    "orderIndex": 257
+  },
+  {
+    "id": "sdg_02_zero_hunger",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 2: Zero Hunger",
+    "description": "End hunger, achieve food security and improved nutrition.",
+    "orderIndex": 258
+  },
+  {
+    "id": "sdg_03_good_health",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 3: Good Health and Well-being",
+    "description": "Ensure healthy lives and promote well-being for all at all ages.",
+    "orderIndex": 259
+  },
+  {
+    "id": "sdg_04_quality_education",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 4: Quality Education",
+    "description": "Ensure inclusive and equitable quality education and lifelong learning.",
+    "orderIndex": 260
+  },
+  {
+    "id": "sdg_05_gender_equality",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 5: Gender Equality",
+    "description": "Achieve gender equality and empower all women and girls.",
+    "orderIndex": 261
+  },
+  {
+    "id": "sdg_06_clean_water",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 6: Clean Water and Sanitation",
+    "description": "Ensure availability and sustainable management of water and sanitation.",
+    "orderIndex": 262
+  },
+  {
+    "id": "sdg_07_clean_energy",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 7: Affordable and Clean Energy",
+    "description": "Ensure access to affordable, reliable, sustainable modern energy.",
+    "orderIndex": 263
+  },
+  {
+    "id": "sdg_08_decent_work",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 8: Decent Work and Economic Growth",
+    "description": "Promote sustained, inclusive, sustainable economic growth and decent work.",
+    "orderIndex": 264
+  },
+  {
+    "id": "sdg_09_industry_infra",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 9: Industry, Innovation and Infrastructure",
+    "description": "Build resilient infrastructure, promote sustainable industrialization.",
+    "orderIndex": 265
+  },
+  {
+    "id": "sdg_10_reduced_inequalities",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 10: Reduced Inequalities",
+    "description": "Reduce inequality within and among countries.",
+    "orderIndex": 266
+  },
+  {
+    "id": "sdg_11_sustainable_cities",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 11: Sustainable Cities and Communities",
+    "description": "Make cities and human settlements inclusive, safe, resilient.",
+    "orderIndex": 267
+  },
+  {
+    "id": "sdg_12_responsible_consumption",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 12: Responsible Consumption and Production",
+    "description": "Ensure sustainable consumption and production patterns.",
+    "orderIndex": 268
+  },
+  {
+    "id": "sdg_13_climate_action",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 13: Climate Action",
+    "description": "Take urgent action to combat climate change and its impacts.",
+    "orderIndex": 269
+  },
+  {
+    "id": "sdg_14_life_below_water",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 14: Life Below Water",
+    "description": "Conserve and sustainably use oceans, seas and marine resources.",
+    "orderIndex": 270
+  },
+  {
+    "id": "sdg_15_life_on_land",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 15: Life on Land",
+    "description": "Protect, restore and promote sustainable use of terrestrial ecosystems.",
+    "orderIndex": 271
+  },
+  {
+    "id": "sdg_16_peace_justice",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 16: Peace, Justice and Strong Institutions",
+    "description": "Promote peaceful, inclusive societies with access to justice for all.",
+    "orderIndex": 272
+  },
+  {
+    "id": "sdg_17_partnerships",
+    "categoryId": "un_sdg_goals",
+    "name": "SDG 17: Partnerships for the Goals",
+    "description": "Strengthen means of implementation and revitalize global partnership.",
+    "orderIndex": 273
+  }
+]

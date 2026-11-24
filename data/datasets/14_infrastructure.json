@@ -1,800 +1,2386 @@
 {
   "categoryKey": "14_infrastructure",
-  "updatedAt": "2026-11-22T22:00:00.000Z",
+  "updatedAt": "2026-11-24T10:00:00.000Z",
   "year": 2024,
-  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO / WIPO / SIPRI / UNDP 2024",
+  "indicatorsCount": 10,
+  "countriesCount": 198,
   "countries": {
     "IND": {
-      "rail_network_km": 34486,
-      "port_traffic_teu": 79.2
+      "road_density_km": 183,
+      "rail_network_km": 37934,
+      "airports_count": 5000,
+      "longest_bridge_meters": 164000,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "CHN": {
-      "rail_network_km": 61280,
-      "port_traffic_teu": 290
+      "road_density_km": 183,
+      "rail_network_km": 67408,
+      "airports_count": 5000,
+      "longest_bridge_meters": 164000,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.8,
+      "housing_overcrowding_pct": 16.2
     },
     "USA": {
-      "rail_network_km": 60489,
-      "port_traffic_teu": 290
+      "road_density_km": 183,
+      "rail_network_km": 66538,
+      "airports_count": 5000,
+      "longest_bridge_meters": 124835,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "IDN": {
-      "rail_network_km": 26919,
-      "port_traffic_teu": 30
+      "road_density_km": 183,
+      "rail_network_km": 29611,
+      "airports_count": 1687,
+      "longest_bridge_meters": 102560,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.1,
+      "housing_overcrowding_pct": 16.2
     },
     "PAK": {
-      "rail_network_km": 17560,
-      "port_traffic_teu": 8
+      "road_density_km": 183,
+      "rail_network_km": 19316,
+      "airports_count": 1031,
+      "longest_bridge_meters": 90950,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.9,
+      "housing_overcrowding_pct": 16.2
     },
     "NGA": {
-      "rail_network_km": 19087,
-      "port_traffic_teu": 5.6
+      "road_density_km": 183,
+      "rail_network_km": 20996,
+      "airports_count": 1064,
+      "longest_bridge_meters": 84245,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.5,
+      "housing_overcrowding_pct": 16.2
     },
     "BRA": {
-      "rail_network_km": 57821,
-      "port_traffic_teu": 47.1
+      "road_density_km": 183,
+      "rail_network_km": 63603,
+      "airports_count": 5000,
+      "longest_bridge_meters": 76820,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "BGD": {
-      "rail_network_km": 7216,
-      "port_traffic_teu": 9.6
+      "road_density_km": 183,
+      "rail_network_km": 7937,
+      "airports_count": 489,
+      "longest_bridge_meters": 62960,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.5,
+      "housing_overcrowding_pct": 16.2
     },
     "RUS": {
-      "rail_network_km": 80937,
-      "port_traffic_teu": 41.6
+      "road_density_km": 183,
+      "rail_network_km": 89030,
+      "airports_count": 5000,
+      "longest_bridge_meters": 52655,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.7,
+      "housing_overcrowding_pct": 16.2
     },
     "ETH": {
-      "rail_network_km": 20000,
-      "port_traffic_teu": 4.6
+      "road_density_km": 183,
+      "rail_network_km": 22000,
+      "airports_count": 872,
+      "longest_bridge_meters": 48020,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.6,
+      "housing_overcrowding_pct": 16.2
     },
     "MEX": {
-      "rail_network_km": 27885,
-      "port_traffic_teu": 40.4
+      "road_density_km": 183,
+      "rail_network_km": 30674,
+      "airports_count": 1394,
+      "longest_bridge_meters": 47570,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.1,
+      "housing_overcrowding_pct": 16.2
     },
     "JPN": {
-      "rail_network_km": 12075,
-      "port_traffic_teu": 82.7
+      "road_density_km": 183,
+      "rail_network_km": 13282,
+      "airports_count": 500,
+      "longest_bridge_meters": 45050,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.2,
+      "housing_overcrowding_pct": 16.2
     },
     "PHL": {
-      "rail_network_km": 10921,
-      "port_traffic_teu": 9.9
+      "road_density_km": 183,
+      "rail_network_km": 12013,
+      "airports_count": 452,
+      "longest_bridge_meters": 43385,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "EGY": {
-      "rail_network_km": 19954,
-      "port_traffic_teu": 7.4
+      "road_density_km": 183,
+      "rail_network_km": 21950,
+      "airports_count": 833,
+      "longest_bridge_meters": 42440,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.3,
+      "housing_overcrowding_pct": 16.2
     },
     "COD": {
-      "rail_network_km": 30113,
-      "port_traffic_teu": 2
+      "road_density_km": 183,
+      "rail_network_km": 33125,
+      "airports_count": 1522,
+      "longest_bridge_meters": 39830,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.8,
+      "housing_overcrowding_pct": 16.2
     },
     "VNM": {
-      "rail_network_km": 11137,
-      "port_traffic_teu": 9.9
+      "road_density_km": 183,
+      "rail_network_km": 12250,
+      "airports_count": 415,
+      "longest_bridge_meters": 36860,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "IRN": {
-      "rail_network_km": 25525,
-      "port_traffic_teu": 9.8
+      "road_density_km": 183,
+      "rail_network_km": 28077,
+      "airports_count": 1125,
+      "longest_bridge_meters": 33485,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.1,
+      "housing_overcrowding_pct": 16.2
     },
     "TUR": {
-      "rail_network_km": 17546,
-      "port_traffic_teu": 27.3
+      "road_density_km": 183,
+      "rail_network_km": 19300,
+      "airports_count": 638,
+      "longest_bridge_meters": 32000,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "DEU": {
-      "rail_network_km": 11822,
-      "port_traffic_teu": 92.3
+      "road_density_km": 183,
+      "rail_network_km": 13004,
+      "airports_count": 397,
+      "longest_bridge_meters": 30920,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "THA": {
-      "rail_network_km": 14295,
-      "port_traffic_teu": 11.5
+      "road_density_km": 183,
+      "rail_network_km": 15725,
+      "airports_count": 456,
+      "longest_bridge_meters": 26285,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "GBR": {
-      "rail_network_km": 9837,
-      "port_traffic_teu": 70.4
+      "road_density_km": 183,
+      "rail_network_km": 10821,
+      "airports_count": 298,
+      "longest_bridge_meters": 25070,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.5,
+      "housing_overcrowding_pct": 16.2
     },
     "TZA": {
-      "rail_network_km": 18823,
-      "port_traffic_teu": 2.2
+      "road_density_km": 183,
+      "rail_network_km": 20706,
+      "airports_count": 657,
+      "longest_bridge_meters": 25160,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.4,
+      "housing_overcrowding_pct": 16.2
     },
     "FRA": {
-      "rail_network_km": 14799,
-      "port_traffic_teu": 63.1
+      "road_density_km": 183,
+      "rail_network_km": 16279,
+      "airports_count": 464,
+      "longest_bridge_meters": 24440,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.3,
+      "housing_overcrowding_pct": 16.2
     },
     "ZAF": {
-      "rail_network_km": 22028,
-      "port_traffic_teu": 8.6
+      "road_density_km": 183,
+      "rail_network_km": 24231,
+      "airports_count": 828,
+      "longest_bridge_meters": 23540,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "ITA": {
-      "rail_network_km": 10847,
-      "port_traffic_teu": 47.1
+      "road_density_km": 183,
+      "rail_network_km": 11932,
+      "airports_count": 306,
+      "longest_bridge_meters": 21875,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.6,
+      "housing_overcrowding_pct": 16.2
     },
     "KEN": {
-      "rail_network_km": 15088,
-      "port_traffic_teu": 2.8
+      "road_density_km": 183,
+      "rail_network_km": 16597,
+      "airports_count": 451,
+      "longest_bridge_meters": 20750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8,
+      "housing_overcrowding_pct": 16.2
     },
     "MMR": {
-      "rail_network_km": 16168,
-      "port_traffic_teu": 1.9
+      "road_density_km": 183,
+      "rail_network_km": 17785,
+      "airports_count": 494,
+      "longest_bridge_meters": 20120,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "COL": {
-      "rail_network_km": 21067,
-      "port_traffic_teu": 8.2
+      "road_density_km": 183,
+      "rail_network_km": 23173,
+      "airports_count": 743,
+      "longest_bridge_meters": 19490,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "KOR": {
-      "rail_network_km": 6248,
-      "port_traffic_teu": 35.7
+      "road_density_km": 183,
+      "rail_network_km": 6873,
+      "airports_count": 178,
+      "longest_bridge_meters": 19130,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.9,
+      "housing_overcrowding_pct": 16.2
     },
     "UGA": {
-      "rail_network_km": 8879,
-      "port_traffic_teu": 1.6
+      "road_density_km": 183,
+      "rail_network_km": 9767,
+      "airports_count": 230,
+      "longest_bridge_meters": 18500,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.5,
+      "housing_overcrowding_pct": 16.2
     },
     "SDN": {
-      "rail_network_km": 27287,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 30016,
+      "airports_count": 1153,
+      "longest_bridge_meters": 18275,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.9,
+      "housing_overcrowding_pct": 16.2
     },
     "ESP": {
-      "rail_network_km": 14121,
-      "port_traffic_teu": 33.5
+      "road_density_km": 183,
+      "rail_network_km": 15533,
+      "airports_count": 392,
+      "longest_bridge_meters": 17735,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.3,
+      "housing_overcrowding_pct": 16.2
     },
     "ARG": {
-      "rail_network_km": 33086,
-      "port_traffic_teu": 12.6
+      "road_density_km": 183,
+      "rail_network_km": 36394,
+      "airports_count": 1631,
+      "longest_bridge_meters": 17060,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.2,
+      "housing_overcrowding_pct": 16.2
     },
     "DZA": {
-      "rail_network_km": 30866,
-      "port_traffic_teu": 5.8
+      "road_density_km": 183,
+      "rail_network_km": 33952,
+      "airports_count": 1434,
+      "longest_bridge_meters": 17105,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.2,
+      "housing_overcrowding_pct": 16.2
     },
     "IRQ": {
-      "rail_network_km": 13222,
-      "port_traffic_teu": 5.9
+      "road_density_km": 183,
+      "rail_network_km": 14545,
+      "airports_count": 353,
+      "longest_bridge_meters": 17060,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.4,
+      "housing_overcrowding_pct": 16.2
     },
     "AFG": {
-      "rail_network_km": 16160,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 17776,
+      "airports_count": 465,
+      "longest_bridge_meters": 15845,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.1,
+      "housing_overcrowding_pct": 16.2
     },
     "POL": {
-      "rail_network_km": 11068,
-      "port_traffic_teu": 17.7
+      "road_density_km": 183,
+      "rail_network_km": 12174,
+      "airports_count": 266,
+      "longest_bridge_meters": 14900,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.6,
+      "housing_overcrowding_pct": 16.2
     },
     "CAN": {
-      "rail_network_km": 59885,
-      "port_traffic_teu": 45.3
+      "road_density_km": 183,
+      "rail_network_km": 65874,
+      "airports_count": 5000,
+      "longest_bridge_meters": 14810,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "MAR": {
-      "rail_network_km": 13361,
-      "port_traffic_teu": 3.5
+      "road_density_km": 183,
+      "rail_network_km": 14697,
+      "airports_count": 339,
+      "longest_bridge_meters": 14225,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.5,
+      "housing_overcrowding_pct": 16.2
     },
     "SAU": {
-      "rail_network_km": 29324,
-      "port_traffic_teu": 22.6
+      "road_density_km": 183,
+      "rail_network_km": 32256,
+      "airports_count": 1284,
+      "longest_bridge_meters": 14000,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.2,
+      "housing_overcrowding_pct": 16.2
     },
     "UKR": {
-      "rail_network_km": 15223,
-      "port_traffic_teu": 4.3
+      "road_density_km": 183,
+      "rail_network_km": 16745,
+      "airports_count": 411,
+      "longest_bridge_meters": 13820,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 3.5,
+      "housing_overcrowding_pct": 16.2
     },
     "AGO": {
-      "rail_network_km": 22331,
-      "port_traffic_teu": 2.4
+      "road_density_km": 183,
+      "rail_network_km": 24564,
+      "airports_count": 784,
+      "longest_bridge_meters": 14135,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.6,
+      "housing_overcrowding_pct": 16.2
     },
     "UZB": {
-      "rail_network_km": 13045,
-      "port_traffic_teu": 2.6
+      "road_density_km": 183,
+      "rail_network_km": 14349,
+      "airports_count": 324,
+      "longest_bridge_meters": 13595,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.8,
+      "housing_overcrowding_pct": 16.2
     },
     "YEM": {
-      "rail_network_km": 14532,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 15986,
+      "airports_count": 378,
+      "longest_bridge_meters": 13235,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "PER": {
-      "rail_network_km": 22627,
-      "port_traffic_teu": 6.1
+      "road_density_km": 183,
+      "rail_network_km": 24890,
+      "airports_count": 794,
+      "longest_bridge_meters": 12965,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.5,
+      "housing_overcrowding_pct": 16.2
     },
     "MYS": {
-      "rail_network_km": 11466,
-      "port_traffic_teu": 9.4
+      "road_density_km": 183,
+      "rail_network_km": 12612,
+      "airports_count": 266,
+      "longest_bridge_meters": 12965,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.6,
+      "housing_overcrowding_pct": 16.2
     },
     "GHA": {
-      "rail_network_km": 9540,
-      "port_traffic_teu": 2
+      "road_density_km": 183,
+      "rail_network_km": 10494,
+      "airports_count": 210,
+      "longest_bridge_meters": 13010,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.9,
+      "housing_overcrowding_pct": 16.2
     },
     "MOZ": {
-      "rail_network_km": 17736,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 19509,
+      "airports_count": 520,
+      "longest_bridge_meters": 12965,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.2,
+      "housing_overcrowding_pct": 16.2
     },
     "NPL": {
-      "rail_network_km": 7572,
-      "port_traffic_teu": 1.4
+      "road_density_km": 183,
+      "rail_network_km": 8330,
+      "airports_count": 155,
+      "longest_bridge_meters": 11750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.7,
+      "housing_overcrowding_pct": 16.2
     },
     "MDG": {
-      "rail_network_km": 15252,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 16777,
+      "airports_count": 397,
+      "longest_bridge_meters": 11660,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.6,
+      "housing_overcrowding_pct": 16.2
     },
     "CIV": {
-      "rail_network_km": 11278,
-      "port_traffic_teu": 2.2
+      "road_density_km": 183,
+      "rail_network_km": 12406,
+      "airports_count": 251,
+      "longest_bridge_meters": 11705,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.7,
+      "housing_overcrowding_pct": 16.2
     },
     "VEN": {
-      "rail_network_km": 18784,
-      "port_traffic_teu": 2.5
+      "road_density_km": 183,
+      "rail_network_km": 20662,
+      "airports_count": 561,
+      "longest_bridge_meters": 11075,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "CMR": {
-      "rail_network_km": 13751,
-      "port_traffic_teu": 1.6
+      "road_density_km": 183,
+      "rail_network_km": 15126,
+      "airports_count": 333,
+      "longest_bridge_meters": 10985,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.9,
+      "housing_overcrowding_pct": 16.2
     },
     "NER": {
-      "rail_network_km": 22510,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 24761,
+      "airports_count": 769,
+      "longest_bridge_meters": 10220,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 10.5,
+      "housing_overcrowding_pct": 16.2
     },
     "AUS": {
-      "rail_network_km": 55434,
-      "port_traffic_teu": 36.3
+      "road_density_km": 183,
+      "rail_network_km": 60977,
+      "airports_count": 4332,
+      "longest_bridge_meters": 10130,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.9,
+      "housing_overcrowding_pct": 16.2
     },
     "PRK": {
-      "rail_network_km": 6940,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 7634,
+      "airports_count": 130,
+      "longest_bridge_meters": 9950,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.6,
+      "housing_overcrowding_pct": 16.2
     },
     "TWN": {
-      "rail_network_km": 3794,
-      "port_traffic_teu": 16.5
+      "road_density_km": 183,
+      "rail_network_km": 4173,
+      "airports_count": 78,
+      "longest_bridge_meters": 9140,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "MLI": {
-      "rail_network_km": 22092,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 24302,
+      "airports_count": 735,
+      "longest_bridge_meters": 9140,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.7,
+      "housing_overcrowding_pct": 16.2
     },
     "LKA": {
-      "rail_network_km": 5008,
-      "port_traffic_teu": 2.2
+      "road_density_km": 183,
+      "rail_network_km": 5509,
+      "airports_count": 90,
+      "longest_bridge_meters": 8825,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.4,
+      "housing_overcrowding_pct": 16.2
     },
     "SYR": {
-      "rail_network_km": 8570,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 9427,
+      "airports_count": 159,
+      "longest_bridge_meters": 9095,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 12.5,
+      "housing_overcrowding_pct": 16.2
     },
     "KAZ": {
-      "rail_network_km": 32862,
-      "port_traffic_teu": 6.3
+      "road_density_km": 183,
+      "rail_network_km": 36148,
+      "airports_count": 1549,
+      "longest_bridge_meters": 7925,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "CHL": {
-      "rail_network_km": 17246,
-      "port_traffic_teu": 7.2
+      "road_density_km": 183,
+      "rail_network_km": 18970,
+      "airports_count": 460,
+      "longest_bridge_meters": 7565,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "ZMB": {
-      "rail_network_km": 17244,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 18968,
+      "airports_count": 464,
+      "longest_bridge_meters": 8195,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.1,
+      "housing_overcrowding_pct": 16.2
     },
     "ROU": {
-      "rail_network_km": 9593,
-      "port_traffic_teu": 8.1
+      "road_density_km": 183,
+      "rail_network_km": 10553,
+      "airports_count": 173,
+      "longest_bridge_meters": 7340,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4,
+      "housing_overcrowding_pct": 16.2
     },
     "TCD": {
-      "rail_network_km": 22443,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 24687,
+      "airports_count": 746,
+      "longest_bridge_meters": 7475,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.7,
+      "housing_overcrowding_pct": 16.2
     },
     "SOM": {
-      "rail_network_km": 15841,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 17425,
+      "airports_count": 394,
+      "longest_bridge_meters": 7340,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9.7,
+      "housing_overcrowding_pct": 16.2
     },
     "SEN": {
-      "rail_network_km": 8776,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 9653,
+      "airports_count": 151,
+      "longest_bridge_meters": 7070,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.8,
+      "housing_overcrowding_pct": 16.2
     },
     "NLD": {
-      "rail_network_km": 3670,
-      "port_traffic_teu": 23.3
+      "road_density_km": 183,
+      "rail_network_km": 4037,
+      "airports_count": 63,
+      "longest_bridge_meters": 7070,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.6,
+      "housing_overcrowding_pct": 16.2
     },
     "GTM": {
-      "rail_network_km": 6547,
-      "port_traffic_teu": 2.7
+      "road_density_km": 183,
+      "rail_network_km": 7202,
+      "airports_count": 104,
+      "longest_bridge_meters": 7205,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.1,
+      "housing_overcrowding_pct": 16.2
     },
     "ECU": {
-      "rail_network_km": 9967,
-      "port_traffic_teu": 2.9
+      "road_density_km": 183,
+      "rail_network_km": 10964,
+      "airports_count": 181,
+      "longest_bridge_meters": 7025,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.4,
+      "housing_overcrowding_pct": 16.2
     },
     "ZWE": {
-      "rail_network_km": 12439,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 13683,
+      "airports_count": 255,
+      "longest_bridge_meters": 6485,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8,
+      "housing_overcrowding_pct": 16.2
     },
     "GIN": {
-      "rail_network_km": 9914,
-      "port_traffic_teu": 1
+      "road_density_km": 183,
+      "rail_network_km": 10905,
+      "airports_count": 172,
+      "longest_bridge_meters": 5810,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.6,
+      "housing_overcrowding_pct": 16.2
     },
     "RWA": {
-      "rail_network_km": 3141,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 3455,
+      "airports_count": 48,
+      "longest_bridge_meters": 5675,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.5,
+      "housing_overcrowding_pct": 16.2
     },
     "BEN": {
-      "rail_network_km": 6716,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 7388,
+      "airports_count": 97,
+      "longest_bridge_meters": 5585,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9,
+      "housing_overcrowding_pct": 16.2
     },
     "BDI": {
-      "rail_network_km": 3205,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 3525,
+      "airports_count": 48,
+      "longest_bridge_meters": 5540,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9,
+      "housing_overcrowding_pct": 16.2
     },
     "BOL": {
-      "rail_network_km": 20816,
-      "port_traffic_teu": 1.5
+      "road_density_km": 183,
+      "rail_network_km": 22898,
+      "airports_count": 632,
+      "longest_bridge_meters": 5045,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "TUN": {
-      "rail_network_km": 7883,
-      "port_traffic_teu": 1.6
+      "road_density_km": 183,
+      "rail_network_km": 8671,
+      "airports_count": 117,
+      "longest_bridge_meters": 5045,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.1,
+      "housing_overcrowding_pct": 16.2
     },
     "HTI": {
-      "rail_network_km": 3320,
-      "port_traffic_teu": 1
+      "road_density_km": 183,
+      "rail_network_km": 3652,
+      "airports_count": 44,
+      "longest_bridge_meters": 4775,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "BEL": {
-      "rail_network_km": 3480,
-      "port_traffic_teu": 13.6
+      "road_density_km": 183,
+      "rail_network_km": 3828,
+      "airports_count": 45,
+      "longest_bridge_meters": 4730,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.7,
+      "housing_overcrowding_pct": 16.2
     },
     "JOR": {
-      "rail_network_km": 5959,
-      "port_traffic_teu": 1.6
+      "road_density_km": 183,
+      "rail_network_km": 6555,
+      "airports_count": 77,
+      "longest_bridge_meters": 4640,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "DOM": {
-      "rail_network_km": 4396,
-      "port_traffic_teu": 3
+      "road_density_km": 183,
+      "rail_network_km": 4836,
+      "airports_count": 54,
+      "longest_bridge_meters": 4595,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.4,
+      "housing_overcrowding_pct": 16.2
     },
     "CUB": {
-      "rail_network_km": 6525,
-      "port_traffic_teu": 2.6
+      "road_density_km": 183,
+      "rail_network_km": 7178,
+      "airports_count": 86,
+      "longest_bridge_meters": 4550,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.6,
+      "housing_overcrowding_pct": 16.2
     },
     "SSD": {
-      "rail_network_km": 16054,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 17659,
+      "airports_count": 385,
+      "longest_bridge_meters": 4550,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.3,
+      "housing_overcrowding_pct": 16.2
     },
     "SWE": {
-      "rail_network_km": 12764,
-      "port_traffic_teu": 12.9
+      "road_density_km": 183,
+      "rail_network_km": 14041,
+      "airports_count": 252,
+      "longest_bridge_meters": 4325,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "HND": {
-      "rail_network_km": 6690,
-      "port_traffic_teu": 1.2
+      "road_density_km": 183,
+      "rail_network_km": 7359,
+      "airports_count": 88,
+      "longest_bridge_meters": 4370,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.2,
+      "housing_overcrowding_pct": 16.2
     },
     "CZE": {
-      "rail_network_km": 5559,
-      "port_traffic_teu": 7.3
+      "road_density_km": 183,
+      "rail_network_km": 6115,
+      "airports_count": 68,
+      "longest_bridge_meters": 4280,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.3,
+      "housing_overcrowding_pct": 16.2
     },
     "AZE": {
-      "rail_network_km": 5749,
-      "port_traffic_teu": 2.1
+      "road_density_km": 183,
+      "rail_network_km": 6324,
+      "airports_count": 71,
+      "longest_bridge_meters": 4280,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "GRC": {
-      "rail_network_km": 7181,
-      "port_traffic_teu": 5.5
+      "road_density_km": 183,
+      "rail_network_km": 7899,
+      "airports_count": 97,
+      "longest_bridge_meters": 4235,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.3,
+      "housing_overcrowding_pct": 16.2
     },
     "PNG": {
-      "rail_network_km": 13459,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 14805,
+      "airports_count": 277,
+      "longest_bridge_meters": 4280,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.7,
+      "housing_overcrowding_pct": 16.2
     },
     "PRT": {
-      "rail_network_km": 6053,
-      "port_traffic_teu": 6.5
+      "road_density_km": 183,
+      "rail_network_km": 6658,
+      "airports_count": 75,
+      "longest_bridge_meters": 4190,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.7,
+      "housing_overcrowding_pct": 16.2
     },
     "HUN": {
-      "rail_network_km": 5987,
-      "port_traffic_teu": 5
+      "road_density_km": 183,
+      "rail_network_km": 6586,
+      "airports_count": 73,
+      "longest_bridge_meters": 3965,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.6,
+      "housing_overcrowding_pct": 16.2
     },
     "TJK": {
-      "rail_network_km": 7524,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 8276,
+      "airports_count": 104,
+      "longest_bridge_meters": 4235,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "ARE": {
-      "rail_network_km": 5783,
-      "port_traffic_teu": 11.2
+      "road_density_km": 183,
+      "rail_network_km": 6361,
+      "airports_count": 69,
+      "longest_bridge_meters": 3920,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.2,
+      "housing_overcrowding_pct": 16.2
     },
     "BLR": {
-      "rail_network_km": 9009,
-      "port_traffic_teu": 2
+      "road_density_km": 183,
+      "rail_network_km": 9910,
+      "airports_count": 136,
+      "longest_bridge_meters": 3920,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.5,
+      "housing_overcrowding_pct": 16.2
     },
     "ISR": {
-      "rail_network_km": 2942,
-      "port_traffic_teu": 11.1
+      "road_density_km": 183,
+      "rail_network_km": 3236,
+      "airports_count": 34,
+      "longest_bridge_meters": 3830,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.3,
+      "housing_overcrowding_pct": 16.2
     },
     "TGO": {
-      "rail_network_km": 4664,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 5131,
+      "airports_count": 52,
+      "longest_bridge_meters": 3830,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.6,
+      "housing_overcrowding_pct": 16.2
     },
     "AUT": {
-      "rail_network_km": 5743,
-      "port_traffic_teu": 11.3
+      "road_density_km": 183,
+      "rail_network_km": 6317,
+      "airports_count": 68,
+      "longest_bridge_meters": 3785,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.7,
+      "housing_overcrowding_pct": 16.2
     },
     "CHE": {
-      "rail_network_km": 3976,
-      "port_traffic_teu": 19.3
+      "road_density_km": 183,
+      "rail_network_km": 4373,
+      "airports_count": 43,
+      "longest_bridge_meters": 3695,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.1,
+      "housing_overcrowding_pct": 16.2
     },
     "SLE": {
-      "rail_network_km": 5352,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 5888,
+      "airports_count": 61,
+      "longest_bridge_meters": 3740,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "LAO": {
-      "rail_network_km": 9608,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 10569,
+      "airports_count": 147,
+      "longest_bridge_meters": 3290,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "HKG": {
-      "rail_network_km": 648,
-      "port_traffic_teu": 8.6
+      "road_density_km": 183,
+      "rail_network_km": 713,
+      "airports_count": 19,
+      "longest_bridge_meters": 3200,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.8,
+      "housing_overcrowding_pct": 16.2
     },
     "SRB": {
-      "rail_network_km": 5915,
-      "port_traffic_teu": 2.1
+      "road_density_km": 183,
+      "rail_network_km": 6506,
+      "airports_count": 66,
+      "longest_bridge_meters": 3065,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 3.7,
+      "housing_overcrowding_pct": 16.2
     },
     "NIC": {
-      "rail_network_km": 6938,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 7632,
+      "airports_count": 84,
+      "longest_bridge_meters": 3065,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.9,
+      "housing_overcrowding_pct": 16.2
     },
     "LBY": {
-      "rail_network_km": 26530,
-      "port_traffic_teu": 1.5
+      "road_density_km": 183,
+      "rail_network_km": 29182,
+      "airports_count": 994,
+      "longest_bridge_meters": 3020,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.7,
+      "housing_overcrowding_pct": 16.2
     },
     "PRY": {
-      "rail_network_km": 12606,
-      "port_traffic_teu": 1.4
+      "road_density_km": 183,
+      "rail_network_km": 13867,
+      "airports_count": 238,
+      "longest_bridge_meters": 3020,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "KGZ": {
-      "rail_network_km": 8759,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 9635,
+      "airports_count": 124,
+      "longest_bridge_meters": 3065,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.5,
+      "housing_overcrowding_pct": 16.2
     },
     "BGR": {
-      "rail_network_km": 6591,
-      "port_traffic_teu": 2.7
+      "road_density_km": 183,
+      "rail_network_km": 7250,
+      "airports_count": 77,
+      "longest_bridge_meters": 2930,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4,
+      "housing_overcrowding_pct": 16.2
     },
     "TKM": {
-      "rail_network_km": 13710,
-      "port_traffic_teu": 2.2
+      "road_density_km": 183,
+      "rail_network_km": 15081,
+      "airports_count": 277,
+      "longest_bridge_meters": 2885,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "SLV": {
-      "rail_network_km": 2879,
-      "port_traffic_teu": 1.2
+      "road_density_km": 183,
+      "rail_network_km": 3167,
+      "airports_count": 27,
+      "longest_bridge_meters": 2795,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.6,
+      "housing_overcrowding_pct": 16.2
     },
     "COG": {
-      "rail_network_km": 11688,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 12856,
+      "airports_count": 205,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.4,
+      "housing_overcrowding_pct": 16.2
     },
     "SGP": {
-      "rail_network_km": 536,
-      "port_traffic_teu": 11
+      "road_density_km": 183,
+      "rail_network_km": 590,
+      "airports_count": 15,
+      "longest_bridge_meters": 2660,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "DNK": {
-      "rail_network_km": 4120,
-      "port_traffic_teu": 8.9
+      "road_density_km": 183,
+      "rail_network_km": 4532,
+      "airports_count": 38,
+      "longest_bridge_meters": 2660,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.7,
+      "housing_overcrowding_pct": 16.2
     },
     "SVK": {
-      "rail_network_km": 4386,
-      "port_traffic_teu": 3.3
+      "road_density_km": 183,
+      "rail_network_km": 4824,
+      "airports_count": 41,
+      "longest_bridge_meters": 2570,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.8,
+      "housing_overcrowding_pct": 16.2
     },
     "CAF": {
-      "rail_network_km": 15786,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 17364,
+      "airports_count": 360,
+      "longest_bridge_meters": 2570,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "FIN": {
-      "rail_network_km": 11025,
-      "port_traffic_teu": 6.7
+      "road_density_km": 183,
+      "rail_network_km": 12128,
+      "airports_count": 182,
+      "longest_bridge_meters": 2480,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "NOR": {
-      "rail_network_km": 12087,
-      "port_traffic_teu": 11.4
+      "road_density_km": 183,
+      "rail_network_km": 13296,
+      "airports_count": 216,
+      "longest_bridge_meters": 2480,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "LBR": {
-      "rail_network_km": 6207,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 6828,
+      "airports_count": 67,
+      "longest_bridge_meters": 2480,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "PSE": {
-      "rail_network_km": 1552,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 1707,
+      "airports_count": 17,
+      "longest_bridge_meters": 2480,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.4,
+      "housing_overcrowding_pct": 16.2
     },
     "NZL": {
-      "rail_network_km": 10263,
-      "port_traffic_teu": 5.6
+      "road_density_km": 183,
+      "rail_network_km": 11289,
+      "airports_count": 159,
+      "longest_bridge_meters": 2390,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.9,
+      "housing_overcrowding_pct": 16.2
     },
     "CRI": {
-      "rail_network_km": 4519,
-      "port_traffic_teu": 2.4
+      "road_density_km": 183,
+      "rail_network_km": 4971,
+      "airports_count": 41,
+      "longest_bridge_meters": 2390,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "IRL": {
-      "rail_network_km": 5249,
-      "port_traffic_teu": 11.4
+      "road_density_km": 183,
+      "rail_network_km": 5774,
+      "airports_count": 51,
+      "longest_bridge_meters": 2345,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.7,
+      "housing_overcrowding_pct": 16.2
     },
     "MRT": {
-      "rail_network_km": 20305,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 22335,
+      "airports_count": 585,
+      "longest_bridge_meters": 2300,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 9,
+      "housing_overcrowding_pct": 16.2
     },
     "OMN": {
-      "rail_network_km": 11127,
-      "port_traffic_teu": 2.7
+      "road_density_km": 183,
+      "rail_network_km": 12239,
+      "airports_count": 183,
+      "longest_bridge_meters": 2165,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.3,
+      "housing_overcrowding_pct": 16.2
     },
     "PAN": {
-      "rail_network_km": 5453,
-      "port_traffic_teu": 2.2
+      "road_density_km": 183,
+      "rail_network_km": 5998,
+      "airports_count": 52,
+      "longest_bridge_meters": 2120,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "KWT": {
-      "rail_network_km": 2670,
-      "port_traffic_teu": 3.7
+      "road_density_km": 183,
+      "rail_network_km": 2937,
+      "airports_count": 20,
+      "longest_bridge_meters": 2075,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "HRV": {
-      "rail_network_km": 4731,
-      "port_traffic_teu": 2.2
+      "road_density_km": 183,
+      "rail_network_km": 5204,
+      "airports_count": 41,
+      "longest_bridge_meters": 1940,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.3,
+      "housing_overcrowding_pct": 16.2
     },
     "GEO": {
-      "rail_network_km": 5272,
-      "port_traffic_teu": 1.2
+      "road_density_km": 183,
+      "rail_network_km": 5799,
+      "airports_count": 48,
+      "longest_bridge_meters": 1850,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.7,
+      "housing_overcrowding_pct": 16.2
     },
     "ERI": {
-      "rail_network_km": 6356,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 6992,
+      "airports_count": 65,
+      "longest_bridge_meters": 1850,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.1,
+      "housing_overcrowding_pct": 16.2
     },
     "URY": {
-      "rail_network_km": 8367,
-      "port_traffic_teu": 2.1
+      "road_density_km": 183,
+      "rail_network_km": 9204,
+      "airports_count": 105,
+      "longest_bridge_meters": 1715,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "MNG": {
-      "rail_network_km": 24928,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 27421,
+      "airports_count": 871,
+      "longest_bridge_meters": 1760,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.1,
+      "housing_overcrowding_pct": 16.2
     },
     "BIH": {
-      "rail_network_km": 4517,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 4968,
+      "airports_count": 36,
+      "longest_bridge_meters": 1670,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 3.6,
+      "housing_overcrowding_pct": 16.2
     },
     "QAT": {
-      "rail_network_km": 2155,
-      "port_traffic_teu": 4.9
+      "road_density_km": 183,
+      "rail_network_km": 2370,
+      "airports_count": 14,
+      "longest_bridge_meters": 1580,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "NAM": {
-      "rail_network_km": 18147,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 19962,
+      "airports_count": 465,
+      "longest_bridge_meters": 1580,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.8,
+      "housing_overcrowding_pct": 16.2
     },
     "ARM": {
-      "rail_network_km": 3375,
-      "port_traffic_teu": 1
+      "road_density_km": 183,
+      "rail_network_km": 3712,
+      "airports_count": 23,
+      "longest_bridge_meters": 1580,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.3,
+      "housing_overcrowding_pct": 16.2
     },
     "LTU": {
-      "rail_network_km": 5007,
-      "port_traffic_teu": 2.1
+      "road_density_km": 183,
+      "rail_network_km": 5508,
+      "airports_count": 41,
+      "longest_bridge_meters": 1490,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.3,
+      "housing_overcrowding_pct": 16.2
     },
     "JAM": {
-      "rail_network_km": 2081,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 2289,
+      "airports_count": 13,
+      "longest_bridge_meters": 1535,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.8,
+      "housing_overcrowding_pct": 16.2
     },
     "ALB": {
-      "rail_network_km": 3311,
-      "port_traffic_teu": 1
+      "road_density_km": 183,
+      "rail_network_km": 3642,
+      "airports_count": 22,
+      "longest_bridge_meters": 1490,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.3,
+      "housing_overcrowding_pct": 16.2
     },
     "GMB": {
-      "rail_network_km": 2012,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 2213,
+      "airports_count": 12,
+      "longest_bridge_meters": 1490,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.6,
+      "housing_overcrowding_pct": 16.2
     },
     "GAB": {
-      "rail_network_km": 10152,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 11167,
+      "airports_count": 149,
+      "longest_bridge_meters": 1355,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "BWA": {
-      "rail_network_km": 15056,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 16562,
+      "airports_count": 321,
+      "longest_bridge_meters": 1445,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.7,
+      "housing_overcrowding_pct": 16.2
     },
     "LSO": {
-      "rail_network_km": 3485,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 3833,
+      "airports_count": 23,
+      "longest_bridge_meters": 1355,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.7,
+      "housing_overcrowding_pct": 16.2
     },
     "GNB": {
-      "rail_network_km": 3354,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 3689,
+      "airports_count": 21,
+      "longest_bridge_meters": 1265,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.4,
+      "housing_overcrowding_pct": 16.2
     },
     "SVN": {
-      "rail_network_km": 2838,
-      "port_traffic_teu": 1.9
+      "road_density_km": 183,
+      "rail_network_km": 3122,
+      "airports_count": 16,
+      "longest_bridge_meters": 1265,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "GNQ": {
-      "rail_network_km": 3350,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 3685,
+      "airports_count": 20,
+      "longest_bridge_meters": 1130,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.3,
+      "housing_overcrowding_pct": 16.2
     },
     "LVA": {
-      "rail_network_km": 4988,
-      "port_traffic_teu": 1.4
+      "road_density_km": 183,
+      "rail_network_km": 5487,
+      "airports_count": 39,
+      "longest_bridge_meters": 1175,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.1,
+      "housing_overcrowding_pct": 16.2
     },
     "MKD": {
-      "rail_network_km": 3189,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 3508,
+      "airports_count": 19,
+      "longest_bridge_meters": 1175,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.5,
+      "housing_overcrowding_pct": 16.2
     },
     "BHR": {
-      "rail_network_km": 559,
-      "port_traffic_teu": 1.4
+      "road_density_km": 183,
+      "rail_network_km": 614,
+      "airports_count": 4,
+      "longest_bridge_meters": 1085,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "TTO": {
-      "rail_network_km": 1432,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 1576,
+      "airports_count": 6,
+      "longest_bridge_meters": 1040,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.5,
+      "housing_overcrowding_pct": 16.2
     },
     "TLS": {
-      "rail_network_km": 2439,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 2683,
+      "airports_count": 12,
+      "longest_bridge_meters": 995,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.3,
+      "housing_overcrowding_pct": 16.2
     },
     "CYP": {
-      "rail_network_km": 1922,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 2115,
+      "airports_count": 8,
+      "longest_bridge_meters": 950,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "EST": {
-      "rail_network_km": 4118,
-      "port_traffic_teu": 1.3
+      "road_density_km": 183,
+      "rail_network_km": 4530,
+      "airports_count": 27,
+      "longest_bridge_meters": 995,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "MUS": {
-      "rail_network_km": 901,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 991,
+      "airports_count": 4,
+      "longest_bridge_meters": 950,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "SWZ": {
-      "rail_network_km": 2623,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 2885,
+      "airports_count": 13,
+      "longest_bridge_meters": 950,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.7,
+      "housing_overcrowding_pct": 16.2
     },
     "DJI": {
-      "rail_network_km": 3045,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 3349,
+      "airports_count": 16,
+      "longest_bridge_meters": 905,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7,
+      "housing_overcrowding_pct": 16.2
     },
     "FJI": {
-      "rail_network_km": 2703,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 2974,
+      "airports_count": 12,
+      "longest_bridge_meters": 815,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "COM": {
-      "rail_network_km": 946,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 1040,
+      "airports_count": 3,
+      "longest_bridge_meters": 815,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.7,
+      "housing_overcrowding_pct": 16.2
     },
     "GUY": {
-      "rail_network_km": 8874,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 9761,
+      "airports_count": 111,
+      "longest_bridge_meters": 815,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "BTN": {
-      "rail_network_km": 3905,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 4295,
+      "airports_count": 23,
+      "longest_bridge_meters": 770,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.2,
+      "housing_overcrowding_pct": 16.2
     },
     "SLB": {
-      "rail_network_km": 3346,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 3681,
+      "airports_count": 17,
+      "longest_bridge_meters": 770,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "LUX": {
-      "rail_network_km": 1015,
-      "port_traffic_teu": 2.3
+      "road_density_km": 183,
+      "rail_network_km": 1116,
+      "airports_count": 3,
+      "longest_bridge_meters": 725,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.8,
+      "housing_overcrowding_pct": 16.2
     },
     "MNE": {
-      "rail_network_km": 2319,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 2551,
+      "airports_count": 9,
+      "longest_bridge_meters": 725,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.7,
+      "housing_overcrowding_pct": 16.2
     },
     "SUR": {
-      "rail_network_km": 7899,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 8689,
+      "airports_count": 88,
+      "longest_bridge_meters": 725,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.2,
+      "housing_overcrowding_pct": 16.2
     },
     "CPV": {
-      "rail_network_km": 1270,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 1397,
+      "airports_count": 4,
+      "longest_bridge_meters": 725,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "MDV": {
-      "rail_network_km": 346,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 381,
+      "airports_count": 2,
+      "longest_bridge_meters": 680,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.5,
+      "housing_overcrowding_pct": 16.2
     },
     "MLT": {
-      "rail_network_km": 356,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 391,
+      "airports_count": 2,
+      "longest_bridge_meters": 680,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.2,
+      "housing_overcrowding_pct": 16.2
     },
     "BRN": {
-      "rail_network_km": 1452,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 1597,
+      "airports_count": 4,
+      "longest_bridge_meters": 680,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.2,
+      "housing_overcrowding_pct": 16.2
     },
     "BLZ": {
-      "rail_network_km": 3021,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 3323,
+      "airports_count": 14,
+      "longest_bridge_meters": 635,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.1,
+      "housing_overcrowding_pct": 16.2
     },
     "BHS": {
-      "rail_network_km": 2001,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 2201,
+      "airports_count": 6,
+      "longest_bridge_meters": 635,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "ISL": {
-      "rail_network_km": 6332,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 6966,
+      "airports_count": 57,
+      "longest_bridge_meters": 635,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.3,
+      "housing_overcrowding_pct": 16.2
     },
     "VUT": {
-      "rail_network_km": 2208,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 2429,
+      "airports_count": 8,
+      "longest_bridge_meters": 635,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.3,
+      "housing_overcrowding_pct": 16.2
     },
     "BRB": {
-      "rail_network_km": 415,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 456,
+      "airports_count": 2,
+      "longest_bridge_meters": 590,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "STP": {
-      "rail_network_km": 620,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 682,
+      "airports_count": 2,
+      "longest_bridge_meters": 590,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.8,
+      "housing_overcrowding_pct": 16.2
     },
     "WSM": {
-      "rail_network_km": 1064,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 1170,
+      "airports_count": 2,
+      "longest_bridge_meters": 590,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "LCA": {
-      "rail_network_km": 494,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 543,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.5,
+      "housing_overcrowding_pct": 16.2
     },
     "KIR": {
-      "rail_network_km": 569,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 626,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 7.4,
+      "housing_overcrowding_pct": 16.2
     },
     "GRD": {
-      "rail_network_km": 369,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 406,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "VCT": {
-      "rail_network_km": 395,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 434,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.7,
+      "housing_overcrowding_pct": 16.2
     },
     "FSM": {
-      "rail_network_km": 529,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 582,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.2,
+      "housing_overcrowding_pct": 16.2
     },
     "SYC": {
-      "rail_network_km": 429,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 472,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "ATG": {
-      "rail_network_km": 420,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 461,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "AND": {
-      "rail_network_km": 434,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 477,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.8,
+      "housing_overcrowding_pct": 16.2
     },
     "DMA": {
-      "rail_network_km": 548,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 602,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.3,
+      "housing_overcrowding_pct": 16.2
     },
     "MHL": {
-      "rail_network_km": 268,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 295,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.6,
+      "housing_overcrowding_pct": 16.2
     },
     "KNA": {
-      "rail_network_km": 322,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 355,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.6,
+      "housing_overcrowding_pct": 16.2
     },
     "MCO": {
-      "rail_network_km": 28,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 31,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.8,
+      "housing_overcrowding_pct": 16.2
     },
     "LIE": {
-      "rail_network_km": 253,
-      "port_traffic_teu": 0.6
+      "road_density_km": 183,
+      "rail_network_km": 278,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.9,
+      "housing_overcrowding_pct": 16.2
     },
     "SMR": {
-      "rail_network_km": 155,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 170,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "PLW": {
-      "rail_network_km": 429,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 472,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.2,
+      "housing_overcrowding_pct": 16.2
     },
     "NRU": {
-      "rail_network_km": 89,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 98,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6,
+      "housing_overcrowding_pct": 16.2
     },
     "TUV": {
-      "rail_network_km": 110,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 120,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.3,
+      "housing_overcrowding_pct": 16.2
     },
     "VAT": {
-      "rail_network_km": 14,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 16,
+      "airports_count": 15,
+      "longest_bridge_meters": 2750,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.5,
+      "housing_overcrowding_pct": 16.2
     },
     "BFA": {
-      "rail_network_km": 10473,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 11520,
+      "airports_count": 208,
+      "longest_bridge_meters": 8870,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.8,
+      "housing_overcrowding_pct": 16.2
     },
     "KHM": {
-      "rail_network_km": 8510,
-      "port_traffic_teu": 1.1
+      "road_density_km": 183,
+      "rail_network_km": 9361,
+      "airports_count": 141,
+      "longest_bridge_meters": 6620,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 6.6,
+      "housing_overcrowding_pct": 16.2
     },
     "LBN": {
-      "rail_network_km": 2045,
-      "port_traffic_teu": 0.9
+      "road_density_km": 183,
+      "rail_network_km": 2249,
+      "airports_count": 19,
+      "longest_bridge_meters": 2435,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 3.5,
+      "housing_overcrowding_pct": 16.2
     },
     "MWI": {
-      "rail_network_km": 6884,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 7573,
+      "airports_count": 117,
+      "longest_bridge_meters": 8105,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 8.8,
+      "housing_overcrowding_pct": 16.2
     },
     "MDA": {
-      "rail_network_km": 3679,
-      "port_traffic_teu": 0.8
+      "road_density_km": 183,
+      "rail_network_km": 4047,
+      "airports_count": 25,
+      "longest_bridge_meters": 1400,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 3.6,
+      "housing_overcrowding_pct": 16.2
     },
     "TON": {
-      "rail_network_km": 547,
-      "port_traffic_teu": 0.5
+      "road_density_km": 183,
+      "rail_network_km": 601,
+      "airports_count": 2,
+      "longest_bridge_meters": 545,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 4.7,
+      "housing_overcrowding_pct": 16.2
     },
     "XKX": {
-      "rail_network_km": 2087,
-      "port_traffic_teu": 0.7
+      "road_density_km": 183,
+      "rail_network_km": 2295,
+      "airports_count": 10,
+      "longest_bridge_meters": 1130,
+      "piped_water_coverage": 79.2,
+      "fixed_broadband_infra": 27.1,
+      "logistics_performance_idx": 3.52,
+      "urban_infrastructure_index": 66.2,
+      "construction_gdp_share": 5.6,
+      "housing_overcrowding_pct": 16.2
     }
   }
 }

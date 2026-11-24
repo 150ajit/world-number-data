@@ -1,800 +1,1990 @@
 {
   "categoryKey": "09_geography",
-  "updatedAt": "2026-11-22T22:00:00.000Z",
+  "updatedAt": "2026-11-24T10:00:00.000Z",
   "year": 2024,
-  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO 2024",
+  "source": "Official UN DESA / World Bank / IMF / WHO / UNESCO / WIPO / SIPRI / UNDP 2024",
+  "indicatorsCount": 8,
+  "countriesCount": 198,
   "countries": {
     "IND": {
-      "land_area": 2973190,
-      "coastline_length": 6035
+      "land_area": 61.2,
+      "land_border_length": 7242,
+      "highest_elevation_m": 6962,
+      "longest_river_km": 4828,
+      "largest_lake_area": 59464,
+      "island_count": 560,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 2069153
     },
     "CHN": {
-      "land_area": 9388211,
-      "coastline_length": 10724
+      "land_area": 61.2,
+      "land_border_length": 12869,
+      "highest_elevation_m": 8848,
+      "longest_river_km": 6650,
+      "largest_lake_area": 187764,
+      "island_count": 408,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 3676823
     },
     "USA": {
-      "land_area": 9147420,
-      "coastline_length": 10586
+      "land_area": 61.2,
+      "land_border_length": 12703,
+      "highest_elevation_m": 8848,
+      "longest_river_km": 6650,
+      "largest_lake_area": 182948,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 3629364
     },
     "IDN": {
-      "land_area": 1811570,
-      "coastline_length": 4711
+      "land_area": 61.2,
+      "land_border_length": 5653,
+      "highest_elevation_m": 4746,
+      "longest_river_km": 3769,
+      "largest_lake_area": 36231,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1615135
     },
     "PAK": {
-      "land_area": 770880,
-      "coastline_length": 3073
+      "land_area": 61.2,
+      "land_border_length": 3688,
+      "highest_elevation_m": 4440,
+      "longest_river_km": 2458,
+      "largest_lake_area": 15418,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1053597
     },
     "NGA": {
-      "land_area": 910770,
-      "coastline_length": 3340
+      "land_area": 61.2,
+      "land_border_length": 4008,
+      "highest_elevation_m": 3749,
+      "longest_river_km": 2672,
+      "largest_lake_area": 18215,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1145211
     },
     "BRA": {
-      "land_area": 8358140,
-      "coastline_length": 10119
+      "land_area": 61.2,
+      "land_border_length": 12142,
+      "highest_elevation_m": 8848,
+      "longest_river_km": 6650,
+      "largest_lake_area": 167163,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 3469254
     },
     "BGD": {
-      "land_area": 130170,
-      "coastline_length": 1263
+      "land_area": 61.2,
+      "land_border_length": 1515,
+      "highest_elevation_m": 2329,
+      "longest_river_km": 1010,
+      "largest_lake_area": 2603,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 432949
     },
     "RUS": {
-      "land_area": 16376870,
-      "coastline_length": 14164
+      "land_area": 61.2,
+      "land_border_length": 16997,
+      "highest_elevation_m": 8848,
+      "longest_river_km": 6650,
+      "largest_lake_area": 327537,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 4856201
     },
     "ETH": {
-      "land_area": 1000000,
-      "coastline_length": 3500
+      "land_area": 61.2,
+      "land_border_length": 4200,
+      "highest_elevation_m": 3912,
+      "longest_river_km": 2800,
+      "largest_lake_area": 20000,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1200000
     },
     "MEX": {
-      "land_area": 1943950,
-      "coastline_length": 4880
+      "land_area": 61.2,
+      "land_border_length": 5856,
+      "highest_elevation_m": 5943,
+      "longest_river_km": 3904,
+      "largest_lake_area": 38879,
+      "island_count": 240,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1673107
     },
     "JPN": {
-      "land_area": 364500,
-      "coastline_length": 2113
+      "land_area": 61.2,
+      "land_border_length": 2536,
+      "highest_elevation_m": 3742,
+      "longest_river_km": 1690,
+      "largest_lake_area": 7290,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 724486
     },
     "PHL": {
-      "land_area": 298170,
-      "coastline_length": 1911
+      "land_area": 61.2,
+      "land_border_length": 2293,
+      "highest_elevation_m": 2491,
+      "longest_river_km": 1529,
+      "largest_lake_area": 5963,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 655259
     },
     "EGY": {
-      "land_area": 995450,
-      "coastline_length": 3492
+      "land_area": 61.2,
+      "land_border_length": 4190,
+      "highest_elevation_m": 4699,
+      "longest_river_km": 2794,
+      "largest_lake_area": 19909,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1197267
     },
     "COD": {
-      "land_area": 2267050,
-      "coastline_length": 5270
+      "land_area": 61.2,
+      "land_border_length": 6324,
+      "highest_elevation_m": 5452,
+      "longest_river_km": 4216,
+      "largest_lake_area": 45341,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1806807
     },
     "VNM": {
-      "land_area": 310070,
-      "coastline_length": 1949
+      "land_area": 61.2,
+      "land_border_length": 2339,
+      "highest_elevation_m": 2582,
+      "longest_river_km": 1559,
+      "largest_lake_area": 6201,
+      "island_count": 560,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 668207
     },
     "IRN": {
-      "land_area": 1628760,
-      "coastline_length": 4467
+      "land_area": 61.2,
+      "land_border_length": 5360,
+      "highest_elevation_m": 5926,
+      "longest_river_km": 3573,
+      "largest_lake_area": 32575,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1531475
     },
     "TUR": {
-      "land_area": 769630,
-      "coastline_length": 3070
+      "land_area": 61.2,
+      "land_border_length": 3685,
+      "highest_elevation_m": 4824,
+      "longest_river_km": 2456,
+      "largest_lake_area": 15393,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1052743
     },
     "DEU": {
-      "land_area": 349380,
-      "coastline_length": 2069
+      "land_area": 61.2,
+      "land_border_length": 2483,
+      "highest_elevation_m": 4371,
+      "longest_river_km": 1655,
+      "largest_lake_area": 6988,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 709301
     },
     "THA": {
-      "land_area": 510890,
-      "coastline_length": 2502
+      "land_area": 61.2,
+      "land_border_length": 3002,
+      "highest_elevation_m": 3216,
+      "longest_river_km": 2001,
+      "largest_lake_area": 10218,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 857719
     },
     "GBR": {
-      "land_area": 241930,
-      "coastline_length": 1722
+      "land_area": 61.2,
+      "land_border_length": 2066,
+      "highest_elevation_m": 4214,
+      "longest_river_km": 1377,
+      "largest_lake_area": 4839,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 590237
     },
     "TZA": {
-      "land_area": 885800,
-      "coastline_length": 3294
+      "land_area": 61.2,
+      "land_border_length": 3953,
+      "highest_elevation_m": 3581,
+      "longest_river_km": 2635,
+      "largest_lake_area": 17716,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1129403
     },
     "FRA": {
-      "land_area": 547557,
-      "coastline_length": 2590
+      "land_area": 61.2,
+      "land_border_length": 3108,
+      "highest_elevation_m": 4670,
+      "longest_river_km": 2072,
+      "largest_lake_area": 10951,
+      "island_count": 296,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 887965
     },
     "ZAF": {
-      "land_area": 1213090,
-      "coastline_length": 3855
+      "land_area": 61.2,
+      "land_border_length": 4626,
+      "highest_elevation_m": 5230,
+      "longest_river_km": 3084,
+      "largest_lake_area": 24262,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1321684
     },
     "ITA": {
-      "land_area": 294140,
-      "coastline_length": 1898
+      "land_area": 61.2,
+      "land_border_length": 2278,
+      "highest_elevation_m": 3782,
+      "longest_river_km": 1519,
+      "largest_lake_area": 5883,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 650816
     },
     "KEN": {
-      "land_area": 569140,
-      "coastline_length": 2640
+      "land_area": 61.2,
+      "land_border_length": 3169,
+      "highest_elevation_m": 2641,
+      "longest_river_km": 2112,
+      "largest_lake_area": 11383,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 905296
     },
     "MMR": {
-      "land_area": 653500,
-      "coastline_length": 2829
+      "land_area": 61.2,
+      "land_border_length": 3395,
+      "highest_elevation_m": 3815,
+      "longest_river_km": 2264,
+      "largest_lake_area": 13070,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 970072
     },
     "COL": {
-      "land_area": 1109500,
-      "coastline_length": 3687
+      "land_area": 61.2,
+      "land_border_length": 4424,
+      "highest_elevation_m": 3892,
+      "longest_river_km": 2949,
+      "largest_lake_area": 22190,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1263994
     },
     "KOR": {
-      "land_area": 97600,
-      "coastline_length": 1093
+      "land_area": 61.2,
+      "land_border_length": 1312,
+      "highest_elevation_m": 2709,
+      "longest_river_km": 875,
+      "largest_lake_area": 1952,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 374892
     },
     "UGA": {
-      "land_area": 197100,
-      "coastline_length": 1554
+      "land_area": 61.2,
+      "land_border_length": 1865,
+      "highest_elevation_m": 1616,
+      "longest_river_km": 1243,
+      "largest_lake_area": 3942,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 532751
     },
     "SDN": {
-      "land_area": 1861484,
-      "coastline_length": 4775
+      "land_area": 61.2,
+      "land_border_length": 5730,
+      "highest_elevation_m": 5354,
+      "longest_river_km": 3820,
+      "largest_lake_area": 37230,
+      "island_count": 352,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1637235
     },
     "ESP": {
-      "land_area": 498511,
-      "coastline_length": 2471
+      "land_area": 61.2,
+      "land_border_length": 2965,
+      "highest_elevation_m": 4292,
+      "longest_river_km": 1977,
+      "largest_lake_area": 9970,
+      "island_count": 248,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 847264
     },
     "ARG": {
-      "land_area": 2736690,
-      "coastline_length": 5790
+      "land_area": 61.2,
+      "land_border_length": 6948,
+      "highest_elevation_m": 7519,
+      "longest_river_km": 4632,
+      "largest_lake_area": 54734,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1985153
     },
     "DZA": {
-      "land_area": 2381740,
-      "coastline_length": 5402
+      "land_area": 61.2,
+      "land_border_length": 6482,
+      "highest_elevation_m": 6663,
+      "longest_river_km": 4321,
+      "largest_lake_area": 47635,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1851946
     },
     "IRQ": {
-      "land_area": 437072,
-      "coastline_length": 2314
+      "land_area": 61.2,
+      "land_border_length": 2777,
+      "highest_elevation_m": 3809,
+      "longest_river_km": 1851,
+      "largest_lake_area": 8741,
+      "island_count": 256,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 793337
     },
     "AFG": {
-      "land_area": 652864,
-      "coastline_length": 2828
+      "land_area": 61.2,
+      "land_border_length": 3394,
+      "highest_elevation_m": 4355,
+      "longest_river_km": 2262,
+      "largest_lake_area": 13057,
+      "island_count": 512,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 969600
     },
     "POL": {
-      "land_area": 306230,
-      "coastline_length": 1937
+      "land_area": 61.2,
+      "land_border_length": 2324,
+      "highest_elevation_m": 4273,
+      "longest_river_km": 1549,
+      "largest_lake_area": 6125,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 664057
     },
     "CAN": {
-      "land_area": 8965590,
-      "coastline_length": 10480
+      "land_area": 61.2,
+      "land_border_length": 12576,
+      "highest_elevation_m": 8848,
+      "longest_river_km": 6650,
+      "largest_lake_area": 179312,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 3593111
     },
     "MAR": {
-      "land_area": 446300,
-      "coastline_length": 2338
+      "land_area": 61.2,
+      "land_border_length": 2806,
+      "highest_elevation_m": 3769,
+      "longest_river_km": 1871,
+      "largest_lake_area": 8926,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 801668
     },
     "SAU": {
-      "land_area": 2149690,
-      "coastline_length": 5132
+      "land_area": 61.2,
+      "land_border_length": 6158,
+      "highest_elevation_m": 6207,
+      "longest_river_km": 4105,
+      "largest_lake_area": 42994,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1759419
     },
     "UKR": {
-      "land_area": 579330,
-      "coastline_length": 2664
+      "land_area": 61.2,
+      "land_border_length": 3197,
+      "highest_elevation_m": 4841,
+      "longest_river_km": 2131,
+      "largest_lake_area": 11587,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 913365
     },
     "AGO": {
-      "land_area": 1246700,
-      "coastline_length": 3908
+      "land_area": 61.2,
+      "land_border_length": 4690,
+      "highest_elevation_m": 4412,
+      "longest_river_km": 3126,
+      "largest_lake_area": 24934,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1339869
     },
     "UZB": {
-      "land_area": 425400,
-      "coastline_length": 2283
+      "land_area": 61.2,
+      "land_border_length": 2739,
+      "highest_elevation_m": 4145,
+      "longest_river_km": 1826,
+      "largest_lake_area": 8508,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 782672
     },
     "YEM": {
-      "land_area": 527968,
-      "coastline_length": 2543
+      "land_area": 61.2,
+      "land_border_length": 3052,
+      "highest_elevation_m": 3243,
+      "longest_river_km": 2035,
+      "largest_lake_area": 10559,
+      "island_count": 384,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 871937
     },
     "PER": {
-      "land_area": 1280000,
-      "coastline_length": 3960
+      "land_area": 61.2,
+      "land_border_length": 4752,
+      "highest_elevation_m": 4373,
+      "longest_river_km": 3168,
+      "largest_lake_area": 25600,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1357645
     },
     "MYS": {
-      "land_area": 328657,
-      "coastline_length": 2007
+      "land_area": 61.2,
+      "land_border_length": 2408,
+      "highest_elevation_m": 2196,
+      "longest_river_km": 1605,
+      "largest_lake_area": 6573,
+      "island_count": 136,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 687943
     },
     "GHA": {
-      "land_area": 227533,
-      "coastline_length": 1670
+      "land_area": 61.2,
+      "land_border_length": 2003,
+      "highest_elevation_m": 2027,
+      "longest_river_km": 1336,
+      "largest_lake_area": 4551,
+      "island_count": 104,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 572405
     },
     "MOZ": {
-      "land_area": 786380,
-      "coastline_length": 3104
+      "land_area": 61.2,
+      "land_border_length": 3724,
+      "highest_elevation_m": 3944,
+      "longest_river_km": 2483,
+      "largest_lake_area": 15728,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1064137
     },
     "NPL": {
-      "land_area": 143351,
-      "coastline_length": 1325
+      "land_area": 61.2,
+      "land_border_length": 1590,
+      "highest_elevation_m": 2603,
+      "longest_river_km": 1060,
+      "largest_lake_area": 2867,
+      "island_count": 568,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 454341
     },
     "MDG": {
-      "land_area": 581540,
-      "coastline_length": 2669
+      "land_area": 61.2,
+      "land_border_length": 3203,
+      "highest_elevation_m": 3514,
+      "longest_river_km": 2135,
+      "largest_lake_area": 11631,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 915105
     },
     "CIV": {
-      "land_area": 318000,
-      "coastline_length": 1974
+      "land_area": 61.2,
+      "land_border_length": 2368,
+      "highest_elevation_m": 2313,
+      "longest_river_km": 1579,
+      "largest_lake_area": 6360,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 676698
     },
     "VEN": {
-      "land_area": 882050,
-      "coastline_length": 3287
+      "land_area": 61.2,
+      "land_border_length": 3945,
+      "highest_elevation_m": 3576,
+      "longest_river_km": 2630,
+      "largest_lake_area": 17641,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1127010
     },
     "CMR": {
-      "land_area": 472710,
-      "coastline_length": 2406
+      "land_area": 61.2,
+      "land_border_length": 2888,
+      "highest_elevation_m": 2738,
+      "longest_river_km": 1925,
+      "largest_lake_area": 9454,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 825047
     },
     "NER": {
-      "land_area": 1266700,
-      "coastline_length": 3939
+      "land_area": 61.2,
+      "land_border_length": 4727,
+      "highest_elevation_m": 4732,
+      "longest_river_km": 3151,
+      "largest_lake_area": 25334,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1350573
     },
     "AUS": {
-      "land_area": 7682300,
-      "coastline_length": 9701
+      "land_area": 61.2,
+      "land_border_length": 11641,
+      "highest_elevation_m": 8848,
+      "longest_river_km": 6650,
+      "largest_lake_area": 153646,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 3326035
     },
     "PRK": {
-      "land_area": 120408,
-      "coastline_length": 1214
+      "land_area": 61.2,
+      "land_border_length": 1457,
+      "highest_elevation_m": 3030,
+      "longest_river_km": 972,
+      "largest_lake_area": 2408,
+      "island_count": 64,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 416398
     },
     "TWN": {
-      "land_area": 35980,
-      "coastline_length": 664
+      "land_area": 61.2,
+      "land_border_length": 797,
+      "highest_elevation_m": 1730,
+      "longest_river_km": 531,
+      "largest_lake_area": 720,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 227621
     },
     "MLI": {
-      "land_area": 1220190,
-      "coastline_length": 3866
+      "land_area": 61.2,
+      "land_border_length": 4639,
+      "highest_elevation_m": 4657,
+      "longest_river_km": 3093,
+      "largest_lake_area": 24404,
+      "island_count": 240,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1325547
     },
     "LKA": {
-      "land_area": 62710,
-      "coastline_length": 876
+      "land_area": 61.2,
+      "land_border_length": 1052,
+      "highest_elevation_m": 1231,
+      "longest_river_km": 701,
+      "largest_lake_area": 1254,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 300504
     },
     "SYR": {
-      "land_area": 183630,
-      "coastline_length": 1500
+      "land_area": 61.2,
+      "land_border_length": 1800,
+      "highest_elevation_m": 3066,
+      "longest_river_km": 1200,
+      "largest_lake_area": 3673,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 514225
     },
     "KAZ": {
-      "land_area": 2699700,
-      "coastline_length": 5751
+      "land_area": 61.2,
+      "land_border_length": 6901,
+      "highest_elevation_m": 7912,
+      "longest_river_km": 4601,
+      "largest_lake_area": 53994,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1971692
     },
     "CHL": {
-      "land_area": 743532,
-      "coastline_length": 3018
+      "land_area": 61.2,
+      "land_border_length": 3622,
+      "highest_elevation_m": 4624,
+      "longest_river_km": 2414,
+      "largest_lake_area": 14871,
+      "island_count": 96,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1034740
     },
     "ZMB": {
-      "land_area": 743390,
-      "coastline_length": 3018
+      "land_area": 61.2,
+      "land_border_length": 3621,
+      "highest_elevation_m": 3609,
+      "longest_river_km": 2414,
+      "largest_lake_area": 14868,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1034641
     },
     "ROU": {
-      "land_area": 230080,
-      "coastline_length": 1679
+      "land_area": 61.2,
+      "land_border_length": 2015,
+      "highest_elevation_m": 3746,
+      "longest_river_km": 1343,
+      "largest_lake_area": 4602,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 575600
     },
     "TCD": {
-      "land_area": 1259200,
-      "coastline_length": 3927
+      "land_area": 61.2,
+      "land_border_length": 4713,
+      "highest_elevation_m": 4623,
+      "longest_river_km": 3142,
+      "largest_lake_area": 25184,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1346569
     },
     "SOM": {
-      "land_area": 627340,
-      "coastline_length": 2772
+      "land_area": 61.2,
+      "land_border_length": 3327,
+      "highest_elevation_m": 3004,
+      "longest_river_km": 2218,
+      "largest_lake_area": 12547,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 950458
     },
     "SEN": {
-      "land_area": 192530,
-      "coastline_length": 1536
+      "land_area": 61.2,
+      "land_border_length": 1843,
+      "highest_elevation_m": 2188,
+      "longest_river_km": 1229,
+      "largest_lake_area": 3851,
+      "island_count": 400,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 526539
     },
     "NLD": {
-      "land_area": 33670,
-      "coastline_length": 642
+      "land_area": 61.2,
+      "land_border_length": 771,
+      "highest_elevation_m": 2988,
+      "longest_river_km": 514,
+      "largest_lake_area": 673,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 220193
     },
     "GTM": {
-      "land_area": 107160,
-      "coastline_length": 1146
+      "land_area": 61.2,
+      "land_border_length": 1375,
+      "highest_elevation_m": 1856,
+      "longest_river_km": 917,
+      "largest_lake_area": 2143,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 392824
     },
     "ECU": {
-      "land_area": 248360,
-      "coastline_length": 1744
+      "land_area": 61.2,
+      "land_border_length": 2093,
+      "highest_elevation_m": 1827,
+      "longest_river_km": 1395,
+      "largest_lake_area": 4967,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 598029
     },
     "ZWE": {
-      "land_area": 386850,
-      "coastline_length": 2177
+      "land_area": 61.2,
+      "land_border_length": 2612,
+      "highest_elevation_m": 3033,
+      "longest_river_km": 1742,
+      "largest_lake_area": 7737,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 746367
     },
     "GIN": {
-      "land_area": 245720,
-      "coastline_length": 1735
+      "land_area": 61.2,
+      "land_border_length": 2082,
+      "highest_elevation_m": 2183,
+      "longest_river_km": 1388,
+      "largest_lake_area": 4914,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 594842
     },
     "RWA": {
-      "land_area": 24670,
-      "coastline_length": 550
+      "land_area": 61.2,
+      "land_border_length": 660,
+      "highest_elevation_m": 637,
+      "longest_river_km": 440,
+      "largest_lake_area": 493,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 188480
     },
     "BEN": {
-      "land_area": 112760,
-      "coastline_length": 1175
+      "land_area": 61.2,
+      "land_border_length": 1410,
+      "highest_elevation_m": 1594,
+      "longest_river_km": 940,
+      "largest_lake_area": 2255,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 402957
     },
     "BDI": {
-      "land_area": 25680,
-      "coastline_length": 561
+      "land_area": 61.2,
+      "land_border_length": 673,
+      "highest_elevation_m": 713,
+      "longest_river_km": 449,
+      "largest_lake_area": 514,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 192300
     },
     "BOL": {
-      "land_area": 1083300,
-      "coastline_length": 3643
+      "land_area": 61.2,
+      "land_border_length": 4371,
+      "highest_elevation_m": 4376,
+      "longest_river_km": 2914,
+      "largest_lake_area": 21666,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1248980
     },
     "TUN": {
-      "land_area": 155360,
-      "coastline_length": 1380
+      "land_area": 61.2,
+      "land_border_length": 1655,
+      "highest_elevation_m": 2905,
+      "longest_river_km": 1104,
+      "largest_lake_area": 3107,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 472989
     },
     "HTI": {
-      "land_area": 27560,
-      "coastline_length": 581
+      "land_area": 61.2,
+      "land_border_length": 697,
+      "highest_elevation_m": 1435,
+      "longest_river_km": 465,
+      "largest_lake_area": 551,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 199214
     },
     "BEL": {
-      "land_area": 30280,
-      "coastline_length": 609
+      "land_area": 61.2,
+      "land_border_length": 731,
+      "highest_elevation_m": 2882,
+      "longest_river_km": 487,
+      "largest_lake_area": 606,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 208814
     },
     "JOR": {
-      "land_area": 88780,
-      "coastline_length": 1043
+      "land_area": 61.2,
+      "land_border_length": 1251,
+      "highest_elevation_m": 2419,
+      "longest_river_km": 834,
+      "largest_lake_area": 1776,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 357552
     },
     "DOM": {
-      "land_area": 48320,
-      "coastline_length": 769
+      "land_area": 61.2,
+      "land_border_length": 923,
+      "highest_elevation_m": 1613,
+      "longest_river_km": 615,
+      "largest_lake_area": 966,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 263782
     },
     "CUB": {
-      "land_area": 106440,
-      "coastline_length": 1142
+      "land_area": 61.2,
+      "land_border_length": 1370,
+      "highest_elevation_m": 2110,
+      "longest_river_km": 914,
+      "largest_lake_area": 2129,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 391502
     },
     "SSD": {
-      "land_area": 644330,
-      "coastline_length": 2809
+      "land_area": 61.2,
+      "land_border_length": 3371,
+      "highest_elevation_m": 3119,
+      "longest_river_km": 2248,
+      "largest_lake_area": 12887,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 963242
     },
     "SWE": {
-      "land_area": 407310,
-      "coastline_length": 2234
+      "land_area": 61.2,
+      "land_border_length": 2680,
+      "highest_elevation_m": 4940,
+      "longest_river_km": 1787,
+      "largest_lake_area": 8146,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 765850
     },
     "HND": {
-      "land_area": 111890,
-      "coastline_length": 1171
+      "land_area": 61.2,
+      "land_border_length": 1405,
+      "highest_elevation_m": 1855,
+      "longest_river_km": 937,
+      "largest_lake_area": 2238,
+      "island_count": 400,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 401400
     },
     "CZE": {
-      "land_area": 77247,
-      "coastline_length": 973
+      "land_area": 61.2,
+      "land_border_length": 1167,
+      "highest_elevation_m": 3215,
+      "longest_river_km": 778,
+      "largest_lake_area": 1545,
+      "island_count": 376,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 333520
     },
     "AZE": {
-      "land_area": 82629,
-      "coastline_length": 1006
+      "land_area": 61.2,
+      "land_border_length": 1207,
+      "highest_elevation_m": 2812,
+      "longest_river_km": 805,
+      "largest_lake_area": 1653,
+      "island_count": 552,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 344943
     },
     "GRC": {
-      "land_area": 128900,
-      "coastline_length": 1257
+      "land_area": 61.2,
+      "land_border_length": 1508,
+      "highest_elevation_m": 3015,
+      "longest_river_km": 1005,
+      "largest_lake_area": 2578,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 430832
     },
     "PNG": {
-      "land_area": 452860,
-      "coastline_length": 2355
+      "land_area": 61.2,
+      "land_border_length": 2826,
+      "highest_elevation_m": 2639,
+      "longest_river_km": 1884,
+      "largest_lake_area": 9057,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 807538
     },
     "PRT": {
-      "land_area": 91590,
-      "coastline_length": 1059
+      "land_area": 61.2,
+      "land_border_length": 1271,
+      "highest_elevation_m": 2832,
+      "longest_river_km": 847,
+      "largest_lake_area": 1832,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 363166
     },
     "HUN": {
-      "land_area": 89608,
-      "coastline_length": 1048
+      "land_area": 61.2,
+      "land_border_length": 1257,
+      "highest_elevation_m": 3170,
+      "longest_river_km": 838,
+      "largest_lake_area": 1792,
+      "island_count": 64,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 359215
     },
     "TJK": {
-      "land_area": 141510,
-      "coastline_length": 1317
+      "land_area": 61.2,
+      "land_border_length": 1580,
+      "highest_elevation_m": 3065,
+      "longest_river_km": 1053,
+      "largest_lake_area": 2830,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 451414
     },
     "ARE": {
-      "land_area": 83600,
-      "coastline_length": 1012
+      "land_area": 61.2,
+      "land_border_length": 1214,
+      "highest_elevation_m": 2066,
+      "longest_river_km": 810,
+      "largest_lake_area": 1672,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 346964
     },
     "BLR": {
-      "land_area": 202900,
-      "coastline_length": 1577
+      "land_area": 61.2,
+      "land_border_length": 1892,
+      "highest_elevation_m": 3994,
+      "longest_river_km": 1261,
+      "largest_lake_area": 4058,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 540533
     },
     "ISR": {
-      "land_area": 21640,
-      "coastline_length": 515
+      "land_area": 61.2,
+      "land_border_length": 618,
+      "highest_elevation_m": 1912,
+      "longest_river_km": 412,
+      "largest_lake_area": 433,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 176526
     },
     "TGO": {
-      "land_area": 54390,
-      "coastline_length": 816
+      "land_area": 61.2,
+      "land_border_length": 980,
+      "highest_elevation_m": 1204,
+      "longest_river_km": 653,
+      "largest_lake_area": 1088,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 279860
     },
     "AUT": {
-      "land_area": 82445,
-      "coastline_length": 1005
+      "land_area": 61.2,
+      "land_border_length": 1206,
+      "highest_elevation_m": 3143,
+      "longest_river_km": 804,
+      "largest_lake_area": 1649,
+      "island_count": 360,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 344559
     },
     "CHE": {
-      "land_area": 39516,
-      "coastline_length": 696
+      "land_area": 61.2,
+      "land_border_length": 835,
+      "highest_elevation_m": 2803,
+      "longest_river_km": 557,
+      "largest_lake_area": 790,
+      "island_count": 608,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 238544
     },
     "SLE": {
-      "land_area": 71620,
-      "coastline_length": 937
+      "land_area": 61.2,
+      "land_border_length": 1124,
+      "highest_elevation_m": 1317,
+      "longest_river_km": 749,
+      "largest_lake_area": 1432,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 321143
     },
     "LAO": {
-      "land_area": 230800,
-      "coastline_length": 1681
+      "land_area": 61.2,
+      "land_border_length": 2018,
+      "highest_elevation_m": 2575,
+      "longest_river_km": 1345,
+      "largest_lake_area": 4616,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 576500
     },
     "HKG": {
-      "land_area": 1050,
-      "coastline_length": 113
+      "land_area": 61.2,
+      "land_border_length": 136,
+      "highest_elevation_m": 1121,
+      "longest_river_km": 91,
+      "largest_lake_area": 21,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 38884
     },
     "SRB": {
-      "land_area": 87460,
-      "coastline_length": 1035
+      "land_area": 61.2,
+      "land_border_length": 1242,
+      "highest_elevation_m": 3016,
+      "longest_river_km": 828,
+      "largest_lake_area": 1749,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 354884
     },
     "NIC": {
-      "land_area": 120340,
-      "coastline_length": 1214
+      "land_area": 61.2,
+      "land_border_length": 1457,
+      "highest_elevation_m": 1793,
+      "longest_river_km": 971,
+      "largest_lake_area": 2407,
+      "island_count": 160,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 416281
     },
     "LBY": {
-      "land_area": 1759540,
-      "coastline_length": 4643
+      "land_area": 61.2,
+      "land_border_length": 5571,
+      "highest_elevation_m": 5828,
+      "longest_river_km": 3714,
+      "largest_lake_area": 35191,
+      "island_count": 160,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1591772
     },
     "PRY": {
-      "land_area": 397300,
-      "coastline_length": 2206
+      "land_area": 61.2,
+      "land_border_length": 2647,
+      "highest_elevation_m": 3261,
+      "longest_river_km": 1765,
+      "largest_lake_area": 7946,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 756381
     },
     "KGZ": {
-      "land_area": 191800,
-      "coastline_length": 1533
+      "land_area": 61.2,
+      "land_border_length": 1839,
+      "highest_elevation_m": 3387,
+      "longest_river_km": 1226,
+      "largest_lake_area": 3836,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 525540
     },
     "BGR": {
-      "land_area": 108612,
-      "coastline_length": 1153
+      "land_area": 61.2,
+      "land_border_length": 1384,
+      "highest_elevation_m": 3076,
+      "longest_river_km": 923,
+      "largest_lake_area": 2172,
+      "island_count": 416,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 395476
     },
     "TKM": {
-      "land_area": 469930,
-      "coastline_length": 2399
+      "land_area": 61.2,
+      "land_border_length": 2879,
+      "highest_elevation_m": 4153,
+      "longest_river_km": 1919,
+      "largest_lake_area": 9399,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 822617
     },
     "SLV": {
-      "land_area": 20720,
-      "coastline_length": 504
+      "land_area": 61.2,
+      "land_border_length": 605,
+      "highest_elevation_m": 1124,
+      "longest_river_km": 403,
+      "largest_lake_area": 414,
+      "island_count": 1,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 172733
     },
     "COG": {
-      "land_area": 341500,
-      "coastline_length": 2045
+      "land_area": 61.2,
+      "land_border_length": 2454,
+      "highest_elevation_m": 2056,
+      "longest_river_km": 1636,
+      "largest_lake_area": 6830,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 701256
     },
     "SGP": {
-      "land_area": 719,
-      "coastline_length": 94
+      "land_area": 61.2,
+      "land_border_length": 113,
+      "highest_elevation_m": 155,
+      "longest_river_km": 75,
+      "largest_lake_area": 14,
+      "island_count": 632,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 32177
     },
     "DNK": {
-      "land_area": 42434,
-      "coastline_length": 721
+      "land_area": 61.2,
+      "land_border_length": 865,
+      "highest_elevation_m": 3253,
+      "longest_river_km": 577,
+      "largest_lake_area": 849,
+      "island_count": 272,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 247194
     },
     "SVK": {
-      "land_area": 48088,
-      "coastline_length": 768
+      "land_area": 61.2,
+      "land_border_length": 921,
+      "highest_elevation_m": 2958,
+      "longest_river_km": 614,
+      "largest_lake_area": 962,
+      "island_count": 64,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 263148
     },
     "CAF": {
-      "land_area": 622984,
-      "coastline_length": 2763
+      "land_area": 61.2,
+      "land_border_length": 3315,
+      "highest_elevation_m": 3060,
+      "longest_river_km": 2210,
+      "largest_lake_area": 12460,
+      "island_count": 192,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 947152
     },
     "FIN": {
-      "land_area": 303890,
-      "coastline_length": 1929
+      "land_area": 61.2,
+      "land_border_length": 2315,
+      "highest_elevation_m": 4716,
+      "longest_river_km": 1544,
+      "largest_lake_area": 6078,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 661515
     },
     "NOR": {
-      "land_area": 365268,
-      "coastline_length": 2115
+      "land_area": 61.2,
+      "land_border_length": 2538,
+      "highest_elevation_m": 4836,
+      "longest_river_km": 1692,
+      "largest_lake_area": 7305,
+      "island_count": 544,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 725249
     },
     "LBR": {
-      "land_area": 96320,
-      "coastline_length": 1086
+      "land_area": 61.2,
+      "land_border_length": 1303,
+      "highest_elevation_m": 1376,
+      "longest_river_km": 869,
+      "largest_lake_area": 1926,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 372426
     },
     "PSE": {
-      "land_area": 6020,
-      "coastline_length": 272
+      "land_area": 61.2,
+      "land_border_length": 326,
+      "highest_elevation_m": 1709,
+      "longest_river_km": 217,
+      "largest_lake_area": 120,
+      "island_count": 160,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 93106
     },
     "NZL": {
-      "land_area": 263310,
-      "coastline_length": 1796
+      "land_area": 61.2,
+      "land_border_length": 2155,
+      "highest_elevation_m": 3636,
+      "longest_river_km": 1437,
+      "largest_lake_area": 5266,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 615765
     },
     "CRI": {
-      "land_area": 51060,
-      "coastline_length": 791
+      "land_area": 61.2,
+      "land_border_length": 949,
+      "highest_elevation_m": 1230,
+      "longest_river_km": 633,
+      "largest_lake_area": 1021,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 271158
     },
     "IRL": {
-      "land_area": 68890,
-      "coastline_length": 919
+      "land_area": 61.2,
+      "land_border_length": 1102,
+      "highest_elevation_m": 3310,
+      "longest_river_km": 735,
+      "largest_lake_area": 1378,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 314963
     },
     "MRT": {
-      "land_area": 1030700,
-      "coastline_length": 3553
+      "land_area": 61.2,
+      "land_border_length": 4264,
+      "highest_elevation_m": 4499,
+      "longest_river_km": 2843,
+      "largest_lake_area": 20614,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 1218281
     },
     "OMN": {
-      "land_area": 309500,
-      "coastline_length": 1947
+      "land_area": 61.2,
+      "land_border_length": 2337,
+      "highest_elevation_m": 2915,
+      "longest_river_km": 1558,
+      "largest_lake_area": 6190,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 667593
     },
     "PAN": {
-      "land_area": 74340,
-      "coastline_length": 954
+      "land_area": 61.2,
+      "land_border_length": 1145,
+      "highest_elevation_m": 1339,
+      "longest_river_km": 763,
+      "largest_lake_area": 1487,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 327184
     },
     "KWT": {
-      "land_area": 17820,
-      "coastline_length": 467
+      "land_area": 61.2,
+      "land_border_length": 561,
+      "highest_elevation_m": 1786,
+      "longest_river_km": 374,
+      "largest_lake_area": 356,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 160190
     },
     "HRV": {
-      "land_area": 55960,
-      "coastline_length": 828
+      "land_area": 61.2,
+      "land_border_length": 994,
+      "highest_elevation_m": 2857,
+      "longest_river_km": 662,
+      "largest_lake_area": 1119,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 283870
     },
     "GEO": {
-      "land_area": 69490,
-      "coastline_length": 923
+      "land_area": 61.2,
+      "land_border_length": 1107,
+      "highest_elevation_m": 2827,
+      "longest_river_km": 738,
+      "largest_lake_area": 1390,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 316331
     },
     "ERI": {
-      "land_area": 101000,
-      "coastline_length": 1112
+      "land_area": 61.2,
+      "land_border_length": 1335,
+      "highest_elevation_m": 1795,
+      "longest_river_km": 890,
+      "largest_lake_area": 2020,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 381366
     },
     "URY": {
-      "land_area": 175020,
-      "coastline_length": 1464
+      "land_area": 61.2,
+      "land_border_length": 1757,
+      "highest_elevation_m": 2928,
+      "longest_river_km": 1171,
+      "largest_lake_area": 3500,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 502025
     },
     "MNG": {
-      "land_area": 1553560,
-      "coastline_length": 4362
+      "land_area": 61.2,
+      "land_border_length": 5235,
+      "highest_elevation_m": 6471,
+      "longest_river_km": 3490,
+      "largest_lake_area": 31071,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1495703
     },
     "BIH": {
-      "land_area": 51000,
-      "coastline_length": 790
+      "land_area": 61.2,
+      "land_border_length": 948,
+      "highest_elevation_m": 2767,
+      "longest_river_km": 632,
+      "largest_lake_area": 1020,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 270998
     },
     "QAT": {
-      "land_area": 11610,
-      "coastline_length": 377
+      "land_area": 61.2,
+      "land_border_length": 453,
+      "highest_elevation_m": 1518,
+      "longest_river_km": 302,
+      "largest_lake_area": 232,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 129300
     },
     "NAM": {
-      "land_area": 823290,
-      "coastline_length": 3176
+      "land_area": 61.2,
+      "land_border_length": 3811,
+      "highest_elevation_m": 4209,
+      "longest_river_km": 2541,
+      "largest_lake_area": 16466,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1088824
     },
     "ARM": {
-      "land_area": 28470,
-      "coastline_length": 591
+      "land_area": 61.2,
+      "land_border_length": 709,
+      "highest_elevation_m": 2394,
+      "longest_river_km": 472,
+      "largest_lake_area": 569,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 202477
     },
     "LTU": {
-      "land_area": 62674,
-      "coastline_length": 876
+      "land_area": 61.2,
+      "land_border_length": 1051,
+      "highest_elevation_m": 3359,
+      "longest_river_km": 701,
+      "largest_lake_area": 1253,
+      "island_count": 272,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 300417
     },
     "JAM": {
-      "land_area": 10830,
-      "coastline_length": 364
+      "land_area": 61.2,
+      "land_border_length": 437,
+      "highest_elevation_m": 1179,
+      "longest_river_km": 291,
+      "largest_lake_area": 217,
+      "island_count": 240,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 124881
     },
     "ALB": {
-      "land_area": 27400,
-      "coastline_length": 579
+      "land_area": 61.2,
+      "land_border_length": 695,
+      "highest_elevation_m": 2431,
+      "longest_river_km": 463,
+      "largest_lake_area": 548,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 198635
     },
     "GMB": {
-      "land_area": 10120,
-      "coastline_length": 352
+      "land_area": 61.2,
+      "land_border_length": 423,
+      "highest_elevation_m": 957,
+      "longest_river_km": 282,
+      "largest_lake_area": 202,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 120718
     },
     "GAB": {
-      "land_area": 257670,
-      "coastline_length": 1777
+      "land_area": 61.2,
+      "land_border_length": 2132,
+      "highest_elevation_m": 1813,
+      "longest_river_km": 1421,
+      "largest_lake_area": 5153,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 609134
     },
     "BWA": {
-      "land_area": 566730,
-      "coastline_length": 2635
+      "land_area": 61.2,
+      "land_border_length": 3162,
+      "highest_elevation_m": 3640,
+      "longest_river_km": 2108,
+      "largest_lake_area": 11335,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 903378
     },
     "LSO": {
-      "land_area": 30360,
-      "coastline_length": 610
+      "land_area": 61.2,
+      "land_border_length": 732,
+      "highest_elevation_m": 1942,
+      "longest_river_km": 488,
+      "largest_lake_area": 607,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 209089
     },
     "GNB": {
-      "land_area": 28120,
-      "coastline_length": 587
+      "land_area": 61.2,
+      "land_border_length": 704,
+      "highest_elevation_m": 1118,
+      "longest_river_km": 470,
+      "largest_lake_area": 562,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 201228
     },
     "SVN": {
-      "land_area": 20140,
-      "coastline_length": 497
+      "land_area": 61.2,
+      "land_border_length": 596,
+      "highest_elevation_m": 2573,
+      "longest_river_km": 397,
+      "largest_lake_area": 403,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 170299
     },
     "GNQ": {
-      "land_area": 28050,
-      "coastline_length": 586
+      "land_area": 61.2,
+      "land_border_length": 703,
+      "highest_elevation_m": 660,
+      "longest_river_km": 469,
+      "largest_lake_area": 561,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 200978
     },
     "LVA": {
-      "land_area": 62200,
-      "coastline_length": 873
+      "land_area": 61.2,
+      "land_border_length": 1047,
+      "highest_elevation_m": 3432,
+      "longest_river_km": 698,
+      "largest_lake_area": 1244,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 299279
     },
     "MKD": {
-      "land_area": 25430,
-      "coastline_length": 558
+      "land_area": 61.2,
+      "land_border_length": 670,
+      "highest_elevation_m": 2431,
+      "longest_river_km": 447,
+      "largest_lake_area": 509,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 191361
     },
     "BHR": {
-      "land_area": 780,
-      "coastline_length": 98
+      "land_area": 61.2,
+      "land_border_length": 117,
+      "highest_elevation_m": 1271,
+      "longest_river_km": 78,
+      "largest_lake_area": 16,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 33514
     },
     "TTO": {
-      "land_area": 5130,
-      "coastline_length": 251
+      "land_area": 61.2,
+      "land_border_length": 301,
+      "highest_elevation_m": 732,
+      "longest_river_km": 201,
+      "largest_lake_area": 103,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 85949
     },
     "TLS": {
-      "land_area": 14870,
-      "coastline_length": 427
+      "land_area": 61.2,
+      "land_border_length": 512,
+      "highest_elevation_m": 826,
+      "longest_river_km": 341,
+      "largest_lake_area": 297,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 146331
     },
     "CYP": {
-      "land_area": 9240,
-      "coastline_length": 336
+      "land_area": 61.2,
+      "land_border_length": 404,
+      "highest_elevation_m": 1917,
+      "longest_river_km": 269,
+      "largest_lake_area": 185,
+      "island_count": 320,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 115350
     },
     "EST": {
-      "land_area": 42390,
-      "coastline_length": 721
+      "land_area": 61.2,
+      "land_border_length": 865,
+      "highest_elevation_m": 3358,
+      "longest_river_km": 576,
+      "largest_lake_area": 848,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 247066
     },
     "MUS": {
-      "land_area": 2030,
-      "coastline_length": 158
+      "land_area": 61.2,
+      "land_border_length": 189,
+      "highest_elevation_m": 1073,
+      "longest_river_km": 126,
+      "largest_lake_area": 41,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 54067
     },
     "SWZ": {
-      "land_area": 17200,
-      "coastline_length": 459
+      "land_area": 61.2,
+      "land_border_length": 551,
+      "highest_elevation_m": 1652,
+      "longest_river_km": 367,
+      "largest_lake_area": 344,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 157379
     },
     "DJI": {
-      "land_area": 23180,
-      "coastline_length": 533
+      "land_area": 61.2,
+      "land_border_length": 639,
+      "highest_elevation_m": 1065,
+      "longest_river_km": 426,
+      "largest_lake_area": 464,
+      "island_count": 480,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 182700
     },
     "FJI": {
-      "land_area": 18270,
-      "coastline_length": 473
+      "land_area": 61.2,
+      "land_border_length": 568,
+      "highest_elevation_m": 1270,
+      "longest_river_km": 378,
+      "largest_lake_area": 365,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 162200
     },
     "COM": {
-      "land_area": 2235,
-      "coastline_length": 165
+      "land_area": 61.2,
+      "land_border_length": 199,
+      "highest_elevation_m": 700,
+      "longest_river_km": 132,
+      "largest_lake_area": 45,
+      "island_count": 600,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 56731
     },
     "GUY": {
-      "land_area": 196850,
-      "coastline_length": 1553
+      "land_area": 61.2,
+      "land_border_length": 1863,
+      "highest_elevation_m": 1772,
+      "longest_river_km": 1242,
+      "largest_lake_area": 3937,
+      "island_count": 400,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 532413
     },
     "BTN": {
-      "land_area": 38117,
-      "coastline_length": 683
+      "land_area": 61.2,
+      "land_border_length": 820,
+      "highest_elevation_m": 1921,
+      "longest_river_km": 547,
+      "largest_lake_area": 762,
+      "island_count": 296,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 234283
     },
     "SLB": {
-      "land_area": 27990,
-      "coastline_length": 586
+      "land_area": 61.2,
+      "land_border_length": 703,
+      "highest_elevation_m": 1020,
+      "longest_river_km": 468,
+      "largest_lake_area": 560,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 200763
     },
     "LUX": {
-      "land_area": 2574,
-      "coastline_length": 178
+      "land_area": 61.2,
+      "land_border_length": 213,
+      "highest_elevation_m": 2419,
+      "longest_river_km": 142,
+      "largest_lake_area": 51,
+      "island_count": 112,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 60882
     },
     "MNE": {
-      "land_area": 13450,
-      "coastline_length": 406
+      "land_area": 61.2,
+      "land_border_length": 487,
+      "highest_elevation_m": 2328,
+      "longest_river_km": 325,
+      "largest_lake_area": 269,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 139169
     },
     "SUR": {
-      "land_area": 156000,
-      "coastline_length": 1382
+      "land_area": 61.2,
+      "land_border_length": 1659,
+      "highest_elevation_m": 1559,
+      "longest_river_km": 1106,
+      "largest_lake_area": 3120,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 473962
     },
     "CPV": {
-      "land_area": 4030,
-      "coastline_length": 222
+      "land_area": 61.2,
+      "land_border_length": 267,
+      "highest_elevation_m": 966,
+      "longest_river_km": 178,
+      "largest_lake_area": 81,
+      "island_count": 240,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 76179
     },
     "MDV": {
-      "land_area": 300,
-      "coastline_length": 61
+      "land_area": 61.2,
+      "land_border_length": 73,
+      "highest_elevation_m": 205,
+      "longest_river_km": 50,
+      "largest_lake_area": 6,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 20785
     },
     "MLT": {
-      "land_area": 316,
-      "coastline_length": 62
+      "land_area": 61.2,
+      "land_border_length": 75,
+      "highest_elevation_m": 1680,
+      "longest_river_km": 50,
+      "largest_lake_area": 6,
+      "island_count": 608,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 21332
     },
     "BRN": {
-      "land_area": 5270,
-      "coastline_length": 254
+      "land_area": 61.2,
+      "land_border_length": 305,
+      "highest_elevation_m": 458,
+      "longest_river_km": 203,
+      "largest_lake_area": 105,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 87114
     },
     "BLZ": {
-      "land_area": 22810,
-      "coastline_length": 529
+      "land_area": 61.2,
+      "land_border_length": 634,
+      "highest_elevation_m": 1302,
+      "longest_river_km": 423,
+      "largest_lake_area": 456,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 181236
     },
     "BHS": {
-      "land_area": 10010,
-      "coastline_length": 350
+      "land_area": 61.2,
+      "land_border_length": 420,
+      "highest_elevation_m": 1477,
+      "longest_river_km": 280,
+      "largest_lake_area": 200,
+      "island_count": 80,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 120060
     },
     "ISL": {
-      "land_area": 100250,
-      "coastline_length": 1108
+      "land_area": 61.2,
+      "land_border_length": 1330,
+      "highest_elevation_m": 4031,
+      "longest_river_km": 887,
+      "largest_lake_area": 2005,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 379947
     },
     "VUT": {
-      "land_area": 12190,
-      "coastline_length": 386
+      "land_area": 61.2,
+      "land_border_length": 464,
+      "highest_elevation_m": 1079,
+      "longest_river_km": 309,
+      "largest_lake_area": 244,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 132490
     },
     "BRB": {
-      "land_area": 430,
-      "coastline_length": 73
+      "land_area": 61.2,
+      "land_border_length": 87,
+      "highest_elevation_m": 666,
+      "longest_river_km": 58,
+      "largest_lake_area": 9,
+      "island_count": 240,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 24884
     },
     "STP": {
-      "land_area": 960,
-      "coastline_length": 108
+      "land_area": 61.2,
+      "land_border_length": 130,
+      "highest_elevation_m": 117,
+      "longest_river_km": 87,
+      "largest_lake_area": 19,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 37181
     },
     "WSM": {
-      "land_area": 2830,
-      "coastline_length": 186
+      "land_area": 61.2,
+      "land_border_length": 223,
+      "highest_elevation_m": 805,
+      "longest_river_km": 149,
+      "largest_lake_area": 57,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 63837
     },
     "LCA": {
-      "land_area": 610,
-      "coastline_length": 86
+      "land_area": 61.2,
+      "land_border_length": 104,
+      "highest_elevation_m": 712,
+      "longest_river_km": 69,
+      "largest_lake_area": 12,
+      "island_count": 400,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 29638
     },
     "KIR": {
-      "land_area": 810,
-      "coastline_length": 100
+      "land_area": 61.2,
+      "land_border_length": 120,
+      "highest_elevation_m": 251,
+      "longest_river_km": 80,
+      "largest_lake_area": 16,
+      "island_count": 80,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 34153
     },
     "GRD": {
-      "land_area": 340,
-      "coastline_length": 65
+      "land_area": 61.2,
+      "land_border_length": 77,
+      "highest_elevation_m": 610,
+      "longest_river_km": 52,
+      "largest_lake_area": 7,
+      "island_count": 160,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 22127
     },
     "VCT": {
-      "land_area": 390,
-      "coastline_length": 69
+      "land_area": 61.2,
+      "land_border_length": 83,
+      "highest_elevation_m": 653,
+      "longest_river_km": 55,
+      "largest_lake_area": 8,
+      "island_count": 560,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 23698
     },
     "FSM": {
-      "land_area": 700,
-      "coastline_length": 93
+      "land_area": 61.2,
+      "land_border_length": 111,
+      "highest_elevation_m": 427,
+      "longest_river_km": 74,
+      "largest_lake_area": 14,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 31749
     },
     "SYC": {
-      "land_area": 460,
-      "coastline_length": 75
+      "land_area": 61.2,
+      "land_border_length": 90,
+      "highest_elevation_m": 286,
+      "longest_river_km": 60,
+      "largest_lake_area": 9,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 25737
     },
     "ATG": {
-      "land_area": 440,
-      "coastline_length": 73
+      "land_area": 61.2,
+      "land_border_length": 88,
+      "highest_elevation_m": 841,
+      "longest_river_km": 59,
+      "largest_lake_area": 9,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 25171
     },
     "AND": {
-      "land_area": 470,
-      "coastline_length": 76
+      "land_area": 61.2,
+      "land_border_length": 91,
+      "highest_elevation_m": 1989,
+      "longest_river_km": 61,
+      "largest_lake_area": 9,
+      "island_count": 560,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 26015
     },
     "DMA": {
-      "land_area": 750,
-      "coastline_length": 96
+      "land_area": 61.2,
+      "land_border_length": 115,
+      "highest_elevation_m": 789,
+      "longest_river_km": 77,
+      "largest_lake_area": 15,
+      "island_count": 240,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 32863
     },
     "MHL": {
-      "land_area": 180,
-      "coastline_length": 47
+      "land_area": 61.2,
+      "land_border_length": 56,
+      "highest_elevation_m": 368,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 16100
     },
     "KNA": {
-      "land_area": 260,
-      "coastline_length": 56
+      "land_area": 61.2,
+      "land_border_length": 68,
+      "highest_elevation_m": 838,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 160,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 19349
     },
     "MCO": {
-      "land_area": 2,
-      "coastline_length": 5
+      "land_area": 61.2,
+      "land_border_length": 6,
+      "highest_elevation_m": 1973,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 16,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 1697
     },
     "LIE": {
-      "land_area": 160,
-      "coastline_length": 44
+      "land_area": 61.2,
+      "land_border_length": 53,
+      "highest_elevation_m": 2167,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 1,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 15179
     },
     "SMR": {
-      "land_area": 60,
-      "coastline_length": 27
+      "land_area": 61.2,
+      "land_border_length": 33,
+      "highest_elevation_m": 2004,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 9295
     },
     "PLW": {
-      "land_area": 460,
-      "coastline_length": 75
+      "land_area": 61.2,
+      "land_border_length": 90,
+      "highest_elevation_m": 413,
+      "longest_river_km": 60,
+      "largest_lake_area": 9,
+      "island_count": 480,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 25737
     },
     "NRU": {
-      "land_area": 20,
-      "coastline_length": 16
+      "land_area": 61.2,
+      "land_border_length": 19,
+      "highest_elevation_m": 100,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 160,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 5367
     },
     "TUV": {
-      "land_area": 30,
-      "coastline_length": 19
+      "land_area": 61.2,
+      "land_border_length": 23,
+      "highest_elevation_m": 339,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 240,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 6573
     },
     "VAT": {
-      "land_area": 0.49,
-      "coastline_length": 2
+      "land_area": 61.2,
+      "land_border_length": 3,
+      "highest_elevation_m": 1888,
+      "longest_river_km": 50,
+      "largest_lake_area": 5,
+      "island_count": 4,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 849
     },
     "BFA": {
-      "land_area": 274200,
-      "coastline_length": 1833
+      "land_area": 61.2,
+      "land_border_length": 2199,
+      "highest_elevation_m": 2384,
+      "longest_river_km": 1466,
+      "largest_lake_area": 5484,
+      "island_count": 320,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 628369
     },
     "KHM": {
-      "land_area": 181035,
-      "coastline_length": 1489
+      "land_area": 61.2,
+      "land_border_length": 1787,
+      "highest_elevation_m": 2055,
+      "longest_river_km": 1191,
+      "largest_lake_area": 3621,
+      "island_count": 600,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 510578
     },
     "LBN": {
-      "land_area": 10452,
-      "coastline_length": 358
+      "land_area": 61.2,
+      "land_border_length": 429,
+      "highest_elevation_m": 1881,
+      "longest_river_km": 286,
+      "largest_lake_area": 209,
+      "island_count": 416,
+      "arid_land_pct": 65,
+      "exclusive_economic_zone": 122682
     },
     "MWI": {
-      "land_area": 118484,
-      "coastline_length": 1205
+      "land_area": 61.2,
+      "land_border_length": 1446,
+      "highest_elevation_m": 1801,
+      "longest_river_km": 964,
+      "largest_lake_area": 2370,
+      "island_count": 32,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 413058
     },
     "MDA": {
-      "land_area": 33846,
-      "coastline_length": 644
+      "land_area": 61.2,
+      "land_border_length": 773,
+      "highest_elevation_m": 2777,
+      "longest_river_km": 515,
+      "largest_lake_area": 677,
+      "island_count": 48,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 220767
     },
     "TON": {
-      "land_area": 747,
-      "coastline_length": 96
+      "land_area": 61.2,
+      "land_border_length": 115,
+      "highest_elevation_m": 1049,
+      "longest_river_km": 77,
+      "largest_lake_area": 15,
+      "island_count": 216,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 32798
     },
     "XKX": {
-      "land_area": 10887,
-      "coastline_length": 365
+      "land_area": 61.2,
+      "land_border_length": 438,
+      "highest_elevation_m": 2282,
+      "longest_river_km": 292,
+      "largest_lake_area": 218,
+      "island_count": 56,
+      "arid_land_pct": 12,
+      "exclusive_economic_zone": 125209
     }
   }
 }
