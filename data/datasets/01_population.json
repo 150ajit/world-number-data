@@ -15,9 +15,9 @@
       "pop_crude_death_rate": 6.6,
       "life_expectancy": 69.7,
       "pop_net_migration": -0.7,
-      "urbanization_rate": 58,
+      "urbanization_rate": 35.7,
       "pop_growth_rate": 0.89,
-      "pop_household_size": 3.6,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 12913329
     },
     "CHN": {
@@ -29,9 +29,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 1.1,
-      "urbanization_rate": 70.9,
+      "urbanization_rate": 66.3,
       "pop_growth_rate": -0.15,
-      "pop_household_size": 3,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": -2128982
     },
     "USA": {
@@ -43,9 +43,9 @@
       "pop_crude_death_rate": 5.5,
       "life_expectancy": 78.9,
       "pop_net_migration": 2.7,
-      "urbanization_rate": 83.4,
+      "urbanization_rate": 80.2,
       "pop_growth_rate": 0.53,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.4,
       "pop_annual_net_change": 1830761
     },
     "IDN": {
@@ -57,7 +57,7 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.7,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.2,
+      "urbanization_rate": 59.4,
       "pop_growth_rate": 0.76,
       "pop_household_size": 3.3,
       "pop_annual_net_change": 2154508
@@ -71,7 +71,7 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.3,
       "pop_net_migration": -1.9,
-      "urbanization_rate": 48.6,
+      "urbanization_rate": 39.5,
       "pop_growth_rate": 1.95,
       "pop_household_size": 4,
       "pop_annual_net_change": 4899749
@@ -85,9 +85,9 @@
       "pop_crude_death_rate": 8.4,
       "life_expectancy": 54.7,
       "pop_net_migration": -1.8,
-      "urbanization_rate": 49.3,
+      "urbanization_rate": 63.8,
       "pop_growth_rate": 2.34,
-      "pop_household_size": 4,
+      "pop_household_size": 4.1,
       "pop_annual_net_change": 5444700
     },
     "BRA": {
@@ -99,7 +99,7 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 75.9,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68.4,
+      "urbanization_rate": 88.2,
       "pop_growth_rate": 0.51,
       "pop_household_size": 3.2,
       "pop_annual_net_change": 1081193
@@ -113,9 +113,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.6,
       "pop_net_migration": -0.4,
-      "urbanization_rate": 60.3,
+      "urbanization_rate": 33.2,
       "pop_growth_rate": 0.99,
-      "pop_household_size": 3.5,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 1718267
     },
     "RUS": {
@@ -127,9 +127,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.6,
       "pop_net_migration": 1.5,
-      "urbanization_rate": 73.9,
+      "urbanization_rate": 75.3,
       "pop_growth_rate": -0.19,
-      "pop_household_size": 2.9,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": -275159
     },
     "ETH": {
@@ -141,9 +141,9 @@
       "pop_crude_death_rate": 7,
       "life_expectancy": 66.6,
       "pop_net_migration": -2.5,
-      "urbanization_rate": 44.3,
+      "urbanization_rate": 24.1,
       "pop_growth_rate": 2.42,
-      "pop_household_size": 4.2,
+      "pop_household_size": 4.1,
       "pop_annual_net_change": 3195846
     },
     "MEX": {
@@ -155,7 +155,7 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75.1,
       "pop_net_migration": 1,
-      "urbanization_rate": 70.3,
+      "urbanization_rate": 80,
       "pop_growth_rate": 0.73,
       "pop_household_size": 3.1,
       "pop_annual_net_change": 954401
@@ -169,9 +169,9 @@
       "pop_crude_death_rate": 4.8,
       "life_expectancy": 84.6,
       "pop_net_migration": 2.6,
-      "urbanization_rate": 82.8,
+      "urbanization_rate": 92.3,
       "pop_growth_rate": -0.53,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.4,
       "pop_annual_net_change": -655891
     },
     "PHL": {
@@ -183,7 +183,7 @@
       "pop_crude_death_rate": 6.5,
       "life_expectancy": 71.2,
       "pop_net_migration": 0.1,
-      "urbanization_rate": 63.9,
+      "urbanization_rate": 55.8,
       "pop_growth_rate": 1.34,
       "pop_household_size": 3.4,
       "pop_annual_net_change": 1596023
@@ -197,9 +197,9 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 72,
       "pop_net_migration": 0.3,
-      "urbanization_rate": 65.5,
+      "urbanization_rate": 42.9,
       "pop_growth_rate": 1.56,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 1817997
     },
     "COD": {
@@ -211,9 +211,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 45.1,
       "pop_growth_rate": 3.19,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 3485913
     },
     "VNM": {
@@ -225,7 +225,7 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75.4,
       "pop_net_migration": 0.3,
-      "urbanization_rate": 65.3,
+      "urbanization_rate": 38.8,
       "pop_growth_rate": 0.68,
       "pop_household_size": 3.3,
       "pop_annual_net_change": 686716
@@ -239,9 +239,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.7,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 71.8,
+      "urbanization_rate": 77.4,
       "pop_growth_rate": 0.71,
-      "pop_household_size": 3,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 650131
     },
     "TUR": {
@@ -253,9 +253,9 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.7,
       "pop_net_migration": 1.9,
-      "urbanization_rate": 77,
+      "urbanization_rate": 89.5,
       "pop_growth_rate": 0.58,
-      "pop_household_size": 2.8,
+      "pop_household_size": 3,
       "pop_annual_net_change": 507348
     },
     "DEU": {
@@ -267,9 +267,9 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 81.3,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.5,
+      "urbanization_rate": 82.1,
       "pop_growth_rate": 0.11,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": 93007
     },
     "THA": {
@@ -281,9 +281,9 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.2,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 72.3,
+      "urbanization_rate": 62.8,
       "pop_growth_rate": 0.12,
-      "pop_household_size": 3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 86002
     },
     "GBR": {
@@ -295,7 +295,7 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 81.3,
       "pop_net_migration": 2.9,
-      "urbanization_rate": 84.6,
+      "urbanization_rate": 83.3,
       "pop_growth_rate": 0.34,
       "pop_household_size": 2.4,
       "pop_annual_net_change": 232102
@@ -309,9 +309,9 @@
       "pop_crude_death_rate": 7.1,
       "life_expectancy": 65.5,
       "pop_net_migration": -1.9,
-      "urbanization_rate": 48.4,
+      "urbanization_rate": 36.9,
       "pop_growth_rate": 2.96,
-      "pop_household_size": 4,
+      "pop_household_size": 3.9,
       "pop_annual_net_change": 2029381
     },
     "FRA": {
@@ -323,9 +323,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.7,
       "pop_net_migration": 2.5,
-      "urbanization_rate": 81.9,
+      "urbanization_rate": 78.8,
       "pop_growth_rate": 0.2,
-      "pop_household_size": 2.6,
+      "pop_household_size": 2.3,
       "pop_annual_net_change": 133097
     },
     "ZAF": {
@@ -337,9 +337,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64.1,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.5,
+      "urbanization_rate": 63.8,
       "pop_growth_rate": 0.87,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 556863
     },
     "ITA": {
@@ -351,9 +351,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83.5,
       "pop_net_migration": 2.5,
-      "urbanization_rate": 81.5,
+      "urbanization_rate": 69.7,
       "pop_growth_rate": -0.28,
-      "pop_household_size": 2.6,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": -166160
     },
     "KEN": {
@@ -365,9 +365,9 @@
       "pop_crude_death_rate": 7,
       "life_expectancy": 66.7,
       "pop_net_migration": -1.3,
-      "urbanization_rate": 53.1,
+      "urbanization_rate": 32.2,
       "pop_growth_rate": 1.99,
-      "pop_household_size": 3.8,
+      "pop_household_size": 4,
       "pop_annual_net_change": 1118440
     },
     "MMR": {
@@ -379,9 +379,9 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.1,
       "pop_net_migration": -1.5,
-      "urbanization_rate": 52,
+      "urbanization_rate": 30.6,
       "pop_growth_rate": 0.68,
-      "pop_household_size": 3.9,
+      "pop_household_size": 4,
       "pop_annual_net_change": 370601
     },
     "COL": {
@@ -393,9 +393,9 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.3,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68.2,
+      "urbanization_rate": 78.8,
       "pop_growth_rate": 0.65,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 342524
     },
     "KOR": {
@@ -407,9 +407,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83,
       "pop_net_migration": 2.7,
-      "urbanization_rate": 83.6,
+      "urbanization_rate": 81.2,
       "pop_growth_rate": -0.06,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": -31045
     },
     "UGA": {
@@ -421,9 +421,9 @@
       "pop_crude_death_rate": 7.4,
       "life_expectancy": 63.4,
       "pop_net_migration": -2.2,
-      "urbanization_rate": 46.4,
+      "urbanization_rate": 31.9,
       "pop_growth_rate": 2.97,
-      "pop_household_size": 4.1,
+      "pop_household_size": 4.2,
       "pop_annual_net_change": 1485448
     },
     "SDN": {
@@ -435,9 +435,9 @@
       "pop_crude_death_rate": 7.2,
       "life_expectancy": 65.3,
       "pop_net_migration": -2.4,
-      "urbanization_rate": 45.2,
+      "urbanization_rate": 34.9,
       "pop_growth_rate": 2.61,
-      "pop_household_size": 4.2,
+      "pop_household_size": 4.4,
       "pop_annual_net_change": 1288250
     },
     "ESP": {
@@ -449,9 +449,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83.6,
       "pop_net_migration": 2.5,
-      "urbanization_rate": 82,
+      "urbanization_rate": 80.5,
       "pop_growth_rate": 0.23,
-      "pop_household_size": 2.6,
+      "pop_household_size": 2.4,
       "pop_annual_net_change": 110194
     },
     "ARG": {
@@ -463,9 +463,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.7,
       "pop_net_migration": 1.8,
-      "urbanization_rate": 76.4,
+      "urbanization_rate": 92.4,
       "pop_growth_rate": 0.81,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": 373069
     },
     "DZA": {
@@ -477,9 +477,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0.6,
-      "urbanization_rate": 67.9,
+      "urbanization_rate": 75.8,
       "pop_growth_rate": 1.45,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 669381
     },
     "IRQ": {
@@ -491,9 +491,9 @@
       "pop_crude_death_rate": 6.5,
       "life_expectancy": 70.6,
       "pop_net_migration": -0.2,
-      "urbanization_rate": 61.7,
+      "urbanization_rate": 69.9,
       "pop_growth_rate": 2.27,
-      "pop_household_size": 3.5,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 1045154
     },
     "AFG": {
@@ -505,7 +505,7 @@
       "pop_crude_death_rate": 7.2,
       "life_expectancy": 64.8,
       "pop_net_migration": -2.4,
-      "urbanization_rate": 44.8,
+      "urbanization_rate": 25.9,
       "pop_growth_rate": 2.7,
       "pop_household_size": 4.2,
       "pop_annual_net_change": 1151482
@@ -519,9 +519,9 @@
       "pop_crude_death_rate": 5.6,
       "life_expectancy": 78.7,
       "pop_net_migration": 2.2,
-      "urbanization_rate": 79.3,
+      "urbanization_rate": 60.1,
       "pop_growth_rate": -0.28,
-      "pop_household_size": 2.7,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": -111918
     },
     "CAN": {
@@ -533,9 +533,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.4,
       "pop_net_migration": 2.8,
-      "urbanization_rate": 84.2,
+      "urbanization_rate": 82.9,
       "pop_growth_rate": 1.21,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.2,
       "pop_annual_net_change": 480883
     },
     "MAR": {
@@ -547,9 +547,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.7,
       "pop_net_migration": 0,
-      "urbanization_rate": 62.8,
+      "urbanization_rate": 63.1,
       "pop_growth_rate": 0.98,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 373195
     },
     "SAU": {
@@ -561,9 +561,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75.1,
       "pop_net_migration": 2.1,
-      "urbanization_rate": 78.8,
+      "urbanization_rate": 84.6,
       "pop_growth_rate": 1.48,
-      "pop_household_size": 2.7,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": 554613
     },
     "UKR": {
@@ -575,7 +575,7 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.1,
       "pop_net_migration": 0.4,
-      "urbanization_rate": 66.1,
+      "urbanization_rate": 69.6,
       "pop_growth_rate": -2.1,
       "pop_household_size": 3.3,
       "pop_annual_net_change": -777000
@@ -589,9 +589,9 @@
       "pop_crude_death_rate": 7.7,
       "life_expectancy": 61.1,
       "pop_net_migration": -1.4,
-      "urbanization_rate": 52.3,
+      "urbanization_rate": 71.5,
       "pop_growth_rate": 3.08,
-      "pop_household_size": 3.9,
+      "pop_household_size": 4,
       "pop_annual_net_change": 1166884
     },
     "UZB": {
@@ -603,7 +603,7 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.7,
       "pop_net_migration": 0.1,
-      "urbanization_rate": 63.9,
+      "urbanization_rate": 51,
       "pop_growth_rate": 1.84,
       "pop_household_size": 3.4,
       "pop_annual_net_change": 669058
@@ -617,9 +617,9 @@
       "pop_crude_death_rate": 7.1,
       "life_expectancy": 66.1,
       "pop_net_migration": -3,
-      "urbanization_rate": 40.7,
+      "urbanization_rate": 37,
       "pop_growth_rate": 2.14,
-      "pop_household_size": 4.4,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 756249
     },
     "PER": {
@@ -631,9 +631,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.7,
       "pop_net_migration": 0.6,
-      "urbanization_rate": 67.5,
+      "urbanization_rate": 85.6,
       "pop_growth_rate": 1.01,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3,
       "pop_annual_net_change": 350303
     },
     "MYS": {
@@ -645,9 +645,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 76.2,
       "pop_net_migration": 1.3,
-      "urbanization_rate": 72.6,
+      "urbanization_rate": 77.4,
       "pop_growth_rate": 1.09,
-      "pop_household_size": 3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 377924
     },
     "GHA": {
@@ -659,9 +659,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64.1,
       "pop_net_migration": -1.3,
-      "urbanization_rate": 53.3,
+      "urbanization_rate": 58.9,
       "pop_growth_rate": 1.93,
-      "pop_household_size": 3.8,
+      "pop_household_size": 4,
       "pop_annual_net_change": 671206
     },
     "MOZ": {
@@ -673,9 +673,9 @@
       "pop_crude_death_rate": 7.7,
       "life_expectancy": 60.9,
       "pop_net_migration": -3.2,
-      "urbanization_rate": 39.3,
+      "urbanization_rate": 37.2,
       "pop_growth_rate": 2.81,
-      "pop_household_size": 4.5,
+      "pop_household_size": 4.3,
       "pop_annual_net_change": 973153
     },
     "NPL": {
@@ -687,7 +687,7 @@
       "pop_crude_death_rate": 6.5,
       "life_expectancy": 70.8,
       "pop_net_migration": -1.5,
-      "urbanization_rate": 51.7,
+      "urbanization_rate": 67,
       "pop_growth_rate": 1.14,
       "pop_household_size": 3.9,
       "pop_annual_net_change": 356140
@@ -701,9 +701,9 @@
       "pop_crude_death_rate": 7,
       "life_expectancy": 67,
       "pop_net_migration": -2.2,
-      "urbanization_rate": 46.7,
+      "urbanization_rate": 32.9,
       "pop_growth_rate": 2.4,
-      "pop_household_size": 4.1,
+      "pop_household_size": 4.4,
       "pop_annual_net_change": 745359
     },
     "CIV": {
@@ -715,9 +715,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 54.5,
       "pop_growth_rate": 2.49,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 776024
     },
     "VEN": {
@@ -729,9 +729,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.1,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68.5,
+      "urbanization_rate": 89.3,
       "pop_growth_rate": 0.62,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 182251
     },
     "CMR": {
@@ -743,9 +743,9 @@
       "pop_crude_death_rate": 7.9,
       "life_expectancy": 59.3,
       "pop_net_migration": -1.7,
-      "urbanization_rate": 50,
+      "urbanization_rate": 55.7,
       "pop_growth_rate": 2.58,
-      "pop_household_size": 4,
+      "pop_household_size": 3.9,
       "pop_annual_net_change": 751393
     },
     "NER": {
@@ -757,9 +757,9 @@
       "pop_crude_death_rate": 7.5,
       "life_expectancy": 62.4,
       "pop_net_migration": -3.7,
-      "urbanization_rate": 35.5,
+      "urbanization_rate": 18.4,
       "pop_growth_rate": 3.66,
-      "pop_household_size": 4.6,
+      "pop_household_size": 4.8,
       "pop_annual_net_change": 989386
     },
     "AUS": {
@@ -771,9 +771,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83.4,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.1,
+      "urbanization_rate": 87.7,
       "pop_growth_rate": 1.24,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.3,
       "pop_annual_net_change": 331244
     },
     "PRK": {
@@ -785,9 +785,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.3,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 64.2,
       "pop_growth_rate": 0.38,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 99729
     },
     "TWN": {
@@ -799,9 +799,9 @@
       "pop_crude_death_rate": 5.3,
       "life_expectancy": 80.5,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 78.9,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 23950
     },
     "MLI": {
@@ -813,9 +813,9 @@
       "pop_crude_death_rate": 7.9,
       "life_expectancy": 59.3,
       "pop_net_migration": -3.3,
-      "urbanization_rate": 38.4,
+      "urbanization_rate": 32.2,
       "pop_growth_rate": 3.1,
-      "pop_household_size": 4.5,
+      "pop_household_size": 4.4,
       "pop_annual_net_change": 744489
     },
     "LKA": {
@@ -827,9 +827,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 77,
       "pop_net_migration": 0.8,
-      "urbanization_rate": 69.3,
+      "urbanization_rate": 20.5,
       "pop_growth_rate": 0.28,
-      "pop_household_size": 3.1,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 64690
     },
     "SYR": {
@@ -841,9 +841,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.7,
       "pop_net_migration": -2,
-      "urbanization_rate": 48.2,
+      "urbanization_rate": 72.1,
       "pop_growth_rate": 4.98,
-      "pop_household_size": 4.1,
+      "pop_household_size": 4,
       "pop_annual_net_change": 1188498
     },
     "KAZ": {
@@ -855,9 +855,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.6,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 72,
+      "urbanization_rate": 62.4,
       "pop_growth_rate": 1.34,
-      "pop_household_size": 3,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 275940
     },
     "CHL": {
@@ -869,9 +869,9 @@
       "pop_crude_death_rate": 5.4,
       "life_expectancy": 80.2,
       "pop_net_migration": 1.9,
-      "urbanization_rate": 77.4,
+      "urbanization_rate": 89.2,
       "pop_growth_rate": 0.55,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 108124
     },
     "ZMB": {
@@ -883,7 +883,7 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 63.9,
       "pop_net_migration": -1.3,
-      "urbanization_rate": 52.9,
+      "urbanization_rate": 45.9,
       "pop_growth_rate": 2.74,
       "pop_household_size": 3.8,
       "pop_annual_net_change": 584030
@@ -897,9 +897,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 76.1,
       "pop_net_migration": 1.3,
-      "urbanization_rate": 73,
+      "urbanization_rate": 52.2,
       "pop_growth_rate": -0.66,
-      "pop_household_size": 3,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": -125500
     },
     "TCD": {
@@ -911,9 +911,9 @@
       "pop_crude_death_rate": 8.5,
       "life_expectancy": 54.2,
       "pop_net_migration": -3.7,
-      "urbanization_rate": 35.5,
+      "urbanization_rate": 27.6,
       "pop_growth_rate": 3.13,
-      "pop_household_size": 4.6,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 604687
     },
     "SOM": {
@@ -925,9 +925,9 @@
       "pop_crude_death_rate": 8.1,
       "life_expectancy": 57.4,
       "pop_net_migration": -3.8,
-      "urbanization_rate": 34.2,
+      "urbanization_rate": 55.1,
       "pop_growth_rate": 3.12,
-      "pop_household_size": 4.7,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 593086
     },
     "SEN": {
@@ -939,9 +939,9 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.9,
       "pop_net_migration": -2.3,
-      "urbanization_rate": 45.5,
+      "urbanization_rate": 55.8,
       "pop_growth_rate": 2.53,
-      "pop_household_size": 4.2,
+      "pop_household_size": 4.4,
       "pop_annual_net_change": 462376
     },
     "NLD": {
@@ -953,9 +953,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.3,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.1,
+      "urbanization_rate": 95.9,
       "pop_growth_rate": 0.4,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": 72915
     },
     "GTM": {
@@ -967,9 +967,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.3,
       "pop_net_migration": -0.6,
-      "urbanization_rate": 58.5,
+      "urbanization_rate": 56.3,
       "pop_growth_rate": 1.39,
-      "pop_household_size": 3.6,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 258622
     },
     "ECU": {
@@ -981,9 +981,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 77,
       "pop_net_migration": 0.6,
-      "urbanization_rate": 67.7,
+      "urbanization_rate": 63.4,
       "pop_growth_rate": 0.95,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 172287
     },
     "ZWE": {
@@ -995,9 +995,9 @@
       "pop_crude_death_rate": 7.6,
       "life_expectancy": 61.5,
       "pop_net_migration": -2,
-      "urbanization_rate": 48.2,
+      "urbanization_rate": 40.5,
       "pop_growth_rate": 2.03,
-      "pop_household_size": 4.1,
+      "pop_household_size": 3.9,
       "pop_annual_net_change": 337678
     },
     "GIN": {
@@ -1009,9 +1009,9 @@
       "pop_crude_death_rate": 7.6,
       "life_expectancy": 61.6,
       "pop_net_migration": -2.9,
-      "urbanization_rate": 41.3,
+      "urbanization_rate": 38.5,
       "pop_growth_rate": 2.38,
-      "pop_household_size": 4.4,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 351188
     },
     "RWA": {
@@ -1023,7 +1023,7 @@
       "pop_crude_death_rate": 6.7,
       "life_expectancy": 69,
       "pop_net_migration": -2.1,
-      "urbanization_rate": 47.2,
+      "urbanization_rate": 30.9,
       "pop_growth_rate": 2.31,
       "pop_household_size": 4.1,
       "pop_annual_net_change": 332985
@@ -1037,7 +1037,7 @@
       "pop_crude_death_rate": 7.6,
       "life_expectancy": 61.8,
       "pop_net_migration": -2.2,
-      "urbanization_rate": 46.4,
+      "urbanization_rate": 53.4,
       "pop_growth_rate": 2.68,
       "pop_household_size": 4.1,
       "pop_annual_net_change": 378176
@@ -1051,9 +1051,9 @@
       "pop_crude_death_rate": 7.6,
       "life_expectancy": 61.6,
       "pop_net_migration": -3.4,
-      "urbanization_rate": 37.5,
+      "urbanization_rate": 25.7,
       "pop_growth_rate": 2.66,
-      "pop_household_size": 4.5,
+      "pop_household_size": 4.6,
       "pop_annual_net_change": 373671
     },
     "BOL": {
@@ -1065,9 +1065,9 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.5,
       "pop_net_migration": -0.1,
-      "urbanization_rate": 62.4,
+      "urbanization_rate": 71.6,
       "pop_growth_rate": 1.34,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 168402
     },
     "TUN": {
@@ -1079,9 +1079,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.7,
       "pop_net_migration": 0.4,
-      "urbanization_rate": 66.2,
+      "urbanization_rate": 70.7,
       "pop_growth_rate": 0.72,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 90466
     },
     "HTI": {
@@ -1093,9 +1093,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64,
       "pop_net_migration": -2.4,
-      "urbanization_rate": 44.8,
+      "urbanization_rate": 55.6,
       "pop_growth_rate": 1.18,
-      "pop_household_size": 4.2,
+      "pop_household_size": 4.4,
       "pop_annual_net_change": 140031
     },
     "BEL": {
@@ -1107,9 +1107,9 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 81.6,
       "pop_net_migration": 2.9,
-      "urbanization_rate": 84.8,
+      "urbanization_rate": 87.7,
       "pop_growth_rate": 0.46,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.3,
       "pop_annual_net_change": 53998
     },
     "JOR": {
@@ -1121,7 +1121,7 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.5,
       "pop_net_migration": 0.4,
-      "urbanization_rate": 66.2,
+      "urbanization_rate": 93.2,
       "pop_growth_rate": 0.88,
       "pop_household_size": 3.3,
       "pop_annual_net_change": 101663
@@ -1135,9 +1135,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.1,
       "pop_net_migration": 0.4,
-      "urbanization_rate": 66.2,
+      "urbanization_rate": 72.5,
       "pop_growth_rate": 0.91,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3,
       "pop_annual_net_change": 104049
     },
     "CUB": {
@@ -1149,9 +1149,9 @@
       "pop_crude_death_rate": 5.5,
       "life_expectancy": 78.8,
       "pop_net_migration": 0.9,
-      "urbanization_rate": 69.9,
+      "urbanization_rate": 77.2,
       "pop_growth_rate": -0.25,
-      "pop_household_size": 3.1,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": -27986
     },
     "SSD": {
@@ -1163,7 +1163,7 @@
       "pop_crude_death_rate": 8.1,
       "life_expectancy": 57.8,
       "pop_net_migration": -3.8,
-      "urbanization_rate": 34.3,
+      "urbanization_rate": 21.7,
       "pop_growth_rate": 1.55,
       "pop_household_size": 4.7,
       "pop_annual_net_change": 174795
@@ -1177,9 +1177,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.8,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.7,
+      "urbanization_rate": 89.1,
       "pop_growth_rate": 0.54,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.2,
       "pop_annual_net_change": 57278
     },
     "HND": {
@@ -1191,9 +1191,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75.3,
       "pop_net_migration": -1,
-      "urbanization_rate": 55.5,
+      "urbanization_rate": 59.3,
       "pop_growth_rate": 1.45,
-      "pop_household_size": 3.7,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 156011
     },
     "CZE": {
@@ -1205,9 +1205,9 @@
       "pop_crude_death_rate": 5.5,
       "life_expectancy": 79.4,
       "pop_net_migration": 2.3,
-      "urbanization_rate": 80.5,
+      "urbanization_rate": 72.9,
       "pop_growth_rate": 0.22,
-      "pop_household_size": 2.6,
+      "pop_household_size": 2.5,
       "pop_annual_net_change": 23137
     },
     "AZE": {
@@ -1219,9 +1219,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68.1,
+      "urbanization_rate": 58.6,
       "pop_growth_rate": 0.67,
-      "pop_household_size": 3.2,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 70101
     },
     "GRC": {
@@ -1233,7 +1233,7 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.2,
       "pop_net_migration": 2.3,
-      "urbanization_rate": 80.4,
+      "urbanization_rate": 79.2,
       "pop_growth_rate": -0.45,
       "pop_household_size": 2.6,
       "pop_annual_net_change": -46536
@@ -1247,9 +1247,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64.5,
       "pop_net_migration": -1.9,
-      "urbanization_rate": 49,
+      "urbanization_rate": 15.8,
       "pop_growth_rate": 1.83,
-      "pop_household_size": 4,
+      "pop_household_size": 4.2,
       "pop_annual_net_change": 192439
     },
     "PRT": {
@@ -1261,9 +1261,9 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 82,
       "pop_net_migration": 1.8,
-      "urbanization_rate": 76.2,
+      "urbanization_rate": 61.5,
       "pop_growth_rate": -0.21,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": -21520
     },
     "HUN": {
@@ -1275,9 +1275,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 1.7,
-      "urbanization_rate": 75.4,
+      "urbanization_rate": 70.7,
       "pop_growth_rate": -0.27,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": -26126
     },
     "TJK": {
@@ -1289,9 +1289,9 @@
       "pop_crude_death_rate": 6.5,
       "life_expectancy": 71.1,
       "pop_net_migration": -0.6,
-      "urbanization_rate": 58.5,
+      "urbanization_rate": 26.2,
       "pop_growth_rate": 2.15,
-      "pop_household_size": 3.6,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 222128
     },
     "ARE": {
@@ -1303,9 +1303,9 @@
       "pop_crude_death_rate": 5.6,
       "life_expectancy": 78,
       "pop_net_migration": 2.8,
-      "urbanization_rate": 84.3,
+      "urbanization_rate": 86,
       "pop_growth_rate": 0.8,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": 76135
     },
     "BLR": {
@@ -1317,9 +1317,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 74.8,
       "pop_net_migration": 1.3,
-      "urbanization_rate": 72.7,
+      "urbanization_rate": 79.5,
       "pop_growth_rate": -0.32,
-      "pop_household_size": 3,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": -30256
     },
     "ISR": {
@@ -1331,9 +1331,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83,
       "pop_net_migration": 2.6,
-      "urbanization_rate": 82.4,
+      "urbanization_rate": 91.6,
       "pop_growth_rate": 1.51,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.3,
       "pop_annual_net_change": 140606
     },
     "TGO": {
@@ -1345,7 +1345,7 @@
       "pop_crude_death_rate": 7.7,
       "life_expectancy": 61,
       "pop_net_migration": -2.4,
-      "urbanization_rate": 45.3,
+      "urbanization_rate": 44.4,
       "pop_growth_rate": 2.38,
       "pop_household_size": 4.2,
       "pop_annual_net_change": 220409
@@ -1359,7 +1359,7 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 81.5,
       "pop_net_migration": 2.7,
-      "urbanization_rate": 83.3,
+      "urbanization_rate": 69.7,
       "pop_growth_rate": 0.45,
       "pop_household_size": 2.5,
       "pop_annual_net_change": 41043
@@ -1373,9 +1373,9 @@
       "pop_crude_death_rate": 4.9,
       "life_expectancy": 83.8,
       "pop_net_migration": 3.2,
-      "urbanization_rate": 87,
+      "urbanization_rate": 85.7,
       "pop_growth_rate": 0.74,
-      "pop_household_size": 2.3,
+      "pop_household_size": 2.5,
       "pop_annual_net_change": 66022
     },
     "SLE": {
@@ -1387,9 +1387,9 @@
       "pop_crude_death_rate": 8.4,
       "life_expectancy": 54.7,
       "pop_net_migration": -3.4,
-      "urbanization_rate": 37.7,
+      "urbanization_rate": 45.9,
       "pop_growth_rate": 2.12,
-      "pop_household_size": 4.5,
+      "pop_household_size": 4.6,
       "pop_annual_net_change": 190333
     },
     "LAO": {
@@ -1401,7 +1401,7 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.9,
       "pop_net_migration": -1.2,
-      "urbanization_rate": 54.1,
+      "urbanization_rate": 40.3,
       "pop_growth_rate": 1.35,
       "pop_household_size": 3.8,
       "pop_annual_net_change": 104445
@@ -1415,9 +1415,9 @@
       "pop_crude_death_rate": 4.8,
       "life_expectancy": 84.9,
       "pop_net_migration": 3.1,
-      "urbanization_rate": 86,
+      "urbanization_rate": 88,
       "pop_growth_rate": -0.15,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.2,
       "pop_annual_net_change": -11245
     },
     "SRB": {
@@ -1429,9 +1429,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 76,
       "pop_net_migration": 1,
-      "urbanization_rate": 70.8,
+      "urbanization_rate": 62.6,
       "pop_growth_rate": -0.84,
-      "pop_household_size": 3.1,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": -59615
     },
     "NIC": {
@@ -1443,9 +1443,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.5,
       "pop_net_migration": -0.5,
-      "urbanization_rate": 59.2,
+      "urbanization_rate": 59.4,
       "pop_growth_rate": 1.25,
-      "pop_household_size": 3.6,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 89282
     },
     "LBY": {
@@ -1457,9 +1457,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.9,
       "pop_net_migration": 0.1,
-      "urbanization_rate": 63.5,
+      "urbanization_rate": 87.9,
       "pop_growth_rate": 1.1,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 76606
     },
     "PRY": {
@@ -1471,9 +1471,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.3,
       "pop_net_migration": 0,
-      "urbanization_rate": 63.2,
+      "urbanization_rate": 70.4,
       "pop_growth_rate": 1.18,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 81978
     },
     "KGZ": {
@@ -1485,9 +1485,9 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.5,
       "pop_net_migration": -0.3,
-      "urbanization_rate": 60.5,
+      "urbanization_rate": 34.7,
       "pop_growth_rate": 1.7,
-      "pop_household_size": 3.5,
+      "pop_household_size": 3.7,
       "pop_annual_net_change": 122162
     },
     "BGR": {
@@ -1499,7 +1499,7 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75,
       "pop_net_migration": 1.4,
-      "urbanization_rate": 73.2,
+      "urbanization_rate": 74.2,
       "pop_growth_rate": -0.7,
       "pop_household_size": 2.9,
       "pop_annual_net_change": -46814
@@ -1513,9 +1513,9 @@
       "pop_crude_death_rate": 6.8,
       "life_expectancy": 68.2,
       "pop_net_migration": 0.1,
-      "urbanization_rate": 63.5,
+      "urbanization_rate": 47.1,
       "pop_growth_rate": 1.35,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 89074
     },
     "SLV": {
@@ -1527,9 +1527,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.3,
       "pop_net_migration": -0.3,
-      "urbanization_rate": 60.7,
+      "urbanization_rate": 75.5,
       "pop_growth_rate": 0.4,
-      "pop_household_size": 3.5,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 25585
     },
     "COG": {
@@ -1541,9 +1541,9 @@
       "pop_crude_death_rate": 7.2,
       "life_expectancy": 64.6,
       "pop_net_migration": -1.1,
-      "urbanization_rate": 54.5,
+      "urbanization_rate": 64.1,
       "pop_growth_rate": 2.3,
-      "pop_household_size": 3.8,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 143625
     },
     "SGP": {
@@ -1555,7 +1555,7 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83.6,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.4,
+      "urbanization_rate": 100,
       "pop_growth_rate": 0.85,
       "pop_household_size": 2.4,
       "pop_annual_net_change": 51314
@@ -1569,9 +1569,9 @@
       "pop_crude_death_rate": 5.3,
       "life_expectancy": 80.9,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.7,
+      "urbanization_rate": 88.8,
       "pop_growth_rate": 0.48,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.5,
       "pop_annual_net_change": 28511
     },
     "SVK": {
@@ -1583,9 +1583,9 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.5,
       "pop_net_migration": 1.9,
-      "urbanization_rate": 77,
+      "urbanization_rate": 53.2,
       "pop_growth_rate": -0.1,
-      "pop_household_size": 2.8,
+      "pop_household_size": 3,
       "pop_annual_net_change": -5703
     },
     "CAF": {
@@ -1597,9 +1597,9 @@
       "pop_crude_death_rate": 8.6,
       "life_expectancy": 53.3,
       "pop_net_migration": -4,
-      "urbanization_rate": 33,
+      "urbanization_rate": 44.6,
       "pop_growth_rate": 2.15,
-      "pop_household_size": 4.7,
+      "pop_household_size": 5,
       "pop_annual_net_change": 123460
     },
     "FIN": {
@@ -1611,9 +1611,9 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 81.9,
       "pop_net_migration": 2.9,
-      "urbanization_rate": 84.8,
+      "urbanization_rate": 74.5,
       "pop_growth_rate": 0.16,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.5,
       "pop_annual_net_change": 8873
     },
     "NOR": {
@@ -1625,9 +1625,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.4,
       "pop_net_migration": 3.2,
-      "urbanization_rate": 86.9,
+      "urbanization_rate": 83.6,
       "pop_growth_rate": 0.7,
-      "pop_household_size": 2.3,
+      "pop_household_size": 2.2,
       "pop_annual_net_change": 38601
     },
     "LBR": {
@@ -1639,9 +1639,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64.1,
       "pop_net_migration": -3.2,
-      "urbanization_rate": 39.1,
+      "urbanization_rate": 56.1,
       "pop_growth_rate": 2.1,
-      "pop_household_size": 4.5,
+      "pop_household_size": 4.2,
       "pop_annual_net_change": 116276
     },
     "PSE": {
@@ -1653,9 +1653,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.1,
       "pop_net_migration": -0.2,
-      "urbanization_rate": 61.7,
+      "urbanization_rate": 87.4,
       "pop_growth_rate": 2.3,
-      "pop_household_size": 3.5,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 126384
     },
     "NZL": {
@@ -1667,9 +1667,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.3,
       "pop_net_migration": 2.9,
-      "urbanization_rate": 84.5,
+      "urbanization_rate": 84,
       "pop_growth_rate": 1.25,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": 65874
     },
     "CRI": {
@@ -1681,9 +1681,9 @@
       "pop_crude_death_rate": 5.4,
       "life_expectancy": 80.3,
       "pop_net_migration": 1.1,
-      "urbanization_rate": 71.5,
+      "urbanization_rate": 79.7,
       "pop_growth_rate": 0.6,
-      "pop_household_size": 3,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 31478
     },
     "IRL": {
@@ -1695,9 +1695,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.3,
       "pop_net_migration": 3,
-      "urbanization_rate": 85.5,
+      "urbanization_rate": 64.6,
       "pop_growth_rate": 1.15,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.2,
       "pop_annual_net_change": 58962
     },
     "MRT": {
@@ -1709,9 +1709,9 @@
       "pop_crude_death_rate": 7.2,
       "life_expectancy": 64.9,
       "pop_net_migration": -2.2,
-      "urbanization_rate": 46.8,
+      "urbanization_rate": 61.5,
       "pop_growth_rate": 2.65,
-      "pop_household_size": 4.1,
+      "pop_household_size": 4.3,
       "pop_annual_net_change": 133095
     },
     "OMN": {
@@ -1723,7 +1723,7 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.9,
       "pop_net_migration": 1.5,
-      "urbanization_rate": 73.9,
+      "urbanization_rate": 79.5,
       "pop_growth_rate": 1.5,
       "pop_household_size": 2.9,
       "pop_annual_net_change": 69666
@@ -1737,9 +1737,9 @@
       "pop_crude_death_rate": 5.6,
       "life_expectancy": 78.5,
       "pop_net_migration": 1.1,
-      "urbanization_rate": 71,
+      "urbanization_rate": 66.2,
       "pop_growth_rate": 1.3,
-      "pop_household_size": 3,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 58863
     },
     "KWT": {
@@ -1751,9 +1751,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 75.5,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 72.3,
+      "urbanization_rate": 100,
       "pop_growth_rate": 0.9,
-      "pop_household_size": 3,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": 39144
     },
     "HRV": {
@@ -1765,9 +1765,9 @@
       "pop_crude_death_rate": 5.6,
       "life_expectancy": 78.5,
       "pop_net_migration": 1.6,
-      "urbanization_rate": 74.8,
+      "urbanization_rate": 57.8,
       "pop_growth_rate": -0.45,
-      "pop_household_size": 2.9,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": -18039
     },
     "GEO": {
@@ -1779,9 +1779,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 73.8,
       "pop_net_migration": 1,
-      "urbanization_rate": 70.2,
+      "urbanization_rate": 61.2,
       "pop_growth_rate": -0.2,
-      "pop_household_size": 3.1,
+      "pop_household_size": 3,
       "pop_annual_net_change": -7457
     },
     "ERI": {
@@ -1793,9 +1793,9 @@
       "pop_crude_death_rate": 7,
       "life_expectancy": 66.3,
       "pop_net_migration": -3.1,
-      "urbanization_rate": 39.6,
+      "urbanization_rate": 34.5,
       "pop_growth_rate": 1.4,
-      "pop_household_size": 4.4,
+      "pop_household_size": 4.2,
       "pop_annual_net_change": 52485
     },
     "URY": {
@@ -1807,9 +1807,9 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.9,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 72.4,
+      "urbanization_rate": 95.7,
       "pop_growth_rate": 0.15,
-      "pop_household_size": 3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 5135
     },
     "MNG": {
@@ -1821,7 +1821,7 @@
       "pop_crude_death_rate": 6.6,
       "life_expectancy": 69.9,
       "pop_net_migration": 0.5,
-      "urbanization_rate": 66.7,
+      "urbanization_rate": 71.1,
       "pop_growth_rate": 1.4,
       "pop_household_size": 3.2,
       "pop_annual_net_change": 48658
@@ -1835,9 +1835,9 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.4,
       "pop_net_migration": 0.8,
-      "urbanization_rate": 69.1,
+      "urbanization_rate": 52.7,
       "pop_growth_rate": -0.9,
-      "pop_household_size": 3.1,
+      "pop_household_size": 3,
       "pop_annual_net_change": -28898
     },
     "QAT": {
@@ -1849,9 +1849,9 @@
       "pop_crude_death_rate": 5.4,
       "life_expectancy": 80.2,
       "pop_net_migration": 1.9,
-      "urbanization_rate": 77,
+      "urbanization_rate": 99.4,
       "pop_growth_rate": 1.2,
-      "pop_household_size": 2.8,
+      "pop_household_size": 3,
       "pop_annual_net_change": 36581
     },
     "NAM": {
@@ -1863,7 +1863,7 @@
       "pop_crude_death_rate": 7.4,
       "life_expectancy": 63.7,
       "pop_net_migration": -0.6,
-      "urbanization_rate": 58.2,
+      "urbanization_rate": 50.9,
       "pop_growth_rate": 1.9,
       "pop_household_size": 3.6,
       "pop_annual_net_change": 57572
@@ -1877,9 +1877,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75.1,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68,
+      "urbanization_rate": 65.9,
       "pop_growth_rate": 0.2,
-      "pop_household_size": 3.2,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 5948
     },
     "LTU": {
@@ -1891,9 +1891,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 75.9,
       "pop_net_migration": 1.9,
-      "urbanization_rate": 77.2,
+      "urbanization_rate": 69.1,
       "pop_growth_rate": 0.2,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.5,
       "pop_annual_net_change": 5437
     },
     "JAM": {
@@ -1905,9 +1905,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 74.5,
       "pop_net_migration": 0.4,
-      "urbanization_rate": 65.9,
+      "urbanization_rate": 59.4,
       "pop_growth_rate": -0.1,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": -2826
     },
     "ALB": {
@@ -1919,7 +1919,7 @@
       "pop_crude_death_rate": 5.6,
       "life_expectancy": 78.6,
       "pop_net_migration": 1,
-      "urbanization_rate": 70.7,
+      "urbanization_rate": 58.9,
       "pop_growth_rate": -0.5,
       "pop_household_size": 3.1,
       "pop_annual_net_change": -13959
@@ -1933,7 +1933,7 @@
       "pop_crude_death_rate": 7.6,
       "life_expectancy": 62,
       "pop_net_migration": -2.9,
-      "urbanization_rate": 41.4,
+      "urbanization_rate": 65,
       "pop_growth_rate": 2.4,
       "pop_household_size": 4.4,
       "pop_annual_net_change": 66556
@@ -1947,9 +1947,9 @@
       "pop_crude_death_rate": 7,
       "life_expectancy": 66.5,
       "pop_net_migration": 0,
-      "urbanization_rate": 63.2,
+      "urbanization_rate": 92.1,
       "pop_growth_rate": 2.1,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 51168
     },
     "BWA": {
@@ -1961,9 +1961,9 @@
       "pop_crude_death_rate": 6.6,
       "life_expectancy": 69.6,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.5,
+      "urbanization_rate": 68,
       "pop_growth_rate": 1.8,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 48156
     },
     "LSO": {
@@ -1975,9 +1975,9 @@
       "pop_crude_death_rate": 8.5,
       "life_expectancy": 54.3,
       "pop_net_migration": -2.2,
-      "urbanization_rate": 46.8,
+      "urbanization_rate": 44.7,
       "pop_growth_rate": 1.1,
-      "pop_household_size": 4.1,
+      "pop_household_size": 3.9,
       "pop_annual_net_change": 25633
     },
     "GNB": {
@@ -1989,9 +1989,9 @@
       "pop_crude_death_rate": 8,
       "life_expectancy": 58.3,
       "pop_net_migration": -2.9,
-      "urbanization_rate": 41,
+      "urbanization_rate": 46.7,
       "pop_growth_rate": 2.3,
-      "pop_household_size": 4.4,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 49469
     },
     "SVN": {
@@ -2003,9 +2003,9 @@
       "pop_crude_death_rate": 5.2,
       "life_expectancy": 81.3,
       "pop_net_migration": 2.7,
-      "urbanization_rate": 83.3,
+      "urbanization_rate": 56,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.4,
       "pop_annual_net_change": 2120
     },
     "GNQ": {
@@ -2017,9 +2017,9 @@
       "pop_crude_death_rate": 8,
       "life_expectancy": 58.7,
       "pop_net_migration": -1.3,
-      "urbanization_rate": 53.2,
+      "urbanization_rate": 71.6,
       "pop_growth_rate": 2.2,
-      "pop_household_size": 3.8,
+      "pop_household_size": 4.1,
       "pop_annual_net_change": 37723
     },
     "LVA": {
@@ -2031,7 +2031,7 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75.3,
       "pop_net_migration": 1.8,
-      "urbanization_rate": 76.2,
+      "urbanization_rate": 68.6,
       "pop_growth_rate": -0.6,
       "pop_household_size": 2.8,
       "pop_annual_net_change": -11231
@@ -2045,7 +2045,7 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 75.8,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68.1,
+      "urbanization_rate": 62.9,
       "pop_growth_rate": -0.3,
       "pop_household_size": 3.2,
       "pop_annual_net_change": -5469
@@ -2059,7 +2059,7 @@
       "pop_crude_death_rate": 5.7,
       "life_expectancy": 77.3,
       "pop_net_migration": 1.8,
-      "urbanization_rate": 76.1,
+      "urbanization_rate": 100,
       "pop_growth_rate": 1.2,
       "pop_household_size": 2.8,
       "pop_annual_net_change": 18925
@@ -2073,9 +2073,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.5,
       "pop_net_migration": 1,
-      "urbanization_rate": 70.6,
+      "urbanization_rate": 54,
       "pop_growth_rate": 0.3,
-      "pop_household_size": 3.1,
+      "pop_household_size": 3,
       "pop_annual_net_change": 4605
     },
     "TLS": {
@@ -2087,9 +2087,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 28.8,
       "pop_growth_rate": 1.5,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 20409
     },
     "CYP": {
@@ -2101,9 +2101,9 @@
       "pop_crude_death_rate": 5.3,
       "life_expectancy": 81,
       "pop_net_migration": 2,
-      "urbanization_rate": 78.2,
+      "urbanization_rate": 66.7,
       "pop_growth_rate": 0.7,
-      "pop_household_size": 2.7,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 8821
     },
     "EST": {
@@ -2115,9 +2115,9 @@
       "pop_crude_death_rate": 5.6,
       "life_expectancy": 78.7,
       "pop_net_migration": 2.1,
-      "urbanization_rate": 78.4,
+      "urbanization_rate": 70.7,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 2.7,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 1366
     },
     "MUS": {
@@ -2129,9 +2129,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75,
       "pop_net_migration": 1.1,
-      "urbanization_rate": 71.1,
+      "urbanization_rate": 39,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 3,
+      "pop_household_size": 2.8,
       "pop_annual_net_change": 1301
     },
     "SWZ": {
@@ -2143,9 +2143,9 @@
       "pop_crude_death_rate": 7.8,
       "life_expectancy": 60.2,
       "pop_net_migration": -1.3,
-      "urbanization_rate": 52.9,
+      "urbanization_rate": 26.7,
       "pop_growth_rate": 1.1,
-      "pop_household_size": 3.8,
+      "pop_household_size": 3.7,
       "pop_annual_net_change": 13319
     },
     "DJI": {
@@ -2157,9 +2157,9 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.1,
       "pop_net_migration": -2.7,
-      "urbanization_rate": 42.8,
+      "urbanization_rate": 73,
       "pop_growth_rate": 1.3,
-      "pop_household_size": 4.3,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 14774
     },
     "FJI": {
@@ -2171,9 +2171,9 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.4,
       "pop_net_migration": 0.5,
-      "urbanization_rate": 66.7,
+      "urbanization_rate": 59.5,
       "pop_growth_rate": 0.6,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3,
       "pop_annual_net_change": 5618
     },
     "COM": {
@@ -2185,9 +2185,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64.3,
       "pop_net_migration": -2.4,
-      "urbanization_rate": 45.3,
+      "urbanization_rate": 33.9,
       "pop_growth_rate": 1.8,
-      "pop_household_size": 4.2,
+      "pop_household_size": 4.4,
       "pop_annual_net_change": 15337
     },
     "GUY": {
@@ -2199,9 +2199,9 @@
       "pop_crude_death_rate": 6.6,
       "life_expectancy": 69.9,
       "pop_net_migration": -0.6,
-      "urbanization_rate": 58.9,
+      "urbanization_rate": 26.5,
       "pop_growth_rate": 0.5,
-      "pop_household_size": 3.6,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 4069
     },
     "BTN": {
@@ -2213,7 +2213,7 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.8,
       "pop_net_migration": -1.1,
-      "urbanization_rate": 55.1,
+      "urbanization_rate": 43.4,
       "pop_growth_rate": 0.8,
       "pop_household_size": 3.8,
       "pop_annual_net_change": 6299
@@ -2227,9 +2227,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73,
       "pop_net_migration": -1.8,
-      "urbanization_rate": 49.1,
+      "urbanization_rate": 31.3,
       "pop_growth_rate": 2.1,
-      "pop_household_size": 4,
+      "pop_household_size": 3.9,
       "pop_annual_net_change": 15549
     },
     "LUX": {
@@ -2241,9 +2241,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.3,
       "pop_net_migration": 2.7,
-      "urbanization_rate": 83.4,
+      "urbanization_rate": 94.9,
       "pop_growth_rate": 1.9,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": 12769
     },
     "MNE": {
@@ -2255,9 +2255,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 1.4,
-      "urbanization_rate": 73.3,
+      "urbanization_rate": 65.6,
       "pop_growth_rate": -0.2,
-      "pop_household_size": 2.9,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": -1241
     },
     "SUR": {
@@ -2269,9 +2269,9 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.7,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.8,
+      "urbanization_rate": 65.8,
       "pop_growth_rate": 0.8,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 4986
     },
     "CPV": {
@@ -2283,9 +2283,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 77.6,
       "pop_growth_rate": 0.9,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.3,
       "pop_annual_net_change": 5388
     },
     "MDV": {
@@ -2297,9 +2297,9 @@
       "pop_crude_death_rate": 5.5,
       "life_expectancy": 78.9,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.5,
+      "urbanization_rate": 42.5,
       "pop_growth_rate": 1.7,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 8857
     },
     "MLT": {
@@ -2311,9 +2311,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.5,
       "pop_net_migration": 2.1,
-      "urbanization_rate": 79,
+      "urbanization_rate": 95.7,
       "pop_growth_rate": 2.1,
-      "pop_household_size": 2.7,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 11236
     },
     "BRN": {
@@ -2325,9 +2325,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 75.9,
       "pop_net_migration": 1.8,
-      "urbanization_rate": 76.8,
+      "urbanization_rate": 75,
       "pop_growth_rate": 0.8,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.7,
       "pop_annual_net_change": 3620
     },
     "BLZ": {
@@ -2339,9 +2339,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 74.6,
       "pop_net_migration": 0.1,
-      "urbanization_rate": 63.7,
+      "urbanization_rate": 41.6,
       "pop_growth_rate": 1.4,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 5752
     },
     "BHS": {
@@ -2353,9 +2353,9 @@
       "pop_crude_death_rate": 6.1,
       "life_expectancy": 73.9,
       "pop_net_migration": 1.3,
-      "urbanization_rate": 72.6,
+      "urbanization_rate": 81.3,
       "pop_growth_rate": 0.7,
-      "pop_household_size": 3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 2888
     },
     "ISL": {
@@ -2367,9 +2367,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83,
       "pop_net_migration": 3.1,
-      "urbanization_rate": 86.3,
+      "urbanization_rate": 94.2,
       "pop_growth_rate": 1.5,
-      "pop_household_size": 2.4,
+      "pop_household_size": 2.2,
       "pop_annual_net_change": 5900
     },
     "VUT": {
@@ -2381,7 +2381,7 @@
       "pop_crude_death_rate": 6.5,
       "life_expectancy": 70.5,
       "pop_net_migration": -1.2,
-      "urbanization_rate": 54.3,
+      "urbanization_rate": 22.3,
       "pop_growth_rate": 2.2,
       "pop_household_size": 3.8,
       "pop_annual_net_change": 7359
@@ -2395,9 +2395,9 @@
       "pop_crude_death_rate": 5.5,
       "life_expectancy": 79.2,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 72,
+      "urbanization_rate": 59.7,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 282
     },
     "STP": {
@@ -2409,7 +2409,7 @@
       "pop_crude_death_rate": 6.6,
       "life_expectancy": 70.4,
       "pop_net_migration": -1.3,
-      "urbanization_rate": 53,
+      "urbanization_rate": 69.2,
       "pop_growth_rate": 1.9,
       "pop_household_size": 3.8,
       "pop_annual_net_change": 4405
@@ -2423,7 +2423,7 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.3,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.2,
+      "urbanization_rate": 17.5,
       "pop_growth_rate": 1.2,
       "pop_household_size": 3.3,
       "pop_annual_net_change": 2708
@@ -2437,9 +2437,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 76.2,
       "pop_net_migration": 0.6,
-      "urbanization_rate": 67.2,
+      "urbanization_rate": 29.1,
       "pop_growth_rate": 0.3,
-      "pop_household_size": 3.2,
+      "pop_household_size": 3.4,
       "pop_annual_net_change": 541
     },
     "KIR": {
@@ -2451,9 +2451,9 @@
       "pop_crude_death_rate": 6.8,
       "life_expectancy": 68.4,
       "pop_net_migration": -1.1,
-      "urbanization_rate": 55.1,
+      "urbanization_rate": 63.4,
       "pop_growth_rate": 1.6,
-      "pop_household_size": 3.8,
+      "pop_household_size": 4,
       "pop_annual_net_change": 2136
     },
     "GRD": {
@@ -2465,9 +2465,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.4,
       "pop_net_migration": 0.9,
-      "urbanization_rate": 69.5,
+      "urbanization_rate": 36.7,
       "pop_growth_rate": 0.5,
-      "pop_household_size": 3.1,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 631
     },
     "VCT": {
@@ -2479,9 +2479,9 @@
       "pop_crude_death_rate": 6.3,
       "life_expectancy": 72.5,
       "pop_net_migration": 0.3,
-      "urbanization_rate": 65.1,
+      "urbanization_rate": 48,
       "pop_growth_rate": -0.2,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": -207
     },
     "FSM": {
@@ -2493,9 +2493,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 22.5,
       "pop_growth_rate": 0.8,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 922
     },
     "SYC": {
@@ -2507,9 +2507,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.4,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 71.7,
+      "urbanization_rate": 45.5,
       "pop_growth_rate": 0.6,
-      "pop_household_size": 3,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 646
     },
     "ATG": {
@@ -2521,7 +2521,7 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 77,
       "pop_net_migration": 1,
-      "urbanization_rate": 70.2,
+      "urbanization_rate": 24.3,
       "pop_growth_rate": 0.6,
       "pop_household_size": 3.1,
       "pop_annual_net_change": 566
@@ -2535,9 +2535,9 @@
       "pop_crude_death_rate": 5,
       "life_expectancy": 83.7,
       "pop_net_migration": 1.9,
-      "urbanization_rate": 77.2,
+      "urbanization_rate": 88.9,
       "pop_growth_rate": 1.2,
-      "pop_household_size": 2.8,
+      "pop_household_size": 2.6,
       "pop_annual_net_change": 961
     },
     "DMA": {
@@ -2549,9 +2549,9 @@
       "pop_crude_death_rate": 6,
       "life_expectancy": 75,
       "pop_net_migration": 0.2,
-      "urbanization_rate": 64.3,
+      "urbanization_rate": 74,
       "pop_growth_rate": 0.2,
-      "pop_household_size": 3.3,
+      "pop_household_size": 3.1,
       "pop_annual_net_change": 146
     },
     "MHL": {
@@ -2563,9 +2563,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.7,
       "pop_net_migration": 0.1,
-      "urbanization_rate": 63.7,
+      "urbanization_rate": 79.1,
       "pop_growth_rate": 0.4,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 168
     },
     "KNA": {
@@ -2577,9 +2577,9 @@
       "pop_crude_death_rate": 5.9,
       "life_expectancy": 76.2,
       "pop_net_migration": 0.9,
-      "urbanization_rate": 70,
+      "urbanization_rate": 31.9,
       "pop_growth_rate": 0.4,
-      "pop_household_size": 3.1,
+      "pop_household_size": 2.9,
       "pop_annual_net_change": 191
     },
     "MCO": {
@@ -2591,9 +2591,9 @@
       "pop_crude_death_rate": 4.6,
       "life_expectancy": 86.8,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 100,
       "pop_growth_rate": 0.5,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 195
     },
     "LIE": {
@@ -2605,9 +2605,9 @@
       "pop_crude_death_rate": 5.1,
       "life_expectancy": 82.5,
       "pop_net_migration": 2.6,
-      "urbanization_rate": 82.4,
+      "urbanization_rate": 14.6,
       "pop_growth_rate": 0.6,
-      "pop_household_size": 2.5,
+      "pop_household_size": 2.4,
       "pop_annual_net_change": 238
     },
     "SMR": {
@@ -2619,9 +2619,9 @@
       "pop_crude_death_rate": 4.8,
       "life_expectancy": 85,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 97.2,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 34
     },
     "PLW": {
@@ -2633,9 +2633,9 @@
       "pop_crude_death_rate": 6.2,
       "life_expectancy": 73.7,
       "pop_net_migration": 1.2,
-      "urbanization_rate": 71.8,
+      "urbanization_rate": 79.3,
       "pop_growth_rate": 0.1,
-      "pop_household_size": 3,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 18
     },
     "NRU": {
@@ -2647,9 +2647,9 @@
       "pop_crude_death_rate": 7.8,
       "life_expectancy": 60,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 100,
       "pop_growth_rate": 0.7,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": 89
     },
     "TUV": {
@@ -2661,7 +2661,7 @@
       "pop_crude_death_rate": 6.9,
       "life_expectancy": 67.6,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 65.4,
       "pop_growth_rate": 0.9,
       "pop_household_size": 3.4,
       "pop_annual_net_change": 103
@@ -2675,9 +2675,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 64.4,
       "pop_growth_rate": 1,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.5,
       "pop_annual_net_change": 8
     },
     "BFA": {
@@ -2689,9 +2689,9 @@
       "pop_crude_death_rate": 7.6,
       "life_expectancy": 61.6,
       "pop_net_migration": -3.3,
-      "urbanization_rate": 38.1,
+      "urbanization_rate": 28.9,
       "pop_growth_rate": 2.5,
-      "pop_household_size": 4.5,
+      "pop_household_size": 4.7,
       "pop_annual_net_change": 581287
     },
     "KHM": {
@@ -2703,9 +2703,9 @@
       "pop_crude_death_rate": 6.6,
       "life_expectancy": 69.8,
       "pop_net_migration": -1.4,
-      "urbanization_rate": 52.4,
+      "urbanization_rate": 41.1,
       "pop_growth_rate": 1.05,
-      "pop_household_size": 3.9,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 177921
     },
     "LBN": {
@@ -2717,7 +2717,7 @@
       "pop_crude_death_rate": 5.5,
       "life_expectancy": 78.9,
       "pop_net_migration": 0.7,
-      "urbanization_rate": 68.1,
+      "urbanization_rate": 91,
       "pop_growth_rate": -1.8,
       "pop_household_size": 3.2,
       "pop_annual_net_change": -96371
@@ -2731,9 +2731,9 @@
       "pop_crude_death_rate": 7.3,
       "life_expectancy": 64.3,
       "pop_net_migration": -2.7,
-      "urbanization_rate": 42.9,
+      "urbanization_rate": 17.6,
       "pop_growth_rate": 2.55,
-      "pop_household_size": 4.3,
+      "pop_household_size": 4.5,
       "pop_annual_net_change": 538050
     },
     "MDA": {
@@ -2745,9 +2745,9 @@
       "pop_crude_death_rate": 6.4,
       "life_expectancy": 71.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 43.7,
       "pop_growth_rate": -0.9,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.2,
       "pop_annual_net_change": -22617
     },
     "TON": {
@@ -2759,7 +2759,7 @@
       "pop_crude_death_rate": 6.5,
       "life_expectancy": 70.9,
       "pop_net_migration": 0.3,
-      "urbanization_rate": 65.3,
+      "urbanization_rate": 21.2,
       "pop_growth_rate": -0.2,
       "pop_household_size": 3.3,
       "pop_annual_net_change": -214
@@ -2773,9 +2773,9 @@
       "pop_crude_death_rate": 5.8,
       "life_expectancy": 76.9,
       "pop_net_migration": 0,
-      "urbanization_rate": 63,
+      "urbanization_rate": 64.4,
       "pop_growth_rate": 0.4,
-      "pop_household_size": 3.4,
+      "pop_household_size": 3.6,
       "pop_annual_net_change": 7040
     }
   }
