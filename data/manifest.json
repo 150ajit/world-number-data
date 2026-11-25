@@ -55,8 +55,8 @@
     {
       "id": "06_technology",
       "path": "datasets/06_technology.json",
-      "sizeBytes": 87985,
-      "sha256": "b328f7af599a909c366f568bd8467c0a20721fef2d81fd4f7887a1af2bf226f3",
+      "sizeBytes": 87972,
+      "sha256": "738f41284ba92eec630c7428f8607c3d95d698548368a55f072844d9185ec784",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -64,8 +64,8 @@
     {
       "id": "07_military",
       "path": "datasets/07_military.json",
-      "sizeBytes": 88548,
-      "sha256": "379cd29b71d1bcd65316b9eba9c34232ca3a0962350a6042fee80078350dbdad",
+      "sizeBytes": 88267,
+      "sha256": "301262fcc6047dabab0e6c55afa33e9db0b8f87a4c7c4460042aab5800e4d0a4",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -73,8 +73,8 @@
     {
       "id": "08_global_indices",
       "path": "datasets/08_global_indices.json",
-      "sizeBytes": 390884,
-      "sha256": "b752422ab1a52f7af7d8ebb767c3bda0770f2d0e04f2395a220bfd7423361096",
+      "sizeBytes": 390890,
+      "sha256": "599d78797e7b6f6c5bbbb756bafbef8cd2d499d8dac48fd12108fd6d881c98d8",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 57
@@ -190,8 +190,8 @@
     {
       "id": "historical_trends",
       "path": "datasets/historical_trends.json",
-      "sizeBytes": 324481,
-      "sha256": "b3effeb35241bfec5e0641667275090684c8b009a42fae9ce7f46955b341c770",
+      "sizeBytes": 324501,
+      "sha256": "1952855d35cce9a872d907395ff13da08742f9101f4f4099f959a089ad9ee2c9",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 11
