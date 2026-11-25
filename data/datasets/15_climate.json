@@ -16,10 +16,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 35,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.92,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 5803.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 4262.4,
+      "climate_vulnerability_idx": 0.41,
       "projected_temp_rise_2050": 1.6
     },
     "CHN": {
@@ -32,10 +32,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 35,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 5677.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 14107,
+      "climate_vulnerability_idx": 0.349,
       "projected_temp_rise_2050": 1.6
     },
     "USA": {
@@ -48,10 +48,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 35,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1381.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 6054.3,
+      "climate_vulnerability_idx": 0.291,
       "projected_temp_rise_2050": 1.6
     },
     "IDN": {
@@ -66,8 +66,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1134,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1902.5,
+      "climate_vulnerability_idx": 0.381,
       "projected_temp_rise_2050": 1.6
     },
     "PAK": {
@@ -80,10 +80,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 11,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1005.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 473.8,
+      "climate_vulnerability_idx": 0.453,
       "projected_temp_rise_2050": 1.6
     },
     "NGA": {
@@ -96,10 +96,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 11,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 930.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 384.7,
+      "climate_vulnerability_idx": 0.45,
       "projected_temp_rise_2050": 1.6
     },
     "BRA": {
@@ -112,10 +112,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 35,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 848,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 2804.4,
+      "climate_vulnerability_idx": 0.361,
       "projected_temp_rise_2050": 1.6
     },
     "BGD": {
@@ -124,14 +124,14 @@
       "annual_precipitation": 1631,
       "snow_cover_extent_pct": 0,
       "drought_severity_index": 3.2,
-      "flood_risk_population_pct": 12,
+      "flood_risk_population_pct": 34,
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 6,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.94,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 694.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 241.1,
+      "climate_vulnerability_idx": 0.399,
       "projected_temp_rise_2050": 1.6
     },
     "RUS": {
@@ -144,10 +144,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 35,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.01,
       "sea_ice_extent_sqkm": 450,
-      "total_ghg_emissions_mt": 579.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 2729.2,
+      "climate_vulnerability_idx": 0.335,
       "projected_temp_rise_2050": 2.3
     },
     "ETH": {
@@ -160,10 +160,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 8,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 528.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 247.1,
+      "climate_vulnerability_idx": 0.473,
       "projected_temp_rise_2050": 1.6
     },
     "MEX": {
@@ -176,10 +176,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 11,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 523,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 635.7,
+      "climate_vulnerability_idx": 0.352,
       "projected_temp_rise_2050": 1.6
     },
     "JPN": {
@@ -192,10 +192,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 495,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1007.2,
+      "climate_vulnerability_idx": 0.294,
       "projected_temp_rise_2050": 1.6
     },
     "PHL": {
@@ -208,10 +208,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 476.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 305.7,
+      "climate_vulnerability_idx": 0.382,
       "projected_temp_rise_2050": 1.6
     },
     "EGY": {
@@ -226,8 +226,8 @@
       "sea_level_rise_mm_yr": 3.4,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 466.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 332.5,
+      "climate_vulnerability_idx": 0.374,
       "projected_temp_rise_2050": 1.6
     },
     "COD": {
@@ -240,10 +240,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 11,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 437.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 680.7,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "VNM": {
@@ -252,14 +252,14 @@
       "annual_precipitation": 1863,
       "snow_cover_extent_pct": 0,
       "drought_severity_index": 3.2,
-      "flood_risk_population_pct": 12,
+      "flood_risk_population_pct": 34,
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 404,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 583.5,
+      "climate_vulnerability_idx": 0.375,
       "projected_temp_rise_2050": 1.6
     },
     "IRN": {
@@ -272,10 +272,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 8,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 366.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1012.2,
+      "climate_vulnerability_idx": 0.345,
       "projected_temp_rise_2050": 1.6
     },
     "TUR": {
@@ -288,10 +288,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 349.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 680,
+      "climate_vulnerability_idx": 0.321,
       "projected_temp_rise_2050": 1.6
     },
     "DEU": {
@@ -304,10 +304,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 338.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 659.7,
+      "climate_vulnerability_idx": 0.281,
       "projected_temp_rise_2050": 2.3
     },
     "THA": {
@@ -320,10 +320,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 286.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 456.7,
+      "climate_vulnerability_idx": 0.343,
       "projected_temp_rise_2050": 1.6
     },
     "GBR": {
@@ -336,10 +336,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 273.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 390.3,
+      "climate_vulnerability_idx": 0.285,
       "projected_temp_rise_2050": 2.3
     },
     "TZA": {
@@ -352,10 +352,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 274.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 185.8,
+      "climate_vulnerability_idx": 0.454,
       "projected_temp_rise_2050": 1.6
     },
     "FRA": {
@@ -368,10 +368,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.05,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 266.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 337.9,
+      "climate_vulnerability_idx": 0.298,
       "projected_temp_rise_2050": 1.6
     },
     "ZAF": {
@@ -386,8 +386,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 256,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 542.7,
+      "climate_vulnerability_idx": 0.379,
       "projected_temp_rise_2050": 1.6
     },
     "ITA": {
@@ -400,10 +400,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.05,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 237.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 356,
+      "climate_vulnerability_idx": 0.299,
       "projected_temp_rise_2050": 1.6
     },
     "KEN": {
@@ -416,10 +416,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.9,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 224.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 99.5,
+      "climate_vulnerability_idx": 0.432,
       "projected_temp_rise_2050": 1.6
     },
     "MMR": {
@@ -432,10 +432,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 218,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 185.3,
+      "climate_vulnerability_idx": 0.437,
       "projected_temp_rise_2050": 1.6
     },
     "COL": {
@@ -448,10 +448,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 210.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 248.3,
+      "climate_vulnerability_idx": 0.362,
       "projected_temp_rise_2050": 1.6
     },
     "KOR": {
@@ -464,10 +464,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 207,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 630.6,
+      "climate_vulnerability_idx": 0.29,
       "projected_temp_rise_2050": 1.6
     },
     "UGA": {
@@ -480,10 +480,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.86,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 200.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 63.9,
+      "climate_vulnerability_idx": 0.463,
       "projected_temp_rise_2050": 1.6
     },
     "SDN": {
@@ -496,10 +496,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 8,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 197.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 134.3,
+      "climate_vulnerability_idx": 0.469,
       "projected_temp_rise_2050": 1.6
     },
     "ESP": {
@@ -512,10 +512,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 191.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 275.1,
+      "climate_vulnerability_idx": 0.297,
       "projected_temp_rise_2050": 1.6
     },
     "ARG": {
@@ -528,10 +528,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 11,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.02,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 184.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 417,
+      "climate_vulnerability_idx": 0.323,
       "projected_temp_rise_2050": 1.6
     },
     "DZA": {
@@ -544,10 +544,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 9,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 184.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 276.1,
+      "climate_vulnerability_idx": 0.363,
       "projected_temp_rise_2050": 1.6
     },
     "IRQ": {
@@ -560,10 +560,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.94,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 184.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 398.1,
+      "climate_vulnerability_idx": 0.392,
       "projected_temp_rise_2050": 1.6
     },
     "AFG": {
@@ -576,10 +576,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 170.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 39.9,
+      "climate_vulnerability_idx": 0.471,
       "projected_temp_rise_2050": 1.6
     },
     "POL": {
@@ -592,10 +592,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.04,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 159.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 332.3,
+      "climate_vulnerability_idx": 0.31,
       "projected_temp_rise_2050": 2.3
     },
     "CAN": {
@@ -608,10 +608,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 31,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 159,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 802.7,
+      "climate_vulnerability_idx": 0.287,
       "projected_temp_rise_2050": 2.3
     },
     "MAR": {
@@ -624,10 +624,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 152.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 101.8,
+      "climate_vulnerability_idx": 0.387,
       "projected_temp_rise_2050": 1.6
     },
     "SAU": {
@@ -640,10 +640,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 8,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.04,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 149.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 821.8,
+      "climate_vulnerability_idx": 0.313,
       "projected_temp_rise_2050": 1.6
     },
     "UKR": {
@@ -656,10 +656,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 148,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 222.9,
+      "climate_vulnerability_idx": 0.372,
       "projected_temp_rise_2050": 1.6
     },
     "AGO": {
@@ -672,10 +672,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 151.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 159.5,
+      "climate_vulnerability_idx": 0.436,
       "projected_temp_rise_2050": 1.6
     },
     "UZB": {
@@ -688,10 +688,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 145.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 208.2,
+      "climate_vulnerability_idx": 0.382,
       "projected_temp_rise_2050": 1.6
     },
     "YEM": {
@@ -704,10 +704,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.83,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 141.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 26.7,
+      "climate_vulnerability_idx": 0.49,
       "projected_temp_rise_2050": 1.6
     },
     "PER": {
@@ -720,10 +720,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 138.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 151.1,
+      "climate_vulnerability_idx": 0.365,
       "projected_temp_rise_2050": 1.6
     },
     "MYS": {
@@ -736,10 +736,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 138.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 388.7,
+      "climate_vulnerability_idx": 0.341,
       "projected_temp_rise_2050": 1.6
     },
     "GHA": {
@@ -752,10 +752,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.9,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 139.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 52,
+      "climate_vulnerability_idx": 0.431,
       "projected_temp_rise_2050": 1.6
     },
     "MOZ": {
@@ -768,10 +768,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.82,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 138.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 60.4,
+      "climate_vulnerability_idx": 0.496,
       "projected_temp_rise_2050": 1.6
     },
     "NPL": {
@@ -784,10 +784,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 125,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 58.8,
+      "climate_vulnerability_idx": 0.439,
       "projected_temp_rise_2050": 1.6
     },
     "MDG": {
@@ -800,10 +800,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.86,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 124.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 61.5,
+      "climate_vulnerability_idx": 0.462,
       "projected_temp_rise_2050": 1.6
     },
     "CIV": {
@@ -816,10 +816,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 124.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 140.7,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "VEN": {
@@ -832,10 +832,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 117.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 192.9,
+      "climate_vulnerability_idx": 0.36,
       "projected_temp_rise_2050": 1.6
     },
     "CMR": {
@@ -848,10 +848,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.88,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 116.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 64.8,
+      "climate_vulnerability_idx": 0.446,
       "projected_temp_rise_2050": 1.6
     },
     "NER": {
@@ -864,10 +864,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.8,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 108.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 52.1,
+      "climate_vulnerability_idx": 0.515,
       "projected_temp_rise_2050": 1.6
     },
     "AUS": {
@@ -880,10 +880,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 26,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 106.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 609.9,
+      "climate_vulnerability_idx": 0.283,
       "projected_temp_rise_2050": 1.6
     },
     "PRK": {
@@ -896,10 +896,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 105,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 89.8,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "TWN": {
@@ -912,10 +912,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 95.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 283.5,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "MLI": {
@@ -928,10 +928,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.81,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 96.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 65.7,
+      "climate_vulnerability_idx": 0.501,
       "projected_temp_rise_2050": 1.6
     },
     "LKA": {
@@ -944,10 +944,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 92.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 42.7,
+      "climate_vulnerability_idx": 0.357,
       "projected_temp_rise_2050": 1.6
     },
     "SYR": {
@@ -960,10 +960,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 95.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 38.6,
+      "climate_vulnerability_idx": 0.455,
       "projected_temp_rise_2050": 1.6
     },
     "KAZ": {
@@ -976,10 +976,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 10,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 82.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 372.2,
+      "climate_vulnerability_idx": 0.344,
       "projected_temp_rise_2050": 1.6
     },
     "CHL": {
@@ -992,10 +992,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 78.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 104.4,
+      "climate_vulnerability_idx": 0.319,
       "projected_temp_rise_2050": 1.6
     },
     "ZMB": {
@@ -1008,10 +1008,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 85.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 99,
+      "climate_vulnerability_idx": 0.433,
       "projected_temp_rise_2050": 1.6
     },
     "ROU": {
@@ -1024,10 +1024,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.01,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 76.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 90.3,
+      "climate_vulnerability_idx": 0.339,
       "projected_temp_rise_2050": 1.6
     },
     "TCD": {
@@ -1040,10 +1040,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.8,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 77.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 125.9,
+      "climate_vulnerability_idx": 0.515,
       "projected_temp_rise_2050": 1.6
     },
     "SOM": {
@@ -1056,10 +1056,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.79,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 76,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 47.9,
+      "climate_vulnerability_idx": 0.52,
       "projected_temp_rise_2050": 1.6
     },
     "SEN": {
@@ -1072,10 +1072,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 73.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 35.4,
+      "climate_vulnerability_idx": 0.468,
       "projected_temp_rise_2050": 1.6
     },
     "NLD": {
@@ -1084,14 +1084,14 @@
       "annual_precipitation": 949,
       "snow_cover_extent_pct": 37.7,
       "drought_severity_index": 1.7,
-      "flood_risk_population_pct": 12,
+      "flood_risk_population_pct": 34,
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 72.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 147.2,
+      "climate_vulnerability_idx": 0.283,
       "projected_temp_rise_2050": 2.3
     },
     "GTM": {
@@ -1104,10 +1104,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.93,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 74.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 65.7,
+      "climate_vulnerability_idx": 0.407,
       "projected_temp_rise_2050": 1.6
     },
     "ECU": {
@@ -1120,10 +1120,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 72.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 63.1,
+      "climate_vulnerability_idx": 0.364,
       "projected_temp_rise_2050": 1.6
     },
     "ZWE": {
@@ -1136,10 +1136,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 66.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 31.1,
+      "climate_vulnerability_idx": 0.455,
       "projected_temp_rise_2050": 1.6
     },
     "GIN": {
@@ -1152,10 +1152,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.83,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 59,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 78.5,
+      "climate_vulnerability_idx": 0.487,
       "projected_temp_rise_2050": 1.6
     },
     "RWA": {
@@ -1168,10 +1168,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.86,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 57.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 9.7,
+      "climate_vulnerability_idx": 0.46,
       "projected_temp_rise_2050": 1.6
     },
     "BEN": {
@@ -1184,10 +1184,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.86,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 56.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 40.9,
+      "climate_vulnerability_idx": 0.464,
       "projected_temp_rise_2050": 1.6
     },
     "BDI": {
@@ -1200,10 +1200,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.81,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 56.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 9.7,
+      "climate_vulnerability_idx": 0.505,
       "projected_temp_rise_2050": 1.6
     },
     "BOL": {
@@ -1216,10 +1216,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 50.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 160,
+      "climate_vulnerability_idx": 0.389,
       "projected_temp_rise_2050": 1.6
     },
     "TUN": {
@@ -1232,10 +1232,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 50.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 43.5,
+      "climate_vulnerability_idx": 0.371,
       "projected_temp_rise_2050": 1.6
     },
     "HTI": {
@@ -1248,10 +1248,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 47.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 11.9,
+      "climate_vulnerability_idx": 0.471,
       "projected_temp_rise_2050": 1.6
     },
     "BEL": {
@@ -1264,10 +1264,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 47,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 107.9,
+      "climate_vulnerability_idx": 0.284,
       "projected_temp_rise_2050": 2.3
     },
     "JOR": {
@@ -1280,10 +1280,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 46.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 31,
+      "climate_vulnerability_idx": 0.371,
       "projected_temp_rise_2050": 1.6
     },
     "DOM": {
@@ -1296,10 +1296,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 45.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 48.5,
+      "climate_vulnerability_idx": 0.371,
       "projected_temp_rise_2050": 1.6
     },
     "CUB": {
@@ -1312,10 +1312,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 44.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 39.4,
+      "climate_vulnerability_idx": 0.354,
       "projected_temp_rise_2050": 1.6
     },
     "SSD": {
@@ -1328,10 +1328,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.79,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 45.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 58.8,
+      "climate_vulnerability_idx": 0.52,
       "projected_temp_rise_2050": 1.6
     },
     "SWE": {
@@ -1344,10 +1344,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.08,
       "sea_ice_extent_sqkm": 450,
-      "total_ghg_emissions_mt": 42.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 57,
+      "climate_vulnerability_idx": 0.28,
       "projected_temp_rise_2050": 2.3
     },
     "HND": {
@@ -1360,10 +1360,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.91,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 43,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 34.5,
+      "climate_vulnerability_idx": 0.421,
       "projected_temp_rise_2050": 1.6
     },
     "CZE": {
@@ -1376,10 +1376,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.05,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 42.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 84.4,
+      "climate_vulnerability_idx": 0.304,
       "projected_temp_rise_2050": 1.6
     },
     "AZE": {
@@ -1392,10 +1392,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 41.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 57.3,
+      "climate_vulnerability_idx": 0.362,
       "projected_temp_rise_2050": 1.6
     },
     "GRC": {
@@ -1408,10 +1408,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.05,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 41.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 56.8,
+      "climate_vulnerability_idx": 0.305,
       "projected_temp_rise_2050": 1.6
     },
     "PNG": {
@@ -1424,10 +1424,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 42.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 43.6,
+      "climate_vulnerability_idx": 0.452,
       "projected_temp_rise_2050": 1.6
     },
     "PRT": {
@@ -1440,10 +1440,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.02,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 41,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 54.2,
+      "climate_vulnerability_idx": 0.324,
       "projected_temp_rise_2050": 1.6
     },
     "HUN": {
@@ -1456,10 +1456,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.02,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 38.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 47.5,
+      "climate_vulnerability_idx": 0.328,
       "projected_temp_rise_2050": 1.6
     },
     "TJK": {
@@ -1472,10 +1472,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.93,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 41.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 21.4,
+      "climate_vulnerability_idx": 0.407,
       "projected_temp_rise_2050": 1.6
     },
     "ARE": {
@@ -1488,10 +1488,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 38.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 262.1,
+      "climate_vulnerability_idx": 0.286,
       "projected_temp_rise_2050": 1.6
     },
     "BLR": {
@@ -1504,10 +1504,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 37.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 94.6,
+      "climate_vulnerability_idx": 0.341,
       "projected_temp_rise_2050": 2.3
     },
     "ISR": {
@@ -1520,10 +1520,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 37.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 64.2,
+      "climate_vulnerability_idx": 0.296,
       "projected_temp_rise_2050": 1.6
     },
     "TGO": {
@@ -1536,10 +1536,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 37,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 12.8,
+      "climate_vulnerability_idx": 0.469,
       "projected_temp_rise_2050": 1.6
     },
     "AUT": {
@@ -1552,10 +1552,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 36.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 68.2,
+      "climate_vulnerability_idx": 0.291,
       "projected_temp_rise_2050": 1.6
     },
     "CHE": {
@@ -1568,10 +1568,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.08,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 35.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 40.1,
+      "climate_vulnerability_idx": 0.274,
       "projected_temp_rise_2050": 1.6
     },
     "SLE": {
@@ -1584,10 +1584,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.81,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 35.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 16.3,
+      "climate_vulnerability_idx": 0.504,
       "projected_temp_rise_2050": 1.6
     },
     "LAO": {
@@ -1600,10 +1600,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.9,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 30.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 61.4,
+      "climate_vulnerability_idx": 0.428,
       "projected_temp_rise_2050": 1.6
     },
     "HKG": {
@@ -1616,10 +1616,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.08,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 30,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 38.9,
+      "climate_vulnerability_idx": 0.278,
       "projected_temp_rise_2050": 1.6
     },
     "SRB": {
@@ -1632,10 +1632,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 28.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 42.8,
+      "climate_vulnerability_idx": 0.349,
       "projected_temp_rise_2050": 1.6
     },
     "NIC": {
@@ -1648,10 +1648,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.93,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 28.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 38.6,
+      "climate_vulnerability_idx": 0.404,
       "projected_temp_rise_2050": 1.6
     },
     "LBY": {
@@ -1664,10 +1664,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 6,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 27.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 95,
+      "climate_vulnerability_idx": 0.383,
       "projected_temp_rise_2050": 1.6
     },
     "PRY": {
@@ -1680,10 +1680,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 27.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 66.2,
+      "climate_vulnerability_idx": 0.385,
       "projected_temp_rise_2050": 1.6
     },
     "KGZ": {
@@ -1696,10 +1696,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.94,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 28.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 22.6,
+      "climate_vulnerability_idx": 0.398,
       "projected_temp_rise_2050": 1.6
     },
     "BGR": {
@@ -1712,10 +1712,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.01,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 26.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 40.3,
+      "climate_vulnerability_idx": 0.339,
       "projected_temp_rise_2050": 1.6
     },
     "TKM": {
@@ -1728,10 +1728,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 26.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 118.3,
+      "climate_vulnerability_idx": 0.383,
       "projected_temp_rise_2050": 1.6
     },
     "SLV": {
@@ -1744,10 +1744,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.94,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 25.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 9.9,
+      "climate_vulnerability_idx": 0.397,
       "projected_temp_rise_2050": 1.6
     },
     "COG": {
@@ -1760,10 +1760,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.9,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 25,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 41.9,
+      "climate_vulnerability_idx": 0.425,
       "projected_temp_rise_2050": 1.6
     },
     "SGP": {
@@ -1776,10 +1776,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 24.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 61.2,
+      "climate_vulnerability_idx": 0.281,
       "projected_temp_rise_2050": 1.6
     },
     "DNK": {
@@ -1792,10 +1792,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.08,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 23.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 45.9,
+      "climate_vulnerability_idx": 0.28,
       "projected_temp_rise_2050": 2.3
     },
     "SVK": {
@@ -1808,10 +1808,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 22.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 19.7,
+      "climate_vulnerability_idx": 0.321,
       "projected_temp_rise_2050": 1.6
     },
     "CAF": {
@@ -1824,10 +1824,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.78,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 23,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 68.7,
+      "climate_vulnerability_idx": 0.526,
       "projected_temp_rise_2050": 1.6
     },
     "FIN": {
@@ -1840,10 +1840,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 450,
-      "total_ghg_emissions_mt": 22.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 88,
+      "climate_vulnerability_idx": 0.284,
       "projected_temp_rise_2050": 2.3
     },
     "NOR": {
@@ -1856,10 +1856,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.08,
       "sea_ice_extent_sqkm": 450,
-      "total_ghg_emissions_mt": 22.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 56.2,
+      "climate_vulnerability_idx": 0.274,
       "projected_temp_rise_2050": 2.3
     },
     "LBR": {
@@ -1872,10 +1872,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.82,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 22.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 24.5,
+      "climate_vulnerability_idx": 0.497,
       "projected_temp_rise_2050": 1.6
     },
     "PSE": {
@@ -1888,10 +1888,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.94,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 22,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 5.2,
+      "climate_vulnerability_idx": 0.392,
       "projected_temp_rise_2050": 1.6
     },
     "NZL": {
@@ -1904,10 +1904,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 21.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 81.9,
+      "climate_vulnerability_idx": 0.286,
       "projected_temp_rise_2050": 1.6
     },
     "CRI": {
@@ -1920,10 +1920,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 21,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 15,
+      "climate_vulnerability_idx": 0.347,
       "projected_temp_rise_2050": 1.6
     },
     "IRL": {
@@ -1936,10 +1936,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.07,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 20.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 60.2,
+      "climate_vulnerability_idx": 0.281,
       "projected_temp_rise_2050": 2.3
     },
     "MRT": {
@@ -1952,10 +1952,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 4,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.86,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 20.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 18.2,
+      "climate_vulnerability_idx": 0.462,
       "projected_temp_rise_2050": 1.6
     },
     "OMN": {
@@ -1968,10 +1968,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.01,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 18.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 117.1,
+      "climate_vulnerability_idx": 0.335,
       "projected_temp_rise_2050": 1.6
     },
     "PAN": {
@@ -1984,10 +1984,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 18.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 21.2,
+      "climate_vulnerability_idx": 0.349,
       "projected_temp_rise_2050": 1.6
     },
     "KWT": {
@@ -2000,10 +2000,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 17.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 170.3,
+      "climate_vulnerability_idx": 0.343,
       "projected_temp_rise_2050": 1.6
     },
     "HRV": {
@@ -2016,10 +2016,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.02,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 16,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 22.5,
+      "climate_vulnerability_idx": 0.331,
       "projected_temp_rise_2050": 1.6
     },
     "GEO": {
@@ -2032,10 +2032,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 14.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 12.4,
+      "climate_vulnerability_idx": 0.352,
       "projected_temp_rise_2050": 1.6
     },
     "ERI": {
@@ -2048,10 +2048,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.82,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 15,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 10.4,
+      "climate_vulnerability_idx": 0.495,
       "projected_temp_rise_2050": 1.6
     },
     "URY": {
@@ -2064,10 +2064,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 13.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 43.1,
+      "climate_vulnerability_idx": 0.342,
       "projected_temp_rise_2050": 1.6
     },
     "MNG": {
@@ -2080,10 +2080,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 5,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 13.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 98.2,
+      "climate_vulnerability_idx": 0.369,
       "projected_temp_rise_2050": 1.6
     },
     "BIH": {
@@ -2096,10 +2096,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 12.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 26.5,
+      "climate_vulnerability_idx": 0.357,
       "projected_temp_rise_2050": 1.6
     },
     "QAT": {
@@ -2112,10 +2112,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 12.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 149.2,
+      "climate_vulnerability_idx": 0.32,
       "projected_temp_rise_2050": 1.6
     },
     "NAM": {
@@ -2128,10 +2128,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 3,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.92,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 12.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 17.8,
+      "climate_vulnerability_idx": 0.408,
       "projected_temp_rise_2050": 1.6
     },
     "ARM": {
@@ -2144,10 +2144,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 11.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 10.3,
+      "climate_vulnerability_idx": 0.363,
       "projected_temp_rise_2050": 1.6
     },
     "LTU": {
@@ -2160,10 +2160,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 10.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 21.8,
+      "climate_vulnerability_idx": 0.32,
       "projected_temp_rise_2050": 2.3
     },
     "JAM": {
@@ -2176,10 +2176,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 11.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 9.1,
+      "climate_vulnerability_idx": 0.373,
       "projected_temp_rise_2050": 1.6
     },
     "ALB": {
@@ -2192,10 +2192,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 11.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 6.7,
+      "climate_vulnerability_idx": 0.35,
       "projected_temp_rise_2050": 1.6
     },
     "GMB": {
@@ -2208,10 +2208,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.83,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 11.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 2.9,
+      "climate_vulnerability_idx": 0.487,
       "projected_temp_rise_2050": 1.6
     },
     "GAB": {
@@ -2224,10 +2224,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 9.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 27.4,
+      "climate_vulnerability_idx": 0.385,
       "projected_temp_rise_2050": 1.6
     },
     "BWA": {
@@ -2242,8 +2242,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 10.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 26.2,
+      "climate_vulnerability_idx": 0.379,
       "projected_temp_rise_2050": 1.6
     },
     "LSO": {
@@ -2256,10 +2256,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.86,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 9.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 6.2,
+      "climate_vulnerability_idx": 0.462,
       "projected_temp_rise_2050": 1.6
     },
     "GNB": {
@@ -2272,10 +2272,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.83,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 8.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 8.1,
+      "climate_vulnerability_idx": 0.489,
       "projected_temp_rise_2050": 1.6
     },
     "SVN": {
@@ -2288,10 +2288,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 8.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 18.1,
+      "climate_vulnerability_idx": 0.291,
       "projected_temp_rise_2050": 1.6
     },
     "GNQ": {
@@ -2304,10 +2304,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.9,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 6.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 11.7,
+      "climate_vulnerability_idx": 0.432,
       "projected_temp_rise_2050": 1.6
     },
     "LVA": {
@@ -2320,10 +2320,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.02,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 7.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 13.9,
+      "climate_vulnerability_idx": 0.324,
       "projected_temp_rise_2050": 2.3
     },
     "MKD": {
@@ -2336,10 +2336,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 7.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 8.1,
+      "climate_vulnerability_idx": 0.362,
       "projected_temp_rise_2050": 1.6
     },
     "BHR": {
@@ -2352,10 +2352,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.02,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 6.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 63,
+      "climate_vulnerability_idx": 0.325,
       "projected_temp_rise_2050": 1.6
     },
     "TTO": {
@@ -2368,10 +2368,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 6.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 41,
+      "climate_vulnerability_idx": 0.351,
       "projected_temp_rise_2050": 1.6
     },
     "TLS": {
@@ -2384,10 +2384,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 5.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 4.9,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "CYP": {
@@ -2400,10 +2400,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 9.5,
+      "climate_vulnerability_idx": 0.315,
       "projected_temp_rise_2050": 1.6
     },
     "EST": {
@@ -2416,10 +2416,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.04,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 5.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 12.1,
+      "climate_vulnerability_idx": 0.314,
       "projected_temp_rise_2050": 2.3
     },
     "MUS": {
@@ -2432,10 +2432,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 5.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 5.4,
+      "climate_vulnerability_idx": 0.348,
       "projected_temp_rise_2050": 1.6
     },
     "SWZ": {
@@ -2448,10 +2448,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 4.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1.6,
+      "climate_vulnerability_idx": 0.433,
       "projected_temp_rise_2050": 1.6
     },
     "DJI": {
@@ -2464,10 +2464,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.84,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 4.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 2.1,
+      "climate_vulnerability_idx": 0.48,
       "projected_temp_rise_2050": 1.6
     },
     "FJI": {
@@ -2480,10 +2480,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 3.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1.3,
+      "climate_vulnerability_idx": 0.369,
       "projected_temp_rise_2050": 1.6
     },
     "COM": {
@@ -2496,10 +2496,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.85,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 3.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1,
+      "climate_vulnerability_idx": 0.469,
       "projected_temp_rise_2050": 1.6
     },
     "GUY": {
@@ -2512,10 +2512,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.93,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 3.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 13.4,
+      "climate_vulnerability_idx": 0.405,
       "projected_temp_rise_2050": 1.6
     },
     "BTN": {
@@ -2528,10 +2528,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.91,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 3.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 7.4,
+      "climate_vulnerability_idx": 0.423,
       "projected_temp_rise_2050": 1.6
     },
     "SLB": {
@@ -2544,10 +2544,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.87,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 3.4,
+      "climate_vulnerability_idx": 0.451,
       "projected_temp_rise_2050": 1.6
     },
     "LUX": {
@@ -2560,10 +2560,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 2.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 7.9,
+      "climate_vulnerability_idx": 0.291,
       "projected_temp_rise_2050": 1.6
     },
     "MNE": {
@@ -2576,10 +2576,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.01,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 2.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1.2,
+      "climate_vulnerability_idx": 0.338,
       "projected_temp_rise_2050": 1.6
     },
     "SUR": {
@@ -2594,7 +2594,7 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 2.5,
+      "total_ghg_emissions_mt": 5.6,
       "climate_vulnerability_idx": 0.378,
       "projected_temp_rise_2050": 1.6
     },
@@ -2608,10 +2608,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 2.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.8,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "MDV": {
@@ -2626,8 +2626,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 2.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 2.5,
+      "climate_vulnerability_idx": 0.379,
       "projected_temp_rise_2050": 1.6
     },
     "MLT": {
@@ -2640,10 +2640,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.04,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 2.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1.9,
+      "climate_vulnerability_idx": 0.311,
       "projected_temp_rise_2050": 1.6
     },
     "BRN": {
@@ -2656,10 +2656,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 15,
+      "climate_vulnerability_idx": 0.322,
       "projected_temp_rise_2050": 1.6
     },
     "BLZ": {
@@ -2672,10 +2672,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 7.9,
+      "climate_vulnerability_idx": 0.383,
       "projected_temp_rise_2050": 1.6
     },
     "BHS": {
@@ -2688,10 +2688,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 3.5,
+      "climate_vulnerability_idx": 0.341,
       "projected_temp_rise_2050": 1.6
     },
     "ISL": {
@@ -2704,10 +2704,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.08,
       "sea_ice_extent_sqkm": 450,
-      "total_ghg_emissions_mt": 1.6,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 5.1,
+      "climate_vulnerability_idx": 0.277,
       "projected_temp_rise_2050": 2.3
     },
     "VUT": {
@@ -2720,10 +2720,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.9,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.5,
+      "climate_vulnerability_idx": 0.427,
       "projected_temp_rise_2050": 1.6
     },
     "BRB": {
@@ -2736,10 +2736,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 1.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 1.5,
+      "climate_vulnerability_idx": 0.344,
       "projected_temp_rise_2050": 1.6
     },
     "STP": {
@@ -2752,10 +2752,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.3,
+      "climate_vulnerability_idx": 0.433,
       "projected_temp_rise_2050": 1.6
     },
     "WSM": {
@@ -2770,8 +2770,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.9,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.2,
+      "climate_vulnerability_idx": 0.381,
       "projected_temp_rise_2050": 1.6
     },
     "LCA": {
@@ -2784,10 +2784,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.97,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.6,
+      "climate_vulnerability_idx": 0.366,
       "projected_temp_rise_2050": 1.6
     },
     "KIR": {
@@ -2800,10 +2800,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.91,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.1,
+      "climate_vulnerability_idx": 0.423,
       "projected_temp_rise_2050": 1.6
     },
     "GRD": {
@@ -2816,10 +2816,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.4,
+      "climate_vulnerability_idx": 0.356,
       "projected_temp_rise_2050": 1.6
     },
     "VCT": {
@@ -2834,8 +2834,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.3,
+      "climate_vulnerability_idx": 0.376,
       "projected_temp_rise_2050": 1.6
     },
     "FSM": {
@@ -2848,10 +2848,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.5,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.2,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "SYC": {
@@ -2864,10 +2864,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.8,
+      "climate_vulnerability_idx": 0.345,
       "projected_temp_rise_2050": 1.6
     },
     "ATG": {
@@ -2880,10 +2880,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.7,
+      "climate_vulnerability_idx": 0.352,
       "projected_temp_rise_2050": 1.6
     },
     "AND": {
@@ -2896,10 +2896,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.03,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.5,
+      "climate_vulnerability_idx": 0.32,
       "projected_temp_rise_2050": 1.6
     },
     "DMA": {
@@ -2914,8 +2914,8 @@
       "sea_level_rise_mm_yr": 3.4,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.3,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.2,
+      "climate_vulnerability_idx": 0.38,
       "projected_temp_rise_2050": 1.6
     },
     "MHL": {
@@ -2928,10 +2928,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
       "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "climate_vulnerability_idx": 0.383,
       "projected_temp_rise_2050": 1.6
     },
     "KNA": {
@@ -2944,10 +2944,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.99,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.3,
+      "climate_vulnerability_idx": 0.353,
       "projected_temp_rise_2050": 1.6
     },
     "MCO": {
@@ -2960,10 +2960,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
       "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "LIE": {
@@ -2976,10 +2976,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1.06,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.1,
+      "climate_vulnerability_idx": 0.295,
       "projected_temp_rise_2050": 1.6
     },
     "SMR": {
@@ -2992,10 +2992,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
       "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "PLW": {
@@ -3008,10 +3008,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -1,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.3,
+      "climate_vulnerability_idx": 0.345,
       "projected_temp_rise_2050": 1.6
     },
     "NRU": {
@@ -3024,10 +3024,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.1,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "TUV": {
@@ -3040,10 +3040,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "VAT": {
@@ -3056,10 +3056,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
       "total_ghg_emissions_mt": 0.2,
-      "climate_vulnerability_idx": 0.378,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "BFA": {
@@ -3072,10 +3072,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 2,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.81,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 93,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 59.5,
+      "climate_vulnerability_idx": 0.502,
       "projected_temp_rise_2050": 1.6
     },
     "KHM": {
@@ -3088,10 +3088,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.89,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 67.8,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 91.8,
+      "climate_vulnerability_idx": 0.436,
       "projected_temp_rise_2050": 1.6
     },
     "LBN": {
@@ -3104,10 +3104,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.98,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 21.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 20.6,
+      "climate_vulnerability_idx": 0.362,
       "projected_temp_rise_2050": 1.6
     },
     "MWI": {
@@ -3120,10 +3120,10 @@
       "tropical_cyclones_frequency": 8,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 4.5,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.84,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 84.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 25,
+      "climate_vulnerability_idx": 0.48,
       "projected_temp_rise_2050": 1.6
     },
     "MDA": {
@@ -3136,10 +3136,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 10.1,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 6.7,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     },
     "TON": {
@@ -3154,8 +3154,8 @@
       "sea_level_rise_mm_yr": 4.5,
       "glacier_mass_balance_mwe": -0.96,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 0.4,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 0.3,
+      "climate_vulnerability_idx": 0.375,
       "projected_temp_rise_2050": 1.6
     },
     "XKX": {
@@ -3168,10 +3168,10 @@
       "tropical_cyclones_frequency": 0,
       "extreme_weather_events": 1,
       "sea_level_rise_mm_yr": 3.4,
-      "glacier_mass_balance_mwe": -0.96,
+      "glacier_mass_balance_mwe": -0.95,
       "sea_ice_extent_sqkm": 0,
-      "total_ghg_emissions_mt": 7,
-      "climate_vulnerability_idx": 0.378,
+      "total_ghg_emissions_mt": 6.2,
+      "climate_vulnerability_idx": 0.386,
       "projected_temp_rise_2050": 1.6
     }
   }

@@ -880,7 +880,7 @@
     "categoryId": "military",
     "subcategoryId": "mil_personnel",
     "name": "Active Duty Military Personnel",
-    "unit": "thousands",
+    "unit": "personnel",
     "sortDirection": "DESC",
     "sourceName": "IISS Military Balance 2024",
     "description": "Total uniformed military personnel on active full-time service in armed forces branches.",
