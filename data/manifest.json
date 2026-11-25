@@ -10,8 +10,8 @@
     {
       "id": "01_population",
       "path": "datasets/01_population.json",
-      "sizeBytes": 77653,
-      "sha256": "5d185b92e5c848d3b1bf9470e2b89230a2084c8fd60f6afb170e7c77216637c7",
+      "sizeBytes": 78444,
+      "sha256": "37e5c255e0e608d965c82d3d72221afe1ca364378287888f02673cdebd024060",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -37,8 +37,8 @@
     {
       "id": "04_health",
       "path": "datasets/04_health.json",
-      "sizeBytes": 86078,
-      "sha256": "45880ae246a03e7383aa172f2ce094e77278216cee629ac8f406dd07aa9a205b",
+      "sizeBytes": 85984,
+      "sha256": "d7bbe62c69612fab57419133258f5052930f1c7ad3a0c2c3d9ab1d1fb2a60ac0",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -73,8 +73,8 @@
     {
       "id": "08_global_indices",
       "path": "datasets/08_global_indices.json",
-      "sizeBytes": 390172,
-      "sha256": "659db9d5ad73d2dc57b5145016527abde60cb1c24ac9ad7abe73047dac83d1aa",
+      "sizeBytes": 390884,
+      "sha256": "b752422ab1a52f7af7d8ebb767c3bda0770f2d0e04f2395a220bfd7423361096",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 57
@@ -82,8 +82,8 @@
     {
       "id": "09_geography",
       "path": "datasets/09_geography.json",
-      "sizeBytes": 53890,
-      "sha256": "522f2d060b6e62d9f39f594e927157abb163594aa46bcda6b018f4783cd2fa38",
+      "sizeBytes": 54199,
+      "sha256": "c0a6e27feb7ebb57441857b83f5295890adc47dc612aa290787f6747f9668d3f",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 8
@@ -100,8 +100,8 @@
     {
       "id": "11_energy",
       "path": "datasets/11_energy.json",
-      "sizeBytes": 66966,
-      "sha256": "85119377e61c8bb7f850c0f816c1867425e239c6f6ca103572d8c048bef7b903",
+      "sizeBytes": 67092,
+      "sha256": "9fdb56fa1d20d8639c94e4acbf028b277f46271b6dacaa09a43920683fed9d7f",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 9
@@ -190,8 +190,8 @@
     {
       "id": "historical_trends",
       "path": "datasets/historical_trends.json",
-      "sizeBytes": 325153,
-      "sha256": "8a4696aeb1ec1ef228b9c006850057a6d1cf30cb16ceae6182ee520a9d3dae8d",
+      "sizeBytes": 324481,
+      "sha256": "b3effeb35241bfec5e0641667275090684c8b009a42fae9ce7f46955b341c770",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 11

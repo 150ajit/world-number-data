@@ -9,7 +9,7 @@
     "IND": {
       "total_energy_production_twh": 6886,
       "energy_consumption_pc": 1422,
-      "renewable_energy_share": 54.7,
+      "renewable_energy_share": 24.07,
       "solar_generation_twh": 196,
       "wind_generation_twh": 104,
       "nuclear_generation_twh": 53.8,
@@ -20,7 +20,7 @@
     "CHN": {
       "total_energy_production_twh": 40775,
       "energy_consumption_pc": 7474,
-      "renewable_energy_share": 67,
+      "renewable_energy_share": 37.04,
       "solar_generation_twh": 1175,
       "wind_generation_twh": 1135.4,
       "nuclear_generation_twh": 487.6,
@@ -31,7 +31,7 @@
     "USA": {
       "total_energy_production_twh": 28438,
       "energy_consumption_pc": 13015,
-      "renewable_energy_share": 78.8,
+      "renewable_energy_share": 25.64,
       "solar_generation_twh": 388.8,
       "wind_generation_twh": 464.4,
       "nuclear_generation_twh": 784.8,
@@ -42,7 +42,7 @@
     "IDN": {
       "total_energy_production_twh": 6104,
       "energy_consumption_pc": 1311,
-      "renewable_energy_share": 60.6,
+      "renewable_energy_share": 18.09,
       "solar_generation_twh": 1.4,
       "wind_generation_twh": 0.5,
       "nuclear_generation_twh": 0,
@@ -53,7 +53,7 @@
     "PAK": {
       "total_energy_production_twh": 526,
       "energy_consumption_pc": 764,
-      "renewable_energy_share": 45.9,
+      "renewable_energy_share": 42.75,
       "solar_generation_twh": 36.6,
       "wind_generation_twh": 5.7,
       "nuclear_generation_twh": 23.7,
@@ -64,7 +64,7 @@
     "NGA": {
       "total_energy_production_twh": 1386,
       "energy_consumption_pc": 175,
-      "renewable_energy_share": 46.6,
+      "renewable_energy_share": 31.32,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -75,7 +75,7 @@
     "BRA": {
       "total_energy_production_twh": 4313,
       "energy_consumption_pc": 3527,
-      "renewable_energy_share": 64.6,
+      "renewable_energy_share": 86.6,
       "solar_generation_twh": 88.6,
       "wind_generation_twh": 117.6,
       "nuclear_generation_twh": 15.9,
@@ -86,7 +86,7 @@
     "BGD": {
       "total_energy_production_twh": 203,
       "energy_consumption_pc": 589,
-      "renewable_energy_share": 57,
+      "renewable_energy_share": 2.14,
       "solar_generation_twh": 1.6,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -97,7 +97,7 @@
     "RUS": {
       "total_energy_production_twh": 16020,
       "energy_consumption_pc": 8283,
-      "renewable_energy_share": 69.8,
+      "renewable_energy_share": 17.35,
       "solar_generation_twh": 2.8,
       "wind_generation_twh": 3.6,
       "nuclear_generation_twh": 218.7,
@@ -108,7 +108,7 @@
     "ETH": {
       "total_energy_production_twh": 89,
       "energy_consumption_pc": 246,
-      "renewable_energy_share": 41.8,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0,
       "wind_generation_twh": 1.1,
       "nuclear_generation_twh": 0,
@@ -119,7 +119,7 @@
     "MEX": {
       "total_energy_production_twh": 1734,
       "energy_consumption_pc": 2705,
-      "renewable_energy_share": 66.4,
+      "renewable_energy_share": 23.09,
       "solar_generation_twh": 26.3,
       "wind_generation_twh": 21.4,
       "nuclear_generation_twh": 10.2,
@@ -130,7 +130,7 @@
     "JPN": {
       "total_energy_production_twh": 815,
       "energy_consumption_pc": 8366,
-      "renewable_energy_share": 78.2,
+      "renewable_energy_share": 23.57,
       "solar_generation_twh": 101.1,
       "wind_generation_twh": 12.8,
       "nuclear_generation_twh": 94.1,
@@ -141,7 +141,7 @@
     "PHL": {
       "total_energy_production_twh": 84,
       "energy_consumption_pc": 1054,
-      "renewable_energy_share": 60.3,
+      "renewable_energy_share": 23.31,
       "solar_generation_twh": 3,
       "wind_generation_twh": 1.5,
       "nuclear_generation_twh": 0,
@@ -152,7 +152,7 @@
     "EGY": {
       "total_energy_production_twh": 902,
       "energy_consumption_pc": 2076,
-      "renewable_energy_share": 61.9,
+      "renewable_energy_share": 13.02,
       "solar_generation_twh": 7.6,
       "wind_generation_twh": 9.3,
       "nuclear_generation_twh": 0,
@@ -163,7 +163,7 @@
     "COD": {
       "total_energy_production_twh": 40,
       "energy_consumption_pc": 146,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 2.5,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -174,7 +174,7 @@
     "VNM": {
       "total_energy_production_twh": 759,
       "energy_consumption_pc": 3051,
-      "renewable_energy_share": 61.7,
+      "renewable_energy_share": 45.42,
       "solar_generation_twh": 23,
       "wind_generation_twh": 14.4,
       "nuclear_generation_twh": 0,
@@ -185,7 +185,7 @@
     "IRN": {
       "total_energy_production_twh": 5425,
       "energy_consumption_pc": 4283,
-      "renewable_energy_share": 67.8,
+      "renewable_energy_share": 3.84,
       "solar_generation_twh": 0.9,
       "wind_generation_twh": 1.3,
       "nuclear_generation_twh": 7.3,
@@ -196,7 +196,7 @@
     "TUR": {
       "total_energy_production_twh": 619,
       "energy_consumption_pc": 4036,
-      "renewable_energy_share": 72.7,
+      "renewable_energy_share": 43.26,
       "solar_generation_twh": 37.3,
       "wind_generation_twh": 39.4,
       "nuclear_generation_twh": 0,
@@ -207,7 +207,7 @@
     "DEU": {
       "total_energy_production_twh": 1022,
       "energy_consumption_pc": 5953,
-      "renewable_energy_share": 80.8,
+      "renewable_energy_share": 59.09,
       "solar_generation_twh": 89.6,
       "wind_generation_twh": 136,
       "nuclear_generation_twh": 0,
@@ -218,7 +218,7 @@
     "THA": {
       "total_energy_production_twh": 571,
       "energy_consumption_pc": 2628,
-      "renewable_energy_share": 68.3,
+      "renewable_energy_share": 16.57,
       "solar_generation_twh": 10,
       "wind_generation_twh": 3.4,
       "nuclear_generation_twh": 0,
@@ -229,7 +229,7 @@
     "GBR": {
       "total_energy_production_twh": 1169,
       "energy_consumption_pc": 4203,
-      "renewable_energy_share": 79.9,
+      "renewable_energy_share": 51.97,
       "solar_generation_twh": 19.3,
       "wind_generation_twh": 85.8,
       "nuclear_generation_twh": 36.4,
@@ -240,7 +240,7 @@
     "TZA": {
       "total_energy_production_twh": 80,
       "energy_consumption_pc": 129,
-      "renewable_energy_share": 45.7,
+      "renewable_energy_share": 32.92,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -251,7 +251,7 @@
     "FRA": {
       "total_energy_production_twh": 1336,
       "energy_consumption_pc": 8552,
-      "renewable_energy_share": 77.4,
+      "renewable_energy_share": 26.06,
       "solar_generation_twh": 31.8,
       "wind_generation_twh": 46.5,
       "nuclear_generation_twh": 392.1,
@@ -262,7 +262,7 @@
     "ZAF": {
       "total_energy_production_twh": 1613,
       "energy_consumption_pc": 3749,
-      "renewable_energy_share": 60.9,
+      "renewable_energy_share": 13.63,
       "solar_generation_twh": 19.5,
       "wind_generation_twh": 11.3,
       "nuclear_generation_twh": 10.2,
@@ -273,7 +273,7 @@
     "ITA": {
       "total_energy_production_twh": 432,
       "energy_consumption_pc": 4475,
-      "renewable_energy_share": 77,
+      "renewable_energy_share": 48.78,
       "solar_generation_twh": 44.6,
       "wind_generation_twh": 21.5,
       "nuclear_generation_twh": 0,
@@ -284,7 +284,7 @@
     "KEN": {
       "total_energy_production_twh": 89,
       "energy_consumption_pc": 244,
-      "renewable_energy_share": 50.1,
+      "renewable_energy_share": 90.03,
       "solar_generation_twh": 0.7,
       "wind_generation_twh": 2.3,
       "nuclear_generation_twh": 0,
@@ -295,7 +295,7 @@
     "MMR": {
       "total_energy_production_twh": 148,
       "energy_consumption_pc": 398,
-      "renewable_energy_share": 49.1,
+      "renewable_energy_share": 47.86,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -306,7 +306,7 @@
     "COL": {
       "total_energy_production_twh": 1165,
       "energy_consumption_pc": 1691,
-      "renewable_energy_share": 64.4,
+      "renewable_energy_share": 77.03,
       "solar_generation_twh": 4.6,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -317,7 +317,7 @@
     "KOR": {
       "total_energy_production_twh": 634,
       "energy_consumption_pc": 12090,
-      "renewable_energy_share": 79,
+      "renewable_energy_share": 10.39,
       "solar_generation_twh": 37.8,
       "wind_generation_twh": 3.6,
       "nuclear_generation_twh": 184.7,
@@ -328,7 +328,7 @@
     "UGA": {
       "total_energy_production_twh": 32,
       "energy_consumption_pc": 116,
-      "renewable_energy_share": 43.9,
+      "renewable_energy_share": 97.07,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -339,7 +339,7 @@
     "SDN": {
       "total_energy_production_twh": 22,
       "energy_consumption_pc": 293,
-      "renewable_energy_share": 42.7,
+      "renewable_energy_share": 79.69,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -350,7 +350,7 @@
     "ESP": {
       "total_energy_production_twh": 547,
       "energy_consumption_pc": 6011,
-      "renewable_energy_share": 77.4,
+      "renewable_energy_share": 55.86,
       "solar_generation_twh": 62.9,
       "wind_generation_twh": 58.8,
       "nuclear_generation_twh": 54.1,
@@ -361,7 +361,7 @@
     "ARG": {
       "total_energy_production_twh": 1293,
       "energy_consumption_pc": 3340,
-      "renewable_energy_share": 72.2,
+      "renewable_energy_share": 34.58,
       "solar_generation_twh": 5.1,
       "wind_generation_twh": 18.6,
       "nuclear_generation_twh": 10.8,
@@ -372,7 +372,7 @@
     "DZA": {
       "total_energy_production_twh": 1638,
       "energy_consumption_pc": 2058,
-      "renewable_energy_share": 64.1,
+      "renewable_energy_share": 1.07,
       "solar_generation_twh": 1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -383,7 +383,7 @@
     "IRQ": {
       "total_energy_production_twh": 2631,
       "energy_consumption_pc": 3252,
-      "renewable_energy_share": 58.2,
+      "renewable_energy_share": 1.62,
       "solar_generation_twh": 0.4,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -394,7 +394,7 @@
     "AFG": {
       "total_energy_production_twh": 41,
       "energy_consumption_pc": 23,
-      "renewable_energy_share": 42.3,
+      "renewable_energy_share": 86.87,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -405,7 +405,7 @@
     "POL": {
       "total_energy_production_twh": 568,
       "energy_consumption_pc": 4543,
-      "renewable_energy_share": 74.9,
+      "renewable_energy_share": 31.51,
       "solar_generation_twh": 19.6,
       "wind_generation_twh": 24.6,
       "nuclear_generation_twh": 0,
@@ -416,7 +416,7 @@
     "CAN": {
       "total_energy_production_twh": 6878,
       "energy_consumption_pc": 16259,
-      "renewable_energy_share": 79.5,
+      "renewable_energy_share": 63.9,
       "solar_generation_twh": 10.2,
       "wind_generation_twh": 51.5,
       "nuclear_generation_twh": 85.3,
@@ -427,7 +427,7 @@
     "MAR": {
       "total_energy_production_twh": 24,
       "energy_consumption_pc": 1158,
-      "renewable_energy_share": 59.3,
+      "renewable_energy_share": 23.95,
       "solar_generation_twh": 2.6,
       "wind_generation_twh": 7.1,
       "nuclear_generation_twh": 0,
@@ -438,7 +438,7 @@
     "SAU": {
       "total_energy_production_twh": 7172,
       "energy_consumption_pc": 13386,
-      "renewable_energy_share": 74.4,
+      "renewable_energy_share": 2.16,
       "solar_generation_twh": 8.2,
       "wind_generation_twh": 1.6,
       "nuclear_generation_twh": 0,
@@ -449,7 +449,7 @@
     "UKR": {
       "total_energy_production_twh": 465,
       "energy_consumption_pc": 2717,
-      "renewable_energy_share": 62.4,
+      "renewable_energy_share": 16.41,
       "solar_generation_twh": 5.1,
       "wind_generation_twh": 1.4,
       "nuclear_generation_twh": 62.2,
@@ -460,7 +460,7 @@
     "AGO": {
       "total_energy_production_twh": 667,
       "energy_consumption_pc": 411,
-      "renewable_energy_share": 49.4,
+      "renewable_energy_share": 73.7,
       "solar_generation_twh": 0.4,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -471,7 +471,7 @@
     "UZB": {
       "total_energy_production_twh": 501,
       "energy_consumption_pc": 2340,
-      "renewable_energy_share": 60.3,
+      "renewable_energy_share": 19.38,
       "solar_generation_twh": 6.5,
       "wind_generation_twh": 4,
       "nuclear_generation_twh": 0,
@@ -482,7 +482,7 @@
     "YEM": {
       "total_energy_production_twh": 21,
       "energy_consumption_pc": 129,
-      "renewable_energy_share": 38.4,
+      "renewable_energy_share": 11.24,
       "solar_generation_twh": 0.6,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -493,7 +493,7 @@
     "PER": {
       "total_energy_production_twh": 319,
       "energy_consumption_pc": 1748,
-      "renewable_energy_share": 63.8,
+      "renewable_energy_share": 63.65,
       "solar_generation_twh": 1.8,
       "wind_generation_twh": 2.1,
       "nuclear_generation_twh": 0,
@@ -504,7 +504,7 @@
     "MYS": {
       "total_energy_production_twh": 1198,
       "energy_consumption_pc": 5589,
-      "renewable_energy_share": 68.6,
+      "renewable_energy_share": 20.65,
       "solar_generation_twh": 4.5,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -515,7 +515,7 @@
     "GHA": {
       "total_energy_production_twh": 104,
       "energy_consumption_pc": 705,
-      "renewable_energy_share": 50.3,
+      "renewable_energy_share": 36.22,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -526,7 +526,7 @@
     "MOZ": {
       "total_energy_production_twh": 57,
       "energy_consumption_pc": 571,
-      "renewable_energy_share": 37.1,
+      "renewable_energy_share": 83.43,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -537,7 +537,7 @@
     "NPL": {
       "total_energy_production_twh": 57,
       "energy_consumption_pc": 375,
-      "renewable_energy_share": 48.8,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -548,7 +548,7 @@
     "MDG": {
       "total_energy_production_twh": 17,
       "energy_consumption_pc": 76,
-      "renewable_energy_share": 44.1,
+      "renewable_energy_share": 42.39,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -559,7 +559,7 @@
     "CIV": {
       "total_energy_production_twh": 78,
       "energy_consumption_pc": 338,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 28.92,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -570,7 +570,7 @@
     "VEN": {
       "total_energy_production_twh": 1073,
       "energy_consumption_pc": 2821,
-      "renewable_energy_share": 64.7,
+      "renewable_energy_share": 91.14,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -581,7 +581,7 @@
     "CMR": {
       "total_energy_production_twh": 36,
       "energy_consumption_pc": 249,
-      "renewable_energy_share": 47.3,
+      "renewable_energy_share": 73.14,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -592,7 +592,7 @@
     "NER": {
       "total_energy_production_twh": 14,
       "energy_consumption_pc": 35,
-      "renewable_energy_share": 33.5,
+      "renewable_energy_share": 3.16,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -603,7 +603,7 @@
     "AUS": {
       "total_energy_production_twh": 5202,
       "energy_consumption_pc": 10615,
-      "renewable_energy_share": 80.4,
+      "renewable_energy_share": 38.62,
       "solar_generation_twh": 56.1,
       "wind_generation_twh": 39.2,
       "nuclear_generation_twh": 0,
@@ -614,7 +614,7 @@
     "PRK": {
       "total_energy_production_twh": 185,
       "energy_consumption_pc": 1023,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 63.36,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -625,7 +625,7 @@
     "TWN": {
       "total_energy_production_twh": 108,
       "energy_consumption_pc": 12478,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 12.24,
       "solar_generation_twh": 15.7,
       "wind_generation_twh": 12,
       "nuclear_generation_twh": 3.3,
@@ -636,7 +636,7 @@
     "MLI": {
       "total_energy_production_twh": 30,
       "energy_consumption_pc": 243,
-      "renewable_energy_share": 36.3,
+      "renewable_energy_share": 19.46,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -647,7 +647,7 @@
     "LKA": {
       "total_energy_production_twh": 26,
       "energy_consumption_pc": 743,
-      "renewable_energy_share": 65.5,
+      "renewable_energy_share": 61.62,
       "solar_generation_twh": 2.8,
       "wind_generation_twh": 0.9,
       "nuclear_generation_twh": 0,
@@ -658,7 +658,7 @@
     "SYR": {
       "total_energy_production_twh": 47,
       "energy_consumption_pc": 1008,
-      "renewable_energy_share": 45.6,
+      "renewable_energy_share": 3.54,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -669,7 +669,7 @@
     "KAZ": {
       "total_energy_production_twh": 1900,
       "energy_consumption_pc": 5934,
-      "renewable_energy_share": 68,
+      "renewable_energy_share": 14.86,
       "solar_generation_twh": 2,
       "wind_generation_twh": 5.8,
       "nuclear_generation_twh": 0,
@@ -680,7 +680,7 @@
     "CHL": {
       "total_energy_production_twh": 164,
       "energy_consumption_pc": 4456,
-      "renewable_energy_share": 73.1,
+      "renewable_energy_share": 66.37,
       "solar_generation_twh": 22.2,
       "wind_generation_twh": 11.6,
       "nuclear_generation_twh": 0,
@@ -691,7 +691,7 @@
     "ZMB": {
       "total_energy_production_twh": 50,
       "energy_consumption_pc": 925,
-      "renewable_energy_share": 50,
+      "renewable_energy_share": 87.47,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -702,7 +702,7 @@
     "ROU": {
       "total_energy_production_twh": 239,
       "energy_consumption_pc": 2634,
-      "renewable_energy_share": 68.9,
+      "renewable_energy_share": 47.04,
       "solar_generation_twh": 4.9,
       "wind_generation_twh": 6,
       "nuclear_generation_twh": 10.2,
@@ -713,7 +713,7 @@
     "TCD": {
       "total_energy_production_twh": 78,
       "energy_consumption_pc": 18,
-      "renewable_energy_share": 33.5,
+      "renewable_energy_share": 5.41,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -724,7 +724,7 @@
     "SOM": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 23,
-      "renewable_energy_share": 32.3,
+      "renewable_energy_share": 20.93,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -735,7 +735,7 @@
     "SEN": {
       "total_energy_production_twh": 44,
       "energy_consumption_pc": 412,
-      "renewable_energy_share": 42.9,
+      "renewable_energy_share": 19.79,
       "solar_generation_twh": 0.7,
       "wind_generation_twh": 0.4,
       "nuclear_generation_twh": 0,
@@ -746,7 +746,7 @@
     "NLD": {
       "total_energy_production_twh": 256,
       "energy_consumption_pc": 7356,
-      "renewable_energy_share": 80.4,
+      "renewable_energy_share": 51.2,
       "solar_generation_twh": 28.5,
       "wind_generation_twh": 33.7,
       "nuclear_generation_twh": 4,
@@ -757,7 +757,7 @@
     "GTM": {
       "total_energy_production_twh": 91,
       "energy_consumption_pc": 858,
-      "renewable_energy_share": 55.3,
+      "renewable_energy_share": 68.33,
       "solar_generation_twh": 0.3,
       "wind_generation_twh": 0.4,
       "nuclear_generation_twh": 0,
@@ -768,7 +768,7 @@
     "ECU": {
       "total_energy_production_twh": 355,
       "energy_consumption_pc": 2001,
-      "renewable_energy_share": 63.9,
+      "renewable_energy_share": 79.4,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -779,7 +779,7 @@
     "ZWE": {
       "total_energy_production_twh": 43,
       "energy_consumption_pc": 617,
-      "renewable_energy_share": 45.5,
+      "renewable_energy_share": 57.12,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -790,7 +790,7 @@
     "GIN": {
       "total_energy_production_twh": 22,
       "energy_consumption_pc": 273,
-      "renewable_energy_share": 39,
+      "renewable_energy_share": 75.19,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -801,7 +801,7 @@
     "RWA": {
       "total_energy_production_twh": 7,
       "energy_consumption_pc": 79,
-      "renewable_energy_share": 44.5,
+      "renewable_energy_share": 49.56,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -812,7 +812,7 @@
     "BEN": {
       "total_energy_production_twh": 27,
       "energy_consumption_pc": 70,
-      "renewable_energy_share": 43.8,
+      "renewable_energy_share": 3.96,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -823,7 +823,7 @@
     "BDI": {
       "total_energy_production_twh": 4,
       "energy_consumption_pc": 35,
-      "renewable_energy_share": 35.4,
+      "renewable_energy_share": 75.51,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -834,7 +834,7 @@
     "BOL": {
       "total_energy_production_twh": 119,
       "energy_consumption_pc": 1083,
-      "renewable_energy_share": 58.9,
+      "renewable_energy_share": 36.1,
       "solar_generation_twh": 0.4,
       "wind_generation_twh": 0.3,
       "nuclear_generation_twh": 0,
@@ -845,7 +845,7 @@
     "TUN": {
       "total_energy_production_twh": 17,
       "energy_consumption_pc": 1807,
-      "renewable_energy_share": 62.5,
+      "renewable_energy_share": 4.03,
       "solar_generation_twh": 0.6,
       "wind_generation_twh": 0.3,
       "nuclear_generation_twh": 0,
@@ -856,7 +856,7 @@
     "HTI": {
       "total_energy_production_twh": 12,
       "energy_consumption_pc": 73,
-      "renewable_energy_share": 42.3,
+      "renewable_energy_share": 18.61,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -867,7 +867,7 @@
     "BEL": {
       "total_energy_production_twh": 149,
       "energy_consumption_pc": 6199,
-      "renewable_energy_share": 80.1,
+      "renewable_energy_share": 38.94,
       "solar_generation_twh": 10.4,
       "wind_generation_twh": 13.7,
       "nuclear_generation_twh": 24.1,
@@ -878,7 +878,7 @@
     "JOR": {
       "total_energy_production_twh": 110,
       "energy_consumption_pc": 2049,
-      "renewable_energy_share": 62.5,
+      "renewable_energy_share": 24.08,
       "solar_generation_twh": 3.9,
       "wind_generation_twh": 1.8,
       "nuclear_generation_twh": 0,
@@ -889,7 +889,7 @@
     "DOM": {
       "total_energy_production_twh": 131,
       "energy_consumption_pc": 1969,
-      "renewable_energy_share": 62.6,
+      "renewable_energy_share": 23.81,
       "solar_generation_twh": 2.3,
       "wind_generation_twh": 1.4,
       "nuclear_generation_twh": 0,
@@ -900,7 +900,7 @@
     "CUB": {
       "total_energy_production_twh": 84,
       "energy_consumption_pc": 1770,
-      "renewable_energy_share": 66,
+      "renewable_energy_share": 4.01,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -911,7 +911,7 @@
     "SSD": {
       "total_energy_production_twh": 50,
       "energy_consumption_pc": 47,
-      "renewable_energy_share": 32.4,
+      "renewable_energy_share": 1.79,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -922,7 +922,7 @@
     "SWE": {
       "total_energy_production_twh": 427,
       "energy_consumption_pc": 16019,
-      "renewable_energy_share": 80.9,
+      "renewable_energy_share": 71.19,
       "solar_generation_twh": 4.4,
       "wind_generation_twh": 38.9,
       "nuclear_generation_twh": 47.1,
@@ -933,7 +933,7 @@
     "HND": {
       "total_energy_production_twh": 52,
       "energy_consumption_pc": 1153,
-      "renewable_energy_share": 52.4,
+      "renewable_energy_share": 55.45,
       "solar_generation_twh": 1.2,
       "wind_generation_twh": 0.8,
       "nuclear_generation_twh": 0,
@@ -944,7 +944,7 @@
     "CZE": {
       "total_energy_production_twh": 206,
       "energy_consumption_pc": 7116,
-      "renewable_energy_share": 76.1,
+      "renewable_energy_share": 16.85,
       "solar_generation_twh": 4.4,
       "wind_generation_twh": 0.6,
       "nuclear_generation_twh": 31.9,
@@ -955,7 +955,7 @@
     "AZE": {
       "total_energy_production_twh": 726,
       "energy_consumption_pc": 2702,
-      "renewable_energy_share": 64.3,
+      "renewable_energy_share": 12.14,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -966,7 +966,7 @@
     "GRC": {
       "total_energy_production_twh": 76,
       "energy_consumption_pc": 5863,
-      "renewable_energy_share": 75.9,
+      "renewable_energy_share": 49.7,
       "solar_generation_twh": 12.9,
       "wind_generation_twh": 11.9,
       "nuclear_generation_twh": 0,
@@ -977,7 +977,7 @@
     "PNG": {
       "total_energy_production_twh": 27,
       "energy_consumption_pc": 447,
-      "renewable_energy_share": 46.2,
+      "renewable_energy_share": 23.68,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -988,7 +988,7 @@
     "PRT": {
       "total_energy_production_twh": 105,
       "energy_consumption_pc": 4911,
-      "renewable_energy_share": 72,
+      "renewable_energy_share": 80.95,
       "solar_generation_twh": 8.9,
       "wind_generation_twh": 13.7,
       "nuclear_generation_twh": 0,
@@ -999,7 +999,7 @@
     "HUN": {
       "total_energy_production_twh": 79,
       "energy_consumption_pc": 4178,
-      "renewable_energy_share": 71.2,
+      "renewable_energy_share": 35.31,
       "solar_generation_twh": 11,
       "wind_generation_twh": 0.6,
       "nuclear_generation_twh": 16.1,
@@ -1010,7 +1010,7 @@
     "TJK": {
       "total_energy_production_twh": 49,
       "energy_consumption_pc": 2287,
-      "renewable_energy_share": 55.3,
+      "renewable_energy_share": 94.37,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1021,7 +1021,7 @@
     "ARE": {
       "total_energy_production_twh": 2842,
       "energy_consumption_pc": 16075,
-      "renewable_energy_share": 79.6,
+      "renewable_energy_share": 8.81,
       "solar_generation_twh": 15.2,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 40.6,
@@ -1032,7 +1032,7 @@
     "BLR": {
       "total_energy_production_twh": 41,
       "energy_consumption_pc": 5154,
-      "renewable_energy_share": 68.7,
+      "renewable_energy_share": 4.83,
       "solar_generation_twh": 0.4,
       "wind_generation_twh": 0.5,
       "nuclear_generation_twh": 17,
@@ -1043,7 +1043,7 @@
     "ISR": {
       "total_energy_production_twh": 241,
       "energy_consumption_pc": 8627,
-      "renewable_energy_share": 77.8,
+      "renewable_energy_share": 16.93,
       "solar_generation_twh": 13.3,
       "wind_generation_twh": 0.5,
       "nuclear_generation_twh": 0,
@@ -1054,7 +1054,7 @@
     "TGO": {
       "total_energy_production_twh": 12,
       "energy_consumption_pc": 84,
-      "renewable_energy_share": 42.8,
+      "renewable_energy_share": 29.58,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1065,7 +1065,7 @@
     "AUT": {
       "total_energy_production_twh": 174,
       "energy_consumption_pc": 8034,
-      "renewable_energy_share": 78.7,
+      "renewable_energy_share": 83.6,
       "solar_generation_twh": 10.3,
       "wind_generation_twh": 8.3,
       "nuclear_generation_twh": 0,
@@ -1076,7 +1076,7 @@
     "CHE": {
       "total_energy_production_twh": 188,
       "energy_consumption_pc": 7251,
-      "renewable_energy_share": 82.2,
+      "renewable_energy_share": 67.83,
       "solar_generation_twh": 7.9,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 19.4,
@@ -1087,7 +1087,7 @@
     "SLE": {
       "total_energy_production_twh": 6,
       "energy_consumption_pc": 24,
-      "renewable_energy_share": 35.6,
+      "renewable_energy_share": 95.24,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1098,7 +1098,7 @@
     "LAO": {
       "total_energy_production_twh": 77,
       "energy_consumption_pc": 6732,
-      "renewable_energy_share": 51.1,
+      "renewable_energy_share": 76.72,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1109,7 +1109,7 @@
     "HKG": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 5049,
-      "renewable_energy_share": 81.3,
+      "renewable_energy_share": 1.04,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1120,7 +1120,7 @@
     "SRB": {
       "total_energy_production_twh": 63,
       "energy_consumption_pc": 5475,
-      "renewable_energy_share": 66.9,
+      "renewable_energy_share": 27.8,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 1.5,
       "nuclear_generation_twh": 0,
@@ -1131,7 +1131,7 @@
     "NIC": {
       "total_energy_production_twh": 21,
       "energy_consumption_pc": 654,
-      "renewable_energy_share": 55.9,
+      "renewable_energy_share": 62.39,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0.6,
       "nuclear_generation_twh": 0,
@@ -1142,7 +1142,7 @@
     "LBY": {
       "total_energy_production_twh": 791,
       "energy_consumption_pc": 4686,
-      "renewable_energy_share": 60,
+      "renewable_energy_share": 0.03,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1153,7 +1153,7 @@
     "PRY": {
       "total_energy_production_twh": 52,
       "energy_consumption_pc": 6466,
-      "renewable_energy_share": 59.7,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1164,7 +1164,7 @@
     "KGZ": {
       "total_energy_production_twh": 57,
       "energy_consumption_pc": 2163,
-      "renewable_energy_share": 57.1,
+      "renewable_energy_share": 84.73,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1175,7 +1175,7 @@
     "BGR": {
       "total_energy_production_twh": 99,
       "energy_consumption_pc": 5653,
-      "renewable_energy_share": 69.1,
+      "renewable_energy_share": 32.8,
       "solar_generation_twh": 6.9,
       "wind_generation_twh": 1.3,
       "nuclear_generation_twh": 14.8,
@@ -1186,7 +1186,7 @@
     "TKM": {
       "total_energy_production_twh": 839,
       "energy_consumption_pc": 4405,
-      "renewable_energy_share": 60,
+      "renewable_energy_share": 0.03,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1197,7 +1197,7 @@
     "SLV": {
       "total_energy_production_twh": 45,
       "energy_consumption_pc": 1015,
-      "renewable_energy_share": 57.3,
+      "renewable_energy_share": 86.53,
       "solar_generation_twh": 1.3,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -1208,7 +1208,7 @@
     "COG": {
       "total_energy_production_twh": 159,
       "energy_consumption_pc": 862,
-      "renewable_energy_share": 51.5,
+      "renewable_energy_share": 20.88,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1219,7 +1219,7 @@
     "SGP": {
       "total_energy_production_twh": 6,
       "energy_consumption_pc": 10246,
-      "renewable_energy_share": 80.7,
+      "renewable_energy_share": 5.49,
       "solar_generation_twh": 1.6,
       "wind_generation_twh": 13.1,
       "nuclear_generation_twh": 0,
@@ -1230,7 +1230,7 @@
     "DNK": {
       "total_energy_production_twh": 133,
       "energy_consumption_pc": 5548,
-      "renewable_energy_share": 80.9,
+      "renewable_energy_share": 91.17,
       "solar_generation_twh": 4.5,
       "wind_generation_twh": 19.2,
       "nuclear_generation_twh": 0,
@@ -1241,7 +1241,7 @@
     "SVK": {
       "total_energy_production_twh": 65,
       "energy_consumption_pc": 5315,
-      "renewable_energy_share": 72.7,
+      "renewable_energy_share": 18.73,
       "solar_generation_twh": 0.7,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 19.3,
@@ -1252,7 +1252,7 @@
     "CAF": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 27,
-      "renewable_energy_share": 31.2,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1263,7 +1263,7 @@
     "FIN": {
       "total_energy_production_twh": 207,
       "energy_consumption_pc": 14635,
-      "renewable_energy_share": 80.1,
+      "renewable_energy_share": 56.46,
       "solar_generation_twh": 1,
       "wind_generation_twh": 22.6,
       "nuclear_generation_twh": 32.8,
@@ -1274,7 +1274,7 @@
     "NOR": {
       "total_energy_production_twh": 2513,
       "energy_consumption_pc": 28598,
-      "renewable_energy_share": 82.1,
+      "renewable_energy_share": 99,
       "solar_generation_twh": 0.5,
       "wind_generation_twh": 13.6,
       "nuclear_generation_twh": 0,
@@ -1285,7 +1285,7 @@
     "LBR": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 102,
-      "renewable_energy_share": 37,
+      "renewable_energy_share": 54.39,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1296,7 +1296,7 @@
     "PSE": {
       "total_energy_production_twh": 24,
       "energy_consumption_pc": 180,
-      "renewable_energy_share": 58.3,
+      "renewable_energy_share": 39.39,
       "solar_generation_twh": 0.4,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1307,7 +1307,7 @@
     "NZL": {
       "total_energy_production_twh": 117,
       "energy_consumption_pc": 8252,
-      "renewable_energy_share": 79.8,
+      "renewable_energy_share": 88.53,
       "solar_generation_twh": 0.4,
       "wind_generation_twh": 4.2,
       "nuclear_generation_twh": 0,
@@ -1318,7 +1318,7 @@
     "CRI": {
       "total_energy_production_twh": 46,
       "energy_consumption_pc": 2486,
-      "renewable_energy_share": 67.5,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 1.6,
       "nuclear_generation_twh": 0,
@@ -1329,7 +1329,7 @@
     "IRL": {
       "total_energy_production_twh": 40,
       "energy_consumption_pc": 5831,
-      "renewable_energy_share": 80.8,
+      "renewable_energy_share": 48.14,
       "solar_generation_twh": 1.5,
       "wind_generation_twh": 11.8,
       "nuclear_generation_twh": 0,
@@ -1340,7 +1340,7 @@
     "MRT": {
       "total_energy_production_twh": 21,
       "energy_consumption_pc": 400,
-      "renewable_energy_share": 44.2,
+      "renewable_energy_share": 22.7,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -1351,7 +1351,7 @@
     "OMN": {
       "total_energy_production_twh": 1016,
       "energy_consumption_pc": 9617,
-      "renewable_energy_share": 69.8,
+      "renewable_energy_share": 4.54,
       "solar_generation_twh": 2.3,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -1362,7 +1362,7 @@
     "PAN": {
       "total_energy_production_twh": 102,
       "energy_consumption_pc": 2974,
-      "renewable_energy_share": 67.1,
+      "renewable_energy_share": 67.98,
       "solar_generation_twh": 1,
       "wind_generation_twh": 1,
       "nuclear_generation_twh": 0,
@@ -1373,7 +1373,7 @@
     "KWT": {
       "total_energy_production_twh": 1670,
       "energy_consumption_pc": 18402,
-      "renewable_energy_share": 68.3,
+      "renewable_energy_share": 2.24,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 1.9,
       "nuclear_generation_twh": 0,
@@ -1384,7 +1384,7 @@
     "HRV": {
       "total_energy_production_twh": 28,
       "energy_consumption_pc": 3820,
-      "renewable_energy_share": 70.6,
+      "renewable_energy_share": 76.26,
       "solar_generation_twh": 1.3,
       "wind_generation_twh": 3.1,
       "nuclear_generation_twh": 0,
@@ -1395,7 +1395,7 @@
     "GEO": {
       "total_energy_production_twh": 63,
       "energy_consumption_pc": 3546,
-      "renewable_energy_share": 66.3,
+      "renewable_energy_share": 79.63,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -1406,7 +1406,7 @@
     "ERI": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 127,
-      "renewable_energy_share": 37.4,
+      "renewable_energy_share": 11.11,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1417,7 +1417,7 @@
     "URY": {
       "total_energy_production_twh": 45,
       "energy_consumption_pc": 3528,
-      "renewable_energy_share": 68.3,
+      "renewable_energy_share": 97.82,
       "solar_generation_twh": 0.6,
       "wind_generation_twh": 4.8,
       "nuclear_generation_twh": 0,
@@ -1428,7 +1428,7 @@
     "MNG": {
       "total_energy_production_twh": 564,
       "energy_consumption_pc": 2755,
-      "renewable_energy_share": 63,
+      "renewable_energy_share": 8.36,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0.5,
       "nuclear_generation_twh": 0,
@@ -1439,7 +1439,7 @@
     "BIH": {
       "total_energy_production_twh": 85,
       "energy_consumption_pc": 4599,
-      "renewable_energy_share": 65.3,
+      "renewable_energy_share": 43.56,
       "solar_generation_twh": 0.6,
       "wind_generation_twh": 0.4,
       "nuclear_generation_twh": 0,
@@ -1450,7 +1450,7 @@
     "QAT": {
       "total_energy_production_twh": 2678,
       "energy_consumption_pc": 18030,
-      "renewable_energy_share": 72.8,
+      "renewable_energy_share": 4.06,
       "solar_generation_twh": 2.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1461,7 +1461,7 @@
     "NAM": {
       "total_energy_production_twh": 19,
       "energy_consumption_pc": 541,
-      "renewable_energy_share": 55,
+      "renewable_energy_share": 97.56,
       "solar_generation_twh": 0.6,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1472,7 +1472,7 @@
     "ARM": {
       "total_energy_production_twh": 47,
       "energy_consumption_pc": 3292,
-      "renewable_energy_share": 64.2,
+      "renewable_energy_share": 38.99,
       "solar_generation_twh": 1.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 2.6,
@@ -1483,7 +1483,7 @@
     "LTU": {
       "total_energy_production_twh": 17,
       "energy_consumption_pc": 3141,
-      "renewable_energy_share": 72.9,
+      "renewable_energy_share": 77.61,
       "solar_generation_twh": 1.7,
       "wind_generation_twh": 4,
       "nuclear_generation_twh": 0,
@@ -1494,7 +1494,7 @@
     "JAM": {
       "total_energy_production_twh": 35,
       "energy_consumption_pc": 1733,
-      "renewable_energy_share": 62.2,
+      "renewable_energy_share": 12.6,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0.3,
       "nuclear_generation_twh": 0,
@@ -1505,7 +1505,7 @@
     "ALB": {
       "total_energy_production_twh": 23,
       "energy_consumption_pc": 2987,
-      "renewable_energy_share": 66.7,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0.3,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1516,7 +1516,7 @@
     "GMB": {
       "total_energy_production_twh": 2,
       "energy_consumption_pc": 185,
-      "renewable_energy_share": 39.1,
+      "renewable_energy_share": 0,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1527,7 +1527,7 @@
     "GAB": {
       "total_energy_production_twh": 130,
       "energy_consumption_pc": 1024,
-      "renewable_energy_share": 59.7,
+      "renewable_energy_share": 35.38,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1538,7 +1538,7 @@
     "BWA": {
       "total_energy_production_twh": 24,
       "energy_consumption_pc": 1360,
-      "renewable_energy_share": 60.9,
+      "renewable_energy_share": 0.29,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1549,7 +1549,7 @@
     "LSO": {
       "total_energy_production_twh": 5,
       "energy_consumption_pc": 4480,
-      "renewable_energy_share": 44.2,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1560,7 +1560,7 @@
     "GNB": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 36,
-      "renewable_energy_share": 38.7,
+      "renewable_energy_share": 0,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1571,7 +1571,7 @@
     "SVN": {
       "total_energy_production_twh": 33,
       "energy_consumption_pc": 7010,
-      "renewable_energy_share": 78.7,
+      "renewable_energy_share": 39.62,
       "solar_generation_twh": 1.5,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 5.8,
@@ -1582,7 +1582,7 @@
     "GNQ": {
       "total_energy_production_twh": 50,
       "energy_consumption_pc": 787,
-      "renewable_energy_share": 50.2,
+      "renewable_energy_share": 26.85,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1593,7 +1593,7 @@
     "LVA": {
       "total_energy_production_twh": 11,
       "energy_consumption_pc": 3383,
-      "renewable_energy_share": 72,
+      "renewable_energy_share": 73.05,
       "solar_generation_twh": 0.8,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -1604,7 +1604,7 @@
     "MKD": {
       "total_energy_production_twh": 5,
       "energy_consumption_pc": 3760,
-      "renewable_energy_share": 64.3,
+      "renewable_energy_share": 47.21,
       "solar_generation_twh": 1.6,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -1615,7 +1615,7 @@
     "BHR": {
       "total_energy_production_twh": 166,
       "energy_consumption_pc": 23615,
-      "renewable_energy_share": 71.9,
+      "renewable_energy_share": 0.26,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1626,7 +1626,7 @@
     "TTO": {
       "total_energy_production_twh": 284,
       "energy_consumption_pc": 6334,
-      "renewable_energy_share": 66.6,
+      "renewable_energy_share": 0.1,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1637,7 +1637,7 @@
     "TLS": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 364,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 0,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1648,7 +1648,7 @@
     "CYP": {
       "total_energy_production_twh": 4,
       "energy_consumption_pc": 4311,
-      "renewable_energy_share": 73.9,
+      "renewable_energy_share": 27.75,
       "solar_generation_twh": 1.4,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -1659,7 +1659,7 @@
     "EST": {
       "total_energy_production_twh": 10,
       "energy_consumption_pc": 4545,
-      "renewable_energy_share": 74,
+      "renewable_energy_share": 59.57,
       "solar_generation_twh": 1.1,
       "wind_generation_twh": 1.1,
       "nuclear_generation_twh": 0,
@@ -1670,7 +1670,7 @@
     "MUS": {
       "total_energy_production_twh": 22,
       "energy_consumption_pc": 2683,
-      "renewable_energy_share": 67.2,
+      "renewable_energy_share": 17.89,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1681,7 +1681,7 @@
     "SWZ": {
       "total_energy_production_twh": 7,
       "energy_consumption_pc": 491,
-      "renewable_energy_share": 50,
+      "renewable_energy_share": 96.72,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1692,7 +1692,7 @@
     "DJI": {
       "total_energy_production_twh": 4,
       "energy_consumption_pc": 171,
-      "renewable_energy_share": 40.5,
+      "renewable_energy_share": 35,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -1703,7 +1703,7 @@
     "FJI": {
       "total_energy_production_twh": 7,
       "energy_consumption_pc": 1238,
-      "renewable_energy_share": 63,
+      "renewable_energy_share": 63.48,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1714,7 +1714,7 @@
     "COM": {
       "total_energy_production_twh": 2,
       "energy_consumption_pc": 165,
-      "renewable_energy_share": 42.8,
+      "renewable_energy_share": 0,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1725,7 +1725,7 @@
     "GUY": {
       "total_energy_production_twh": 358,
       "energy_consumption_pc": 1660,
-      "renewable_energy_share": 55.6,
+      "renewable_energy_share": 2.9,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1736,7 +1736,7 @@
     "BTN": {
       "total_energy_production_twh": 15,
       "energy_consumption_pc": 13897,
-      "renewable_energy_share": 52,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1747,7 +1747,7 @@
     "SLB": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 134,
-      "renewable_energy_share": 46.4,
+      "renewable_energy_share": 9.09,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1758,7 +1758,7 @@
     "LUX": {
       "total_energy_production_twh": 6,
       "energy_consumption_pc": 2263,
-      "renewable_energy_share": 78.8,
+      "renewable_energy_share": 91.56,
       "solar_generation_twh": 0.5,
       "wind_generation_twh": 0.5,
       "nuclear_generation_twh": 0,
@@ -1769,7 +1769,7 @@
     "MNE": {
       "total_energy_production_twh": 12,
       "energy_consumption_pc": 3888,
-      "renewable_energy_share": 69.2,
+      "renewable_energy_share": 75.61,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0.3,
       "nuclear_generation_twh": 0,
@@ -1780,7 +1780,7 @@
     "SUR": {
       "total_energy_production_twh": 11,
       "energy_consumption_pc": 2743,
-      "renewable_energy_share": 61.2,
+      "renewable_energy_share": 52.87,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1791,7 +1791,7 @@
     "CPV": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 991,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 30.77,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -1802,7 +1802,7 @@
     "MDV": {
       "total_energy_production_twh": 8,
       "energy_consumption_pc": 1610,
-      "renewable_energy_share": 60.9,
+      "renewable_energy_share": 7.06,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1813,7 +1813,7 @@
     "MLT": {
       "total_energy_production_twh": 38,
       "energy_consumption_pc": 4015,
-      "renewable_energy_share": 74.6,
+      "renewable_energy_share": 15.98,
       "solar_generation_twh": 0.3,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1824,7 +1824,7 @@
     "BRN": {
       "total_energy_production_twh": 160,
       "energy_consumption_pc": 12016,
-      "renewable_energy_share": 72.5,
+      "renewable_energy_share": 0.18,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1835,7 +1835,7 @@
     "BLZ": {
       "total_energy_production_twh": 4,
       "energy_consumption_pc": 1127,
-      "renewable_energy_share": 60.2,
+      "renewable_energy_share": 87.23,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1846,7 +1846,7 @@
     "BHS": {
       "total_energy_production_twh": 12,
       "energy_consumption_pc": 5607,
-      "renewable_energy_share": 68.6,
+      "renewable_energy_share": 0.89,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1857,7 +1857,7 @@
     "ISL": {
       "total_energy_production_twh": 52,
       "energy_consumption_pc": 48424,
-      "renewable_energy_share": 81.5,
+      "renewable_energy_share": 100,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1868,7 +1868,7 @@
     "VUT": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 250,
-      "renewable_energy_share": 51.3,
+      "renewable_energy_share": 25,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1879,7 +1879,7 @@
     "BRB": {
       "total_energy_production_twh": 6,
       "energy_consumption_pc": 3930,
-      "renewable_energy_share": 68,
+      "renewable_energy_share": 9.01,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1890,7 +1890,7 @@
     "STP": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 390,
-      "renewable_energy_share": 50.1,
+      "renewable_energy_share": 11.11,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1901,7 +1901,7 @@
     "WSM": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 734,
-      "renewable_energy_share": 60.6,
+      "renewable_energy_share": 43.75,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1912,7 +1912,7 @@
     "LCA": {
       "total_energy_production_twh": 2,
       "energy_consumption_pc": 2225,
-      "renewable_energy_share": 63.5,
+      "renewable_energy_share": 2.5,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1923,7 +1923,7 @@
     "KIR": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 297,
-      "renewable_energy_share": 52,
+      "renewable_energy_share": 25,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1934,7 +1934,7 @@
     "GRD": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 2047,
-      "renewable_energy_share": 65.6,
+      "renewable_energy_share": 0,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1945,7 +1945,7 @@
     "VCT": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 1491,
-      "renewable_energy_share": 61.5,
+      "renewable_energy_share": 13.33,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1956,7 +1956,7 @@
     "FSM": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 6550,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 18.7,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1967,7 +1967,7 @@
     "SYC": {
       "total_energy_production_twh": 4,
       "energy_consumption_pc": 4830,
-      "renewable_energy_share": 67.7,
+      "renewable_energy_share": 15.87,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1978,7 +1978,7 @@
     "ATG": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 3945,
-      "renewable_energy_share": 66.3,
+      "renewable_energy_share": 8.11,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -1989,7 +1989,7 @@
     "AND": {
       "total_energy_production_twh": 3,
       "energy_consumption_pc": 8367,
-      "renewable_energy_share": 72.9,
+      "renewable_energy_share": 50.3,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -2000,7 +2000,7 @@
     "DMA": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 2255,
-      "renewable_energy_share": 60.8,
+      "renewable_energy_share": 13.33,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2011,7 +2011,7 @@
     "MHL": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 6642,
-      "renewable_energy_share": 60.2,
+      "renewable_energy_share": 18.4,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2022,7 +2022,7 @@
     "KNA": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 4908,
-      "renewable_energy_share": 66.1,
+      "renewable_energy_share": 8.7,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2033,7 +2033,7 @@
     "MCO": {
       "total_energy_production_twh": 7,
       "energy_consumption_pc": 6550,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 51.4,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -2044,7 +2044,7 @@
     "LIE": {
       "total_energy_production_twh": 6,
       "energy_consumption_pc": 9034,
-      "renewable_energy_share": 77.9,
+      "renewable_energy_share": 54.5,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -2055,7 +2055,7 @@
     "SMR": {
       "total_energy_production_twh": 2,
       "energy_consumption_pc": 6550,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 51.5,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2066,7 +2066,7 @@
     "PLW": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 7677,
-      "renewable_energy_share": 67.8,
+      "renewable_energy_share": 18.8,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2077,7 +2077,7 @@
     "NRU": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 4178,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 20,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2088,7 +2088,7 @@
     "TUV": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 6550,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 18.4,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2099,7 +2099,7 @@
     "VAT": {
       "total_energy_production_twh": 4,
       "energy_consumption_pc": 6550,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 49.7,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0.1,
       "nuclear_generation_twh": 0,
@@ -2110,7 +2110,7 @@
     "BFA": {
       "total_energy_production_twh": 23,
       "energy_consumption_pc": 72,
-      "renewable_energy_share": 36,
+      "renewable_energy_share": 17.16,
       "solar_generation_twh": 0.1,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2121,7 +2121,7 @@
     "KHM": {
       "total_energy_production_twh": 80,
       "energy_consumption_pc": 995,
-      "renewable_energy_share": 49.5,
+      "renewable_energy_share": 40.88,
       "solar_generation_twh": 1.9,
       "wind_generation_twh": 0.8,
       "nuclear_generation_twh": 0,
@@ -2132,7 +2132,7 @@
     "LBN": {
       "total_energy_production_twh": 73,
       "energy_consumption_pc": 920,
-      "renewable_energy_share": 64.3,
+      "renewable_energy_share": 43.82,
       "solar_generation_twh": 1.6,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2143,7 +2143,7 @@
     "MWI": {
       "total_energy_production_twh": 11,
       "energy_consumption_pc": 85,
-      "renewable_energy_share": 40.5,
+      "renewable_energy_share": 95.63,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2154,7 +2154,7 @@
     "MDA": {
       "total_energy_production_twh": 37,
       "energy_consumption_pc": 2056,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 11.2,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0.2,
       "nuclear_generation_twh": 0,
@@ -2165,7 +2165,7 @@
     "TON": {
       "total_energy_production_twh": 1,
       "energy_consumption_pc": 672,
-      "renewable_energy_share": 61.7,
+      "renewable_energy_share": 14.29,
       "solar_generation_twh": 0,
       "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
@@ -2176,7 +2176,7 @@
     "XKX": {
       "total_energy_production_twh": 9,
       "energy_consumption_pc": 6550,
-      "renewable_energy_share": 59.5,
+      "renewable_energy_share": 50.3,
       "solar_generation_twh": 0.2,
       "wind_generation_twh": 0.3,
       "nuclear_generation_twh": 0,

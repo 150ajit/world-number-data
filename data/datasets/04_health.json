@@ -7,9 +7,9 @@
   "countriesCount": 198,
   "countries": {
     "IND": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.9,
+      "mortality_under5": 61.9,
+      "maternal_mortality_ratio": 359,
       "ncd_mortality_rate": 21.8,
       "cvd_death_rate": 371,
       "hospital_beds_per_1k": 5.5,
@@ -21,9 +21,9 @@
       "sanitation_access_pct": 64.1
     },
     "CHN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.8,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 18.7,
       "cvd_death_rate": 302,
       "hospital_beds_per_1k": 6.7,
@@ -35,9 +35,9 @@
       "sanitation_access_pct": 80.6
     },
     "USA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.7,
+      "mortality_under5": 27,
+      "maternal_mortality_ratio": 156,
       "ncd_mortality_rate": 15.6,
       "cvd_death_rate": 235,
       "hospital_beds_per_1k": 7.9,
@@ -49,9 +49,9 @@
       "sanitation_access_pct": 96.6
     },
     "IDN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63,
+      "mortality_under5": 54.3,
+      "maternal_mortality_ratio": 315,
       "ncd_mortality_rate": 20.3,
       "cvd_death_rate": 338,
       "hospital_beds_per_1k": 6.1,
@@ -63,9 +63,9 @@
       "sanitation_access_pct": 72
     },
     "PAK": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.6,
+      "mortality_under5": 71.1,
+      "maternal_mortality_ratio": 411,
       "ncd_mortality_rate": 24.1,
       "cvd_death_rate": 421,
       "hospital_beds_per_1k": 4.6,
@@ -77,9 +77,9 @@
       "sanitation_access_pct": 52.1
     },
     "NGA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.3,
+      "mortality_under5": 118.9,
+      "maternal_mortality_ratio": 689,
       "ncd_mortality_rate": 23.9,
       "cvd_death_rate": 417,
       "hospital_beds_per_1k": 4.7,
@@ -91,9 +91,9 @@
       "sanitation_access_pct": 53
     },
     "BRA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.5,
+      "mortality_under5": 38.4,
+      "maternal_mortality_ratio": 222,
       "ncd_mortality_rate": 19.3,
       "cvd_death_rate": 315,
       "hospital_beds_per_1k": 6.5,
@@ -105,9 +105,9 @@
       "sanitation_access_pct": 77.4
     },
     "BGD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.8,
+      "mortality_under5": 50.9,
+      "maternal_mortality_ratio": 295,
       "ncd_mortality_rate": 21.3,
       "cvd_death_rate": 358,
       "hospital_beds_per_1k": 5.7,
@@ -119,9 +119,9 @@
       "sanitation_access_pct": 67.1
     },
     "RUS": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.9,
+      "mortality_under5": 50.9,
+      "maternal_mortality_ratio": 295,
       "ncd_mortality_rate": 17.9,
       "cvd_death_rate": 286,
       "hospital_beds_per_1k": 7,
@@ -133,9 +133,9 @@
       "sanitation_access_pct": 84.4
     },
     "ETH": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 57.9,
+      "mortality_under5": 73.7,
+      "maternal_mortality_ratio": 427,
       "ncd_mortality_rate": 25.2,
       "cvd_death_rate": 444,
       "hospital_beds_per_1k": 4.2,
@@ -147,9 +147,9 @@
       "sanitation_access_pct": 46.6
     },
     "MEX": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.1,
+      "mortality_under5": 41.4,
+      "maternal_mortality_ratio": 240,
       "ncd_mortality_rate": 18.8,
       "cvd_death_rate": 305,
       "hospital_beds_per_1k": 6.6,
@@ -161,9 +161,9 @@
       "sanitation_access_pct": 79.8
     },
     "JPN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 73.2,
+      "mortality_under5": 5.3,
+      "maternal_mortality_ratio": 31,
       "ncd_mortality_rate": 15.8,
       "cvd_death_rate": 238,
       "hospital_beds_per_1k": 7.8,
@@ -175,9 +175,9 @@
       "sanitation_access_pct": 95.8
     },
     "PHL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.6,
+      "mortality_under5": 56.2,
+      "maternal_mortality_ratio": 326,
       "ncd_mortality_rate": 20.4,
       "cvd_death_rate": 339,
       "hospital_beds_per_1k": 6,
@@ -189,9 +189,9 @@
       "sanitation_access_pct": 71.6
     },
     "EGY": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62,
+      "mortality_under5": 53.2,
+      "maternal_mortality_ratio": 308,
       "ncd_mortality_rate": 20,
       "cvd_death_rate": 331,
       "hospital_beds_per_1k": 6.2,
@@ -203,9 +203,9 @@
       "sanitation_access_pct": 73.7
     },
     "COD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -217,9 +217,9 @@
       "sanitation_access_pct": 70.5
     },
     "VNM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.9,
+      "mortality_under5": 40.3,
+      "maternal_mortality_ratio": 233,
       "ncd_mortality_rate": 20,
       "cvd_death_rate": 332,
       "hospital_beds_per_1k": 6.2,
@@ -231,9 +231,9 @@
       "sanitation_access_pct": 73.5
     },
     "IRN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.8,
+      "mortality_under5": 35.3,
+      "maternal_mortality_ratio": 205,
       "ncd_mortality_rate": 18.4,
       "cvd_death_rate": 297,
       "hospital_beds_per_1k": 6.8,
@@ -245,9 +245,9 @@
       "sanitation_access_pct": 81.8
     },
     "TUR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.6,
+      "mortality_under5": 31.5,
+      "maternal_mortality_ratio": 183,
       "ncd_mortality_rate": 17.2,
       "cvd_death_rate": 270,
       "hospital_beds_per_1k": 7.3,
@@ -259,9 +259,9 @@
       "sanitation_access_pct": 88.3
     },
     "DEU": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.2,
+      "mortality_under5": 17.9,
+      "maternal_mortality_ratio": 103,
       "ncd_mortality_rate": 15.1,
       "cvd_death_rate": 224,
       "hospital_beds_per_1k": 8.1,
@@ -273,9 +273,9 @@
       "sanitation_access_pct": 99.3
     },
     "THA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.9,
+      "mortality_under5": 33.4,
+      "maternal_mortality_ratio": 194,
       "ncd_mortality_rate": 18.3,
       "cvd_death_rate": 295,
       "hospital_beds_per_1k": 6.8,
@@ -287,9 +287,9 @@
       "sanitation_access_pct": 82.3
     },
     "GBR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70,
+      "mortality_under5": 17.9,
+      "maternal_mortality_ratio": 103,
       "ncd_mortality_rate": 15.3,
       "cvd_death_rate": 229,
       "hospital_beds_per_1k": 8,
@@ -301,9 +301,9 @@
       "sanitation_access_pct": 98.1
     },
     "TZA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.5,
+      "mortality_under5": 77.9,
+      "maternal_mortality_ratio": 451,
       "ncd_mortality_rate": 24.2,
       "cvd_death_rate": 422,
       "hospital_beds_per_1k": 4.6,
@@ -315,9 +315,9 @@
       "sanitation_access_pct": 51.9
     },
     "FRA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.7,
+      "mortality_under5": 12.5,
+      "maternal_mortality_ratio": 73,
       "ncd_mortality_rate": 16,
       "cvd_death_rate": 243,
       "hospital_beds_per_1k": 7.7,
@@ -329,9 +329,9 @@
       "sanitation_access_pct": 94.7
     },
     "ZAF": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 53.8,
+      "mortality_under5": 83.2,
+      "maternal_mortality_ratio": 482,
       "ncd_mortality_rate": 20.2,
       "cvd_death_rate": 336,
       "hospital_beds_per_1k": 6.1,
@@ -343,9 +343,9 @@
       "sanitation_access_pct": 72.5
     },
     "ITA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.8,
+      "mortality_under5": 9.5,
+      "maternal_mortality_ratio": 55,
       "ncd_mortality_rate": 16.1,
       "cvd_death_rate": 245,
       "hospital_beds_per_1k": 7.7,
@@ -357,9 +357,9 @@
       "sanitation_access_pct": 94.2
     },
     "KEN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.6,
+      "mortality_under5": 73.3,
+      "maternal_mortality_ratio": 425,
       "ncd_mortality_rate": 23,
       "cvd_death_rate": 397,
       "hospital_beds_per_1k": 5,
@@ -371,9 +371,9 @@
       "sanitation_access_pct": 57.8
     },
     "MMR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.6,
+      "mortality_under5": 71.8,
+      "maternal_mortality_ratio": 416,
       "ncd_mortality_rate": 23.3,
       "cvd_death_rate": 403,
       "hospital_beds_per_1k": 4.9,
@@ -385,9 +385,9 @@
       "sanitation_access_pct": 56.5
     },
     "COL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.1,
+      "mortality_under5": 33.1,
+      "maternal_mortality_ratio": 191,
       "ncd_mortality_rate": 19.3,
       "cvd_death_rate": 316,
       "hospital_beds_per_1k": 6.4,
@@ -399,9 +399,9 @@
       "sanitation_access_pct": 77.2
     },
     "KOR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.8,
+      "mortality_under5": 11.4,
+      "maternal_mortality_ratio": 66,
       "ncd_mortality_rate": 15.6,
       "cvd_death_rate": 234,
       "hospital_beds_per_1k": 7.9,
@@ -413,9 +413,9 @@
       "sanitation_access_pct": 96.8
     },
     "UGA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 54.4,
+      "mortality_under5": 85.9,
+      "maternal_mortality_ratio": 497,
       "ncd_mortality_rate": 24.6,
       "cvd_death_rate": 432,
       "hospital_beds_per_1k": 4.4,
@@ -427,9 +427,9 @@
       "sanitation_access_pct": 49.3
     },
     "SDN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.2,
+      "mortality_under5": 78.7,
+      "maternal_mortality_ratio": 455,
       "ncd_mortality_rate": 25,
       "cvd_death_rate": 439,
       "hospital_beds_per_1k": 4.3,
@@ -441,9 +441,9 @@
       "sanitation_access_pct": 47.7
     },
     "ESP": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 72.6,
+      "mortality_under5": 9.1,
+      "maternal_mortality_ratio": 53,
       "ncd_mortality_rate": 16,
       "cvd_death_rate": 243,
       "hospital_beds_per_1k": 7.7,
@@ -455,9 +455,9 @@
       "sanitation_access_pct": 94.8
     },
     "ARG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.2,
+      "mortality_under5": 35.3,
+      "maternal_mortality_ratio": 205,
       "ncd_mortality_rate": 17.3,
       "cvd_death_rate": 272,
       "hospital_beds_per_1k": 7.2,
@@ -469,9 +469,9 @@
       "sanitation_access_pct": 87.6
     },
     "DZA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.1,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 19.4,
       "cvd_death_rate": 318,
       "hospital_beds_per_1k": 6.4,
@@ -483,9 +483,9 @@
       "sanitation_access_pct": 76.7
     },
     "IRQ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 57.4,
+      "mortality_under5": 58.5,
+      "maternal_mortality_ratio": 339,
       "ncd_mortality_rate": 20.9,
       "cvd_death_rate": 351,
       "hospital_beds_per_1k": 5.8,
@@ -497,9 +497,9 @@
       "sanitation_access_pct": 68.8
     },
     "AFG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 49.5,
+      "mortality_under5": 80.6,
+      "maternal_mortality_ratio": 466,
       "ncd_mortality_rate": 25,
       "cvd_death_rate": 441,
       "hospital_beds_per_1k": 4.2,
@@ -511,9 +511,9 @@
       "sanitation_access_pct": 47.3
     },
     "POL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.6,
+      "mortality_under5": 27.7,
+      "maternal_mortality_ratio": 161,
       "ncd_mortality_rate": 16.6,
       "cvd_death_rate": 257,
       "hospital_beds_per_1k": 7.5,
@@ -525,9 +525,9 @@
       "sanitation_access_pct": 91.3
     },
     "CAN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.2,
+      "mortality_under5": 13.7,
+      "maternal_mortality_ratio": 79,
       "ncd_mortality_rate": 15.4,
       "cvd_death_rate": 231,
       "hospital_beds_per_1k": 7.9,
@@ -539,9 +539,9 @@
       "sanitation_access_pct": 97.5
     },
     "MAR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64,
+      "mortality_under5": 35.3,
+      "maternal_mortality_ratio": 205,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 345,
       "hospital_beds_per_1k": 5.9,
@@ -553,9 +553,9 @@
       "sanitation_access_pct": 70.3
     },
     "SAU": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.4,
+      "mortality_under5": 41.4,
+      "maternal_mortality_ratio": 240,
       "ncd_mortality_rate": 16.8,
       "cvd_death_rate": 260,
       "hospital_beds_per_1k": 7.4,
@@ -567,9 +567,9 @@
       "sanitation_access_pct": 90.6
     },
     "UKR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63,
+      "mortality_under5": 52.8,
+      "maternal_mortality_ratio": 306,
       "ncd_mortality_rate": 19.9,
       "cvd_death_rate": 328,
       "hospital_beds_per_1k": 6.2,
@@ -581,9 +581,9 @@
       "sanitation_access_pct": 74.4
     },
     "AGO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.3,
+      "mortality_under5": 94.6,
+      "maternal_mortality_ratio": 548,
       "ncd_mortality_rate": 23.2,
       "cvd_death_rate": 401,
       "hospital_beds_per_1k": 4.9,
@@ -595,9 +595,9 @@
       "sanitation_access_pct": 56.8
     },
     "UZB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.8,
+      "mortality_under5": 54.3,
+      "maternal_mortality_ratio": 315,
       "ncd_mortality_rate": 20.4,
       "cvd_death_rate": 339,
       "hospital_beds_per_1k": 6,
@@ -609,9 +609,9 @@
       "sanitation_access_pct": 71.6
     },
     "YEM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56,
+      "mortality_under5": 75.6,
+      "maternal_mortality_ratio": 438,
       "ncd_mortality_rate": 26.1,
       "cvd_death_rate": 463,
       "hospital_beds_per_1k": 3.8,
@@ -623,9 +623,9 @@
       "sanitation_access_pct": 42
     },
     "PER": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.8,
+      "mortality_under5": 35.3,
+      "maternal_mortality_ratio": 205,
       "ncd_mortality_rate": 19.5,
       "cvd_death_rate": 320,
       "hospital_beds_per_1k": 6.4,
@@ -637,9 +637,9 @@
       "sanitation_access_pct": 76.3
     },
     "MYS": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.4,
+      "mortality_under5": 37.2,
+      "maternal_mortality_ratio": 216,
       "ncd_mortality_rate": 18.2,
       "cvd_death_rate": 293,
       "hospital_beds_per_1k": 6.9,
@@ -651,9 +651,9 @@
       "sanitation_access_pct": 82.8
     },
     "GHA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 57.9,
+      "mortality_under5": 83.2,
+      "maternal_mortality_ratio": 482,
       "ncd_mortality_rate": 23,
       "cvd_death_rate": 396,
       "hospital_beds_per_1k": 5,
@@ -665,9 +665,9 @@
       "sanitation_access_pct": 58.1
     },
     "MOZ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.1,
+      "mortality_under5": 95.4,
+      "maternal_mortality_ratio": 552,
       "ncd_mortality_rate": 26.4,
       "cvd_death_rate": 470,
       "hospital_beds_per_1k": 3.7,
@@ -679,9 +679,9 @@
       "sanitation_access_pct": 40.3
     },
     "NPL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.4,
+      "mortality_under5": 57.8,
+      "maternal_mortality_ratio": 334,
       "ncd_mortality_rate": 23.4,
       "cvd_death_rate": 404,
       "hospital_beds_per_1k": 4.9,
@@ -693,9 +693,9 @@
       "sanitation_access_pct": 56
     },
     "MDG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 55.2,
+      "mortality_under5": 72.2,
+      "maternal_mortality_ratio": 418,
       "ncd_mortality_rate": 24.6,
       "cvd_death_rate": 431,
       "hospital_beds_per_1k": 4.4,
@@ -707,9 +707,9 @@
       "sanitation_access_pct": 49.7
     },
     "CIV": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -721,9 +721,9 @@
       "sanitation_access_pct": 70.5
     },
     "VEN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.6,
+      "mortality_under5": 52.8,
+      "maternal_mortality_ratio": 306,
       "ncd_mortality_rate": 19.3,
       "cvd_death_rate": 315,
       "hospital_beds_per_1k": 6.5,
@@ -735,9 +735,9 @@
       "sanitation_access_pct": 77.5
     },
     "CMR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.5,
+      "mortality_under5": 101.5,
+      "maternal_mortality_ratio": 587,
       "ncd_mortality_rate": 23.8,
       "cvd_death_rate": 413,
       "hospital_beds_per_1k": 4.7,
@@ -749,9 +749,9 @@
       "sanitation_access_pct": 53.9
     },
     "NER": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 54,
+      "mortality_under5": 89.7,
+      "maternal_mortality_ratio": 519,
       "ncd_mortality_rate": 27.3,
       "cvd_death_rate": 491,
       "hospital_beds_per_1k": 3.3,
@@ -763,9 +763,9 @@
       "sanitation_access_pct": 35.3
     },
     "AUS": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.5,
+      "mortality_under5": 9.9,
+      "maternal_mortality_ratio": 57,
       "ncd_mortality_rate": 15.2,
       "cvd_death_rate": 226,
       "hospital_beds_per_1k": 8,
@@ -777,9 +777,9 @@
       "sanitation_access_pct": 98.8
     },
     "PRK": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63,
+      "mortality_under5": 52.1,
+      "maternal_mortality_ratio": 301,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -791,9 +791,9 @@
       "sanitation_access_pct": 70.5
     },
     "TWN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.1,
+      "mortality_under5": 20.9,
+      "maternal_mortality_ratio": 121,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -805,9 +805,9 @@
       "sanitation_access_pct": 70.5
     },
     "MLI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 53.7,
+      "mortality_under5": 101.5,
+      "maternal_mortality_ratio": 587,
       "ncd_mortality_rate": 26.6,
       "cvd_death_rate": 475,
       "hospital_beds_per_1k": 3.6,
@@ -819,9 +819,9 @@
       "sanitation_access_pct": 39.1
     },
     "LKA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.8,
+      "mortality_under5": 34.2,
+      "maternal_mortality_ratio": 198,
       "ncd_mortality_rate": 19.1,
       "cvd_death_rate": 310,
       "hospital_beds_per_1k": 6.5,
@@ -833,9 +833,9 @@
       "sanitation_access_pct": 78.5
     },
     "SYR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.8,
+      "mortality_under5": 50.5,
+      "maternal_mortality_ratio": 293,
       "ncd_mortality_rate": 24.2,
       "cvd_death_rate": 423,
       "hospital_beds_per_1k": 4.6,
@@ -847,9 +847,9 @@
       "sanitation_access_pct": 51.6
     },
     "KAZ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.7,
+      "mortality_under5": 47.1,
+      "maternal_mortality_ratio": 273,
       "ncd_mortality_rate": 18.4,
       "cvd_death_rate": 296,
       "hospital_beds_per_1k": 6.8,
@@ -861,9 +861,9 @@
       "sanitation_access_pct": 82
     },
     "CHL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.9,
+      "mortality_under5": 22,
+      "maternal_mortality_ratio": 128,
       "ncd_mortality_rate": 17.1,
       "cvd_death_rate": 267,
       "hospital_beds_per_1k": 7.3,
@@ -875,9 +875,9 @@
       "sanitation_access_pct": 88.9
     },
     "ZMB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 51.5,
+      "mortality_under5": 84,
+      "maternal_mortality_ratio": 486,
       "ncd_mortality_rate": 23.1,
       "cvd_death_rate": 398,
       "hospital_beds_per_1k": 5,
@@ -889,9 +889,9 @@
       "sanitation_access_pct": 57.6
     },
     "ROU": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.5,
+      "mortality_under5": 37.6,
+      "maternal_mortality_ratio": 218,
       "ncd_mortality_rate": 18.2,
       "cvd_death_rate": 291,
       "hospital_beds_per_1k": 6.9,
@@ -903,9 +903,9 @@
       "sanitation_access_pct": 83.3
     },
     "TCD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 51.7,
+      "mortality_under5": 120.8,
+      "maternal_mortality_ratio": 700,
       "ncd_mortality_rate": 27.3,
       "cvd_death_rate": 491,
       "hospital_beds_per_1k": 3.3,
@@ -917,9 +917,9 @@
       "sanitation_access_pct": 35.3
     },
     "SOM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 50.4,
+      "mortality_under5": 108.7,
+      "maternal_mortality_ratio": 629,
       "ncd_mortality_rate": 27.6,
       "cvd_death_rate": 498,
       "hospital_beds_per_1k": 3.2,
@@ -931,9 +931,9 @@
       "sanitation_access_pct": 33.7
     },
     "SEN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 57.9,
+      "mortality_under5": 68.8,
+      "maternal_mortality_ratio": 398,
       "ncd_mortality_rate": 24.9,
       "cvd_death_rate": 438,
       "hospital_beds_per_1k": 4.3,
@@ -945,9 +945,9 @@
       "sanitation_access_pct": 48.1
     },
     "NLD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.7,
+      "mortality_under5": 14.1,
+      "maternal_mortality_ratio": 81,
       "ncd_mortality_rate": 15.2,
       "cvd_death_rate": 226,
       "hospital_beds_per_1k": 8,
@@ -959,9 +959,9 @@
       "sanitation_access_pct": 98.8
     },
     "GTM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63.9,
+      "mortality_under5": 44.5,
+      "maternal_mortality_ratio": 257,
       "ncd_mortality_rate": 21.7,
       "cvd_death_rate": 368,
       "hospital_beds_per_1k": 5.5,
@@ -973,9 +973,9 @@
       "sanitation_access_pct": 64.8
     },
     "ECU": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 68.2,
+      "mortality_under5": 34.2,
+      "maternal_mortality_ratio": 198,
       "ncd_mortality_rate": 19.5,
       "cvd_death_rate": 319,
       "hospital_beds_per_1k": 6.4,
@@ -987,9 +987,9 @@
       "sanitation_access_pct": 76.5
     },
     "ZWE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.1,
+      "mortality_under5": 93.1,
+      "maternal_mortality_ratio": 539,
       "ncd_mortality_rate": 24.2,
       "cvd_death_rate": 423,
       "hospital_beds_per_1k": 4.5,
@@ -1001,9 +1001,9 @@
       "sanitation_access_pct": 51.5
     },
     "GIN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.9,
+      "mortality_under5": 92.7,
+      "maternal_mortality_ratio": 537,
       "ncd_mortality_rate": 25.9,
       "cvd_death_rate": 460,
       "hospital_beds_per_1k": 3.9,
@@ -1015,9 +1015,9 @@
       "sanitation_access_pct": 42.8
     },
     "RWA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 59.5,
+      "mortality_under5": 64.6,
+      "maternal_mortality_ratio": 374,
       "ncd_mortality_rate": 24.5,
       "cvd_death_rate": 428,
       "hospital_beds_per_1k": 4.5,
@@ -1029,9 +1029,9 @@
       "sanitation_access_pct": 50.3
     },
     "BEN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56,
+      "mortality_under5": 92,
+      "maternal_mortality_ratio": 532,
       "ncd_mortality_rate": 24.7,
       "cvd_death_rate": 433,
       "hospital_beds_per_1k": 4.4,
@@ -1043,9 +1043,9 @@
       "sanitation_access_pct": 49.2
     },
     "BDI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 53.5,
+      "mortality_under5": 92.7,
+      "maternal_mortality_ratio": 537,
       "ncd_mortality_rate": 26.8,
       "cvd_death_rate": 480,
       "hospital_beds_per_1k": 3.5,
@@ -1057,9 +1057,9 @@
       "sanitation_access_pct": 38
     },
     "BOL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64,
+      "mortality_under5": 55.1,
+      "maternal_mortality_ratio": 319,
       "ncd_mortality_rate": 20.8,
       "cvd_death_rate": 347,
       "hospital_beds_per_1k": 5.9,
@@ -1071,9 +1071,9 @@
       "sanitation_access_pct": 69.7
     },
     "TUN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.6,
+      "mortality_under5": 35.3,
+      "maternal_mortality_ratio": 205,
       "ncd_mortality_rate": 19.8,
       "cvd_death_rate": 327,
       "hospital_beds_per_1k": 6.2,
@@ -1085,9 +1085,9 @@
       "sanitation_access_pct": 74.5
     },
     "HTI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 55.9,
+      "mortality_under5": 83.6,
+      "maternal_mortality_ratio": 484,
       "ncd_mortality_rate": 25,
       "cvd_death_rate": 441,
       "hospital_beds_per_1k": 4.2,
@@ -1099,9 +1099,9 @@
       "sanitation_access_pct": 47.3
     },
     "BEL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.1,
+      "mortality_under5": 16.7,
+      "maternal_mortality_ratio": 97,
       "ncd_mortality_rate": 15.3,
       "cvd_death_rate": 228,
       "hospital_beds_per_1k": 8,
@@ -1113,9 +1113,9 @@
       "sanitation_access_pct": 98.3
     },
     "JOR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.1,
+      "mortality_under5": 43.7,
+      "maternal_mortality_ratio": 253,
       "ncd_mortality_rate": 19.8,
       "cvd_death_rate": 327,
       "hospital_beds_per_1k": 6.2,
@@ -1127,9 +1127,9 @@
       "sanitation_access_pct": 74.5
     },
     "DOM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.4,
+      "mortality_under5": 45.2,
+      "maternal_mortality_ratio": 262,
       "ncd_mortality_rate": 19.8,
       "cvd_death_rate": 327,
       "hospital_beds_per_1k": 6.3,
@@ -1141,9 +1141,9 @@
       "sanitation_access_pct": 74.6
     },
     "CUB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.2,
+      "mortality_under5": 27.4,
+      "maternal_mortality_ratio": 158,
       "ncd_mortality_rate": 18.9,
       "cvd_death_rate": 307,
       "hospital_beds_per_1k": 6.6,
@@ -1155,9 +1155,9 @@
       "sanitation_access_pct": 79.4
     },
     "SSD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 51.7,
+      "mortality_under5": 107.2,
+      "maternal_mortality_ratio": 620,
       "ncd_mortality_rate": 27.6,
       "cvd_death_rate": 497,
       "hospital_beds_per_1k": 3.2,
@@ -1169,9 +1169,9 @@
       "sanitation_access_pct": 33.8
     },
     "SWE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.9,
+      "mortality_under5": 12.2,
+      "maternal_mortality_ratio": 70,
       "ncd_mortality_rate": 15.1,
       "cvd_death_rate": 223,
       "hospital_beds_per_1k": 8.1,
@@ -1183,9 +1183,9 @@
       "sanitation_access_pct": 99.5
     },
     "HND": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.3,
+      "mortality_under5": 40.7,
+      "maternal_mortality_ratio": 235,
       "ncd_mortality_rate": 22.4,
       "cvd_death_rate": 384,
       "hospital_beds_per_1k": 5.2,
@@ -1197,9 +1197,9 @@
       "sanitation_access_pct": 61
     },
     "CZE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.5,
+      "mortality_under5": 25.1,
+      "maternal_mortality_ratio": 145,
       "ncd_mortality_rate": 16.3,
       "cvd_death_rate": 250,
       "hospital_beds_per_1k": 7.6,
@@ -1211,9 +1211,9 @@
       "sanitation_access_pct": 92.9
     },
     "AZE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63.4,
+      "mortality_under5": 49.4,
+      "maternal_mortality_ratio": 286,
       "ncd_mortality_rate": 19.3,
       "cvd_death_rate": 317,
       "hospital_beds_per_1k": 6.4,
@@ -1225,9 +1225,9 @@
       "sanitation_access_pct": 77.1
     },
     "GRC": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.6,
+      "mortality_under5": 14.4,
+      "maternal_mortality_ratio": 84,
       "ncd_mortality_rate": 16.4,
       "cvd_death_rate": 251,
       "hospital_beds_per_1k": 7.6,
@@ -1239,9 +1239,9 @@
       "sanitation_access_pct": 92.7
     },
     "PNG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 53.1,
+      "mortality_under5": 81.7,
+      "maternal_mortality_ratio": 473,
       "ncd_mortality_rate": 24,
       "cvd_death_rate": 419,
       "hospital_beds_per_1k": 4.6,
@@ -1253,9 +1253,9 @@
       "sanitation_access_pct": 52.6
     },
     "PRT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.5,
+      "mortality_under5": 15.2,
+      "maternal_mortality_ratio": 88,
       "ncd_mortality_rate": 17.4,
       "cvd_death_rate": 273,
       "hospital_beds_per_1k": 7.2,
@@ -1267,9 +1267,9 @@
       "sanitation_access_pct": 87.4
     },
     "HUN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.8,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 17.6,
       "cvd_death_rate": 278,
       "hospital_beds_per_1k": 7.1,
@@ -1281,9 +1281,9 @@
       "sanitation_access_pct": 86.4
     },
     "TJK": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63.1,
+      "mortality_under5": 56.6,
+      "maternal_mortality_ratio": 328,
       "ncd_mortality_rate": 21.7,
       "cvd_death_rate": 368,
       "hospital_beds_per_1k": 5.5,
@@ -1295,9 +1295,9 @@
       "sanitation_access_pct": 64.8
     },
     "ARE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.1,
+      "mortality_under5": 30.4,
+      "maternal_mortality_ratio": 176,
       "ncd_mortality_rate": 15.4,
       "cvd_death_rate": 230,
       "hospital_beds_per_1k": 8,
@@ -1309,9 +1309,9 @@
       "sanitation_access_pct": 97.8
     },
     "BLR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.1,
+      "mortality_under5": 42.6,
+      "maternal_mortality_ratio": 246,
       "ncd_mortality_rate": 18.2,
       "cvd_death_rate": 292,
       "hospital_beds_per_1k": 6.9,
@@ -1323,9 +1323,9 @@
       "sanitation_access_pct": 82.9
     },
     "ISR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.4,
+      "mortality_under5": 11.4,
+      "maternal_mortality_ratio": 66,
       "ncd_mortality_rate": 15.9,
       "cvd_death_rate": 241,
       "hospital_beds_per_1k": 7.8,
@@ -1337,9 +1337,9 @@
       "sanitation_access_pct": 95.2
     },
     "TGO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 54.9,
+      "mortality_under5": 95,
+      "maternal_mortality_ratio": 550,
       "ncd_mortality_rate": 24.9,
       "cvd_death_rate": 439,
       "hospital_beds_per_1k": 4.3,
@@ -1351,9 +1351,9 @@
       "sanitation_access_pct": 47.8
     },
     "AUT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.9,
+      "mortality_under5": 17.1,
+      "maternal_mortality_ratio": 99,
       "ncd_mortality_rate": 15.6,
       "cvd_death_rate": 236,
       "hospital_beds_per_1k": 7.9,
@@ -1365,9 +1365,9 @@
       "sanitation_access_pct": 96.5
     },
     "CHE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.9,
+      "mortality_under5": 8.4,
+      "maternal_mortality_ratio": 48,
       "ncd_mortality_rate": 14.7,
       "cvd_death_rate": 216,
       "hospital_beds_per_1k": 8.2,
@@ -1379,9 +1379,9 @@
       "sanitation_access_pct": 99.9
     },
     "SLE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 51.6,
+      "mortality_under5": 118.9,
+      "maternal_mortality_ratio": 689,
       "ncd_mortality_rate": 26.8,
       "cvd_death_rate": 479,
       "hospital_beds_per_1k": 3.6,
@@ -1393,9 +1393,9 @@
       "sanitation_access_pct": 38.2
     },
     "LAO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 59.1,
+      "mortality_under5": 68.8,
+      "maternal_mortality_ratio": 398,
       "ncd_mortality_rate": 22.8,
       "cvd_death_rate": 392,
       "hospital_beds_per_1k": 5.1,
@@ -1407,9 +1407,9 @@
       "sanitation_access_pct": 59.1
     },
     "HKG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 74.3,
+      "mortality_under5": 4.2,
+      "maternal_mortality_ratio": 24,
       "ncd_mortality_rate": 15,
       "cvd_death_rate": 221,
       "hospital_beds_per_1k": 8.1,
@@ -1421,9 +1421,9 @@
       "sanitation_access_pct": 99.9
     },
     "SRB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.1,
+      "mortality_under5": 38,
+      "maternal_mortality_ratio": 220,
       "ncd_mortality_rate": 18.7,
       "cvd_death_rate": 302,
       "hospital_beds_per_1k": 6.7,
@@ -1435,9 +1435,9 @@
       "sanitation_access_pct": 80.5
     },
     "NIC": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 68.9,
+      "mortality_under5": 43.7,
+      "maternal_mortality_ratio": 253,
       "ncd_mortality_rate": 21.5,
       "cvd_death_rate": 364,
       "hospital_beds_per_1k": 5.6,
@@ -1449,9 +1449,9 @@
       "sanitation_access_pct": 65.7
     },
     "LBY": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.2,
+      "mortality_under5": 49.8,
+      "maternal_mortality_ratio": 288,
       "ncd_mortality_rate": 20.5,
       "cvd_death_rate": 341,
       "hospital_beds_per_1k": 6,
@@ -1463,9 +1463,9 @@
       "sanitation_access_pct": 71.2
     },
     "PRY": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65,
+      "mortality_under5": 44.5,
+      "maternal_mortality_ratio": 257,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 343,
       "hospital_beds_per_1k": 6,
@@ -1477,9 +1477,9 @@
       "sanitation_access_pct": 70.7
     },
     "KGZ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.5,
+      "mortality_under5": 55.1,
+      "maternal_mortality_ratio": 319,
       "ncd_mortality_rate": 21.2,
       "cvd_death_rate": 357,
       "hospital_beds_per_1k": 5.7,
@@ -1491,9 +1491,9 @@
       "sanitation_access_pct": 67.3
     },
     "BGR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.6,
+      "mortality_under5": 41.8,
+      "maternal_mortality_ratio": 242,
       "ncd_mortality_rate": 18.1,
       "cvd_death_rate": 290,
       "hospital_beds_per_1k": 6.9,
@@ -1505,9 +1505,9 @@
       "sanitation_access_pct": 83.5
     },
     "TKM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.1,
+      "mortality_under5": 67.6,
+      "maternal_mortality_ratio": 392,
       "ncd_mortality_rate": 20.5,
       "cvd_death_rate": 341,
       "hospital_beds_per_1k": 6,
@@ -1519,9 +1519,9 @@
       "sanitation_access_pct": 71.2
     },
     "SLV": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.5,
+      "mortality_under5": 48.3,
+      "maternal_mortality_ratio": 279,
       "ncd_mortality_rate": 21.2,
       "cvd_death_rate": 356,
       "hospital_beds_per_1k": 5.7,
@@ -1533,9 +1533,9 @@
       "sanitation_access_pct": 67.5
     },
     "COG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 54.6,
+      "mortality_under5": 81.3,
+      "maternal_mortality_ratio": 471,
       "ncd_mortality_rate": 22.7,
       "cvd_death_rate": 389,
       "hospital_beds_per_1k": 5.2,
@@ -1547,9 +1547,9 @@
       "sanitation_access_pct": 59.7
     },
     "SGP": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 73.6,
+      "mortality_under5": 9.1,
+      "maternal_mortality_ratio": 53,
       "ncd_mortality_rate": 15.1,
       "cvd_death_rate": 224,
       "hospital_beds_per_1k": 8.1,
@@ -1561,9 +1561,9 @@
       "sanitation_access_pct": 99.1
     },
     "DNK": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.9,
+      "mortality_under5": 19.4,
+      "maternal_mortality_ratio": 112,
       "ncd_mortality_rate": 15.1,
       "cvd_death_rate": 223,
       "hospital_beds_per_1k": 8.1,
@@ -1575,9 +1575,9 @@
       "sanitation_access_pct": 99.5
     },
     "SVK": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.9,
+      "mortality_under5": 32.3,
+      "maternal_mortality_ratio": 187,
       "ncd_mortality_rate": 17.2,
       "cvd_death_rate": 270,
       "hospital_beds_per_1k": 7.3,
@@ -1589,9 +1589,9 @@
       "sanitation_access_pct": 88.3
     },
     "CAF": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 43.6,
+      "mortality_under5": 124.3,
+      "maternal_mortality_ratio": 719,
       "ncd_mortality_rate": 27.9,
       "cvd_death_rate": 504,
       "hospital_beds_per_1k": 3.1,
@@ -1603,9 +1603,9 @@
       "sanitation_access_pct": 32.2
     },
     "FIN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.5,
+      "mortality_under5": 15.6,
+      "maternal_mortality_ratio": 90,
       "ncd_mortality_rate": 15.3,
       "cvd_death_rate": 228,
       "hospital_beds_per_1k": 8,
@@ -1617,9 +1617,9 @@
       "sanitation_access_pct": 98.3
     },
     "NOR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.5,
+      "mortality_under5": 13.7,
+      "maternal_mortality_ratio": 79,
       "ncd_mortality_rate": 14.7,
       "cvd_death_rate": 216,
       "hospital_beds_per_1k": 8.2,
@@ -1631,9 +1631,9 @@
       "sanitation_access_pct": 99.9
     },
     "LBR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 55.3,
+      "mortality_under5": 83.2,
+      "maternal_mortality_ratio": 482,
       "ncd_mortality_rate": 26.4,
       "cvd_death_rate": 471,
       "hospital_beds_per_1k": 3.7,
@@ -1645,9 +1645,9 @@
       "sanitation_access_pct": 40
     },
     "PSE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.8,
+      "mortality_under5": 45.2,
+      "maternal_mortality_ratio": 262,
       "ncd_mortality_rate": 20.9,
       "cvd_death_rate": 351,
       "hospital_beds_per_1k": 5.8,
@@ -1659,9 +1659,9 @@
       "sanitation_access_pct": 68.9
     },
     "NZL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.8,
+      "mortality_under5": 14.1,
+      "maternal_mortality_ratio": 81,
       "ncd_mortality_rate": 15.3,
       "cvd_death_rate": 229,
       "hospital_beds_per_1k": 8,
@@ -1673,9 +1673,9 @@
       "sanitation_access_pct": 98
     },
     "CRI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.2,
+      "mortality_under5": 21.7,
+      "maternal_mortality_ratio": 125,
       "ncd_mortality_rate": 18.5,
       "cvd_death_rate": 299,
       "hospital_beds_per_1k": 6.7,
@@ -1687,9 +1687,9 @@
       "sanitation_access_pct": 81.3
     },
     "IRL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.5,
+      "mortality_under5": 14.1,
+      "maternal_mortality_ratio": 81,
       "ncd_mortality_rate": 15.1,
       "cvd_death_rate": 224,
       "hospital_beds_per_1k": 8.1,
@@ -1701,9 +1701,9 @@
       "sanitation_access_pct": 99.3
     },
     "MRT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61,
+      "mortality_under5": 80.2,
+      "maternal_mortality_ratio": 464,
       "ncd_mortality_rate": 24.6,
       "cvd_death_rate": 430,
       "hospital_beds_per_1k": 4.4,
@@ -1715,9 +1715,9 @@
       "sanitation_access_pct": 49.8
     },
     "OMN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.2,
+      "mortality_under5": 30.8,
+      "maternal_mortality_ratio": 178,
       "ncd_mortality_rate": 17.9,
       "cvd_death_rate": 286,
       "hospital_beds_per_1k": 7,
@@ -1729,9 +1729,9 @@
       "sanitation_access_pct": 84.4
     },
     "PAN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.4,
+      "mortality_under5": 28.5,
+      "maternal_mortality_ratio": 165,
       "ncd_mortality_rate": 18.6,
       "cvd_death_rate": 301,
       "hospital_beds_per_1k": 6.7,
@@ -1743,9 +1743,9 @@
       "sanitation_access_pct": 80.7
     },
     "KWT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 68.2,
+      "mortality_under5": 39.9,
+      "maternal_mortality_ratio": 231,
       "ncd_mortality_rate": 18.3,
       "cvd_death_rate": 295,
       "hospital_beds_per_1k": 6.8,
@@ -1757,9 +1757,9 @@
       "sanitation_access_pct": 82.3
     },
     "HRV": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.4,
+      "mortality_under5": 28.5,
+      "maternal_mortality_ratio": 165,
       "ncd_mortality_rate": 17.7,
       "cvd_death_rate": 281,
       "hospital_beds_per_1k": 7.1,
@@ -1771,9 +1771,9 @@
       "sanitation_access_pct": 85.6
     },
     "GEO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65,
+      "mortality_under5": 46.4,
+      "maternal_mortality_ratio": 268,
       "ncd_mortality_rate": 18.8,
       "cvd_death_rate": 306,
       "hospital_beds_per_1k": 6.6,
@@ -1785,9 +1785,9 @@
       "sanitation_access_pct": 79.7
     },
     "ERI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.2,
+      "mortality_under5": 74.9,
+      "maternal_mortality_ratio": 433,
       "ncd_mortality_rate": 26.3,
       "cvd_death_rate": 469,
       "hospital_beds_per_1k": 3.7,
@@ -1799,9 +1799,9 @@
       "sanitation_access_pct": 40.6
     },
     "URY": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.9,
+      "mortality_under5": 30.8,
+      "maternal_mortality_ratio": 178,
       "ncd_mortality_rate": 18.3,
       "cvd_death_rate": 294,
       "hospital_beds_per_1k": 6.8,
@@ -1813,9 +1813,9 @@
       "sanitation_access_pct": 82.5
     },
     "MNG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 59.9,
+      "mortality_under5": 61.2,
+      "maternal_mortality_ratio": 354,
       "ncd_mortality_rate": 19.7,
       "cvd_death_rate": 324,
       "hospital_beds_per_1k": 6.3,
@@ -1827,9 +1827,9 @@
       "sanitation_access_pct": 75.2
     },
     "BIH": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 32.7,
+      "maternal_mortality_ratio": 189,
       "ncd_mortality_rate": 19.1,
       "cvd_death_rate": 311,
       "hospital_beds_per_1k": 6.5,
@@ -1841,9 +1841,9 @@
       "sanitation_access_pct": 78.3
     },
     "QAT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 68.2,
+      "mortality_under5": 22,
+      "maternal_mortality_ratio": 128,
       "ncd_mortality_rate": 17.2,
       "cvd_death_rate": 269,
       "hospital_beds_per_1k": 7.3,
@@ -1855,9 +1855,9 @@
       "sanitation_access_pct": 88.4
     },
     "NAM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.5,
+      "mortality_under5": 84.7,
+      "maternal_mortality_ratio": 491,
       "ncd_mortality_rate": 21.8,
       "cvd_death_rate": 369,
       "hospital_beds_per_1k": 5.5,
@@ -1869,9 +1869,9 @@
       "sanitation_access_pct": 64.4
     },
     "ARM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.5,
+      "mortality_under5": 41.4,
+      "maternal_mortality_ratio": 240,
       "ncd_mortality_rate": 19.4,
       "cvd_death_rate": 318,
       "hospital_beds_per_1k": 6.4,
@@ -1883,9 +1883,9 @@
       "sanitation_access_pct": 76.8
     },
     "LTU": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.2,
+      "mortality_under5": 38.4,
+      "maternal_mortality_ratio": 222,
       "ncd_mortality_rate": 17.1,
       "cvd_death_rate": 268,
       "hospital_beds_per_1k": 7.3,
@@ -1897,9 +1897,9 @@
       "sanitation_access_pct": 88.7
     },
     "JAM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.3,
+      "mortality_under5": 43.7,
+      "maternal_mortality_ratio": 253,
       "ncd_mortality_rate": 19.9,
       "cvd_death_rate": 329,
       "hospital_beds_per_1k": 6.2,
@@ -1911,9 +1911,9 @@
       "sanitation_access_pct": 74.2
     },
     "ALB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.8,
+      "mortality_under5": 28.1,
+      "maternal_mortality_ratio": 163,
       "ncd_mortality_rate": 18.7,
       "cvd_death_rate": 303,
       "hospital_beds_per_1k": 6.7,
@@ -1925,9 +1925,9 @@
       "sanitation_access_pct": 80.3
     },
     "GMB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.3,
+      "mortality_under5": 91.2,
+      "maternal_mortality_ratio": 528,
       "ncd_mortality_rate": 25.9,
       "cvd_death_rate": 459,
       "hospital_beds_per_1k": 3.9,
@@ -1939,9 +1939,9 @@
       "sanitation_access_pct": 42.9
     },
     "GAB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 57.6,
+      "mortality_under5": 74.1,
+      "maternal_mortality_ratio": 429,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 343,
       "hospital_beds_per_1k": 6,
@@ -1953,9 +1953,9 @@
       "sanitation_access_pct": 70.7
     },
     "BWA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.6,
+      "mortality_under5": 62.3,
+      "maternal_mortality_ratio": 361,
       "ncd_mortality_rate": 20.2,
       "cvd_death_rate": 336,
       "hospital_beds_per_1k": 6.1,
@@ -1967,9 +1967,9 @@
       "sanitation_access_pct": 72.5
     },
     "LSO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 43.8,
+      "mortality_under5": 120.5,
+      "maternal_mortality_ratio": 697,
       "ncd_mortality_rate": 24.6,
       "cvd_death_rate": 430,
       "hospital_beds_per_1k": 4.4,
@@ -1981,9 +1981,9 @@
       "sanitation_access_pct": 49.8
     },
     "GNB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 51.4,
+      "mortality_under5": 105.3,
+      "maternal_mortality_ratio": 609,
       "ncd_mortality_rate": 26,
       "cvd_death_rate": 462,
       "hospital_beds_per_1k": 3.9,
@@ -1995,9 +1995,9 @@
       "sanitation_access_pct": 42.3
     },
     "SVN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.3,
+      "mortality_under5": 17.9,
+      "maternal_mortality_ratio": 103,
       "ncd_mortality_rate": 15.6,
       "cvd_death_rate": 236,
       "hospital_beds_per_1k": 7.9,
@@ -2009,9 +2009,9 @@
       "sanitation_access_pct": 96.5
     },
     "GNQ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.7,
+      "mortality_under5": 103.7,
+      "maternal_mortality_ratio": 601,
       "ncd_mortality_rate": 23,
       "cvd_death_rate": 396,
       "hospital_beds_per_1k": 5,
@@ -2023,9 +2023,9 @@
       "sanitation_access_pct": 58
     },
     "LVA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.2,
+      "mortality_under5": 40.7,
+      "maternal_mortality_ratio": 235,
       "ncd_mortality_rate": 17.4,
       "cvd_death_rate": 273,
       "hospital_beds_per_1k": 7.2,
@@ -2037,9 +2037,9 @@
       "sanitation_access_pct": 87.4
     },
     "MKD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.3,
+      "mortality_under5": 38.8,
+      "maternal_mortality_ratio": 224,
       "ncd_mortality_rate": 19.3,
       "cvd_death_rate": 317,
       "hospital_beds_per_1k": 6.4,
@@ -2051,9 +2051,9 @@
       "sanitation_access_pct": 77.1
     },
     "BHR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65.4,
+      "mortality_under5": 33.1,
+      "maternal_mortality_ratio": 191,
       "ncd_mortality_rate": 17.4,
       "cvd_death_rate": 274,
       "hospital_beds_per_1k": 7.2,
@@ -2065,9 +2065,9 @@
       "sanitation_access_pct": 87.3
     },
     "TTO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63.5,
+      "mortality_under5": 47.5,
+      "maternal_mortality_ratio": 275,
       "ncd_mortality_rate": 18.8,
       "cvd_death_rate": 304,
       "hospital_beds_per_1k": 6.7,
@@ -2079,9 +2079,9 @@
       "sanitation_access_pct": 80.2
     },
     "TLS": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2093,9 +2093,9 @@
       "sanitation_access_pct": 70.5
     },
     "CYP": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.2,
+      "mortality_under5": 19,
+      "maternal_mortality_ratio": 110,
       "ncd_mortality_rate": 16.9,
       "cvd_death_rate": 263,
       "hospital_beds_per_1k": 7.4,
@@ -2107,9 +2107,9 @@
       "sanitation_access_pct": 89.9
     },
     "EST": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.2,
+      "mortality_under5": 27.7,
+      "maternal_mortality_ratio": 161,
       "ncd_mortality_rate": 16.8,
       "cvd_death_rate": 262,
       "hospital_beds_per_1k": 7.4,
@@ -2121,9 +2121,9 @@
       "sanitation_access_pct": 90.2
     },
     "MUS": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.9,
+      "mortality_under5": 41.8,
+      "maternal_mortality_ratio": 242,
       "ncd_mortality_rate": 18.6,
       "cvd_death_rate": 301,
       "hospital_beds_per_1k": 6.7,
@@ -2135,9 +2135,9 @@
       "sanitation_access_pct": 80.9
     },
     "SWZ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.7,
+      "mortality_under5": 98,
+      "maternal_mortality_ratio": 568,
       "ncd_mortality_rate": 23.1,
       "cvd_death_rate": 398,
       "hospital_beds_per_1k": 5,
@@ -2149,9 +2149,9 @@
       "sanitation_access_pct": 57.6
     },
     "DJI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 58.6,
+      "mortality_under5": 71.8,
+      "maternal_mortality_ratio": 416,
       "ncd_mortality_rate": 25.5,
       "cvd_death_rate": 452,
       "hospital_beds_per_1k": 4,
@@ -2163,9 +2163,9 @@
       "sanitation_access_pct": 44.7
     },
     "FJI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 57.2,
+      "mortality_under5": 70.7,
+      "maternal_mortality_ratio": 409,
       "ncd_mortality_rate": 19.7,
       "cvd_death_rate": 324,
       "hospital_beds_per_1k": 6.3,
@@ -2177,9 +2177,9 @@
       "sanitation_access_pct": 75.2
     },
     "COM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 59.3,
+      "mortality_under5": 82.5,
+      "maternal_mortality_ratio": 477,
       "ncd_mortality_rate": 24.9,
       "cvd_death_rate": 439,
       "hospital_beds_per_1k": 4.3,
@@ -2191,9 +2191,9 @@
       "sanitation_access_pct": 47.8
     },
     "GUY": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 59.2,
+      "mortality_under5": 61.2,
+      "maternal_mortality_ratio": 354,
       "ncd_mortality_rate": 21.6,
       "cvd_death_rate": 366,
       "hospital_beds_per_1k": 5.6,
@@ -2205,9 +2205,9 @@
       "sanitation_access_pct": 65.2
     },
     "BTN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63.2,
+      "mortality_under5": 54,
+      "maternal_mortality_ratio": 312,
       "ncd_mortality_rate": 22.5,
       "cvd_death_rate": 386,
       "hospital_beds_per_1k": 5.2,
@@ -2219,9 +2219,9 @@
       "sanitation_access_pct": 60.4
     },
     "SLB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 55.3,
+      "mortality_under5": 49.4,
+      "maternal_mortality_ratio": 286,
       "ncd_mortality_rate": 24,
       "cvd_death_rate": 418,
       "hospital_beds_per_1k": 4.6,
@@ -2233,9 +2233,9 @@
       "sanitation_access_pct": 52.8
     },
     "LUX": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71,
+      "mortality_under5": 14.1,
+      "maternal_mortality_ratio": 81,
       "ncd_mortality_rate": 15.6,
       "cvd_death_rate": 235,
       "hospital_beds_per_1k": 7.9,
@@ -2247,9 +2247,9 @@
       "sanitation_access_pct": 96.6
     },
     "MNE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.1,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 18.1,
       "cvd_death_rate": 289,
       "hospital_beds_per_1k": 6.9,
@@ -2261,9 +2261,9 @@
       "sanitation_access_pct": 83.6
     },
     "SUR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.2,
+      "mortality_under5": 54.3,
+      "maternal_mortality_ratio": 315,
       "ncd_mortality_rate": 20.2,
       "cvd_death_rate": 334,
       "hospital_beds_per_1k": 6.1,
@@ -2275,9 +2275,9 @@
       "sanitation_access_pct": 72.8
     },
     "CPV": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2289,9 +2289,9 @@
       "sanitation_access_pct": 70.5
     },
     "MDV": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 69.1,
+      "mortality_under5": 27,
+      "maternal_mortality_ratio": 156,
       "ncd_mortality_rate": 20.2,
       "cvd_death_rate": 336,
       "hospital_beds_per_1k": 6.1,
@@ -2303,9 +2303,9 @@
       "sanitation_access_pct": 72.5
     },
     "MLT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 70.9,
+      "mortality_under5": 13.3,
+      "maternal_mortality_ratio": 77,
       "ncd_mortality_rate": 16.7,
       "cvd_death_rate": 259,
       "hospital_beds_per_1k": 7.5,
@@ -2317,9 +2317,9 @@
       "sanitation_access_pct": 91
     },
     "BRN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.5,
+      "mortality_under5": 38.4,
+      "maternal_mortality_ratio": 222,
       "ncd_mortality_rate": 17.2,
       "cvd_death_rate": 271,
       "hospital_beds_per_1k": 7.3,
@@ -2331,9 +2331,9 @@
       "sanitation_access_pct": 88.1
     },
     "BLZ": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63,
+      "mortality_under5": 43.3,
+      "maternal_mortality_ratio": 251,
       "ncd_mortality_rate": 20.4,
       "cvd_death_rate": 340,
       "hospital_beds_per_1k": 6,
@@ -2345,9 +2345,9 @@
       "sanitation_access_pct": 71.4
     },
     "BHS": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.9,
+      "mortality_under5": 46,
+      "maternal_mortality_ratio": 266,
       "ncd_mortality_rate": 18.2,
       "cvd_death_rate": 293,
       "hospital_beds_per_1k": 6.9,
@@ -2359,9 +2359,9 @@
       "sanitation_access_pct": 82.8
     },
     "ISL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.5,
+      "mortality_under5": 11.4,
+      "maternal_mortality_ratio": 66,
       "ncd_mortality_rate": 14.9,
       "cvd_death_rate": 220,
       "hospital_beds_per_1k": 8.2,
@@ -2373,9 +2373,9 @@
       "sanitation_access_pct": 99.9
     },
     "VUT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56,
+      "mortality_under5": 58.9,
+      "maternal_mortality_ratio": 341,
       "ncd_mortality_rate": 22.7,
       "cvd_death_rate": 391,
       "hospital_beds_per_1k": 5.1,
@@ -2387,9 +2387,9 @@
       "sanitation_access_pct": 59.3
     },
     "BRB": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.9,
+      "mortality_under5": 25.8,
+      "maternal_mortality_ratio": 150,
       "ncd_mortality_rate": 18.4,
       "cvd_death_rate": 296,
       "hospital_beds_per_1k": 6.8,
@@ -2401,9 +2401,9 @@
       "sanitation_access_pct": 82
     },
     "STP": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.6,
+      "mortality_under5": 59.3,
+      "maternal_mortality_ratio": 343,
       "ncd_mortality_rate": 23,
       "cvd_death_rate": 397,
       "hospital_beds_per_1k": 5,
@@ -2415,9 +2415,9 @@
       "sanitation_access_pct": 57.7
     },
     "WSM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.9,
+      "mortality_under5": 48.3,
+      "maternal_mortality_ratio": 279,
       "ncd_mortality_rate": 20.3,
       "cvd_death_rate": 338,
       "hospital_beds_per_1k": 6.1,
@@ -2429,9 +2429,9 @@
       "sanitation_access_pct": 72
     },
     "LCA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.4,
+      "mortality_under5": 37.2,
+      "maternal_mortality_ratio": 216,
       "ncd_mortality_rate": 19.6,
       "cvd_death_rate": 321,
       "hospital_beds_per_1k": 6.3,
@@ -2443,9 +2443,9 @@
       "sanitation_access_pct": 75.9
     },
     "KIR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 54,
+      "mortality_under5": 66.9,
+      "maternal_mortality_ratio": 387,
       "ncd_mortality_rate": 22.5,
       "cvd_death_rate": 386,
       "hospital_beds_per_1k": 5.2,
@@ -2457,9 +2457,9 @@
       "sanitation_access_pct": 60.4
     },
     "GRD": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 62.7,
+      "mortality_under5": 51.7,
+      "maternal_mortality_ratio": 299,
       "ncd_mortality_rate": 19,
       "cvd_death_rate": 309,
       "hospital_beds_per_1k": 6.6,
@@ -2471,7 +2471,7 @@
       "sanitation_access_pct": 78.8
     },
     "VCT": {
-      "healthy_life_expectancy": 63.8,
+      "healthy_life_expectancy": 62.7,
       "mortality_under5": 51.3,
       "maternal_mortality_ratio": 297,
       "ncd_mortality_rate": 20.1,
@@ -2485,9 +2485,9 @@
       "sanitation_access_pct": 73.1
     },
     "FSM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2499,9 +2499,9 @@
       "sanitation_access_pct": 70.5
     },
     "SYC": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 65,
+      "mortality_under5": 47.9,
+      "maternal_mortality_ratio": 277,
       "ncd_mortality_rate": 18.5,
       "cvd_death_rate": 297,
       "hospital_beds_per_1k": 6.8,
@@ -2513,9 +2513,9 @@
       "sanitation_access_pct": 81.7
     },
     "ATG": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.5,
+      "mortality_under5": 34.2,
+      "maternal_mortality_ratio": 198,
       "ncd_mortality_rate": 18.8,
       "cvd_death_rate": 306,
       "hospital_beds_per_1k": 6.6,
@@ -2527,9 +2527,9 @@
       "sanitation_access_pct": 79.7
     },
     "AND": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 71.2,
+      "mortality_under5": 8.7,
+      "maternal_mortality_ratio": 51,
       "ncd_mortality_rate": 17.1,
       "cvd_death_rate": 268,
       "hospital_beds_per_1k": 7.3,
@@ -2541,9 +2541,9 @@
       "sanitation_access_pct": 88.7
     },
     "DMA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.1,
+      "mortality_under5": 41.8,
+      "maternal_mortality_ratio": 242,
       "ncd_mortality_rate": 20.3,
       "cvd_death_rate": 337,
       "hospital_beds_per_1k": 6.1,
@@ -2555,9 +2555,9 @@
       "sanitation_access_pct": 72.2
     },
     "MHL": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 56.4,
+      "mortality_under5": 46.7,
+      "maternal_mortality_ratio": 271,
       "ncd_mortality_rate": 20.4,
       "cvd_death_rate": 340,
       "hospital_beds_per_1k": 6,
@@ -2569,9 +2569,9 @@
       "sanitation_access_pct": 71.4
     },
     "KNA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 66.7,
+      "mortality_under5": 37.2,
+      "maternal_mortality_ratio": 216,
       "ncd_mortality_rate": 18.9,
       "cvd_death_rate": 307,
       "hospital_beds_per_1k": 6.6,
@@ -2583,9 +2583,9 @@
       "sanitation_access_pct": 79.5
     },
     "MCO": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 76,
+      "mortality_under5": 2,
+      "maternal_mortality_ratio": 2,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2597,9 +2597,9 @@
       "sanitation_access_pct": 70.5
     },
     "LIE": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 72.2,
+      "mortality_under5": 13.3,
+      "maternal_mortality_ratio": 77,
       "ncd_mortality_rate": 15.8,
       "cvd_death_rate": 240,
       "hospital_beds_per_1k": 7.8,
@@ -2611,9 +2611,9 @@
       "sanitation_access_pct": 95.3
     },
     "SMR": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 74.4,
+      "mortality_under5": 3.8,
+      "maternal_mortality_ratio": 22,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2625,9 +2625,9 @@
       "sanitation_access_pct": 70.5
     },
     "PLW": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 64.5,
+      "mortality_under5": 46.7,
+      "maternal_mortality_ratio": 271,
       "ncd_mortality_rate": 18.4,
       "cvd_death_rate": 297,
       "hospital_beds_per_1k": 6.8,
@@ -2639,9 +2639,9 @@
       "sanitation_access_pct": 81.8
     },
     "NRU": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.5,
+      "mortality_under5": 98.8,
+      "maternal_mortality_ratio": 572,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2653,9 +2653,9 @@
       "sanitation_access_pct": 70.5
     },
     "TUV": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 59.1,
+      "mortality_under5": 69.9,
+      "maternal_mortality_ratio": 405,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2667,9 +2667,9 @@
       "sanitation_access_pct": 70.5
     },
     "VAT": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2681,9 +2681,9 @@
       "sanitation_access_pct": 70.5
     },
     "BFA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.9,
+      "mortality_under5": 92.7,
+      "maternal_mortality_ratio": 537,
       "ncd_mortality_rate": 26.7,
       "cvd_death_rate": 477,
       "hospital_beds_per_1k": 3.6,
@@ -2695,9 +2695,9 @@
       "sanitation_access_pct": 38.6
     },
     "KHM": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 60.1,
+      "mortality_under5": 61.6,
+      "maternal_mortality_ratio": 356,
       "ncd_mortality_rate": 23.2,
       "cvd_death_rate": 401,
       "hospital_beds_per_1k": 4.9,
@@ -2709,9 +2709,9 @@
       "sanitation_access_pct": 56.9
     },
     "LBN": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 68.3,
+      "mortality_under5": 27,
+      "maternal_mortality_ratio": 156,
       "ncd_mortality_rate": 19.3,
       "cvd_death_rate": 317,
       "hospital_beds_per_1k": 6.4,
@@ -2723,9 +2723,9 @@
       "sanitation_access_pct": 77.1
     },
     "MWI": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 52.7,
+      "mortality_under5": 82.5,
+      "maternal_mortality_ratio": 477,
       "ncd_mortality_rate": 25.5,
       "cvd_death_rate": 451,
       "hospital_beds_per_1k": 4.1,
@@ -2737,9 +2737,9 @@
       "sanitation_access_pct": 44.9
     },
     "MDA": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 63.3,
+      "mortality_under5": 53.6,
+      "maternal_mortality_ratio": 310,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,
@@ -2751,9 +2751,9 @@
       "sanitation_access_pct": 70.5
     },
     "TON": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 61.2,
+      "mortality_under5": 57.4,
+      "maternal_mortality_ratio": 332,
       "ncd_mortality_rate": 20,
       "cvd_death_rate": 332,
       "hospital_beds_per_1k": 6.2,
@@ -2765,9 +2765,9 @@
       "sanitation_access_pct": 73.5
     },
     "XKX": {
-      "healthy_life_expectancy": 63.8,
-      "mortality_under5": 51.3,
-      "maternal_mortality_ratio": 297,
+      "healthy_life_expectancy": 67.3,
+      "mortality_under5": 34.6,
+      "maternal_mortality_ratio": 200,
       "ncd_mortality_rate": 20.6,
       "cvd_death_rate": 344,
       "hospital_beds_per_1k": 5.9,

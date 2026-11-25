@@ -7,7 +7,7 @@
   "countriesCount": 198,
   "countries": {
     "IND": {
-      "land_area": 54.7,
+      "land_area": 2973190,
       "land_border_length": 7242,
       "highest_elevation_m": 6962,
       "longest_river_km": 4828,
@@ -17,7 +17,7 @@
       "exclusive_economic_zone": 2069153
     },
     "CHN": {
-      "land_area": 67,
+      "land_area": 9388211,
       "land_border_length": 12869,
       "highest_elevation_m": 8848,
       "longest_river_km": 6650,
@@ -27,7 +27,7 @@
       "exclusive_economic_zone": 3676823
     },
     "USA": {
-      "land_area": 78.8,
+      "land_area": 9147420,
       "land_border_length": 12703,
       "highest_elevation_m": 8848,
       "longest_river_km": 6650,
@@ -37,7 +37,7 @@
       "exclusive_economic_zone": 3629364
     },
     "IDN": {
-      "land_area": 60.6,
+      "land_area": 1811570,
       "land_border_length": 5653,
       "highest_elevation_m": 4746,
       "longest_river_km": 3769,
@@ -47,7 +47,7 @@
       "exclusive_economic_zone": 1615135
     },
     "PAK": {
-      "land_area": 45.9,
+      "land_area": 770880,
       "land_border_length": 3688,
       "highest_elevation_m": 4440,
       "longest_river_km": 2458,
@@ -57,7 +57,7 @@
       "exclusive_economic_zone": 1053597
     },
     "NGA": {
-      "land_area": 46.6,
+      "land_area": 910770,
       "land_border_length": 4008,
       "highest_elevation_m": 3749,
       "longest_river_km": 2672,
@@ -67,7 +67,7 @@
       "exclusive_economic_zone": 1145211
     },
     "BRA": {
-      "land_area": 64.6,
+      "land_area": 8358140,
       "land_border_length": 12142,
       "highest_elevation_m": 8848,
       "longest_river_km": 6650,
@@ -77,7 +77,7 @@
       "exclusive_economic_zone": 3469254
     },
     "BGD": {
-      "land_area": 57,
+      "land_area": 130170,
       "land_border_length": 1515,
       "highest_elevation_m": 2329,
       "longest_river_km": 1010,
@@ -87,7 +87,7 @@
       "exclusive_economic_zone": 432949
     },
     "RUS": {
-      "land_area": 69.8,
+      "land_area": 16376870,
       "land_border_length": 16997,
       "highest_elevation_m": 8848,
       "longest_river_km": 6650,
@@ -97,7 +97,7 @@
       "exclusive_economic_zone": 4856201
     },
     "ETH": {
-      "land_area": 41.8,
+      "land_area": 1000000,
       "land_border_length": 4200,
       "highest_elevation_m": 3912,
       "longest_river_km": 2800,
@@ -107,7 +107,7 @@
       "exclusive_economic_zone": 1200000
     },
     "MEX": {
-      "land_area": 66.4,
+      "land_area": 1943950,
       "land_border_length": 5856,
       "highest_elevation_m": 5943,
       "longest_river_km": 3904,
@@ -117,7 +117,7 @@
       "exclusive_economic_zone": 1673107
     },
     "JPN": {
-      "land_area": 78.2,
+      "land_area": 364500,
       "land_border_length": 2536,
       "highest_elevation_m": 3742,
       "longest_river_km": 1690,
@@ -127,7 +127,7 @@
       "exclusive_economic_zone": 724486
     },
     "PHL": {
-      "land_area": 60.3,
+      "land_area": 298170,
       "land_border_length": 2293,
       "highest_elevation_m": 2491,
       "longest_river_km": 1529,
@@ -137,7 +137,7 @@
       "exclusive_economic_zone": 655259
     },
     "EGY": {
-      "land_area": 61.9,
+      "land_area": 995450,
       "land_border_length": 4190,
       "highest_elevation_m": 4699,
       "longest_river_km": 2794,
@@ -147,7 +147,7 @@
       "exclusive_economic_zone": 1197267
     },
     "COD": {
-      "land_area": 59.5,
+      "land_area": 2267050,
       "land_border_length": 6324,
       "highest_elevation_m": 5452,
       "longest_river_km": 4216,
@@ -157,7 +157,7 @@
       "exclusive_economic_zone": 1806807
     },
     "VNM": {
-      "land_area": 61.7,
+      "land_area": 310070,
       "land_border_length": 2339,
       "highest_elevation_m": 2582,
       "longest_river_km": 1559,
@@ -167,7 +167,7 @@
       "exclusive_economic_zone": 668207
     },
     "IRN": {
-      "land_area": 67.8,
+      "land_area": 1628760,
       "land_border_length": 5360,
       "highest_elevation_m": 5926,
       "longest_river_km": 3573,
@@ -177,7 +177,7 @@
       "exclusive_economic_zone": 1531475
     },
     "TUR": {
-      "land_area": 72.7,
+      "land_area": 769630,
       "land_border_length": 3685,
       "highest_elevation_m": 4824,
       "longest_river_km": 2456,
@@ -187,7 +187,7 @@
       "exclusive_economic_zone": 1052743
     },
     "DEU": {
-      "land_area": 80.8,
+      "land_area": 349380,
       "land_border_length": 2483,
       "highest_elevation_m": 4371,
       "longest_river_km": 1655,
@@ -197,7 +197,7 @@
       "exclusive_economic_zone": 709301
     },
     "THA": {
-      "land_area": 68.3,
+      "land_area": 510890,
       "land_border_length": 3002,
       "highest_elevation_m": 3216,
       "longest_river_km": 2001,
@@ -207,7 +207,7 @@
       "exclusive_economic_zone": 857719
     },
     "GBR": {
-      "land_area": 79.9,
+      "land_area": 241930,
       "land_border_length": 2066,
       "highest_elevation_m": 4214,
       "longest_river_km": 1377,
@@ -217,7 +217,7 @@
       "exclusive_economic_zone": 590237
     },
     "TZA": {
-      "land_area": 45.7,
+      "land_area": 885800,
       "land_border_length": 3953,
       "highest_elevation_m": 3581,
       "longest_river_km": 2635,
@@ -227,7 +227,7 @@
       "exclusive_economic_zone": 1129403
     },
     "FRA": {
-      "land_area": 77.4,
+      "land_area": 547557,
       "land_border_length": 3108,
       "highest_elevation_m": 4670,
       "longest_river_km": 2072,
@@ -237,7 +237,7 @@
       "exclusive_economic_zone": 887965
     },
     "ZAF": {
-      "land_area": 60.9,
+      "land_area": 1213090,
       "land_border_length": 4626,
       "highest_elevation_m": 5230,
       "longest_river_km": 3084,
@@ -247,7 +247,7 @@
       "exclusive_economic_zone": 1321684
     },
     "ITA": {
-      "land_area": 77,
+      "land_area": 294140,
       "land_border_length": 2278,
       "highest_elevation_m": 3782,
       "longest_river_km": 1519,
@@ -257,7 +257,7 @@
       "exclusive_economic_zone": 650816
     },
     "KEN": {
-      "land_area": 50.1,
+      "land_area": 569140,
       "land_border_length": 3169,
       "highest_elevation_m": 2641,
       "longest_river_km": 2112,
@@ -267,7 +267,7 @@
       "exclusive_economic_zone": 905296
     },
     "MMR": {
-      "land_area": 49.1,
+      "land_area": 653500,
       "land_border_length": 3395,
       "highest_elevation_m": 3815,
       "longest_river_km": 2264,
@@ -277,7 +277,7 @@
       "exclusive_economic_zone": 970072
     },
     "COL": {
-      "land_area": 64.4,
+      "land_area": 1109500,
       "land_border_length": 4424,
       "highest_elevation_m": 3892,
       "longest_river_km": 2949,
@@ -287,7 +287,7 @@
       "exclusive_economic_zone": 1263994
     },
     "KOR": {
-      "land_area": 79,
+      "land_area": 97600,
       "land_border_length": 1312,
       "highest_elevation_m": 2709,
       "longest_river_km": 875,
@@ -297,7 +297,7 @@
       "exclusive_economic_zone": 374892
     },
     "UGA": {
-      "land_area": 43.9,
+      "land_area": 197100,
       "land_border_length": 1865,
       "highest_elevation_m": 1616,
       "longest_river_km": 1243,
@@ -307,7 +307,7 @@
       "exclusive_economic_zone": 532751
     },
     "SDN": {
-      "land_area": 42.7,
+      "land_area": 1861484,
       "land_border_length": 5730,
       "highest_elevation_m": 5354,
       "longest_river_km": 3820,
@@ -317,7 +317,7 @@
       "exclusive_economic_zone": 1637235
     },
     "ESP": {
-      "land_area": 77.4,
+      "land_area": 498511,
       "land_border_length": 2965,
       "highest_elevation_m": 4292,
       "longest_river_km": 1977,
@@ -327,7 +327,7 @@
       "exclusive_economic_zone": 847264
     },
     "ARG": {
-      "land_area": 72.2,
+      "land_area": 2736690,
       "land_border_length": 6948,
       "highest_elevation_m": 7519,
       "longest_river_km": 4632,
@@ -337,7 +337,7 @@
       "exclusive_economic_zone": 1985153
     },
     "DZA": {
-      "land_area": 64.1,
+      "land_area": 2381740,
       "land_border_length": 6482,
       "highest_elevation_m": 6663,
       "longest_river_km": 4321,
@@ -347,7 +347,7 @@
       "exclusive_economic_zone": 1851946
     },
     "IRQ": {
-      "land_area": 58.2,
+      "land_area": 437072,
       "land_border_length": 2777,
       "highest_elevation_m": 3809,
       "longest_river_km": 1851,
@@ -357,7 +357,7 @@
       "exclusive_economic_zone": 793337
     },
     "AFG": {
-      "land_area": 42.3,
+      "land_area": 652864,
       "land_border_length": 3394,
       "highest_elevation_m": 4355,
       "longest_river_km": 2262,
@@ -367,7 +367,7 @@
       "exclusive_economic_zone": 969600
     },
     "POL": {
-      "land_area": 74.9,
+      "land_area": 306230,
       "land_border_length": 2324,
       "highest_elevation_m": 4273,
       "longest_river_km": 1549,
@@ -377,7 +377,7 @@
       "exclusive_economic_zone": 664057
     },
     "CAN": {
-      "land_area": 79.5,
+      "land_area": 8965590,
       "land_border_length": 12576,
       "highest_elevation_m": 8848,
       "longest_river_km": 6650,
@@ -387,7 +387,7 @@
       "exclusive_economic_zone": 3593111
     },
     "MAR": {
-      "land_area": 59.3,
+      "land_area": 446300,
       "land_border_length": 2806,
       "highest_elevation_m": 3769,
       "longest_river_km": 1871,
@@ -397,7 +397,7 @@
       "exclusive_economic_zone": 801668
     },
     "SAU": {
-      "land_area": 74.4,
+      "land_area": 2149690,
       "land_border_length": 6158,
       "highest_elevation_m": 6207,
       "longest_river_km": 4105,
@@ -407,7 +407,7 @@
       "exclusive_economic_zone": 1759419
     },
     "UKR": {
-      "land_area": 62.4,
+      "land_area": 579330,
       "land_border_length": 3197,
       "highest_elevation_m": 4841,
       "longest_river_km": 2131,
@@ -417,7 +417,7 @@
       "exclusive_economic_zone": 913365
     },
     "AGO": {
-      "land_area": 49.4,
+      "land_area": 1246700,
       "land_border_length": 4690,
       "highest_elevation_m": 4412,
       "longest_river_km": 3126,
@@ -427,7 +427,7 @@
       "exclusive_economic_zone": 1339869
     },
     "UZB": {
-      "land_area": 60.3,
+      "land_area": 425400,
       "land_border_length": 2739,
       "highest_elevation_m": 4145,
       "longest_river_km": 1826,
@@ -437,7 +437,7 @@
       "exclusive_economic_zone": 782672
     },
     "YEM": {
-      "land_area": 38.4,
+      "land_area": 527968,
       "land_border_length": 3052,
       "highest_elevation_m": 3243,
       "longest_river_km": 2035,
@@ -447,7 +447,7 @@
       "exclusive_economic_zone": 871937
     },
     "PER": {
-      "land_area": 63.8,
+      "land_area": 1280000,
       "land_border_length": 4752,
       "highest_elevation_m": 4373,
       "longest_river_km": 3168,
@@ -457,7 +457,7 @@
       "exclusive_economic_zone": 1357645
     },
     "MYS": {
-      "land_area": 68.6,
+      "land_area": 328657,
       "land_border_length": 2408,
       "highest_elevation_m": 2196,
       "longest_river_km": 1605,
@@ -467,7 +467,7 @@
       "exclusive_economic_zone": 687943
     },
     "GHA": {
-      "land_area": 50.3,
+      "land_area": 227533,
       "land_border_length": 2003,
       "highest_elevation_m": 2027,
       "longest_river_km": 1336,
@@ -477,7 +477,7 @@
       "exclusive_economic_zone": 572405
     },
     "MOZ": {
-      "land_area": 37.1,
+      "land_area": 786380,
       "land_border_length": 3724,
       "highest_elevation_m": 3944,
       "longest_river_km": 2483,
@@ -487,7 +487,7 @@
       "exclusive_economic_zone": 1064137
     },
     "NPL": {
-      "land_area": 48.8,
+      "land_area": 143351,
       "land_border_length": 1590,
       "highest_elevation_m": 2603,
       "longest_river_km": 1060,
@@ -497,7 +497,7 @@
       "exclusive_economic_zone": 454341
     },
     "MDG": {
-      "land_area": 44.1,
+      "land_area": 581540,
       "land_border_length": 3203,
       "highest_elevation_m": 3514,
       "longest_river_km": 2135,
@@ -507,7 +507,7 @@
       "exclusive_economic_zone": 915105
     },
     "CIV": {
-      "land_area": 59.5,
+      "land_area": 318000,
       "land_border_length": 2368,
       "highest_elevation_m": 2313,
       "longest_river_km": 1579,
@@ -517,7 +517,7 @@
       "exclusive_economic_zone": 676698
     },
     "VEN": {
-      "land_area": 64.7,
+      "land_area": 882050,
       "land_border_length": 3945,
       "highest_elevation_m": 3576,
       "longest_river_km": 2630,
@@ -527,7 +527,7 @@
       "exclusive_economic_zone": 1127010
     },
     "CMR": {
-      "land_area": 47.3,
+      "land_area": 472710,
       "land_border_length": 2888,
       "highest_elevation_m": 2738,
       "longest_river_km": 1925,
@@ -537,7 +537,7 @@
       "exclusive_economic_zone": 825047
     },
     "NER": {
-      "land_area": 33.5,
+      "land_area": 1266700,
       "land_border_length": 4727,
       "highest_elevation_m": 4732,
       "longest_river_km": 3151,
@@ -547,7 +547,7 @@
       "exclusive_economic_zone": 1350573
     },
     "AUS": {
-      "land_area": 80.4,
+      "land_area": 7682300,
       "land_border_length": 11641,
       "highest_elevation_m": 8848,
       "longest_river_km": 6650,
@@ -557,7 +557,7 @@
       "exclusive_economic_zone": 3326035
     },
     "PRK": {
-      "land_area": 59.5,
+      "land_area": 120408,
       "land_border_length": 1457,
       "highest_elevation_m": 3030,
       "longest_river_km": 972,
@@ -567,7 +567,7 @@
       "exclusive_economic_zone": 416398
     },
     "TWN": {
-      "land_area": 59.5,
+      "land_area": 35980,
       "land_border_length": 797,
       "highest_elevation_m": 1730,
       "longest_river_km": 531,
@@ -577,7 +577,7 @@
       "exclusive_economic_zone": 227621
     },
     "MLI": {
-      "land_area": 36.3,
+      "land_area": 1220190,
       "land_border_length": 4639,
       "highest_elevation_m": 4657,
       "longest_river_km": 3093,
@@ -587,7 +587,7 @@
       "exclusive_economic_zone": 1325547
     },
     "LKA": {
-      "land_area": 65.5,
+      "land_area": 62710,
       "land_border_length": 1052,
       "highest_elevation_m": 1231,
       "longest_river_km": 701,
@@ -597,7 +597,7 @@
       "exclusive_economic_zone": 300504
     },
     "SYR": {
-      "land_area": 45.6,
+      "land_area": 183630,
       "land_border_length": 1800,
       "highest_elevation_m": 3066,
       "longest_river_km": 1200,
@@ -607,7 +607,7 @@
       "exclusive_economic_zone": 514225
     },
     "KAZ": {
-      "land_area": 68,
+      "land_area": 2699700,
       "land_border_length": 6901,
       "highest_elevation_m": 7912,
       "longest_river_km": 4601,
@@ -617,7 +617,7 @@
       "exclusive_economic_zone": 1971692
     },
     "CHL": {
-      "land_area": 73.1,
+      "land_area": 743532,
       "land_border_length": 3622,
       "highest_elevation_m": 4624,
       "longest_river_km": 2414,
@@ -627,7 +627,7 @@
       "exclusive_economic_zone": 1034740
     },
     "ZMB": {
-      "land_area": 50,
+      "land_area": 743390,
       "land_border_length": 3621,
       "highest_elevation_m": 3609,
       "longest_river_km": 2414,
@@ -637,7 +637,7 @@
       "exclusive_economic_zone": 1034641
     },
     "ROU": {
-      "land_area": 68.9,
+      "land_area": 230080,
       "land_border_length": 2015,
       "highest_elevation_m": 3746,
       "longest_river_km": 1343,
@@ -647,7 +647,7 @@
       "exclusive_economic_zone": 575600
     },
     "TCD": {
-      "land_area": 33.5,
+      "land_area": 1259200,
       "land_border_length": 4713,
       "highest_elevation_m": 4623,
       "longest_river_km": 3142,
@@ -657,7 +657,7 @@
       "exclusive_economic_zone": 1346569
     },
     "SOM": {
-      "land_area": 32.3,
+      "land_area": 627340,
       "land_border_length": 3327,
       "highest_elevation_m": 3004,
       "longest_river_km": 2218,
@@ -667,7 +667,7 @@
       "exclusive_economic_zone": 950458
     },
     "SEN": {
-      "land_area": 42.9,
+      "land_area": 192530,
       "land_border_length": 1843,
       "highest_elevation_m": 2188,
       "longest_river_km": 1229,
@@ -677,7 +677,7 @@
       "exclusive_economic_zone": 526539
     },
     "NLD": {
-      "land_area": 80.4,
+      "land_area": 33670,
       "land_border_length": 771,
       "highest_elevation_m": 2988,
       "longest_river_km": 514,
@@ -687,7 +687,7 @@
       "exclusive_economic_zone": 220193
     },
     "GTM": {
-      "land_area": 55.3,
+      "land_area": 107160,
       "land_border_length": 1375,
       "highest_elevation_m": 1856,
       "longest_river_km": 917,
@@ -697,7 +697,7 @@
       "exclusive_economic_zone": 392824
     },
     "ECU": {
-      "land_area": 63.9,
+      "land_area": 248360,
       "land_border_length": 2093,
       "highest_elevation_m": 1827,
       "longest_river_km": 1395,
@@ -707,7 +707,7 @@
       "exclusive_economic_zone": 598029
     },
     "ZWE": {
-      "land_area": 45.5,
+      "land_area": 386850,
       "land_border_length": 2612,
       "highest_elevation_m": 3033,
       "longest_river_km": 1742,
@@ -717,7 +717,7 @@
       "exclusive_economic_zone": 746367
     },
     "GIN": {
-      "land_area": 39,
+      "land_area": 245720,
       "land_border_length": 2082,
       "highest_elevation_m": 2183,
       "longest_river_km": 1388,
@@ -727,7 +727,7 @@
       "exclusive_economic_zone": 594842
     },
     "RWA": {
-      "land_area": 44.5,
+      "land_area": 24670,
       "land_border_length": 660,
       "highest_elevation_m": 637,
       "longest_river_km": 440,
@@ -737,7 +737,7 @@
       "exclusive_economic_zone": 188480
     },
     "BEN": {
-      "land_area": 43.8,
+      "land_area": 112760,
       "land_border_length": 1410,
       "highest_elevation_m": 1594,
       "longest_river_km": 940,
@@ -747,7 +747,7 @@
       "exclusive_economic_zone": 402957
     },
     "BDI": {
-      "land_area": 35.4,
+      "land_area": 25680,
       "land_border_length": 673,
       "highest_elevation_m": 713,
       "longest_river_km": 449,
@@ -757,7 +757,7 @@
       "exclusive_economic_zone": 192300
     },
     "BOL": {
-      "land_area": 58.9,
+      "land_area": 1083300,
       "land_border_length": 4371,
       "highest_elevation_m": 4376,
       "longest_river_km": 2914,
@@ -767,7 +767,7 @@
       "exclusive_economic_zone": 1248980
     },
     "TUN": {
-      "land_area": 62.5,
+      "land_area": 155360,
       "land_border_length": 1655,
       "highest_elevation_m": 2905,
       "longest_river_km": 1104,
@@ -777,7 +777,7 @@
       "exclusive_economic_zone": 472989
     },
     "HTI": {
-      "land_area": 42.3,
+      "land_area": 27560,
       "land_border_length": 697,
       "highest_elevation_m": 1435,
       "longest_river_km": 465,
@@ -787,7 +787,7 @@
       "exclusive_economic_zone": 199214
     },
     "BEL": {
-      "land_area": 80.1,
+      "land_area": 30280,
       "land_border_length": 731,
       "highest_elevation_m": 2882,
       "longest_river_km": 487,
@@ -797,7 +797,7 @@
       "exclusive_economic_zone": 208814
     },
     "JOR": {
-      "land_area": 62.5,
+      "land_area": 88780,
       "land_border_length": 1251,
       "highest_elevation_m": 2419,
       "longest_river_km": 834,
@@ -807,7 +807,7 @@
       "exclusive_economic_zone": 357552
     },
     "DOM": {
-      "land_area": 62.6,
+      "land_area": 48320,
       "land_border_length": 923,
       "highest_elevation_m": 1613,
       "longest_river_km": 615,
@@ -817,7 +817,7 @@
       "exclusive_economic_zone": 263782
     },
     "CUB": {
-      "land_area": 66,
+      "land_area": 106440,
       "land_border_length": 1370,
       "highest_elevation_m": 2110,
       "longest_river_km": 914,
@@ -827,7 +827,7 @@
       "exclusive_economic_zone": 391502
     },
     "SSD": {
-      "land_area": 32.4,
+      "land_area": 644330,
       "land_border_length": 3371,
       "highest_elevation_m": 3119,
       "longest_river_km": 2248,
@@ -837,7 +837,7 @@
       "exclusive_economic_zone": 963242
     },
     "SWE": {
-      "land_area": 80.9,
+      "land_area": 407310,
       "land_border_length": 2680,
       "highest_elevation_m": 4940,
       "longest_river_km": 1787,
@@ -847,7 +847,7 @@
       "exclusive_economic_zone": 765850
     },
     "HND": {
-      "land_area": 52.4,
+      "land_area": 111890,
       "land_border_length": 1405,
       "highest_elevation_m": 1855,
       "longest_river_km": 937,
@@ -857,7 +857,7 @@
       "exclusive_economic_zone": 401400
     },
     "CZE": {
-      "land_area": 76.1,
+      "land_area": 77247,
       "land_border_length": 1167,
       "highest_elevation_m": 3215,
       "longest_river_km": 778,
@@ -867,7 +867,7 @@
       "exclusive_economic_zone": 333520
     },
     "AZE": {
-      "land_area": 64.3,
+      "land_area": 82629,
       "land_border_length": 1207,
       "highest_elevation_m": 2812,
       "longest_river_km": 805,
@@ -877,7 +877,7 @@
       "exclusive_economic_zone": 344943
     },
     "GRC": {
-      "land_area": 75.9,
+      "land_area": 128900,
       "land_border_length": 1508,
       "highest_elevation_m": 3015,
       "longest_river_km": 1005,
@@ -887,7 +887,7 @@
       "exclusive_economic_zone": 430832
     },
     "PNG": {
-      "land_area": 46.2,
+      "land_area": 452860,
       "land_border_length": 2826,
       "highest_elevation_m": 2639,
       "longest_river_km": 1884,
@@ -897,7 +897,7 @@
       "exclusive_economic_zone": 807538
     },
     "PRT": {
-      "land_area": 72,
+      "land_area": 91590,
       "land_border_length": 1271,
       "highest_elevation_m": 2832,
       "longest_river_km": 847,
@@ -907,7 +907,7 @@
       "exclusive_economic_zone": 363166
     },
     "HUN": {
-      "land_area": 71.2,
+      "land_area": 89608,
       "land_border_length": 1257,
       "highest_elevation_m": 3170,
       "longest_river_km": 838,
@@ -917,7 +917,7 @@
       "exclusive_economic_zone": 359215
     },
     "TJK": {
-      "land_area": 55.3,
+      "land_area": 141510,
       "land_border_length": 1580,
       "highest_elevation_m": 3065,
       "longest_river_km": 1053,
@@ -927,7 +927,7 @@
       "exclusive_economic_zone": 451414
     },
     "ARE": {
-      "land_area": 79.6,
+      "land_area": 83600,
       "land_border_length": 1214,
       "highest_elevation_m": 2066,
       "longest_river_km": 810,
@@ -937,7 +937,7 @@
       "exclusive_economic_zone": 346964
     },
     "BLR": {
-      "land_area": 68.7,
+      "land_area": 202900,
       "land_border_length": 1892,
       "highest_elevation_m": 3994,
       "longest_river_km": 1261,
@@ -947,7 +947,7 @@
       "exclusive_economic_zone": 540533
     },
     "ISR": {
-      "land_area": 77.8,
+      "land_area": 21640,
       "land_border_length": 618,
       "highest_elevation_m": 1912,
       "longest_river_km": 412,
@@ -957,7 +957,7 @@
       "exclusive_economic_zone": 176526
     },
     "TGO": {
-      "land_area": 42.8,
+      "land_area": 54390,
       "land_border_length": 980,
       "highest_elevation_m": 1204,
       "longest_river_km": 653,
@@ -967,7 +967,7 @@
       "exclusive_economic_zone": 279860
     },
     "AUT": {
-      "land_area": 78.7,
+      "land_area": 82445,
       "land_border_length": 1206,
       "highest_elevation_m": 3143,
       "longest_river_km": 804,
@@ -977,7 +977,7 @@
       "exclusive_economic_zone": 344559
     },
     "CHE": {
-      "land_area": 82.2,
+      "land_area": 39516,
       "land_border_length": 835,
       "highest_elevation_m": 2803,
       "longest_river_km": 557,
@@ -987,7 +987,7 @@
       "exclusive_economic_zone": 238544
     },
     "SLE": {
-      "land_area": 35.6,
+      "land_area": 71620,
       "land_border_length": 1124,
       "highest_elevation_m": 1317,
       "longest_river_km": 749,
@@ -997,7 +997,7 @@
       "exclusive_economic_zone": 321143
     },
     "LAO": {
-      "land_area": 51.1,
+      "land_area": 230800,
       "land_border_length": 2018,
       "highest_elevation_m": 2575,
       "longest_river_km": 1345,
@@ -1007,7 +1007,7 @@
       "exclusive_economic_zone": 576500
     },
     "HKG": {
-      "land_area": 81.3,
+      "land_area": 1050,
       "land_border_length": 136,
       "highest_elevation_m": 1121,
       "longest_river_km": 91,
@@ -1017,7 +1017,7 @@
       "exclusive_economic_zone": 38884
     },
     "SRB": {
-      "land_area": 66.9,
+      "land_area": 87460,
       "land_border_length": 1242,
       "highest_elevation_m": 3016,
       "longest_river_km": 828,
@@ -1027,7 +1027,7 @@
       "exclusive_economic_zone": 354884
     },
     "NIC": {
-      "land_area": 55.9,
+      "land_area": 120340,
       "land_border_length": 1457,
       "highest_elevation_m": 1793,
       "longest_river_km": 971,
@@ -1037,7 +1037,7 @@
       "exclusive_economic_zone": 416281
     },
     "LBY": {
-      "land_area": 60,
+      "land_area": 1759540,
       "land_border_length": 5571,
       "highest_elevation_m": 5828,
       "longest_river_km": 3714,
@@ -1047,7 +1047,7 @@
       "exclusive_economic_zone": 1591772
     },
     "PRY": {
-      "land_area": 59.7,
+      "land_area": 397300,
       "land_border_length": 2647,
       "highest_elevation_m": 3261,
       "longest_river_km": 1765,
@@ -1057,7 +1057,7 @@
       "exclusive_economic_zone": 756381
     },
     "KGZ": {
-      "land_area": 57.1,
+      "land_area": 191800,
       "land_border_length": 1839,
       "highest_elevation_m": 3387,
       "longest_river_km": 1226,
@@ -1067,7 +1067,7 @@
       "exclusive_economic_zone": 525540
     },
     "BGR": {
-      "land_area": 69.1,
+      "land_area": 108612,
       "land_border_length": 1384,
       "highest_elevation_m": 3076,
       "longest_river_km": 923,
@@ -1077,7 +1077,7 @@
       "exclusive_economic_zone": 395476
     },
     "TKM": {
-      "land_area": 60,
+      "land_area": 469930,
       "land_border_length": 2879,
       "highest_elevation_m": 4153,
       "longest_river_km": 1919,
@@ -1087,7 +1087,7 @@
       "exclusive_economic_zone": 822617
     },
     "SLV": {
-      "land_area": 57.3,
+      "land_area": 20720,
       "land_border_length": 605,
       "highest_elevation_m": 1124,
       "longest_river_km": 403,
@@ -1097,7 +1097,7 @@
       "exclusive_economic_zone": 172733
     },
     "COG": {
-      "land_area": 51.5,
+      "land_area": 341500,
       "land_border_length": 2454,
       "highest_elevation_m": 2056,
       "longest_river_km": 1636,
@@ -1107,7 +1107,7 @@
       "exclusive_economic_zone": 701256
     },
     "SGP": {
-      "land_area": 80.7,
+      "land_area": 719,
       "land_border_length": 113,
       "highest_elevation_m": 155,
       "longest_river_km": 75,
@@ -1117,7 +1117,7 @@
       "exclusive_economic_zone": 32177
     },
     "DNK": {
-      "land_area": 80.9,
+      "land_area": 42434,
       "land_border_length": 865,
       "highest_elevation_m": 3253,
       "longest_river_km": 577,
@@ -1127,7 +1127,7 @@
       "exclusive_economic_zone": 247194
     },
     "SVK": {
-      "land_area": 72.7,
+      "land_area": 48088,
       "land_border_length": 921,
       "highest_elevation_m": 2958,
       "longest_river_km": 614,
@@ -1137,7 +1137,7 @@
       "exclusive_economic_zone": 263148
     },
     "CAF": {
-      "land_area": 31.2,
+      "land_area": 622984,
       "land_border_length": 3315,
       "highest_elevation_m": 3060,
       "longest_river_km": 2210,
@@ -1147,7 +1147,7 @@
       "exclusive_economic_zone": 947152
     },
     "FIN": {
-      "land_area": 80.1,
+      "land_area": 303890,
       "land_border_length": 2315,
       "highest_elevation_m": 4716,
       "longest_river_km": 1544,
@@ -1157,7 +1157,7 @@
       "exclusive_economic_zone": 661515
     },
     "NOR": {
-      "land_area": 82.1,
+      "land_area": 365268,
       "land_border_length": 2538,
       "highest_elevation_m": 4836,
       "longest_river_km": 1692,
@@ -1167,7 +1167,7 @@
       "exclusive_economic_zone": 725249
     },
     "LBR": {
-      "land_area": 37,
+      "land_area": 96320,
       "land_border_length": 1303,
       "highest_elevation_m": 1376,
       "longest_river_km": 869,
@@ -1177,7 +1177,7 @@
       "exclusive_economic_zone": 372426
     },
     "PSE": {
-      "land_area": 58.3,
+      "land_area": 6020,
       "land_border_length": 326,
       "highest_elevation_m": 1709,
       "longest_river_km": 217,
@@ -1187,7 +1187,7 @@
       "exclusive_economic_zone": 93106
     },
     "NZL": {
-      "land_area": 79.8,
+      "land_area": 263310,
       "land_border_length": 2155,
       "highest_elevation_m": 3636,
       "longest_river_km": 1437,
@@ -1197,7 +1197,7 @@
       "exclusive_economic_zone": 615765
     },
     "CRI": {
-      "land_area": 67.5,
+      "land_area": 51060,
       "land_border_length": 949,
       "highest_elevation_m": 1230,
       "longest_river_km": 633,
@@ -1207,7 +1207,7 @@
       "exclusive_economic_zone": 271158
     },
     "IRL": {
-      "land_area": 80.8,
+      "land_area": 68890,
       "land_border_length": 1102,
       "highest_elevation_m": 3310,
       "longest_river_km": 735,
@@ -1217,7 +1217,7 @@
       "exclusive_economic_zone": 314963
     },
     "MRT": {
-      "land_area": 44.2,
+      "land_area": 1030700,
       "land_border_length": 4264,
       "highest_elevation_m": 4499,
       "longest_river_km": 2843,
@@ -1227,7 +1227,7 @@
       "exclusive_economic_zone": 1218281
     },
     "OMN": {
-      "land_area": 69.8,
+      "land_area": 309500,
       "land_border_length": 2337,
       "highest_elevation_m": 2915,
       "longest_river_km": 1558,
@@ -1237,7 +1237,7 @@
       "exclusive_economic_zone": 667593
     },
     "PAN": {
-      "land_area": 67.1,
+      "land_area": 74340,
       "land_border_length": 1145,
       "highest_elevation_m": 1339,
       "longest_river_km": 763,
@@ -1247,7 +1247,7 @@
       "exclusive_economic_zone": 327184
     },
     "KWT": {
-      "land_area": 68.3,
+      "land_area": 17820,
       "land_border_length": 561,
       "highest_elevation_m": 1786,
       "longest_river_km": 374,
@@ -1257,7 +1257,7 @@
       "exclusive_economic_zone": 160190
     },
     "HRV": {
-      "land_area": 70.6,
+      "land_area": 55960,
       "land_border_length": 994,
       "highest_elevation_m": 2857,
       "longest_river_km": 662,
@@ -1267,7 +1267,7 @@
       "exclusive_economic_zone": 283870
     },
     "GEO": {
-      "land_area": 66.3,
+      "land_area": 69490,
       "land_border_length": 1107,
       "highest_elevation_m": 2827,
       "longest_river_km": 738,
@@ -1277,7 +1277,7 @@
       "exclusive_economic_zone": 316331
     },
     "ERI": {
-      "land_area": 37.4,
+      "land_area": 101000,
       "land_border_length": 1335,
       "highest_elevation_m": 1795,
       "longest_river_km": 890,
@@ -1287,7 +1287,7 @@
       "exclusive_economic_zone": 381366
     },
     "URY": {
-      "land_area": 68.3,
+      "land_area": 175020,
       "land_border_length": 1757,
       "highest_elevation_m": 2928,
       "longest_river_km": 1171,
@@ -1297,7 +1297,7 @@
       "exclusive_economic_zone": 502025
     },
     "MNG": {
-      "land_area": 63,
+      "land_area": 1553560,
       "land_border_length": 5235,
       "highest_elevation_m": 6471,
       "longest_river_km": 3490,
@@ -1307,7 +1307,7 @@
       "exclusive_economic_zone": 1495703
     },
     "BIH": {
-      "land_area": 65.3,
+      "land_area": 51000,
       "land_border_length": 948,
       "highest_elevation_m": 2767,
       "longest_river_km": 632,
@@ -1317,7 +1317,7 @@
       "exclusive_economic_zone": 270998
     },
     "QAT": {
-      "land_area": 72.8,
+      "land_area": 11610,
       "land_border_length": 453,
       "highest_elevation_m": 1518,
       "longest_river_km": 302,
@@ -1327,7 +1327,7 @@
       "exclusive_economic_zone": 129300
     },
     "NAM": {
-      "land_area": 55,
+      "land_area": 823290,
       "land_border_length": 3811,
       "highest_elevation_m": 4209,
       "longest_river_km": 2541,
@@ -1337,7 +1337,7 @@
       "exclusive_economic_zone": 1088824
     },
     "ARM": {
-      "land_area": 64.2,
+      "land_area": 28470,
       "land_border_length": 709,
       "highest_elevation_m": 2394,
       "longest_river_km": 472,
@@ -1347,7 +1347,7 @@
       "exclusive_economic_zone": 202477
     },
     "LTU": {
-      "land_area": 72.9,
+      "land_area": 62674,
       "land_border_length": 1051,
       "highest_elevation_m": 3359,
       "longest_river_km": 701,
@@ -1357,7 +1357,7 @@
       "exclusive_economic_zone": 300417
     },
     "JAM": {
-      "land_area": 62.2,
+      "land_area": 10830,
       "land_border_length": 437,
       "highest_elevation_m": 1179,
       "longest_river_km": 291,
@@ -1367,7 +1367,7 @@
       "exclusive_economic_zone": 124881
     },
     "ALB": {
-      "land_area": 66.7,
+      "land_area": 27400,
       "land_border_length": 695,
       "highest_elevation_m": 2431,
       "longest_river_km": 463,
@@ -1377,7 +1377,7 @@
       "exclusive_economic_zone": 198635
     },
     "GMB": {
-      "land_area": 39.1,
+      "land_area": 10120,
       "land_border_length": 423,
       "highest_elevation_m": 957,
       "longest_river_km": 282,
@@ -1387,7 +1387,7 @@
       "exclusive_economic_zone": 120718
     },
     "GAB": {
-      "land_area": 59.7,
+      "land_area": 257670,
       "land_border_length": 2132,
       "highest_elevation_m": 1813,
       "longest_river_km": 1421,
@@ -1397,7 +1397,7 @@
       "exclusive_economic_zone": 609134
     },
     "BWA": {
-      "land_area": 60.9,
+      "land_area": 566730,
       "land_border_length": 3162,
       "highest_elevation_m": 3640,
       "longest_river_km": 2108,
@@ -1407,7 +1407,7 @@
       "exclusive_economic_zone": 903378
     },
     "LSO": {
-      "land_area": 44.2,
+      "land_area": 30360,
       "land_border_length": 732,
       "highest_elevation_m": 1942,
       "longest_river_km": 488,
@@ -1417,7 +1417,7 @@
       "exclusive_economic_zone": 209089
     },
     "GNB": {
-      "land_area": 38.7,
+      "land_area": 28120,
       "land_border_length": 704,
       "highest_elevation_m": 1118,
       "longest_river_km": 470,
@@ -1427,7 +1427,7 @@
       "exclusive_economic_zone": 201228
     },
     "SVN": {
-      "land_area": 78.7,
+      "land_area": 20140,
       "land_border_length": 596,
       "highest_elevation_m": 2573,
       "longest_river_km": 397,
@@ -1437,7 +1437,7 @@
       "exclusive_economic_zone": 170299
     },
     "GNQ": {
-      "land_area": 50.2,
+      "land_area": 28050,
       "land_border_length": 703,
       "highest_elevation_m": 660,
       "longest_river_km": 469,
@@ -1447,7 +1447,7 @@
       "exclusive_economic_zone": 200978
     },
     "LVA": {
-      "land_area": 72,
+      "land_area": 62200,
       "land_border_length": 1047,
       "highest_elevation_m": 3432,
       "longest_river_km": 698,
@@ -1457,7 +1457,7 @@
       "exclusive_economic_zone": 299279
     },
     "MKD": {
-      "land_area": 64.3,
+      "land_area": 25430,
       "land_border_length": 670,
       "highest_elevation_m": 2431,
       "longest_river_km": 447,
@@ -1467,7 +1467,7 @@
       "exclusive_economic_zone": 191361
     },
     "BHR": {
-      "land_area": 71.9,
+      "land_area": 780,
       "land_border_length": 117,
       "highest_elevation_m": 1271,
       "longest_river_km": 78,
@@ -1477,7 +1477,7 @@
       "exclusive_economic_zone": 33514
     },
     "TTO": {
-      "land_area": 66.6,
+      "land_area": 5130,
       "land_border_length": 301,
       "highest_elevation_m": 732,
       "longest_river_km": 201,
@@ -1487,7 +1487,7 @@
       "exclusive_economic_zone": 85949
     },
     "TLS": {
-      "land_area": 59.5,
+      "land_area": 14870,
       "land_border_length": 512,
       "highest_elevation_m": 826,
       "longest_river_km": 341,
@@ -1497,7 +1497,7 @@
       "exclusive_economic_zone": 146331
     },
     "CYP": {
-      "land_area": 73.9,
+      "land_area": 9240,
       "land_border_length": 404,
       "highest_elevation_m": 1917,
       "longest_river_km": 269,
@@ -1507,7 +1507,7 @@
       "exclusive_economic_zone": 115350
     },
     "EST": {
-      "land_area": 74,
+      "land_area": 42390,
       "land_border_length": 865,
       "highest_elevation_m": 3358,
       "longest_river_km": 576,
@@ -1517,7 +1517,7 @@
       "exclusive_economic_zone": 247066
     },
     "MUS": {
-      "land_area": 67.2,
+      "land_area": 2030,
       "land_border_length": 189,
       "highest_elevation_m": 1073,
       "longest_river_km": 126,
@@ -1527,7 +1527,7 @@
       "exclusive_economic_zone": 54067
     },
     "SWZ": {
-      "land_area": 50,
+      "land_area": 17200,
       "land_border_length": 551,
       "highest_elevation_m": 1652,
       "longest_river_km": 367,
@@ -1537,7 +1537,7 @@
       "exclusive_economic_zone": 157379
     },
     "DJI": {
-      "land_area": 40.5,
+      "land_area": 23180,
       "land_border_length": 639,
       "highest_elevation_m": 1065,
       "longest_river_km": 426,
@@ -1547,7 +1547,7 @@
       "exclusive_economic_zone": 182700
     },
     "FJI": {
-      "land_area": 63,
+      "land_area": 18270,
       "land_border_length": 568,
       "highest_elevation_m": 1270,
       "longest_river_km": 378,
@@ -1557,7 +1557,7 @@
       "exclusive_economic_zone": 162200
     },
     "COM": {
-      "land_area": 42.8,
+      "land_area": 2235,
       "land_border_length": 199,
       "highest_elevation_m": 700,
       "longest_river_km": 132,
@@ -1567,7 +1567,7 @@
       "exclusive_economic_zone": 56731
     },
     "GUY": {
-      "land_area": 55.6,
+      "land_area": 196850,
       "land_border_length": 1863,
       "highest_elevation_m": 1772,
       "longest_river_km": 1242,
@@ -1577,7 +1577,7 @@
       "exclusive_economic_zone": 532413
     },
     "BTN": {
-      "land_area": 52,
+      "land_area": 38117,
       "land_border_length": 820,
       "highest_elevation_m": 1921,
       "longest_river_km": 547,
@@ -1587,7 +1587,7 @@
       "exclusive_economic_zone": 234283
     },
     "SLB": {
-      "land_area": 46.4,
+      "land_area": 27990,
       "land_border_length": 703,
       "highest_elevation_m": 1020,
       "longest_river_km": 468,
@@ -1597,7 +1597,7 @@
       "exclusive_economic_zone": 200763
     },
     "LUX": {
-      "land_area": 78.8,
+      "land_area": 2574,
       "land_border_length": 213,
       "highest_elevation_m": 2419,
       "longest_river_km": 142,
@@ -1607,7 +1607,7 @@
       "exclusive_economic_zone": 60882
     },
     "MNE": {
-      "land_area": 69.2,
+      "land_area": 13450,
       "land_border_length": 487,
       "highest_elevation_m": 2328,
       "longest_river_km": 325,
@@ -1617,7 +1617,7 @@
       "exclusive_economic_zone": 139169
     },
     "SUR": {
-      "land_area": 61.2,
+      "land_area": 156000,
       "land_border_length": 1659,
       "highest_elevation_m": 1559,
       "longest_river_km": 1106,
@@ -1627,7 +1627,7 @@
       "exclusive_economic_zone": 473962
     },
     "CPV": {
-      "land_area": 59.5,
+      "land_area": 4030,
       "land_border_length": 267,
       "highest_elevation_m": 966,
       "longest_river_km": 178,
@@ -1637,7 +1637,7 @@
       "exclusive_economic_zone": 76179
     },
     "MDV": {
-      "land_area": 60.9,
+      "land_area": 300,
       "land_border_length": 73,
       "highest_elevation_m": 205,
       "longest_river_km": 50,
@@ -1647,7 +1647,7 @@
       "exclusive_economic_zone": 20785
     },
     "MLT": {
-      "land_area": 74.6,
+      "land_area": 316,
       "land_border_length": 75,
       "highest_elevation_m": 1680,
       "longest_river_km": 50,
@@ -1657,7 +1657,7 @@
       "exclusive_economic_zone": 21332
     },
     "BRN": {
-      "land_area": 72.5,
+      "land_area": 5270,
       "land_border_length": 305,
       "highest_elevation_m": 458,
       "longest_river_km": 203,
@@ -1667,7 +1667,7 @@
       "exclusive_economic_zone": 87114
     },
     "BLZ": {
-      "land_area": 60.2,
+      "land_area": 22810,
       "land_border_length": 634,
       "highest_elevation_m": 1302,
       "longest_river_km": 423,
@@ -1677,7 +1677,7 @@
       "exclusive_economic_zone": 181236
     },
     "BHS": {
-      "land_area": 68.6,
+      "land_area": 10010,
       "land_border_length": 420,
       "highest_elevation_m": 1477,
       "longest_river_km": 280,
@@ -1687,7 +1687,7 @@
       "exclusive_economic_zone": 120060
     },
     "ISL": {
-      "land_area": 81.5,
+      "land_area": 100250,
       "land_border_length": 1330,
       "highest_elevation_m": 4031,
       "longest_river_km": 887,
@@ -1697,7 +1697,7 @@
       "exclusive_economic_zone": 379947
     },
     "VUT": {
-      "land_area": 51.3,
+      "land_area": 12190,
       "land_border_length": 464,
       "highest_elevation_m": 1079,
       "longest_river_km": 309,
@@ -1707,7 +1707,7 @@
       "exclusive_economic_zone": 132490
     },
     "BRB": {
-      "land_area": 68,
+      "land_area": 430,
       "land_border_length": 87,
       "highest_elevation_m": 666,
       "longest_river_km": 58,
@@ -1717,7 +1717,7 @@
       "exclusive_economic_zone": 24884
     },
     "STP": {
-      "land_area": 50.1,
+      "land_area": 960,
       "land_border_length": 130,
       "highest_elevation_m": 117,
       "longest_river_km": 87,
@@ -1727,7 +1727,7 @@
       "exclusive_economic_zone": 37181
     },
     "WSM": {
-      "land_area": 60.6,
+      "land_area": 2830,
       "land_border_length": 223,
       "highest_elevation_m": 805,
       "longest_river_km": 149,
@@ -1737,7 +1737,7 @@
       "exclusive_economic_zone": 63837
     },
     "LCA": {
-      "land_area": 63.5,
+      "land_area": 610,
       "land_border_length": 104,
       "highest_elevation_m": 712,
       "longest_river_km": 69,
@@ -1747,7 +1747,7 @@
       "exclusive_economic_zone": 29638
     },
     "KIR": {
-      "land_area": 52,
+      "land_area": 810,
       "land_border_length": 120,
       "highest_elevation_m": 251,
       "longest_river_km": 80,
@@ -1757,7 +1757,7 @@
       "exclusive_economic_zone": 34153
     },
     "GRD": {
-      "land_area": 65.6,
+      "land_area": 340,
       "land_border_length": 77,
       "highest_elevation_m": 610,
       "longest_river_km": 52,
@@ -1767,7 +1767,7 @@
       "exclusive_economic_zone": 22127
     },
     "VCT": {
-      "land_area": 61.5,
+      "land_area": 390,
       "land_border_length": 83,
       "highest_elevation_m": 653,
       "longest_river_km": 55,
@@ -1777,7 +1777,7 @@
       "exclusive_economic_zone": 23698
     },
     "FSM": {
-      "land_area": 59.5,
+      "land_area": 700,
       "land_border_length": 111,
       "highest_elevation_m": 427,
       "longest_river_km": 74,
@@ -1787,7 +1787,7 @@
       "exclusive_economic_zone": 31749
     },
     "SYC": {
-      "land_area": 67.7,
+      "land_area": 460,
       "land_border_length": 90,
       "highest_elevation_m": 286,
       "longest_river_km": 60,
@@ -1797,7 +1797,7 @@
       "exclusive_economic_zone": 25737
     },
     "ATG": {
-      "land_area": 66.3,
+      "land_area": 440,
       "land_border_length": 88,
       "highest_elevation_m": 841,
       "longest_river_km": 59,
@@ -1807,7 +1807,7 @@
       "exclusive_economic_zone": 25171
     },
     "AND": {
-      "land_area": 72.9,
+      "land_area": 470,
       "land_border_length": 91,
       "highest_elevation_m": 1989,
       "longest_river_km": 61,
@@ -1817,7 +1817,7 @@
       "exclusive_economic_zone": 26015
     },
     "DMA": {
-      "land_area": 60.8,
+      "land_area": 750,
       "land_border_length": 115,
       "highest_elevation_m": 789,
       "longest_river_km": 77,
@@ -1827,7 +1827,7 @@
       "exclusive_economic_zone": 32863
     },
     "MHL": {
-      "land_area": 60.2,
+      "land_area": 180,
       "land_border_length": 56,
       "highest_elevation_m": 368,
       "longest_river_km": 50,
@@ -1837,7 +1837,7 @@
       "exclusive_economic_zone": 16100
     },
     "KNA": {
-      "land_area": 66.1,
+      "land_area": 260,
       "land_border_length": 68,
       "highest_elevation_m": 838,
       "longest_river_km": 50,
@@ -1847,7 +1847,7 @@
       "exclusive_economic_zone": 19349
     },
     "MCO": {
-      "land_area": 59.5,
+      "land_area": 2,
       "land_border_length": 6,
       "highest_elevation_m": 1973,
       "longest_river_km": 50,
@@ -1857,7 +1857,7 @@
       "exclusive_economic_zone": 1697
     },
     "LIE": {
-      "land_area": 77.9,
+      "land_area": 160,
       "land_border_length": 53,
       "highest_elevation_m": 2167,
       "longest_river_km": 50,
@@ -1867,7 +1867,7 @@
       "exclusive_economic_zone": 15179
     },
     "SMR": {
-      "land_area": 59.5,
+      "land_area": 60,
       "land_border_length": 33,
       "highest_elevation_m": 2004,
       "longest_river_km": 50,
@@ -1877,7 +1877,7 @@
       "exclusive_economic_zone": 9295
     },
     "PLW": {
-      "land_area": 67.8,
+      "land_area": 460,
       "land_border_length": 90,
       "highest_elevation_m": 413,
       "longest_river_km": 60,
@@ -1887,7 +1887,7 @@
       "exclusive_economic_zone": 25737
     },
     "NRU": {
-      "land_area": 59.5,
+      "land_area": 20,
       "land_border_length": 19,
       "highest_elevation_m": 100,
       "longest_river_km": 50,
@@ -1897,7 +1897,7 @@
       "exclusive_economic_zone": 5367
     },
     "TUV": {
-      "land_area": 59.5,
+      "land_area": 30,
       "land_border_length": 23,
       "highest_elevation_m": 339,
       "longest_river_km": 50,
@@ -1907,7 +1907,7 @@
       "exclusive_economic_zone": 6573
     },
     "VAT": {
-      "land_area": 59.5,
+      "land_area": 1,
       "land_border_length": 3,
       "highest_elevation_m": 1888,
       "longest_river_km": 50,
@@ -1917,7 +1917,7 @@
       "exclusive_economic_zone": 849
     },
     "BFA": {
-      "land_area": 36,
+      "land_area": 274200,
       "land_border_length": 2199,
       "highest_elevation_m": 2384,
       "longest_river_km": 1466,
@@ -1927,7 +1927,7 @@
       "exclusive_economic_zone": 628369
     },
     "KHM": {
-      "land_area": 49.5,
+      "land_area": 181035,
       "land_border_length": 1787,
       "highest_elevation_m": 2055,
       "longest_river_km": 1191,
@@ -1937,7 +1937,7 @@
       "exclusive_economic_zone": 510578
     },
     "LBN": {
-      "land_area": 64.3,
+      "land_area": 10452,
       "land_border_length": 429,
       "highest_elevation_m": 1881,
       "longest_river_km": 286,
@@ -1947,7 +1947,7 @@
       "exclusive_economic_zone": 122682
     },
     "MWI": {
-      "land_area": 40.5,
+      "land_area": 118484,
       "land_border_length": 1446,
       "highest_elevation_m": 1801,
       "longest_river_km": 964,
@@ -1957,7 +1957,7 @@
       "exclusive_economic_zone": 413058
     },
     "MDA": {
-      "land_area": 59.5,
+      "land_area": 33846,
       "land_border_length": 773,
       "highest_elevation_m": 2777,
       "longest_river_km": 515,
@@ -1967,7 +1967,7 @@
       "exclusive_economic_zone": 220767
     },
     "TON": {
-      "land_area": 61.7,
+      "land_area": 747,
       "land_border_length": 115,
       "highest_elevation_m": 1049,
       "longest_river_km": 77,
@@ -1977,7 +1977,7 @@
       "exclusive_economic_zone": 32798
     },
     "XKX": {
-      "land_area": 59.5,
+      "land_area": 10887,
       "land_border_length": 438,
       "highest_elevation_m": 2282,
       "longest_river_km": 292,
