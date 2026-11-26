@@ -2594,10 +2594,10 @@
       "military_expenditure_gdp": 1.8,
       "defense_pact_memberships": 8,
       "conflict_fatalities": 45,
-      "military_strength_score": 2.0571
+      "military_strength_score": 2.0566
     },
     "LIE": {
-      "defense_budget_usd": 0.13,
+      "defense_budget_usd": 0.12,
       "military_personnel_active": 500,
       "battle_tanks_count": 2,
       "combat_aircraft_count": 1,
@@ -2608,7 +2608,7 @@
       "military_expenditure_gdp": 1.8,
       "defense_pact_memberships": 11,
       "conflict_fatalities": 13,
-      "military_strength_score": 2.1082
+      "military_strength_score": 2.1107
     },
     "SMR": {
       "defense_budget_usd": 0.03,
@@ -2667,9 +2667,9 @@
       "military_strength_score": 2.7803
     },
     "VAT": {
-      "defense_budget_usd": 0.09,
+      "defense_budget_usd": 0.02,
       "military_personnel_active": 500,
-      "battle_tanks_count": 1,
+      "battle_tanks_count": 0,
       "combat_aircraft_count": 0,
       "naval_fleet_strength": 0,
       "nuclear_warhead_estimate": 0,
@@ -2678,7 +2678,7 @@
       "military_expenditure_gdp": 1.8,
       "defense_pact_memberships": 8,
       "conflict_fatalities": 45,
-      "military_strength_score": 2.2164
+      "military_strength_score": 2.7904
     },
     "BFA": {
       "defense_budget_usd": 0.35,

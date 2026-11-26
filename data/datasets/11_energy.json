@@ -2097,11 +2097,11 @@
       "gas_production_bcm": 0
     },
     "VAT": {
-      "total_energy_production_twh": 4,
+      "total_energy_production_twh": 1,
       "energy_consumption_pc": 6550,
       "renewable_energy_share": 49.7,
-      "solar_generation_twh": 0.1,
-      "wind_generation_twh": 0.1,
+      "solar_generation_twh": 0,
+      "wind_generation_twh": 0,
       "nuclear_generation_twh": 0,
       "coal_share_electricity": 0,
       "oil_production_bpd": 0,
