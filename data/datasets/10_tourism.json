@@ -7,20 +7,20 @@
   "countriesCount": 198,
   "countries": {
     "IND": {
-      "hotel_rooms_count": 5005,
-      "tourism_gdp_share_pct": 9.5
+      "hotel_rooms_count": 340,
+      "tourism_gdp_share_pct": 2.6
     },
     "CHN": {
-      "hotel_rooms_count": 5400,
+      "hotel_rooms_count": 1700,
       "tourism_gdp_share_pct": 7.5
     },
     "USA": {
       "hotel_rooms_count": 5400,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 2.97
     },
     "IDN": {
-      "hotel_rooms_count": 1225,
-      "tourism_gdp_share_pct": 9.5
+      "hotel_rooms_count": 360,
+      "tourism_gdp_share_pct": 2.24
     },
     "PAK": {
       "hotel_rooms_count": 759,
@@ -28,39 +28,39 @@
     },
     "NGA": {
       "hotel_rooms_count": 670,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 4.29
     },
     "BRA": {
-      "hotel_rooms_count": 1346,
+      "hotel_rooms_count": 410,
       "tourism_gdp_share_pct": 8.5
     },
     "BGD": {
       "hotel_rooms_count": 593,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 3.02
     },
     "RUS": {
-      "hotel_rooms_count": 1082,
-      "tourism_gdp_share_pct": 5.5
+      "hotel_rooms_count": 390,
+      "tourism_gdp_share_pct": 2.51
     },
     "ETH": {
       "hotel_rooms_count": 387,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 2.61
     },
     "MEX": {
-      "hotel_rooms_count": 1033,
-      "tourism_gdp_share_pct": 9.5
+      "hotel_rooms_count": 520,
+      "tourism_gdp_share_pct": 8.46
     },
     "JPN": {
-      "hotel_rooms_count": 1748,
-      "tourism_gdp_share_pct": 7.5
+      "hotel_rooms_count": 600,
+      "tourism_gdp_share_pct": 1.2
     },
     "PHL": {
       "hotel_rooms_count": 463,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 8.59
     },
     "EGY": {
-      "hotel_rooms_count": 413,
-      "tourism_gdp_share_pct": 9.5
+      "hotel_rooms_count": 225,
+      "tourism_gdp_share_pct": 2.04
     },
     "COD": {
       "hotel_rooms_count": 296,
@@ -68,47 +68,47 @@
     },
     "VNM": {
       "hotel_rooms_count": 416,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 1.97
     },
     "IRN": {
       "hotel_rooms_count": 391,
       "tourism_gdp_share_pct": 8.5
     },
     "TUR": {
-      "hotel_rooms_count": 609,
-      "tourism_gdp_share_pct": 6.5
+      "hotel_rooms_count": 640,
+      "tourism_gdp_share_pct": 4.4
     },
     "DEU": {
-      "hotel_rooms_count": 1818,
-      "tourism_gdp_share_pct": 7.5
+      "hotel_rooms_count": 990,
+      "tourism_gdp_share_pct": 2.16
     },
     "THA": {
-      "hotel_rooms_count": 371,
-      "tourism_gdp_share_pct": 6.5
+      "hotel_rooms_count": 400,
+      "tourism_gdp_share_pct": 12.8
     },
     "GBR": {
-      "hotel_rooms_count": 1394,
-      "tourism_gdp_share_pct": 9.5
+      "hotel_rooms_count": 940,
+      "tourism_gdp_share_pct": 1.77
     },
     "TZA": {
       "hotel_rooms_count": 199,
       "tourism_gdp_share_pct": 9.5
     },
     "FRA": {
-      "hotel_rooms_count": 1262,
-      "tourism_gdp_share_pct": 7.5
+      "hotel_rooms_count": 660,
+      "tourism_gdp_share_pct": 3.56
     },
     "ZAF": {
       "hotel_rooms_count": 291,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 3.54
     },
     "ITA": {
-      "hotel_rooms_count": 963,
-      "tourism_gdp_share_pct": 7.5
+      "hotel_rooms_count": 1090,
+      "tourism_gdp_share_pct": 5.71
     },
     "KEN": {
       "hotel_rooms_count": 178,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 4.4
     },
     "MMR": {
       "hotel_rooms_count": 159,
@@ -116,31 +116,31 @@
     },
     "COL": {
       "hotel_rooms_count": 267,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 2.35
     },
     "KOR": {
-      "hotel_rooms_count": 746,
-      "tourism_gdp_share_pct": 6.5
+      "hotel_rooms_count": 220,
+      "tourism_gdp_share_pct": 2.5
     },
     "UGA": {
       "hotel_rooms_count": 142,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 2.53
     },
     "SDN": {
       "hotel_rooms_count": 162,
       "tourism_gdp_share_pct": 9.5
     },
     "ESP": {
-      "hotel_rooms_count": 696,
-      "tourism_gdp_share_pct": 7.5
+      "hotel_rooms_count": 940,
+      "tourism_gdp_share_pct": 5.5
     },
     "ARG": {
       "hotel_rooms_count": 327,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 1.68
     },
     "DZA": {
       "hotel_rooms_count": 199,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 1.39
     },
     "IRQ": {
       "hotel_rooms_count": 208,
@@ -151,20 +151,20 @@
       "tourism_gdp_share_pct": 6.5
     },
     "POL": {
-      "hotel_rooms_count": 396,
-      "tourism_gdp_share_pct": 5.5
+      "hotel_rooms_count": 165,
+      "tourism_gdp_share_pct": 2.3
     },
     "CAN": {
-      "hotel_rooms_count": 884,
-      "tourism_gdp_share_pct": 5.5
+      "hotel_rooms_count": 430,
+      "tourism_gdp_share_pct": 1.58
     },
     "MAR": {
       "hotel_rooms_count": 145,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 7.06
     },
     "SAU": {
-      "hotel_rooms_count": 481,
-      "tourism_gdp_share_pct": 8.5
+      "hotel_rooms_count": 195,
+      "tourism_gdp_share_pct": 4.36
     },
     "UKR": {
       "hotel_rooms_count": 159,
@@ -184,11 +184,11 @@
     },
     "PER": {
       "hotel_rooms_count": 185,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 2.52
     },
     "MYS": {
       "hotel_rooms_count": 243,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 4.45
     },
     "GHA": {
       "hotel_rooms_count": 114,
@@ -196,11 +196,11 @@
     },
     "MOZ": {
       "hotel_rooms_count": 94,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 4.02
     },
     "NPL": {
       "hotel_rooms_count": 92,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 1.6
     },
     "MDG": {
       "hotel_rooms_count": 83,
@@ -208,7 +208,7 @@
     },
     "CIV": {
       "hotel_rooms_count": 105,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 1.5
     },
     "VEN": {
       "hotel_rooms_count": 242,
@@ -216,15 +216,15 @@
     },
     "CMR": {
       "hotel_rooms_count": 90,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 4.82
     },
     "NER": {
       "hotel_rooms_count": 73,
       "tourism_gdp_share_pct": 9.5
     },
     "AUS": {
-      "hotel_rooms_count": 693,
-      "tourism_gdp_share_pct": 8.5
+      "hotel_rooms_count": 310,
+      "tourism_gdp_share_pct": 2.9
     },
     "PRK": {
       "hotel_rooms_count": 107,
@@ -240,7 +240,7 @@
     },
     "LKA": {
       "hotel_rooms_count": 87,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 3.34
     },
     "SYR": {
       "hotel_rooms_count": 63,
@@ -248,11 +248,11 @@
     },
     "KAZ": {
       "hotel_rooms_count": 155,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 1
     },
     "CHL": {
       "hotel_rooms_count": 166,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 3.31
     },
     "ZMB": {
       "hotel_rooms_count": 63,
@@ -260,7 +260,7 @@
     },
     "ROU": {
       "hotel_rooms_count": 177,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 1.58
     },
     "TCD": {
       "hotel_rooms_count": 53,
@@ -275,8 +275,8 @@
       "tourism_gdp_share_pct": 5.5
     },
     "NLD": {
-      "hotel_rooms_count": 446,
-      "tourism_gdp_share_pct": 7.5
+      "hotel_rooms_count": 170,
+      "tourism_gdp_share_pct": 3.8
     },
     "GTM": {
       "hotel_rooms_count": 82,
@@ -284,7 +284,7 @@
     },
     "ECU": {
       "hotel_rooms_count": 87,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 2.28
     },
     "ZWE": {
       "hotel_rooms_count": 51,
@@ -292,11 +292,11 @@
     },
     "GIN": {
       "hotel_rooms_count": 45,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 0.92
     },
     "RWA": {
       "hotel_rooms_count": 41,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 0.9
     },
     "BEN": {
       "hotel_rooms_count": 42,
@@ -312,7 +312,7 @@
     },
     "TUN": {
       "hotel_rooms_count": 48,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 4.89
     },
     "HTI": {
       "hotel_rooms_count": 37,
@@ -320,11 +320,11 @@
     },
     "BEL": {
       "hotel_rooms_count": 259,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 3.43
     },
     "JOR": {
       "hotel_rooms_count": 47,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 5.9
     },
     "DOM": {
       "hotel_rooms_count": 71,
@@ -340,67 +340,67 @@
     },
     "SWE": {
       "hotel_rooms_count": 245,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 1.93
     },
     "HND": {
       "hotel_rooms_count": 39,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 6.52
     },
     "CZE": {
       "hotel_rooms_count": 146,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 2.22
     },
     "AZE": {
       "hotel_rooms_count": 51,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 3.73
     },
     "GRC": {
-      "hotel_rooms_count": 109,
-      "tourism_gdp_share_pct": 5.5
+      "hotel_rooms_count": 440,
+      "tourism_gdp_share_pct": 19.4
     },
     "PNG": {
       "hotel_rooms_count": 37,
       "tourism_gdp_share_pct": 9.5
     },
     "PRT": {
-      "hotel_rooms_count": 130,
-      "tourism_gdp_share_pct": 6.5
+      "hotel_rooms_count": 210,
+      "tourism_gdp_share_pct": 9.1
     },
     "HUN": {
       "hotel_rooms_count": 99,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 1.64
     },
     "TJK": {
       "hotel_rooms_count": 30,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 3.37
     },
     "ARE": {
-      "hotel_rooms_count": 209,
-      "tourism_gdp_share_pct": 6.5
+      "hotel_rooms_count": 210,
+      "tourism_gdp_share_pct": 6.2
     },
     "BLR": {
       "hotel_rooms_count": 49,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 1.9
     },
     "ISR": {
       "hotel_rooms_count": 209,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 1.88
     },
     "TGO": {
       "hotel_rooms_count": 26,
       "tourism_gdp_share_pct": 9.5
     },
     "AUT": {
-      "hotel_rooms_count": 213,
-      "tourism_gdp_share_pct": 9.5
+      "hotel_rooms_count": 320,
+      "tourism_gdp_share_pct": 2.66
     },
     "CHE": {
-      "hotel_rooms_count": 351,
-      "tourism_gdp_share_pct": 8.5
+      "hotel_rooms_count": 145,
+      "tourism_gdp_share_pct": 2.14
     },
     "SLE": {
       "hotel_rooms_count": 24,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 5.6
     },
     "LAO": {
       "hotel_rooms_count": 25,
@@ -424,11 +424,11 @@
     },
     "PRY": {
       "hotel_rooms_count": 32,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 1.09
     },
     "KGZ": {
       "hotel_rooms_count": 23,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 3.6
     },
     "BGR": {
       "hotel_rooms_count": 52,
@@ -440,7 +440,7 @@
     },
     "SLV": {
       "hotel_rooms_count": 28,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 3.52
     },
     "COG": {
       "hotel_rooms_count": 21,
@@ -448,15 +448,15 @@
     },
     "SGP": {
       "hotel_rooms_count": 199,
-      "tourism_gdp_share_pct": 23.5
+      "tourism_gdp_share_pct": 2.63
     },
     "DNK": {
       "hotel_rooms_count": 158,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 1.83
     },
     "SVK": {
       "hotel_rooms_count": 61,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 2
     },
     "CAF": {
       "hotel_rooms_count": 15,
@@ -464,11 +464,11 @@
     },
     "FIN": {
       "hotel_rooms_count": 122,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 1.77
     },
     "NOR": {
       "hotel_rooms_count": 198,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 2.5
     },
     "LBR": {
       "hotel_rooms_count": 15,
@@ -476,19 +476,19 @@
     },
     "PSE": {
       "hotel_rooms_count": 20,
-      "tourism_gdp_share_pct": 21.5
+      "tourism_gdp_share_pct": 0.66
     },
     "NZL": {
       "hotel_rooms_count": 103,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 3.7
     },
     "CRI": {
       "hotel_rooms_count": 43,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 2.72
     },
     "IRL": {
       "hotel_rooms_count": 210,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 4.76
     },
     "MRT": {
       "hotel_rooms_count": 16,
@@ -496,19 +496,19 @@
     },
     "OMN": {
       "hotel_rooms_count": 49,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 2.43
     },
     "PAN": {
       "hotel_rooms_count": 41,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 10.8
     },
     "KWT": {
       "hotel_rooms_count": 67,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 0.59
     },
     "HRV": {
       "hotel_rooms_count": 39,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 22.4
     },
     "GEO": {
       "hotel_rooms_count": 20,
@@ -520,11 +520,11 @@
     },
     "URY": {
       "hotel_rooms_count": 36,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 8.9
     },
     "MNG": {
       "hotel_rooms_count": 16,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 0.04
     },
     "BIH": {
       "hotel_rooms_count": 17,
@@ -532,11 +532,11 @@
     },
     "QAT": {
       "hotel_rooms_count": 93,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 2.86
     },
     "NAM": {
       "hotel_rooms_count": 12,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 2
     },
     "ARM": {
       "hotel_rooms_count": 16,
@@ -544,15 +544,15 @@
     },
     "LTU": {
       "hotel_rooms_count": 34,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 2.74
     },
     "JAM": {
       "hotel_rooms_count": 14,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 9.8
     },
     "ALB": {
       "hotel_rooms_count": 15,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 5.56
     },
     "GMB": {
       "hotel_rooms_count": 8,
@@ -564,7 +564,7 @@
     },
     "BWA": {
       "hotel_rooms_count": 13,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 5.1
     },
     "LSO": {
       "hotel_rooms_count": 7,
@@ -576,23 +576,23 @@
     },
     "SVN": {
       "hotel_rooms_count": 29,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 3.27
     },
     "GNQ": {
       "hotel_rooms_count": 9,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 7.29
     },
     "LVA": {
       "hotel_rooms_count": 20,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 2.6
     },
     "MKD": {
       "hotel_rooms_count": 10,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 2.36
     },
     "BHR": {
       "hotel_rooms_count": 19,
-      "tourism_gdp_share_pct": 19.5
+      "tourism_gdp_share_pct": 7.14
     },
     "TTO": {
       "hotel_rooms_count": 14,
@@ -608,15 +608,15 @@
     },
     "EST": {
       "hotel_rooms_count": 18,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 5.4
     },
     "MUS": {
       "hotel_rooms_count": 8,
-      "tourism_gdp_share_pct": 19.5
+      "tourism_gdp_share_pct": 8.6
     },
     "SWZ": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 0.69
     },
     "DJI": {
       "hotel_rooms_count": 5,
@@ -624,7 +624,7 @@
     },
     "FJI": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 9.9
     },
     "COM": {
       "hotel_rooms_count": 5,
@@ -632,11 +632,11 @@
     },
     "GUY": {
       "hotel_rooms_count": 8,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 33
     },
     "BTN": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 8.5
+      "tourism_gdp_share_pct": 9.52
     },
     "SLB": {
       "hotel_rooms_count": 5,
@@ -644,11 +644,11 @@
     },
     "LUX": {
       "hotel_rooms_count": 32,
-      "tourism_gdp_share_pct": 23.5
+      "tourism_gdp_share_pct": 0.8
     },
     "MNE": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 9.5
+      "tourism_gdp_share_pct": 26.8
     },
     "SUR": {
       "hotel_rooms_count": 5,
@@ -660,7 +660,7 @@
     },
     "MDV": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 20.5
+      "tourism_gdp_share_pct": 61
     },
     "MLT": {
       "hotel_rooms_count": 9,
@@ -668,7 +668,7 @@
     },
     "BRN": {
       "hotel_rooms_count": 6,
-      "tourism_gdp_share_pct": 20.5
+      "tourism_gdp_share_pct": 0.83
     },
     "BLZ": {
       "hotel_rooms_count": 5,
@@ -676,11 +676,11 @@
     },
     "BHS": {
       "hotel_rooms_count": 6,
-      "tourism_gdp_share_pct": 6.5
+      "tourism_gdp_share_pct": 44.7
     },
     "ISL": {
       "hotel_rooms_count": 12,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 6.1
     },
     "VUT": {
       "hotel_rooms_count": 5,
@@ -696,7 +696,7 @@
     },
     "WSM": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 21.5
+      "tourism_gdp_share_pct": 3.69
     },
     "LCA": {
       "hotel_rooms_count": 5,
@@ -704,7 +704,7 @@
     },
     "KIR": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 19.5
+      "tourism_gdp_share_pct": 0.72
     },
     "GRD": {
       "hotel_rooms_count": 5,
@@ -716,15 +716,15 @@
     },
     "FSM": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 19.5
+      "tourism_gdp_share_pct": 1.79
     },
     "SYC": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 23.5
+      "tourism_gdp_share_pct": 51.5
     },
     "ATG": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 19.5
+      "tourism_gdp_share_pct": 38.2
     },
     "AND": {
       "hotel_rooms_count": 5,
@@ -736,7 +736,7 @@
     },
     "MHL": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 19.5
+      "tourism_gdp_share_pct": 1.8
     },
     "KNA": {
       "hotel_rooms_count": 5,
@@ -756,7 +756,7 @@
     },
     "PLW": {
       "hotel_rooms_count": 5,
-      "tourism_gdp_share_pct": 22.5
+      "tourism_gdp_share_pct": 9.76
     },
     "NRU": {
       "hotel_rooms_count": 5,
@@ -780,15 +780,15 @@
     },
     "LBN": {
       "hotel_rooms_count": 21,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 9.1
     },
     "MWI": {
       "hotel_rooms_count": 58,
-      "tourism_gdp_share_pct": 7.5
+      "tourism_gdp_share_pct": 1.6
     },
     "MDA": {
       "hotel_rooms_count": 12,
-      "tourism_gdp_share_pct": 5.5
+      "tourism_gdp_share_pct": 0.52
     },
     "TON": {
       "hotel_rooms_count": 5,

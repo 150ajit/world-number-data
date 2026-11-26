@@ -18,7 +18,7 @@
       "dpt3_immunization_pct": 81.8,
       "undernourishment_pct": 18.5,
       "suicide_rate": 10.4,
-      "sanitation_access_pct": 63.3
+      "sanitation_access_pct": 62.79
     },
     "CHN": {
       "healthy_life_expectancy": 67.8,
@@ -32,7 +32,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 11,
       "suicide_rate": 10.9,
-      "sanitation_access_pct": 78.7
+      "sanitation_access_pct": 68.87
     },
     "USA": {
       "healthy_life_expectancy": 67.7,
@@ -46,7 +46,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 3.8,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 94.2
+      "sanitation_access_pct": 97.01
     },
     "IDN": {
       "healthy_life_expectancy": 63,
@@ -88,7 +88,7 @@
       "dpt3_immunization_pct": 77.1,
       "undernourishment_pct": 23.5,
       "suicide_rate": 10.1,
-      "sanitation_access_pct": 52.2
+      "sanitation_access_pct": 32.21
     },
     "BRA": {
       "healthy_life_expectancy": 65.5,
@@ -102,7 +102,7 @@
       "dpt3_immunization_pct": 85.9,
       "undernourishment_pct": 12.5,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 75.5
+      "sanitation_access_pct": 54.96
     },
     "BGD": {
       "healthy_life_expectancy": 62.8,
@@ -116,7 +116,7 @@
       "dpt3_immunization_pct": 82,
       "undernourishment_pct": 17.2,
       "suicide_rate": 10.5,
-      "sanitation_access_pct": 65.4
+      "sanitation_access_pct": 37.32
     },
     "RUS": {
       "healthy_life_expectancy": 61.9,
@@ -130,7 +130,7 @@
       "dpt3_immunization_pct": 89.1,
       "undernourishment_pct": 9.3,
       "suicide_rate": 16,
-      "sanitation_access_pct": 82.8
+      "sanitation_access_pct": 58.19
     },
     "ETH": {
       "healthy_life_expectancy": 57.9,
@@ -144,7 +144,7 @@
       "dpt3_immunization_pct": 74.1,
       "undernourishment_pct": 26.4,
       "suicide_rate": 10,
-      "sanitation_access_pct": 45.5
+      "sanitation_access_pct": 8.05
     },
     "MEX": {
       "healthy_life_expectancy": 67.1,
@@ -158,7 +158,7 @@
       "dpt3_immunization_pct": 87.4,
       "undernourishment_pct": 11.4,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 78.3
+      "sanitation_access_pct": 62.75
     },
     "JPN": {
       "healthy_life_expectancy": 73.2,
@@ -172,7 +172,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 4.2,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 93
+      "sanitation_access_pct": 99.19
     },
     "PHL": {
       "healthy_life_expectancy": 61.6,
@@ -186,7 +186,7 @@
       "dpt3_immunization_pct": 83.2,
       "undernourishment_pct": 15.1,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 69.5
+      "sanitation_access_pct": 62.17
     },
     "EGY": {
       "healthy_life_expectancy": 62,
@@ -200,7 +200,7 @@
       "dpt3_immunization_pct": 84.5,
       "undernourishment_pct": 14.1,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 71.9
+      "sanitation_access_pct": 57.34
     },
     "COD": {
       "healthy_life_expectancy": 67.3,
@@ -214,7 +214,7 @@
       "dpt3_immunization_pct": 83.8,
       "undernourishment_pct": 15.6,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 69.2
+      "sanitation_access_pct": 13.08
     },
     "VNM": {
       "healthy_life_expectancy": 65.9,
@@ -228,7 +228,7 @@
       "dpt3_immunization_pct": 84.4,
       "undernourishment_pct": 14.2,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 71.7
+      "sanitation_access_pct": 45.37
     },
     "IRN": {
       "healthy_life_expectancy": 64.8,
@@ -256,7 +256,7 @@
       "dpt3_immunization_pct": 91.1,
       "undernourishment_pct": 7.5,
       "suicide_rate": 11.1,
-      "sanitation_access_pct": 87
+      "sanitation_access_pct": 78.86
     },
     "DEU": {
       "healthy_life_expectancy": 70.2,
@@ -270,7 +270,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.6,
       "suicide_rate": 16.4,
-      "sanitation_access_pct": 97.2
+      "sanitation_access_pct": 96.77
     },
     "THA": {
       "healthy_life_expectancy": 67.9,
@@ -284,7 +284,7 @@
       "dpt3_immunization_pct": 87.8,
       "undernourishment_pct": 10.2,
       "suicide_rate": 10.9,
-      "sanitation_access_pct": 80.3
+      "sanitation_access_pct": 26.72
     },
     "GBR": {
       "healthy_life_expectancy": 70,
@@ -298,7 +298,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 3.1,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 96.5
+      "sanitation_access_pct": 97.84
     },
     "TZA": {
       "healthy_life_expectancy": 56.5,
@@ -312,7 +312,7 @@
       "dpt3_immunization_pct": 77.2,
       "undernourishment_pct": 24,
       "suicide_rate": 10.1,
-      "sanitation_access_pct": 51.5
+      "sanitation_access_pct": 28.46
     },
     "FRA": {
       "healthy_life_expectancy": 71.7,
@@ -326,7 +326,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 4.7,
       "suicide_rate": 16.2,
-      "sanitation_access_pct": 92.3
+      "sanitation_access_pct": 89.99
     },
     "ZAF": {
       "healthy_life_expectancy": 53.8,
@@ -340,7 +340,7 @@
       "dpt3_immunization_pct": 84,
       "undernourishment_pct": 14.7,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 70.7
+      "sanitation_access_pct": 73.78
     },
     "ITA": {
       "healthy_life_expectancy": 71.8,
@@ -354,7 +354,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 4.9,
       "suicide_rate": 16.2,
-      "sanitation_access_pct": 92.3
+      "sanitation_access_pct": 78.21
     },
     "KEN": {
       "healthy_life_expectancy": 58.6,
@@ -368,7 +368,7 @@
       "dpt3_immunization_pct": 79,
       "undernourishment_pct": 21.3,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 56.9
+      "sanitation_access_pct": 35.83
     },
     "MMR": {
       "healthy_life_expectancy": 61.6,
@@ -382,7 +382,7 @@
       "dpt3_immunization_pct": 77.4,
       "undernourishment_pct": 21.9,
       "suicide_rate": 10.2,
-      "sanitation_access_pct": 54.7
+      "sanitation_access_pct": 60.53
     },
     "COL": {
       "healthy_life_expectancy": 69.1,
@@ -396,7 +396,7 @@
       "dpt3_immunization_pct": 86.4,
       "undernourishment_pct": 12.6,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 75.7
+      "sanitation_access_pct": 18.69
     },
     "KOR": {
       "healthy_life_expectancy": 70.8,
@@ -410,7 +410,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 3.7,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 94
+      "sanitation_access_pct": 99.33
     },
     "UGA": {
       "healthy_life_expectancy": 54.4,
@@ -424,7 +424,7 @@
       "dpt3_immunization_pct": 75.2,
       "undernourishment_pct": 25.2,
       "suicide_rate": 10,
-      "sanitation_access_pct": 48.2
+      "sanitation_access_pct": 20.36
     },
     "SDN": {
       "healthy_life_expectancy": 58.2,
@@ -452,7 +452,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 4.6,
       "suicide_rate": 16.2,
-      "sanitation_access_pct": 92
+      "sanitation_access_pct": 88.28
     },
     "ARG": {
       "healthy_life_expectancy": 67.2,
@@ -466,7 +466,7 @@
       "dpt3_immunization_pct": 90.4,
       "undernourishment_pct": 7.9,
       "suicide_rate": 11,
-      "sanitation_access_pct": 85.9
+      "sanitation_access_pct": 48.54
     },
     "DZA": {
       "healthy_life_expectancy": 66.1,
@@ -480,7 +480,7 @@
       "dpt3_immunization_pct": 86.7,
       "undernourishment_pct": 12.8,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 75.6
+      "sanitation_access_pct": 62.49
     },
     "IRQ": {
       "healthy_life_expectancy": 57.4,
@@ -494,7 +494,7 @@
       "dpt3_immunization_pct": 82.1,
       "undernourishment_pct": 16.4,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 66.7
+      "sanitation_access_pct": 50.9
     },
     "AFG": {
       "healthy_life_expectancy": 49.5,
@@ -508,7 +508,7 @@
       "dpt3_immunization_pct": 74.9,
       "undernourishment_pct": 26.1,
       "suicide_rate": 10,
-      "sanitation_access_pct": 46.6
+      "sanitation_access_pct": 24.78
     },
     "POL": {
       "healthy_life_expectancy": 67.6,
@@ -522,7 +522,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 6.2,
       "suicide_rate": 16.1,
-      "sanitation_access_pct": 89.9
+      "sanitation_access_pct": 97.83
     },
     "CAN": {
       "healthy_life_expectancy": 71.2,
@@ -536,7 +536,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 3.4,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 95.5
+      "sanitation_access_pct": 81.3
     },
     "MAR": {
       "healthy_life_expectancy": 64,
@@ -550,7 +550,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 15.7,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 68.2
+      "sanitation_access_pct": 8.42
     },
     "SAU": {
       "healthy_life_expectancy": 66.4,
@@ -564,7 +564,7 @@
       "dpt3_immunization_pct": 91,
       "undernourishment_pct": 6.5,
       "suicide_rate": 11.1,
-      "sanitation_access_pct": 88.4
+      "sanitation_access_pct": 83.89
     },
     "UKR": {
       "healthy_life_expectancy": 63,
@@ -578,7 +578,7 @@
       "dpt3_immunization_pct": 85.3,
       "undernourishment_pct": 13.8,
       "suicide_rate": 15.7,
-      "sanitation_access_pct": 73
+      "sanitation_access_pct": 92.39
     },
     "AGO": {
       "healthy_life_expectancy": 56.3,
@@ -606,7 +606,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 15.1,
       "suicide_rate": 15.6,
-      "sanitation_access_pct": 69.9
+      "sanitation_access_pct": 74.6
     },
     "YEM": {
       "healthy_life_expectancy": 56,
@@ -620,7 +620,7 @@
       "dpt3_immunization_pct": 73.4,
       "undernourishment_pct": 28.5,
       "suicide_rate": 9.9,
-      "sanitation_access_pct": 41.8
+      "sanitation_access_pct": 43.12
     },
     "PER": {
       "healthy_life_expectancy": 69.8,
@@ -634,7 +634,7 @@
       "dpt3_immunization_pct": 86.5,
       "undernourishment_pct": 13,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 75.2
+      "sanitation_access_pct": 56.49
     },
     "MYS": {
       "healthy_life_expectancy": 66.4,
@@ -648,7 +648,7 @@
       "dpt3_immunization_pct": 88,
       "undernourishment_pct": 10,
       "suicide_rate": 10.9,
-      "sanitation_access_pct": 80.8
+      "sanitation_access_pct": 85.79
     },
     "GHA": {
       "healthy_life_expectancy": 57.9,
@@ -662,7 +662,7 @@
       "dpt3_immunization_pct": 78,
       "undernourishment_pct": 21.2,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 56.3
+      "sanitation_access_pct": 18.76
     },
     "MOZ": {
       "healthy_life_expectancy": 52.1,
@@ -676,7 +676,7 @@
       "dpt3_immunization_pct": 72.2,
       "undernourishment_pct": 29.3,
       "suicide_rate": 9.8,
-      "sanitation_access_pct": 39.7
+      "sanitation_access_pct": 33.94
     },
     "NPL": {
       "healthy_life_expectancy": 61.4,
@@ -690,7 +690,7 @@
       "dpt3_immunization_pct": 78.3,
       "undernourishment_pct": 22.2,
       "suicide_rate": 10.2,
-      "sanitation_access_pct": 55.1
+      "sanitation_access_pct": 53.41
     },
     "MDG": {
       "healthy_life_expectancy": 55.2,
@@ -704,7 +704,7 @@
       "dpt3_immunization_pct": 74.8,
       "undernourishment_pct": 25,
       "suicide_rate": 10.1,
-      "sanitation_access_pct": 48.1
+      "sanitation_access_pct": 12.8
     },
     "CIV": {
       "healthy_life_expectancy": 67.3,
@@ -718,7 +718,7 @@
       "dpt3_immunization_pct": 83.8,
       "undernourishment_pct": 15.6,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 69.2
+      "sanitation_access_pct": 27.1
     },
     "VEN": {
       "healthy_life_expectancy": 66.6,
@@ -732,7 +732,7 @@
       "dpt3_immunization_pct": 86,
       "undernourishment_pct": 12.4,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 75.6
+      "sanitation_access_pct": 26.02
     },
     "CMR": {
       "healthy_life_expectancy": 52.5,
@@ -760,7 +760,7 @@
       "dpt3_immunization_pct": 69.8,
       "undernourishment_pct": 31.5,
       "suicide_rate": 9.7,
-      "sanitation_access_pct": 34.5
+      "sanitation_access_pct": 9.15
     },
     "AUS": {
       "healthy_life_expectancy": 71.5,
@@ -774,7 +774,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.8,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 96.4
+      "sanitation_access_pct": 95.77
     },
     "PRK": {
       "healthy_life_expectancy": 63,
@@ -816,7 +816,7 @@
       "dpt3_immunization_pct": 71.8,
       "undernourishment_pct": 29.8,
       "suicide_rate": 9.8,
-      "sanitation_access_pct": 38.6
+      "sanitation_access_pct": 20.01
     },
     "LKA": {
       "healthy_life_expectancy": 67.8,
@@ -872,7 +872,7 @@
       "dpt3_immunization_pct": 91.3,
       "undernourishment_pct": 7.3,
       "suicide_rate": 11.1,
-      "sanitation_access_pct": 87.5
+      "sanitation_access_pct": 95.13
     },
     "ZMB": {
       "healthy_life_expectancy": 51.5,
@@ -900,7 +900,7 @@
       "dpt3_immunization_pct": 88.7,
       "undernourishment_pct": 9.8,
       "suicide_rate": 15.9,
-      "sanitation_access_pct": 81.6
+      "sanitation_access_pct": 89.8
     },
     "TCD": {
       "healthy_life_expectancy": 51.7,
@@ -914,7 +914,7 @@
       "dpt3_immunization_pct": 70.8,
       "undernourishment_pct": 31.5,
       "suicide_rate": 9.7,
-      "sanitation_access_pct": 35.3
+      "sanitation_access_pct": 11.09
     },
     "SOM": {
       "healthy_life_expectancy": 50.4,
@@ -928,7 +928,7 @@
       "dpt3_immunization_pct": 70.2,
       "undernourishment_pct": 32.2,
       "suicide_rate": 9.6,
-      "sanitation_access_pct": 33.8
+      "sanitation_access_pct": 16.38
     },
     "SEN": {
       "healthy_life_expectancy": 57.9,
@@ -942,7 +942,7 @@
       "dpt3_immunization_pct": 75.2,
       "undernourishment_pct": 25.7,
       "suicide_rate": 10,
-      "sanitation_access_pct": 47.4
+      "sanitation_access_pct": 30.08
     },
     "NLD": {
       "healthy_life_expectancy": 70.7,
@@ -956,7 +956,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.8,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 96.8
+      "sanitation_access_pct": 97.5
     },
     "GTM": {
       "healthy_life_expectancy": 63.9,
@@ -984,7 +984,7 @@
       "dpt3_immunization_pct": 85.6,
       "undernourishment_pct": 12.9,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 74.6
+      "sanitation_access_pct": 49.29
     },
     "ZWE": {
       "healthy_life_expectancy": 52.1,
@@ -998,7 +998,7 @@
       "dpt3_immunization_pct": 76.5,
       "undernourishment_pct": 24.2,
       "suicide_rate": 10.1,
-      "sanitation_access_pct": 50.7
+      "sanitation_access_pct": 23.56
     },
     "GIN": {
       "healthy_life_expectancy": 52.9,
@@ -1040,7 +1040,7 @@
       "dpt3_immunization_pct": 75.2,
       "undernourishment_pct": 25.2,
       "suicide_rate": 10,
-      "sanitation_access_pct": 48.1
+      "sanitation_access_pct": 16.36
     },
     "BDI": {
       "healthy_life_expectancy": 53.5,
@@ -1082,7 +1082,7 @@
       "dpt3_immunization_pct": 85.8,
       "undernourishment_pct": 13.8,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 73.5
+      "sanitation_access_pct": 79.79
     },
     "HTI": {
       "healthy_life_expectancy": 55.9,
@@ -1110,7 +1110,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 3,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 96.7
+      "sanitation_access_pct": 94.9
     },
     "JOR": {
       "healthy_life_expectancy": 65.1,
@@ -1124,7 +1124,7 @@
       "dpt3_immunization_pct": 85.8,
       "undernourishment_pct": 13.8,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 73.5
+      "sanitation_access_pct": 80.08
     },
     "DOM": {
       "healthy_life_expectancy": 66.4,
@@ -1138,7 +1138,7 @@
       "dpt3_immunization_pct": 84.4,
       "undernourishment_pct": 13.7,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 72.4
+      "sanitation_access_pct": 42.97
     },
     "CUB": {
       "healthy_life_expectancy": 69.2,
@@ -1152,7 +1152,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 11.6,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 77.8
+      "sanitation_access_pct": 45.88
     },
     "SSD": {
       "healthy_life_expectancy": 51.7,
@@ -1180,7 +1180,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.5,
       "suicide_rate": 16.4,
-      "sanitation_access_pct": 97.8
+      "sanitation_access_pct": 95.35
     },
     "HND": {
       "healthy_life_expectancy": 64.3,
@@ -1208,7 +1208,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 5.5,
       "suicide_rate": 16.2,
-      "sanitation_access_pct": 91
+      "sanitation_access_pct": 91.38
     },
     "AZE": {
       "healthy_life_expectancy": 63.4,
@@ -1222,7 +1222,7 @@
       "dpt3_immunization_pct": 85.3,
       "undernourishment_pct": 12.6,
       "suicide_rate": 15.8,
-      "sanitation_access_pct": 74.8
+      "sanitation_access_pct": 68
     },
     "GRC": {
       "healthy_life_expectancy": 70.6,
@@ -1236,7 +1236,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 5.6,
       "suicide_rate": 11.2,
-      "sanitation_access_pct": 90
+      "sanitation_access_pct": 92.89
     },
     "PNG": {
       "healthy_life_expectancy": 53.1,
@@ -1250,7 +1250,7 @@
       "dpt3_immunization_pct": 76.4,
       "undernourishment_pct": 23.7,
       "suicide_rate": 10.1,
-      "sanitation_access_pct": 51.3
+      "sanitation_access_pct": 16.66
     },
     "PRT": {
       "healthy_life_expectancy": 70.5,
@@ -1264,7 +1264,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 8,
       "suicide_rate": 11,
-      "sanitation_access_pct": 85.7
+      "sanitation_access_pct": 93.92
     },
     "HUN": {
       "healthy_life_expectancy": 65.8,
@@ -1278,7 +1278,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 8.4,
       "suicide_rate": 16,
-      "sanitation_access_pct": 85.1
+      "sanitation_access_pct": 91.71
     },
     "TJK": {
       "healthy_life_expectancy": 63.1,
@@ -1306,7 +1306,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 3.3,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 94.9
+      "sanitation_access_pct": 98.45
     },
     "BLR": {
       "healthy_life_expectancy": 64.1,
@@ -1320,7 +1320,7 @@
       "dpt3_immunization_pct": 87.6,
       "undernourishment_pct": 10,
       "suicide_rate": 15.9,
-      "sanitation_access_pct": 80.5
+      "sanitation_access_pct": 74.44
     },
     "ISR": {
       "healthy_life_expectancy": 71.4,
@@ -1334,7 +1334,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 4.4,
       "suicide_rate": 11.2,
-      "sanitation_access_pct": 93.3
+      "sanitation_access_pct": 97.17
     },
     "TGO": {
       "healthy_life_expectancy": 54.9,
@@ -1348,7 +1348,7 @@
       "dpt3_immunization_pct": 75.1,
       "undernourishment_pct": 25.8,
       "suicide_rate": 10,
-      "sanitation_access_pct": 47.1
+      "sanitation_access_pct": 13.02
     },
     "AUT": {
       "healthy_life_expectancy": 70.9,
@@ -1362,7 +1362,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 3.8,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 94.5
+      "sanitation_access_pct": 98.5
     },
     "CHE": {
       "healthy_life_expectancy": 71.9,
@@ -1376,7 +1376,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.5,
       "suicide_rate": 16.4,
-      "sanitation_access_pct": 98.3
+      "sanitation_access_pct": 99.69
     },
     "SLE": {
       "healthy_life_expectancy": 51.6,
@@ -1390,7 +1390,7 @@
       "dpt3_immunization_pct": 70.4,
       "undernourishment_pct": 30.2,
       "suicide_rate": 9.8,
-      "sanitation_access_pct": 36.9
+      "sanitation_access_pct": 16.85
     },
     "LAO": {
       "healthy_life_expectancy": 59.1,
@@ -1404,7 +1404,7 @@
       "dpt3_immunization_pct": 78.4,
       "undernourishment_pct": 20.7,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 57.3
+      "sanitation_access_pct": 71.38
     },
     "HKG": {
       "healthy_life_expectancy": 74.3,
@@ -1418,7 +1418,7 @@
       "dpt3_immunization_pct": 95.1,
       "undernourishment_pct": 2.5,
       "suicide_rate": 11.4,
-      "sanitation_access_pct": 97.9
+      "sanitation_access_pct": 94.83
     },
     "SRB": {
       "healthy_life_expectancy": 66.1,
@@ -1432,7 +1432,7 @@
       "dpt3_immunization_pct": 88.1,
       "undernourishment_pct": 11.1,
       "suicide_rate": 15.9,
-      "sanitation_access_pct": 79.3
+      "sanitation_access_pct": 24.07
     },
     "NIC": {
       "healthy_life_expectancy": 68.9,
@@ -1460,7 +1460,7 @@
       "dpt3_immunization_pct": 84.6,
       "undernourishment_pct": 15.3,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 70.3
+      "sanitation_access_pct": 21.75
     },
     "PRY": {
       "healthy_life_expectancy": 65,
@@ -1474,7 +1474,7 @@
       "dpt3_immunization_pct": 84.4,
       "undernourishment_pct": 15.5,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 69.8
+      "sanitation_access_pct": 58.53
     },
     "KGZ": {
       "healthy_life_expectancy": 62.5,
@@ -1488,7 +1488,7 @@
       "dpt3_immunization_pct": 81.6,
       "undernourishment_pct": 17.1,
       "suicide_rate": 15.5,
-      "sanitation_access_pct": 65.3
+      "sanitation_access_pct": 93.03
     },
     "BGR": {
       "healthy_life_expectancy": 65.6,
@@ -1502,7 +1502,7 @@
       "dpt3_immunization_pct": 89.3,
       "undernourishment_pct": 9.7,
       "suicide_rate": 15.9,
-      "sanitation_access_pct": 82.3
+      "sanitation_access_pct": 75.72
     },
     "TKM": {
       "healthy_life_expectancy": 62.1,
@@ -1530,7 +1530,7 @@
       "dpt3_immunization_pct": 82.2,
       "undernourishment_pct": 17,
       "suicide_rate": 10.5,
-      "sanitation_access_pct": 65.9
+      "sanitation_access_pct": 35.97
     },
     "COG": {
       "healthy_life_expectancy": 54.6,
@@ -1558,7 +1558,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.7,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 97.1
+      "sanitation_access_pct": 100
     },
     "DNK": {
       "healthy_life_expectancy": 69.9,
@@ -1572,7 +1572,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 2.5,
       "suicide_rate": 16.4,
-      "sanitation_access_pct": 97
+      "sanitation_access_pct": 98.9
     },
     "SVK": {
       "healthy_life_expectancy": 66.9,
@@ -1586,7 +1586,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 7.5,
       "suicide_rate": 16.1,
-      "sanitation_access_pct": 85.8
+      "sanitation_access_pct": 83.43
     },
     "CAF": {
       "healthy_life_expectancy": 43.6,
@@ -1600,7 +1600,7 @@
       "dpt3_immunization_pct": 69.1,
       "undernourishment_pct": 32.9,
       "suicide_rate": 9.6,
-      "sanitation_access_pct": 31.9
+      "sanitation_access_pct": 13.53
     },
     "FIN": {
       "healthy_life_expectancy": 70.5,
@@ -1614,7 +1614,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 3,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 95.9
+      "sanitation_access_pct": 90.12
     },
     "NOR": {
       "healthy_life_expectancy": 71.5,
@@ -1628,7 +1628,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 2.5,
       "suicide_rate": 16.4,
-      "sanitation_access_pct": 99.4
+      "sanitation_access_pct": 77.93
     },
     "LBR": {
       "healthy_life_expectancy": 55.3,
@@ -1656,7 +1656,7 @@
       "dpt3_immunization_pct": 82.2,
       "undernourishment_pct": 16.3,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 66.8
+      "sanitation_access_pct": 73.51
     },
     "NZL": {
       "healthy_life_expectancy": 70.8,
@@ -1670,7 +1670,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 3.2,
       "suicide_rate": 11.3,
-      "sanitation_access_pct": 95.2
+      "sanitation_access_pct": 88.8
     },
     "CRI": {
       "healthy_life_expectancy": 71.2,
@@ -1684,7 +1684,7 @@
       "dpt3_immunization_pct": 87.9,
       "undernourishment_pct": 10.7,
       "suicide_rate": 10.9,
-      "sanitation_access_pct": 79.7
+      "sanitation_access_pct": 26.29
     },
     "IRL": {
       "healthy_life_expectancy": 70.5,
@@ -1698,7 +1698,7 @@
       "dpt3_immunization_pct": 97,
       "undernourishment_pct": 2.6,
       "suicide_rate": 16.4,
-      "sanitation_access_pct": 97.6
+      "sanitation_access_pct": 81.26
     },
     "MRT": {
       "healthy_life_expectancy": 61,
@@ -1754,7 +1754,7 @@
       "dpt3_immunization_pct": 88.3,
       "undernourishment_pct": 10.2,
       "suicide_rate": 10.9,
-      "sanitation_access_pct": 80.7
+      "sanitation_access_pct": 100
     },
     "HRV": {
       "healthy_life_expectancy": 67.4,
@@ -1768,7 +1768,7 @@
       "dpt3_immunization_pct": 88.6,
       "undernourishment_pct": 8.8,
       "suicide_rate": 16,
-      "sanitation_access_pct": 83.1
+      "sanitation_access_pct": 74.73
     },
     "GEO": {
       "healthy_life_expectancy": 65,
@@ -1782,7 +1782,7 @@
       "dpt3_immunization_pct": 87.8,
       "undernourishment_pct": 11.4,
       "suicide_rate": 15.8,
-      "sanitation_access_pct": 78.6
+      "sanitation_access_pct": 62.97
     },
     "ERI": {
       "healthy_life_expectancy": 56.2,
@@ -1824,7 +1824,7 @@
       "dpt3_immunization_pct": 85.6,
       "undernourishment_pct": 13.5,
       "suicide_rate": 15.7,
-      "sanitation_access_pct": 73.8
+      "sanitation_access_pct": 69.95
     },
     "BIH": {
       "healthy_life_expectancy": 67.3,
@@ -1838,7 +1838,7 @@
       "dpt3_immunization_pct": 87.3,
       "undernourishment_pct": 12.1,
       "suicide_rate": 15.8,
-      "sanitation_access_pct": 77.2
+      "sanitation_access_pct": 56.63
     },
     "QAT": {
       "healthy_life_expectancy": 68.2,
@@ -1852,7 +1852,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 7.5,
       "suicide_rate": 11.1,
-      "sanitation_access_pct": 86.7
+      "sanitation_access_pct": 99.94
     },
     "NAM": {
       "healthy_life_expectancy": 56.5,
@@ -1880,7 +1880,7 @@
       "dpt3_immunization_pct": 85.2,
       "undernourishment_pct": 12.7,
       "suicide_rate": 15.8,
-      "sanitation_access_pct": 74.6
+      "sanitation_access_pct": 10.74
     },
     "LTU": {
       "healthy_life_expectancy": 65.2,
@@ -1894,7 +1894,7 @@
       "dpt3_immunization_pct": 90.3,
       "undernourishment_pct": 7.4,
       "suicide_rate": 16.1,
-      "sanitation_access_pct": 86.5
+      "sanitation_access_pct": 96.4
     },
     "JAM": {
       "healthy_life_expectancy": 65.3,
@@ -1908,7 +1908,7 @@
       "dpt3_immunization_pct": 84.2,
       "undernourishment_pct": 13.9,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 72
+      "sanitation_access_pct": 73.61
     },
     "ALB": {
       "healthy_life_expectancy": 67.8,
@@ -1922,7 +1922,7 @@
       "dpt3_immunization_pct": 88,
       "undernourishment_pct": 11.2,
       "suicide_rate": 15.9,
-      "sanitation_access_pct": 79.1
+      "sanitation_access_pct": 69.28
     },
     "GMB": {
       "healthy_life_expectancy": 58.3,
@@ -1936,7 +1936,7 @@
       "dpt3_immunization_pct": 73.2,
       "undernourishment_pct": 28.1,
       "suicide_rate": 9.9,
-      "sanitation_access_pct": 42.3
+      "sanitation_access_pct": 28.09
     },
     "GAB": {
       "healthy_life_expectancy": 57.6,
@@ -1978,7 +1978,7 @@
       "dpt3_immunization_pct": 75.9,
       "undernourishment_pct": 25,
       "suicide_rate": 10.1,
-      "sanitation_access_pct": 49
+      "sanitation_access_pct": 43.75
     },
     "GNB": {
       "healthy_life_expectancy": 51.4,
@@ -1992,7 +1992,7 @@
       "dpt3_immunization_pct": 73.5,
       "undernourishment_pct": 28.3,
       "suicide_rate": 9.9,
-      "sanitation_access_pct": 42.2
+      "sanitation_access_pct": 22.6
     },
     "SVN": {
       "healthy_life_expectancy": 69.3,
@@ -2006,7 +2006,7 @@
       "dpt3_immunization_pct": 98,
       "undernourishment_pct": 3.8,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 94.9
+      "sanitation_access_pct": 84.54
     },
     "GNQ": {
       "healthy_life_expectancy": 56.7,
@@ -2034,7 +2034,7 @@
       "dpt3_immunization_pct": 90.8,
       "undernourishment_pct": 8,
       "suicide_rate": 16,
-      "sanitation_access_pct": 86.1
+      "sanitation_access_pct": 92.53
     },
     "MKD": {
       "healthy_life_expectancy": 66.3,
@@ -2048,7 +2048,7 @@
       "dpt3_immunization_pct": 85.3,
       "undernourishment_pct": 12.6,
       "suicide_rate": 15.8,
-      "sanitation_access_pct": 74.8
+      "sanitation_access_pct": 12.11
     },
     "BHR": {
       "healthy_life_expectancy": 65.4,
@@ -2062,7 +2062,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 8,
       "suicide_rate": 11,
-      "sanitation_access_pct": 84.8
+      "sanitation_access_pct": 93.35
     },
     "TTO": {
       "healthy_life_expectancy": 63.5,
@@ -2076,7 +2076,7 @@
       "dpt3_immunization_pct": 88,
       "undernourishment_pct": 11.2,
       "suicide_rate": 10.9,
-      "sanitation_access_pct": 79
+      "sanitation_access_pct": 38.02
     },
     "TLS": {
       "healthy_life_expectancy": 67.3,
@@ -2104,7 +2104,7 @@
       "dpt3_immunization_pct": 90.2,
       "undernourishment_pct": 6.8,
       "suicide_rate": 11.1,
-      "sanitation_access_pct": 87.3
+      "sanitation_access_pct": 76.97
     },
     "EST": {
       "healthy_life_expectancy": 67.2,
@@ -2118,7 +2118,7 @@
       "dpt3_immunization_pct": 90.3,
       "undernourishment_pct": 6.7,
       "suicide_rate": 16.1,
-      "sanitation_access_pct": 87.6
+      "sanitation_access_pct": 90.56
     },
     "MUS": {
       "healthy_life_expectancy": 64.9,
@@ -2146,7 +2146,7 @@
       "dpt3_immunization_pct": 77.9,
       "undernourishment_pct": 21.4,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 55.9
+      "sanitation_access_pct": 60.84
     },
     "DJI": {
       "healthy_life_expectancy": 58.6,
@@ -2160,7 +2160,7 @@
       "dpt3_immunization_pct": 74.4,
       "undernourishment_pct": 27.2,
       "suicide_rate": 9.9,
-      "sanitation_access_pct": 44.5
+      "sanitation_access_pct": 39.66
     },
     "FJI": {
       "healthy_life_expectancy": 57.2,
@@ -2174,7 +2174,7 @@
       "dpt3_immunization_pct": 85.1,
       "undernourishment_pct": 13.5,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 73.4
+      "sanitation_access_pct": 48.5
     },
     "COM": {
       "healthy_life_expectancy": 59.3,
@@ -2188,7 +2188,7 @@
       "dpt3_immunization_pct": 75.6,
       "undernourishment_pct": 25.8,
       "suicide_rate": 10,
-      "sanitation_access_pct": 47.5
+      "sanitation_access_pct": 49.36
     },
     "GUY": {
       "healthy_life_expectancy": 59.2,
@@ -2202,7 +2202,7 @@
       "dpt3_immunization_pct": 81.3,
       "undernourishment_pct": 18,
       "suicide_rate": 10.5,
-      "sanitation_access_pct": 63.6
+      "sanitation_access_pct": 43.44
     },
     "BTN": {
       "healthy_life_expectancy": 63.2,
@@ -2216,7 +2216,7 @@
       "dpt3_immunization_pct": 78.9,
       "undernourishment_pct": 20.2,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 58.5
+      "sanitation_access_pct": 49.48
     },
     "SLB": {
       "healthy_life_expectancy": 55.3,
@@ -2244,7 +2244,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 3.8,
       "suicide_rate": 16.3,
-      "sanitation_access_pct": 94.2
+      "sanitation_access_pct": 96.32
     },
     "MNE": {
       "healthy_life_expectancy": 67.1,
@@ -2258,7 +2258,7 @@
       "dpt3_immunization_pct": 87.8,
       "undernourishment_pct": 9.7,
       "suicide_rate": 15.9,
-      "sanitation_access_pct": 81.2
+      "sanitation_access_pct": 50.87
     },
     "SUR": {
       "healthy_life_expectancy": 62.2,
@@ -2272,7 +2272,7 @@
       "dpt3_immunization_pct": 84.7,
       "undernourishment_pct": 14.6,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 71.4
+      "sanitation_access_pct": 25.13
     },
     "CPV": {
       "healthy_life_expectancy": 67.3,
@@ -2314,7 +2314,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 6.3,
       "suicide_rate": 11.1,
-      "sanitation_access_pct": 88.7
+      "sanitation_access_pct": 100
     },
     "BRN": {
       "healthy_life_expectancy": 67.5,
@@ -2412,7 +2412,7 @@
       "dpt3_immunization_pct": 79.4,
       "undernourishment_pct": 21.4,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 57.2
+      "sanitation_access_pct": 34.69
     },
     "WSM": {
       "healthy_life_expectancy": 62.9,
@@ -2426,7 +2426,7 @@
       "dpt3_immunization_pct": 84.9,
       "undernourishment_pct": 14.9,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 71.1
+      "sanitation_access_pct": 44.12
     },
     "LCA": {
       "healthy_life_expectancy": 66.4,
@@ -2454,7 +2454,7 @@
       "dpt3_immunization_pct": 79.9,
       "undernourishment_pct": 20.2,
       "suicide_rate": 10.3,
-      "sanitation_access_pct": 59.3
+      "sanitation_access_pct": 24.65
     },
     "GRD": {
       "healthy_life_expectancy": 62.7,
@@ -2538,7 +2538,7 @@
       "dpt3_immunization_pct": 91.3,
       "undernourishment_pct": 7.4,
       "suicide_rate": 16.1,
-      "sanitation_access_pct": 87.3
+      "sanitation_access_pct": 100
     },
     "DMA": {
       "healthy_life_expectancy": 64.1,
@@ -2594,7 +2594,7 @@
       "dpt3_immunization_pct": 99,
       "undernourishment_pct": 15.6,
       "suicide_rate": 15.6,
-      "sanitation_access_pct": 69.6
+      "sanitation_access_pct": 100
     },
     "LIE": {
       "healthy_life_expectancy": 72.2,
@@ -2608,7 +2608,7 @@
       "dpt3_immunization_pct": 93.3,
       "undernourishment_pct": 4.4,
       "suicide_rate": 16.2,
-      "sanitation_access_pct": 93.4
+      "sanitation_access_pct": 96.3
     },
     "SMR": {
       "healthy_life_expectancy": 74.4,
@@ -2622,7 +2622,7 @@
       "dpt3_immunization_pct": 83.8,
       "undernourishment_pct": 15.6,
       "suicide_rate": 15.6,
-      "sanitation_access_pct": 69.2
+      "sanitation_access_pct": 90.19
     },
     "PLW": {
       "healthy_life_expectancy": 64.5,
@@ -2650,7 +2650,7 @@
       "dpt3_immunization_pct": 83.3,
       "undernourishment_pct": 15.6,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 68.8
+      "sanitation_access_pct": 33.16
     },
     "TUV": {
       "healthy_life_expectancy": 59.1,
@@ -2664,7 +2664,7 @@
       "dpt3_immunization_pct": 84.3,
       "undernourishment_pct": 15.6,
       "suicide_rate": 10.6,
-      "sanitation_access_pct": 69.6
+      "sanitation_access_pct": 39.71
     },
     "VAT": {
       "healthy_life_expectancy": 67.3,
@@ -2692,7 +2692,7 @@
       "dpt3_immunization_pct": 71.1,
       "undernourishment_pct": 30,
       "suicide_rate": 9.8,
-      "sanitation_access_pct": 37.8
+      "sanitation_access_pct": 24.72
     },
     "KHM": {
       "healthy_life_expectancy": 60.1,
@@ -2706,7 +2706,7 @@
       "dpt3_immunization_pct": 77.6,
       "undernourishment_pct": 21.7,
       "suicide_rate": 10.2,
-      "sanitation_access_pct": 55.2
+      "sanitation_access_pct": 51.6
     },
     "LBN": {
       "healthy_life_expectancy": 68.3,
@@ -2720,7 +2720,7 @@
       "dpt3_immunization_pct": 85.3,
       "undernourishment_pct": 12.6,
       "suicide_rate": 10.8,
-      "sanitation_access_pct": 74.8
+      "sanitation_access_pct": 25.67
     },
     "MWI": {
       "healthy_life_expectancy": 52.7,
@@ -2734,7 +2734,7 @@
       "dpt3_immunization_pct": 73.5,
       "undernourishment_pct": 27.2,
       "suicide_rate": 9.9,
-      "sanitation_access_pct": 43.8
+      "sanitation_access_pct": 46.15
     },
     "MDA": {
       "healthy_life_expectancy": 63.3,
@@ -2762,7 +2762,7 @@
       "dpt3_immunization_pct": 84.4,
       "undernourishment_pct": 14.2,
       "suicide_rate": 10.7,
-      "sanitation_access_pct": 71.7
+      "sanitation_access_pct": 31.25
     },
     "XKX": {
       "healthy_life_expectancy": 67.3,

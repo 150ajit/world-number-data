@@ -7,213 +7,213 @@
   "countriesCount": 198,
   "countries": {
     "IND": {
-      "women_in_parliament": 25.5,
-      "voter_turnout": 79.7,
-      "party_institutionalization": 0.63,
-      "govt_effectiveness_idx": 0.69,
-      "pol_corruption_index": 39
+      "women_in_parliament": 13.8,
+      "voter_turnout": 65.79,
+      "party_institutionalization": 0.537,
+      "govt_effectiveness_idx": 0.249,
+      "pol_corruption_index": 38
     },
     "CHN": {
-      "women_in_parliament": 28.6,
+      "women_in_parliament": 26.5,
       "voter_turnout": 81.5,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.11,
-      "pol_corruption_index": 45
+      "party_institutionalization": 0.131,
+      "govt_effectiveness_idx": 0.808,
+      "pol_corruption_index": 43
     },
     "USA": {
-      "women_in_parliament": 49.4,
-      "voter_turnout": 85.1,
-      "party_institutionalization": 0.86,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 69
+      "women_in_parliament": 28.9,
+      "voter_turnout": 70.75,
+      "party_institutionalization": 0.657,
+      "govt_effectiveness_idx": 1.298,
+      "pol_corruption_index": 65
     },
     "IDN": {
-      "women_in_parliament": 28,
-      "voter_turnout": 81.5,
-      "party_institutionalization": 0.69,
-      "govt_effectiveness_idx": 0.95,
-      "pol_corruption_index": 34
+      "women_in_parliament": 21.9,
+      "voter_turnout": 82.39,
+      "party_institutionalization": 0.596,
+      "govt_effectiveness_idx": 0.346,
+      "pol_corruption_index": 37
     },
     "PAK": {
-      "women_in_parliament": 22.9,
-      "voter_turnout": 78,
-      "party_institutionalization": 0.48,
-      "govt_effectiveness_idx": 0.05,
-      "pol_corruption_index": 29
+      "women_in_parliament": 17,
+      "voter_turnout": 47.28,
+      "party_institutionalization": 0.539,
+      "govt_effectiveness_idx": -0.439,
+      "pol_corruption_index": 27
     },
     "NGA": {
-      "women_in_parliament": 35.2,
-      "voter_turnout": 72.2,
-      "party_institutionalization": 0.54,
-      "govt_effectiveness_idx": 0.32,
-      "pol_corruption_index": 25
+      "women_in_parliament": 4.2,
+      "voter_turnout": 26.71,
+      "party_institutionalization": 0.608,
+      "govt_effectiveness_idx": -1.027,
+      "pol_corruption_index": 26
     },
     "BRA": {
-      "women_in_parliament": 41.6,
-      "voter_turnout": 76.8,
-      "party_institutionalization": 0.71,
-      "govt_effectiveness_idx": 1.07,
-      "pol_corruption_index": 36
-    },
-    "BGD": {
-      "women_in_parliament": 30.5,
-      "voter_turnout": 82.4,
-      "party_institutionalization": 0.59,
-      "govt_effectiveness_idx": 0.55,
-      "pol_corruption_index": 26
-    },
-    "RUS": {
-      "women_in_parliament": 44.7,
-      "voter_turnout": 83.3,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.12,
-      "pol_corruption_index": 26
-    },
-    "ETH": {
-      "women_in_parliament": 26.2,
-      "voter_turnout": 65.8,
-      "party_institutionalization": 0.43,
-      "govt_effectiveness_idx": -0.13,
+      "women_in_parliament": 18.1,
+      "voter_turnout": 79.42,
+      "party_institutionalization": 0.575,
+      "govt_effectiveness_idx": -0.493,
       "pol_corruption_index": 34
     },
+    "BGD": {
+      "women_in_parliament": 20.9,
+      "voter_turnout": 41.8,
+      "party_institutionalization": 0.287,
+      "govt_effectiveness_idx": -0.653,
+      "pol_corruption_index": 23
+    },
+    "RUS": {
+      "women_in_parliament": 16.4,
+      "voter_turnout": 77.49,
+      "party_institutionalization": 0.416,
+      "govt_effectiveness_idx": -0.21,
+      "pol_corruption_index": 22
+    },
+    "ETH": {
+      "women_in_parliament": 41.9,
+      "voter_turnout": 93.64,
+      "party_institutionalization": 0.402,
+      "govt_effectiveness_idx": -0.65,
+      "pol_corruption_index": 37
+    },
     "MEX": {
-      "women_in_parliament": 27.3,
-      "voter_turnout": 82.3,
-      "party_institutionalization": 0.75,
-      "govt_effectiveness_idx": 1.21,
-      "pol_corruption_index": 31
+      "women_in_parliament": 50.2,
+      "voter_turnout": 60.54,
+      "party_institutionalization": 0.58,
+      "govt_effectiveness_idx": -0.344,
+      "pol_corruption_index": 26
     },
     "JPN": {
-      "women_in_parliament": 48.2,
-      "voter_turnout": 83.9,
-      "party_institutionalization": 0.84,
-      "govt_effectiveness_idx": 1.63,
-      "pol_corruption_index": 73
+      "women_in_parliament": 15.7,
+      "voter_turnout": 53.8,
+      "party_institutionalization": 0.56,
+      "govt_effectiveness_idx": 1.361,
+      "pol_corruption_index": 71
     },
     "PHL": {
-      "women_in_parliament": 36.8,
-      "voter_turnout": 74.5,
-      "party_institutionalization": 0.67,
-      "govt_effectiveness_idx": 0.88,
-      "pol_corruption_index": 36
-    },
-    "EGY": {
-      "women_in_parliament": 38.5,
-      "voter_turnout": 75.9,
-      "party_institutionalization": 0.7,
-      "govt_effectiveness_idx": 1.01,
-      "pol_corruption_index": 35
-    },
-    "COD": {
-      "women_in_parliament": 40.5,
-      "voter_turnout": 76.2,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.9,
-      "pol_corruption_index": 57
-    },
-    "VNM": {
-      "women_in_parliament": 32.4,
-      "voter_turnout": 71.9,
-      "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.82,
+      "women_in_parliament": 28.3,
+      "voter_turnout": 83.4,
+      "party_institutionalization": 0.589,
+      "govt_effectiveness_idx": 0.035,
       "pol_corruption_index": 33
     },
+    "EGY": {
+      "women_in_parliament": 26.8,
+      "voter_turnout": 66.8,
+      "party_institutionalization": 0.196,
+      "govt_effectiveness_idx": -0.458,
+      "pol_corruption_index": 30
+    },
+    "COD": {
+      "women_in_parliament": 12.8,
+      "voter_turnout": 45.4,
+      "party_institutionalization": 0.435,
+      "govt_effectiveness_idx": -1.757,
+      "pol_corruption_index": 20
+    },
+    "VNM": {
+      "women_in_parliament": 31.4,
+      "voter_turnout": 95.6,
+      "party_institutionalization": 0.556,
+      "govt_effectiveness_idx": 0.243,
+      "pol_corruption_index": 40
+    },
     "IRN": {
-      "women_in_parliament": 44.9,
-      "voter_turnout": 81.7,
-      "party_institutionalization": 0.75,
-      "govt_effectiveness_idx": 1.21,
-      "pol_corruption_index": 28
+      "women_in_parliament": 4.9,
+      "voter_turnout": 40.64,
+      "party_institutionalization": 0.084,
+      "govt_effectiveness_idx": -0.887,
+      "pol_corruption_index": 23
     },
     "TUR": {
-      "women_in_parliament": 46.9,
-      "voter_turnout": 85.2,
-      "party_institutionalization": 0.77,
-      "govt_effectiveness_idx": 1.31,
+      "women_in_parliament": 19.9,
+      "voter_turnout": 87.04,
+      "party_institutionalization": 0.44,
+      "govt_effectiveness_idx": -0.119,
       "pol_corruption_index": 34
     },
     "DEU": {
-      "women_in_parliament": 39.3,
-      "voter_turnout": 90.7,
-      "party_institutionalization": 0.87,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 78
+      "women_in_parliament": 32.4,
+      "voter_turnout": 82.54,
+      "party_institutionalization": 0.662,
+      "govt_effectiveness_idx": 1.289,
+      "pol_corruption_index": 75
     },
     "THA": {
-      "women_in_parliament": 33.1,
-      "voter_turnout": 85.9,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.11,
-      "pol_corruption_index": 36
+      "women_in_parliament": 19.6,
+      "voter_turnout": 75.71,
+      "party_institutionalization": 0.385,
+      "govt_effectiveness_idx": 0.22,
+      "pol_corruption_index": 34
     },
     "GBR": {
-      "women_in_parliament": 35.9,
-      "voter_turnout": 87.4,
-      "party_institutionalization": 0.89,
-      "govt_effectiveness_idx": 1.6,
+      "women_in_parliament": 40.5,
+      "voter_turnout": 59.76,
+      "party_institutionalization": 0.683,
+      "govt_effectiveness_idx": 1.24,
       "pol_corruption_index": 71
     },
     "TZA": {
-      "women_in_parliament": 23.8,
+      "women_in_parliament": 39.5,
       "voter_turnout": 81,
-      "party_institutionalization": 0.53,
-      "govt_effectiveness_idx": 0.28,
-      "pol_corruption_index": 36
+      "party_institutionalization": 0.581,
+      "govt_effectiveness_idx": -0.648,
+      "pol_corruption_index": 41
     },
     "FRA": {
-      "women_in_parliament": 32.9,
-      "voter_turnout": 84.7,
-      "party_institutionalization": 0.83,
-      "govt_effectiveness_idx": 1.58,
-      "pol_corruption_index": 71
+      "women_in_parliament": 36.2,
+      "voter_turnout": 66.71,
+      "party_institutionalization": 0.644,
+      "govt_effectiveness_idx": 1.229,
+      "pol_corruption_index": 67
     },
     "ZAF": {
-      "women_in_parliament": 34.1,
-      "voter_turnout": 71.6,
-      "party_institutionalization": 0.63,
-      "govt_effectiveness_idx": 0.72,
-      "pol_corruption_index": 43
+      "women_in_parliament": 44.9,
+      "voter_turnout": 58.64,
+      "party_institutionalization": 0.573,
+      "govt_effectiveness_idx": -0.07,
+      "pol_corruption_index": 41
     },
     "ITA": {
-      "women_in_parliament": 37.7,
-      "voter_turnout": 89.6,
-      "party_institutionalization": 0.83,
-      "govt_effectiveness_idx": 1.56,
-      "pol_corruption_index": 56
+      "women_in_parliament": 32.8,
+      "voter_turnout": 63.79,
+      "party_institutionalization": 0.755,
+      "govt_effectiveness_idx": 0.325,
+      "pol_corruption_index": 54
     },
     "KEN": {
-      "women_in_parliament": 26.6,
-      "voter_turnout": 81.3,
-      "party_institutionalization": 0.55,
-      "govt_effectiveness_idx": 0.36,
-      "pol_corruption_index": 27
+      "women_in_parliament": 23.4,
+      "voter_turnout": 64.77,
+      "party_institutionalization": 0.614,
+      "govt_effectiveness_idx": -0.326,
+      "pol_corruption_index": 32
     },
     "MMR": {
-      "women_in_parliament": 22.2,
-      "voter_turnout": 79,
-      "party_institutionalization": 0.52,
-      "govt_effectiveness_idx": 0.26,
-      "pol_corruption_index": 29
+      "women_in_parliament": 15.3,
+      "voter_turnout": 71.89,
+      "party_institutionalization": 0.35,
+      "govt_effectiveness_idx": -1.415,
+      "pol_corruption_index": 16
     },
     "COL": {
-      "women_in_parliament": 32.5,
-      "voter_turnout": 85.7,
-      "party_institutionalization": 0.7,
-      "govt_effectiveness_idx": 1,
-      "pol_corruption_index": 36
+      "women_in_parliament": 29.4,
+      "voter_turnout": 58.1,
+      "party_institutionalization": 0.64,
+      "govt_effectiveness_idx": -0.048,
+      "pol_corruption_index": 39
     },
     "KOR": {
-      "women_in_parliament": 34.5,
-      "voter_turnout": 88.2,
-      "party_institutionalization": 0.83,
-      "govt_effectiveness_idx": 1.59,
-      "pol_corruption_index": 63
+      "women_in_parliament": 20.3,
+      "voter_turnout": 79.38,
+      "party_institutionalization": 0.624,
+      "govt_effectiveness_idx": 1.366,
+      "pol_corruption_index": 64
     },
     "UGA": {
-      "women_in_parliament": 23.1,
-      "voter_turnout": 78.4,
-      "party_institutionalization": 0.47,
-      "govt_effectiveness_idx": 0.02,
+      "women_in_parliament": 34.1,
+      "voter_turnout": 55.23,
+      "party_institutionalization": 0.435,
+      "govt_effectiveness_idx": -0.601,
       "pol_corruption_index": 26
     },
     "SDN": {
@@ -221,490 +221,490 @@
       "voter_turnout": 70.1,
       "party_institutionalization": 0.5,
       "govt_effectiveness_idx": 0.15,
-      "pol_corruption_index": 16
+      "pol_corruption_index": 15
     },
     "ESP": {
-      "women_in_parliament": 47.9,
-      "voter_turnout": 83.7,
-      "party_institutionalization": 0.83,
-      "govt_effectiveness_idx": 1.58,
-      "pol_corruption_index": 60
+      "women_in_parliament": 44.3,
+      "voter_turnout": 66.59,
+      "party_institutionalization": 0.648,
+      "govt_effectiveness_idx": 0.908,
+      "pol_corruption_index": 56
     },
     "ARG": {
-      "women_in_parliament": 31.7,
-      "voter_turnout": 84.1,
-      "party_institutionalization": 0.79,
-      "govt_effectiveness_idx": 1.41,
-      "pol_corruption_index": 40
+      "women_in_parliament": 41.2,
+      "voter_turnout": 67.92,
+      "party_institutionalization": 0.616,
+      "govt_effectiveness_idx": -0.391,
+      "pol_corruption_index": 37
     },
     "DZA": {
-      "women_in_parliament": 33.4,
-      "voter_turnout": 86.6,
-      "party_institutionalization": 0.71,
-      "govt_effectiveness_idx": 1.05,
-      "pol_corruption_index": 35
+      "women_in_parliament": 7.9,
+      "voter_turnout": 46.1,
+      "party_institutionalization": 0.24,
+      "govt_effectiveness_idx": -0.653,
+      "pol_corruption_index": 34
     },
     "IRQ": {
-      "women_in_parliament": 26,
-      "voter_turnout": 81.8,
-      "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.66,
-      "pol_corruption_index": 18
+      "women_in_parliament": 25.5,
+      "voter_turnout": 56.04,
+      "party_institutionalization": 0.444,
+      "govt_effectiveness_idx": -1.32,
+      "pol_corruption_index": 26
     },
     "AFG": {
-      "women_in_parliament": 25.4,
-      "voter_turnout": 78.9,
-      "party_institutionalization": 0.45,
-      "govt_effectiveness_idx": -0.05,
-      "pol_corruption_index": 16
+      "women_in_parliament": 27,
+      "voter_turnout": 45.23,
+      "party_institutionalization": 0.103,
+      "govt_effectiveness_idx": -1.671,
+      "pol_corruption_index": 17
     },
     "POL": {
-      "women_in_parliament": 31.8,
-      "voter_turnout": 85.9,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.35,
-      "pol_corruption_index": 54
+      "women_in_parliament": 31.3,
+      "voter_turnout": 71.63,
+      "party_institutionalization": 0.563,
+      "govt_effectiveness_idx": 0.254,
+      "pol_corruption_index": 53
     },
     "CAN": {
-      "women_in_parliament": 44.7,
-      "voter_turnout": 78.3,
-      "party_institutionalization": 0.82,
-      "govt_effectiveness_idx": 1.55,
-      "pol_corruption_index": 76
+      "women_in_parliament": 30.3,
+      "voter_turnout": 68.7,
+      "party_institutionalization": 0.648,
+      "govt_effectiveness_idx": 1.561,
+      "pol_corruption_index": 75
     },
     "MAR": {
-      "women_in_parliament": 32.4,
-      "voter_turnout": 70.1,
-      "party_institutionalization": 0.67,
-      "govt_effectiveness_idx": 0.89,
-      "pol_corruption_index": 43
+      "women_in_parliament": 24.3,
+      "voter_turnout": 50.18,
+      "party_institutionalization": 0.419,
+      "govt_effectiveness_idx": -0.17,
+      "pol_corruption_index": 37
     },
     "SAU": {
-      "women_in_parliament": 47.6,
+      "women_in_parliament": 19.9,
       "voter_turnout": 83.8,
-      "party_institutionalization": 0.82,
-      "govt_effectiveness_idx": 1.5,
-      "pol_corruption_index": 52
+      "party_institutionalization": 0.082,
+      "govt_effectiveness_idx": 0.465,
+      "pol_corruption_index": 59
     },
     "UKR": {
-      "women_in_parliament": 33.7,
-      "voter_turnout": 73.1,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.91,
-      "pol_corruption_index": 36
-    },
-    "AGO": {
-      "women_in_parliament": 37.3,
-      "voter_turnout": 74.1,
-      "party_institutionalization": 0.51,
-      "govt_effectiveness_idx": 0.21,
-      "pol_corruption_index": 19
-    },
-    "UZB": {
-      "women_in_parliament": 31.8,
-      "voter_turnout": 71.5,
-      "party_institutionalization": 0.64,
-      "govt_effectiveness_idx": 0.76,
-      "pol_corruption_index": 23
-    },
-    "YEM": {
-      "women_in_parliament": 16.8,
-      "voter_turnout": 74.8,
-      "party_institutionalization": 0.4,
-      "govt_effectiveness_idx": -0.28,
-      "pol_corruption_index": 14
-    },
-    "PER": {
-      "women_in_parliament": 41.3,
-      "voter_turnout": 78.5,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.91,
+      "women_in_parliament": 21.2,
+      "voter_turnout": 49.2,
+      "party_institutionalization": 0.555,
+      "govt_effectiveness_idx": -0.44,
       "pol_corruption_index": 35
     },
-    "MYS": {
-      "women_in_parliament": 43.2,
-      "voter_turnout": 82,
-      "party_institutionalization": 0.77,
-      "govt_effectiveness_idx": 1.31,
-      "pol_corruption_index": 47
+    "AGO": {
+      "women_in_parliament": 39.1,
+      "voter_turnout": 44.82,
+      "party_institutionalization": 0.125,
+      "govt_effectiveness_idx": -1.126,
+      "pol_corruption_index": 32
     },
-    "GHA": {
-      "women_in_parliament": 30.7,
-      "voter_turnout": 67.4,
-      "party_institutionalization": 0.57,
-      "govt_effectiveness_idx": 0.43,
-      "pol_corruption_index": 41
+    "UZB": {
+      "women_in_parliament": 38,
+      "voter_turnout": 75.35,
+      "party_institutionalization": 0.144,
+      "govt_effectiveness_idx": -0.265,
+      "pol_corruption_index": 32
     },
-    "MOZ": {
-      "women_in_parliament": 27.3,
-      "voter_turnout": 69.4,
-      "party_institutionalization": 0.4,
-      "govt_effectiveness_idx": -0.28,
-      "pol_corruption_index": 23
+    "YEM": {
+      "women_in_parliament": 0,
+      "voter_turnout": 74.8,
+      "party_institutionalization": 0.207,
+      "govt_effectiveness_idx": -2.326,
+      "pol_corruption_index": 13
     },
-    "NPL": {
-      "women_in_parliament": 20.1,
-      "voter_turnout": 76.9,
-      "party_institutionalization": 0.57,
-      "govt_effectiveness_idx": 0.42,
+    "PER": {
+      "women_in_parliament": 41.5,
+      "voter_turnout": 74.57,
+      "party_institutionalization": 0.659,
+      "govt_effectiveness_idx": -0.295,
       "pol_corruption_index": 31
     },
-    "MDG": {
-      "women_in_parliament": 18.2,
-      "voter_turnout": 73.5,
-      "party_institutionalization": 0.47,
-      "govt_effectiveness_idx": 0.03,
+    "MYS": {
+      "women_in_parliament": 13.5,
+      "voter_turnout": 73.89,
+      "party_institutionalization": 0.548,
+      "govt_effectiveness_idx": 0.952,
+      "pol_corruption_index": 50
+    },
+    "GHA": {
+      "women_in_parliament": 14.5,
+      "voter_turnout": 60.88,
+      "party_institutionalization": 0.383,
+      "govt_effectiveness_idx": -0.177,
+      "pol_corruption_index": 42
+    },
+    "MOZ": {
+      "women_in_parliament": 38.3,
+      "voter_turnout": 51.41,
+      "party_institutionalization": 0.565,
+      "govt_effectiveness_idx": -0.803,
       "pol_corruption_index": 25
+    },
+    "NPL": {
+      "women_in_parliament": 32.7,
+      "voter_turnout": 61.35,
+      "party_institutionalization": 0.589,
+      "govt_effectiveness_idx": -0.93,
+      "pol_corruption_index": 34
+    },
+    "MDG": {
+      "women_in_parliament": 14.1,
+      "voter_turnout": 46.66,
+      "party_institutionalization": 0.519,
+      "govt_effectiveness_idx": -1.028,
+      "pol_corruption_index": 26
     },
     "CIV": {
-      "women_in_parliament": 34.5,
-      "voter_turnout": 72.2,
-      "party_institutionalization": 0.63,
-      "govt_effectiveness_idx": 0.72,
-      "pol_corruption_index": 57
+      "women_in_parliament": 13.4,
+      "voter_turnout": 50.1,
+      "party_institutionalization": 0.627,
+      "govt_effectiveness_idx": -0.537,
+      "pol_corruption_index": 45
     },
     "VEN": {
-      "women_in_parliament": 43.6,
-      "voter_turnout": 80.8,
-      "party_institutionalization": 0.71,
-      "govt_effectiveness_idx": 1.07,
-      "pol_corruption_index": 18
+      "women_in_parliament": 32.1,
+      "voter_turnout": 42.6,
+      "party_institutionalization": 0.462,
+      "govt_effectiveness_idx": -1.875,
+      "pol_corruption_index": 10
     },
     "CMR": {
-      "women_in_parliament": 29.5,
-      "voter_turnout": 68.5,
-      "party_institutionalization": 0.5,
-      "govt_effectiveness_idx": 0.17,
-      "pol_corruption_index": 25
+      "women_in_parliament": 33.9,
+      "voter_turnout": 57.76,
+      "party_institutionalization": 0.25,
+      "govt_effectiveness_idx": -0.905,
+      "pol_corruption_index": 26
     },
     "NER": {
-      "women_in_parliament": 26.8,
-      "voter_turnout": 67.2,
-      "party_institutionalization": 0.41,
-      "govt_effectiveness_idx": -0.26,
+      "women_in_parliament": 19.6,
+      "voter_turnout": 62.91,
+      "party_institutionalization": 0.588,
+      "govt_effectiveness_idx": -0.644,
       "pol_corruption_index": 34
     },
     "AUS": {
-      "women_in_parliament": 50.1,
-      "voter_turnout": 85.6,
-      "party_institutionalization": 0.88,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 75
+      "women_in_parliament": 46,
+      "voter_turnout": 90.67,
+      "party_institutionalization": 0.669,
+      "govt_effectiveness_idx": 1.472,
+      "pol_corruption_index": 77
     },
     "PRK": {
-      "women_in_parliament": 27.5,
+      "women_in_parliament": 17.6,
       "voter_turnout": 83.2,
-      "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.78,
-      "pol_corruption_index": 14
+      "party_institutionalization": 0.153,
+      "govt_effectiveness_idx": -1.585,
+      "pol_corruption_index": 15
     },
     "TWN": {
       "women_in_parliament": 39.5,
-      "voter_turnout": 79.2,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.9,
+      "voter_turnout": 71.86,
+      "party_institutionalization": 0.731,
+      "govt_effectiveness_idx": 1.43,
       "pol_corruption_index": 67
     },
     "MLI": {
-      "women_in_parliament": 24.9,
-      "voter_turnout": 65.1,
-      "party_institutionalization": 0.39,
-      "govt_effectiveness_idx": -0.32,
-      "pol_corruption_index": 32
+      "women_in_parliament": 30.1,
+      "voter_turnout": 35.58,
+      "party_institutionalization": 0.495,
+      "govt_effectiveness_idx": -1.251,
+      "pol_corruption_index": 27
     },
     "LKA": {
-      "women_in_parliament": 26.9,
-      "voter_turnout": 80,
-      "party_institutionalization": 0.69,
-      "govt_effectiveness_idx": 0.99,
-      "pol_corruption_index": 38
+      "women_in_parliament": 9.8,
+      "voter_turnout": 75,
+      "party_institutionalization": 0.528,
+      "govt_effectiveness_idx": -0.115,
+      "pol_corruption_index": 32
     },
     "SYR": {
-      "women_in_parliament": 20.8,
-      "voter_turnout": 79.9,
-      "party_institutionalization": 0.53,
-      "govt_effectiveness_idx": 0.28,
-      "pol_corruption_index": 13
+      "women_in_parliament": 4.9,
+      "voter_turnout": 38.16,
+      "party_institutionalization": 0.134,
+      "govt_effectiveness_idx": -1.767,
+      "pol_corruption_index": 12
     },
     "KAZ": {
-      "women_in_parliament": 42,
-      "voter_turnout": 78.8,
-      "party_institutionalization": 0.7,
-      "govt_effectiveness_idx": 1.04,
-      "pol_corruption_index": 31
+      "women_in_parliament": 18.4,
+      "voter_turnout": 54.15,
+      "party_institutionalization": 0.204,
+      "govt_effectiveness_idx": 0.03,
+      "pol_corruption_index": 40
     },
     "CHL": {
-      "women_in_parliament": 47.1,
-      "voter_turnout": 81.4,
-      "party_institutionalization": 0.76,
-      "govt_effectiveness_idx": 1.27,
-      "pol_corruption_index": 67
+      "women_in_parliament": 33.5,
+      "voter_turnout": 85.12,
+      "party_institutionalization": 0.649,
+      "govt_effectiveness_idx": 0.59,
+      "pol_corruption_index": 63
     },
     "ZMB": {
-      "women_in_parliament": 37.6,
-      "voter_turnout": 76.3,
-      "party_institutionalization": 0.56,
-      "govt_effectiveness_idx": 0.41,
-      "pol_corruption_index": 35
+      "women_in_parliament": 15,
+      "voter_turnout": 70.61,
+      "party_institutionalization": 0.599,
+      "govt_effectiveness_idx": -0.841,
+      "pol_corruption_index": 39
     },
     "ROU": {
-      "women_in_parliament": 40.4,
-      "voter_turnout": 79.1,
-      "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.14,
-      "pol_corruption_index": 47
+      "women_in_parliament": 22.4,
+      "voter_turnout": 64.69,
+      "party_institutionalization": 0.729,
+      "govt_effectiveness_idx": -0.163,
+      "pol_corruption_index": 46
     },
     "TCD": {
-      "women_in_parliament": 16.8,
-      "voter_turnout": 73.2,
-      "party_institutionalization": 0.41,
-      "govt_effectiveness_idx": -0.26,
-      "pol_corruption_index": 19
+      "women_in_parliament": 33.5,
+      "voter_turnout": 75.89,
+      "party_institutionalization": 0.336,
+      "govt_effectiveness_idx": -1.461,
+      "pol_corruption_index": 21
     },
     "SOM": {
-      "women_in_parliament": 18.3,
+      "women_in_parliament": 19,
       "voter_turnout": 76.9,
-      "party_institutionalization": 0.39,
-      "govt_effectiveness_idx": -0.32,
-      "pol_corruption_index": 11
+      "party_institutionalization": 0.266,
+      "govt_effectiveness_idx": -2.086,
+      "pol_corruption_index": 9
     },
     "SEN": {
-      "women_in_parliament": 31.7,
-      "voter_turnout": 71.1,
-      "party_institutionalization": 0.44,
-      "govt_effectiveness_idx": -0.08,
+      "women_in_parliament": 41.2,
+      "voter_turnout": 61.3,
+      "party_institutionalization": 0.577,
+      "govt_effectiveness_idx": 0.025,
       "pol_corruption_index": 45
     },
     "NLD": {
-      "women_in_parliament": 39.1,
-      "voter_turnout": 90.6,
-      "party_institutionalization": 0.86,
-      "govt_effectiveness_idx": 1.63,
-      "pol_corruption_index": 79
+      "women_in_parliament": 43.3,
+      "voter_turnout": 78.3,
+      "party_institutionalization": 0.608,
+      "govt_effectiveness_idx": 1.725,
+      "pol_corruption_index": 78
     },
     "GTM": {
-      "women_in_parliament": 38.8,
-      "voter_turnout": 76.9,
-      "party_institutionalization": 0.6,
-      "govt_effectiveness_idx": 0.59,
-      "pol_corruption_index": 27
+      "women_in_parliament": 20,
+      "voter_turnout": 59.45,
+      "party_institutionalization": 0.531,
+      "govt_effectiveness_idx": -0.783,
+      "pol_corruption_index": 25
     },
     "ECU": {
-      "women_in_parliament": 31.3,
-      "voter_turnout": 84.6,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.92,
-      "pol_corruption_index": 34
+      "women_in_parliament": 45,
+      "voter_turnout": 82.95,
+      "party_institutionalization": 0.652,
+      "govt_effectiveness_idx": -0.242,
+      "pol_corruption_index": 32
     },
     "ZWE": {
-      "women_in_parliament": 30.7,
-      "voter_turnout": 71.9,
-      "party_institutionalization": 0.49,
-      "govt_effectiveness_idx": 0.09,
-      "pol_corruption_index": 22
+      "women_in_parliament": 30.1,
+      "voter_turnout": 68.86,
+      "party_institutionalization": 0.591,
+      "govt_effectiveness_idx": -1.291,
+      "pol_corruption_index": 21
     },
     "GIN": {
-      "women_in_parliament": 22.1,
-      "voter_turnout": 77.9,
-      "party_institutionalization": 0.43,
-      "govt_effectiveness_idx": -0.14,
+      "women_in_parliament": 29.6,
+      "voter_turnout": 58.04,
+      "party_institutionalization": 0.531,
+      "govt_effectiveness_idx": -0.952,
       "pol_corruption_index": 28
     },
     "RWA": {
-      "women_in_parliament": 18.3,
-      "voter_turnout": 75.6,
-      "party_institutionalization": 0.52,
-      "govt_effectiveness_idx": 0.23,
-      "pol_corruption_index": 56
+      "women_in_parliament": 63.8,
+      "voter_turnout": 98.2,
+      "party_institutionalization": 0.474,
+      "govt_effectiveness_idx": 0.227,
+      "pol_corruption_index": 57
     },
     "BEN": {
-      "women_in_parliament": 33,
-      "voter_turnout": 70.4,
-      "party_institutionalization": 0.5,
-      "govt_effectiveness_idx": 0.14,
-      "pol_corruption_index": 40
+      "women_in_parliament": 26.6,
+      "voter_turnout": 37.79,
+      "party_institutionalization": 0.508,
+      "govt_effectiveness_idx": -0.238,
+      "pol_corruption_index": 45
     },
     "BDI": {
-      "women_in_parliament": 23.6,
-      "voter_turnout": 77.8,
-      "party_institutionalization": 0.4,
-      "govt_effectiveness_idx": -0.3,
+      "women_in_parliament": 39.6,
+      "voter_turnout": 98.88,
+      "party_institutionalization": 0.213,
+      "govt_effectiveness_idx": -1.358,
       "pol_corruption_index": 17
     },
     "BOL": {
-      "women_in_parliament": 29.3,
-      "voter_turnout": 83,
-      "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.69,
-      "pol_corruption_index": 29
+      "women_in_parliament": 50.8,
+      "voter_turnout": 86.95,
+      "party_institutionalization": 0.668,
+      "govt_effectiveness_idx": -0.763,
+      "pol_corruption_index": 28
     },
     "TUN": {
-      "women_in_parliament": 38.7,
-      "voter_turnout": 78.1,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.91,
-      "pol_corruption_index": 43
+      "women_in_parliament": 15.8,
+      "voter_turnout": 11.4,
+      "party_institutionalization": 0.579,
+      "govt_effectiveness_idx": -0.207,
+      "pol_corruption_index": 39
     },
     "HTI": {
-      "women_in_parliament": 30.4,
+      "women_in_parliament": 2.5,
       "voter_turnout": 69.9,
-      "party_institutionalization": 0.5,
-      "govt_effectiveness_idx": 0.13,
-      "pol_corruption_index": 20
+      "party_institutionalization": 0.419,
+      "govt_effectiveness_idx": -2.221,
+      "pol_corruption_index": 16
     },
     "BEL": {
-      "women_in_parliament": 46,
-      "voter_turnout": 79.5,
-      "party_institutionalization": 0.84,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 73
+      "women_in_parliament": 41.3,
+      "voter_turnout": 87.42,
+      "party_institutionalization": 0.648,
+      "govt_effectiveness_idx": 1.086,
+      "pol_corruption_index": 69
     },
     "JOR": {
-      "women_in_parliament": 26.7,
-      "voter_turnout": 82.1,
-      "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.79,
+      "women_in_parliament": 19.6,
+      "voter_turnout": 31.25,
+      "party_institutionalization": 0.282,
+      "govt_effectiveness_idx": 0.195,
       "pol_corruption_index": 49
     },
     "DOM": {
-      "women_in_parliament": 33.8,
-      "voter_turnout": 71.1,
-      "party_institutionalization": 0.71,
-      "govt_effectiveness_idx": 1.04,
-      "pol_corruption_index": 30
+      "women_in_parliament": 37.4,
+      "voter_turnout": 54.37,
+      "party_institutionalization": 0.625,
+      "govt_effectiveness_idx": -0.003,
+      "pol_corruption_index": 36
     },
     "CUB": {
-      "women_in_parliament": 29.2,
-      "voter_turnout": 82.2,
-      "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.13,
-      "pol_corruption_index": 47
+      "women_in_parliament": 55.7,
+      "voter_turnout": 75.87,
+      "party_institutionalization": 0.242,
+      "govt_effectiveness_idx": -0.25,
+      "pol_corruption_index": 41
     },
     "SSD": {
-      "women_in_parliament": 13.3,
+      "women_in_parliament": 32.4,
       "voter_turnout": 71.9,
-      "party_institutionalization": 0.4,
-      "govt_effectiveness_idx": -0.31,
-      "pol_corruption_index": 13
+      "party_institutionalization": 0.168,
+      "govt_effectiveness_idx": -2.397,
+      "pol_corruption_index": 8
     },
     "SWE": {
-      "women_in_parliament": 38.3,
-      "voter_turnout": 91.8,
-      "party_institutionalization": 0.9,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 82
+      "women_in_parliament": 45,
+      "voter_turnout": 84.21,
+      "party_institutionalization": 0.653,
+      "govt_effectiveness_idx": 1.61,
+      "pol_corruption_index": 80
     },
     "HND": {
-      "women_in_parliament": 23.6,
-      "voter_turnout": 78,
-      "party_institutionalization": 0.59,
-      "govt_effectiveness_idx": 0.52,
-      "pol_corruption_index": 29
+      "women_in_parliament": 29.7,
+      "voter_turnout": 69.09,
+      "party_institutionalization": 0.572,
+      "govt_effectiveness_idx": -0.819,
+      "pol_corruption_index": 22
     },
     "CZE": {
-      "women_in_parliament": 41.3,
-      "voter_turnout": 77.3,
-      "party_institutionalization": 0.8,
-      "govt_effectiveness_idx": 1.46,
-      "pol_corruption_index": 75
+      "women_in_parliament": 33.5,
+      "voter_turnout": 68.95,
+      "party_institutionalization": 0.593,
+      "govt_effectiveness_idx": 1.07,
+      "pol_corruption_index": 56
     },
     "AZE": {
-      "women_in_parliament": 34.5,
-      "voter_turnout": 71.7,
-      "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.12,
-      "pol_corruption_index": 25
+      "women_in_parliament": 20.8,
+      "voter_turnout": 76.68,
+      "party_institutionalization": 0.134,
+      "govt_effectiveness_idx": 0.213,
+      "pol_corruption_index": 22
     },
     "GRC": {
-      "women_in_parliament": 35.3,
-      "voter_turnout": 87.2,
-      "party_institutionalization": 0.79,
-      "govt_effectiveness_idx": 1.39,
-      "pol_corruption_index": 45
+      "women_in_parliament": 22.9,
+      "voter_turnout": 61.1,
+      "party_institutionalization": 0.653,
+      "govt_effectiveness_idx": 0.406,
+      "pol_corruption_index": 49
     },
     "PNG": {
-      "women_in_parliament": 32,
+      "women_in_parliament": 2.7,
       "voter_turnout": 71.1,
-      "party_institutionalization": 0.54,
-      "govt_effectiveness_idx": 0.31,
-      "pol_corruption_index": 28
+      "party_institutionalization": 0.527,
+      "govt_effectiveness_idx": -0.89,
+      "pol_corruption_index": 31
     },
     "PRT": {
-      "women_in_parliament": 41.6,
-      "voter_turnout": 80,
-      "party_institutionalization": 0.76,
-      "govt_effectiveness_idx": 1.28,
-      "pol_corruption_index": 64
+      "women_in_parliament": 35.7,
+      "voter_turnout": 58.23,
+      "party_institutionalization": 0.624,
+      "govt_effectiveness_idx": 0.952,
+      "pol_corruption_index": 57
     },
     "HUN": {
-      "women_in_parliament": 30.3,
-      "voter_turnout": 84.8,
-      "party_institutionalization": 0.74,
-      "govt_effectiveness_idx": 1.18,
-      "pol_corruption_index": 46
+      "women_in_parliament": 15.6,
+      "voter_turnout": 69.59,
+      "party_institutionalization": 0.59,
+      "govt_effectiveness_idx": 0.597,
+      "pol_corruption_index": 41
     },
     "TJK": {
-      "women_in_parliament": 39.8,
-      "voter_turnout": 77.9,
-      "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.65,
-      "pol_corruption_index": 25
+      "women_in_parliament": 28.6,
+      "voter_turnout": 85.35,
+      "party_institutionalization": 0.142,
+      "govt_effectiveness_idx": -0.645,
+      "pol_corruption_index": 19
     },
     "ARE": {
-      "women_in_parliament": 32.8,
+      "women_in_parliament": 50,
       "voter_turnout": 84.4,
-      "party_institutionalization": 0.84,
-      "govt_effectiveness_idx": 1.6,
+      "party_institutionalization": 0.095,
+      "govt_effectiveness_idx": 1.364,
       "pol_corruption_index": 68
     },
     "BLR": {
-      "women_in_parliament": 36.3,
-      "voter_turnout": 73,
-      "party_institutionalization": 0.77,
-      "govt_effectiveness_idx": 1.31,
-      "pol_corruption_index": 44
+      "women_in_parliament": 33.9,
+      "voter_turnout": 85.7,
+      "party_institutionalization": 0.16,
+      "govt_effectiveness_idx": -0.804,
+      "pol_corruption_index": 33
     },
     "ISR": {
-      "women_in_parliament": 36,
-      "voter_turnout": 89.8,
-      "party_institutionalization": 0.85,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 61
+      "women_in_parliament": 24.2,
+      "voter_turnout": 70.63,
+      "party_institutionalization": 0.606,
+      "govt_effectiveness_idx": 1.251,
+      "pol_corruption_index": 64
     },
     "TGO": {
-      "women_in_parliament": 17.6,
-      "voter_turnout": 75.1,
-      "party_institutionalization": 0.5,
-      "govt_effectiveness_idx": 0.15,
-      "pol_corruption_index": 30
+      "women_in_parliament": 15,
+      "voter_turnout": 61,
+      "party_institutionalization": 0.536,
+      "govt_effectiveness_idx": -0.686,
+      "pol_corruption_index": 32
     },
     "AUT": {
-      "women_in_parliament": 32.4,
-      "voter_turnout": 86.1,
-      "party_institutionalization": 0.87,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 71
+      "women_in_parliament": 35.5,
+      "voter_turnout": 76.25,
+      "party_institutionalization": 0.664,
+      "govt_effectiveness_idx": 1.528,
+      "pol_corruption_index": 67
     },
     "CHE": {
-      "women_in_parliament": 43.8,
-      "voter_turnout": 77.1,
-      "party_institutionalization": 0.9,
-      "govt_effectiveness_idx": 2.13,
-      "pol_corruption_index": 82
+      "women_in_parliament": 39,
+      "voter_turnout": 46.64,
+      "party_institutionalization": 0.882,
+      "govt_effectiveness_idx": 1.991,
+      "pol_corruption_index": 81
     },
     "SLE": {
-      "women_in_parliament": 26.7,
-      "voter_turnout": 66.9,
-      "party_institutionalization": 0.41,
-      "govt_effectiveness_idx": -0.23,
-      "pol_corruption_index": 30
+      "women_in_parliament": 29.5,
+      "voter_turnout": 83,
+      "party_institutionalization": 0.623,
+      "govt_effectiveness_idx": -1.153,
+      "pol_corruption_index": 33
     },
     "LAO": {
-      "women_in_parliament": 25,
-      "voter_turnout": 79.6,
-      "party_institutionalization": 0.53,
-      "govt_effectiveness_idx": 0.28,
-      "pol_corruption_index": 29
+      "women_in_parliament": 22,
+      "voter_turnout": 98.02,
+      "party_institutionalization": 0.416,
+      "govt_effectiveness_idx": -0.616,
+      "pol_corruption_index": 33
     },
     "HKG": {
       "women_in_parliament": 35.5,
@@ -714,116 +714,116 @@
       "pol_corruption_index": 75
     },
     "SRB": {
-      "women_in_parliament": 42.5,
-      "voter_turnout": 79.5,
-      "party_institutionalization": 0.71,
-      "govt_effectiveness_idx": 1.05,
-      "pol_corruption_index": 39
-    },
-    "NIC": {
-      "women_in_parliament": 25,
-      "voter_turnout": 79.1,
-      "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.68,
-      "pol_corruption_index": 25
-    },
-    "LBY": {
-      "women_in_parliament": 39.7,
-      "voter_turnout": 77.4,
-      "party_institutionalization": 0.64,
-      "govt_effectiveness_idx": 0.74,
-      "pol_corruption_index": 17
-    },
-    "PRY": {
-      "women_in_parliament": 41.6,
-      "voter_turnout": 81.3,
-      "party_institutionalization": 0.63,
-      "govt_effectiveness_idx": 0.73,
-      "pol_corruption_index": 29
-    },
-    "KGZ": {
-      "women_in_parliament": 25.5,
-      "voter_turnout": 81.5,
-      "party_institutionalization": 0.61,
-      "govt_effectiveness_idx": 0.61,
-      "pol_corruption_index": 29
-    },
-    "BGR": {
-      "women_in_parliament": 31.5,
-      "voter_turnout": 84.1,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.33,
-      "pol_corruption_index": 42
-    },
-    "TKM": {
-      "women_in_parliament": 26.7,
-      "voter_turnout": 82.4,
-      "party_institutionalization": 0.64,
-      "govt_effectiveness_idx": 0.74,
-      "pol_corruption_index": 20
-    },
-    "SLV": {
-      "women_in_parliament": 34.6,
-      "voter_turnout": 74.5,
-      "party_institutionalization": 0.59,
-      "govt_effectiveness_idx": 0.56,
+      "women_in_parliament": 37.2,
+      "voter_turnout": 58.77,
+      "party_institutionalization": 0.541,
+      "govt_effectiveness_idx": 0.012,
       "pol_corruption_index": 35
     },
+    "NIC": {
+      "women_in_parliament": 54.9,
+      "voter_turnout": 66.24,
+      "party_institutionalization": 0.31,
+      "govt_effectiveness_idx": -0.885,
+      "pol_corruption_index": 14
+    },
+    "LBY": {
+      "women_in_parliament": 16.5,
+      "voter_turnout": 77.4,
+      "party_institutionalization": 0.464,
+      "govt_effectiveness_idx": -1.748,
+      "pol_corruption_index": 13
+    },
+    "PRY": {
+      "women_in_parliament": 23.8,
+      "voter_turnout": 62.86,
+      "party_institutionalization": 0.547,
+      "govt_effectiveness_idx": -0.656,
+      "pol_corruption_index": 24
+    },
+    "KGZ": {
+      "women_in_parliament": 33.3,
+      "voter_turnout": 36.9,
+      "party_institutionalization": 0.459,
+      "govt_effectiveness_idx": -0.776,
+      "pol_corruption_index": 25
+    },
+    "BGR": {
+      "women_in_parliament": 25,
+      "voter_turnout": 38.94,
+      "party_institutionalization": 0.697,
+      "govt_effectiveness_idx": -0.173,
+      "pol_corruption_index": 43
+    },
+    "TKM": {
+      "women_in_parliament": 25.6,
+      "voter_turnout": 91.12,
+      "party_institutionalization": 0.071,
+      "govt_effectiveness_idx": -0.961,
+      "pol_corruption_index": 17
+    },
+    "SLV": {
+      "women_in_parliament": 31.7,
+      "voter_turnout": 52.6,
+      "party_institutionalization": 0.47,
+      "govt_effectiveness_idx": -0.342,
+      "pol_corruption_index": 30
+    },
     "COG": {
-      "women_in_parliament": 22.2,
-      "voter_turnout": 76.8,
-      "party_institutionalization": 0.56,
-      "govt_effectiveness_idx": 0.42,
-      "pol_corruption_index": 19
+      "women_in_parliament": 14.6,
+      "voter_turnout": 67.17,
+      "party_institutionalization": 0.545,
+      "govt_effectiveness_idx": -1.32,
+      "pol_corruption_index": 23
     },
     "SGP": {
-      "women_in_parliament": 33.2,
-      "voter_turnout": 86.7,
-      "party_institutionalization": 0.9,
-      "govt_effectiveness_idx": 2.32,
-      "pol_corruption_index": 83
+      "women_in_parliament": 32.3,
+      "voter_turnout": 92.83,
+      "party_institutionalization": 0.145,
+      "govt_effectiveness_idx": 2.248,
+      "pol_corruption_index": 84
     },
     "DNK": {
-      "women_in_parliament": 38.3,
-      "voter_turnout": 89.8,
-      "party_institutionalization": 0.85,
-      "govt_effectiveness_idx": 2.02,
+      "women_in_parliament": 43.6,
+      "voter_turnout": 84.16,
+      "party_institutionalization": 0.704,
+      "govt_effectiveness_idx": 1.96,
       "pol_corruption_index": 90
     },
     "SVK": {
-      "women_in_parliament": 39.9,
-      "voter_turnout": 78.2,
-      "party_institutionalization": 0.81,
-      "govt_effectiveness_idx": 1.49,
-      "pol_corruption_index": 50
+      "women_in_parliament": 23.3,
+      "voter_turnout": 61.12,
+      "party_institutionalization": 0.673,
+      "govt_effectiveness_idx": 0.491,
+      "pol_corruption_index": 49
     },
     "CAF": {
-      "women_in_parliament": 16.8,
-      "voter_turnout": 71.5,
-      "party_institutionalization": 0.35,
-      "govt_effectiveness_idx": -0.49,
-      "pol_corruption_index": 26
+      "women_in_parliament": 11.4,
+      "voter_turnout": 52.42,
+      "party_institutionalization": 0.289,
+      "govt_effectiveness_idx": -1.673,
+      "pol_corruption_index": 24
     },
     "FIN": {
-      "women_in_parliament": 38,
-      "voter_turnout": 89.5,
-      "party_institutionalization": 0.84,
-      "govt_effectiveness_idx": 1.77,
-      "pol_corruption_index": 87
+      "women_in_parliament": 45.5,
+      "voter_turnout": 71.55,
+      "party_institutionalization": 0.646,
+      "govt_effectiveness_idx": 1.918,
+      "pol_corruption_index": 88
     },
     "NOR": {
-      "women_in_parliament": 38.8,
-      "voter_turnout": 92.1,
-      "party_institutionalization": 0.91,
-      "govt_effectiveness_idx": 1.8,
-      "pol_corruption_index": 84
+      "women_in_parliament": 40.2,
+      "voter_turnout": 80.12,
+      "party_institutionalization": 0.655,
+      "govt_effectiveness_idx": 1.795,
+      "pol_corruption_index": 81
     },
     "LBR": {
-      "women_in_parliament": 23.2,
-      "voter_turnout": 63.3,
-      "party_institutionalization": 0.44,
-      "govt_effectiveness_idx": -0.11,
-      "pol_corruption_index": 32
+      "women_in_parliament": 11,
+      "voter_turnout": 78.86,
+      "party_institutionalization": 0.469,
+      "govt_effectiveness_idx": -1.41,
+      "pol_corruption_index": 27
     },
     "PSE": {
       "women_in_parliament": 40,
@@ -833,507 +833,507 @@
       "pol_corruption_index": 56
     },
     "NZL": {
-      "women_in_parliament": 42.9,
-      "voter_turnout": 80.4,
-      "party_institutionalization": 0.89,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 85
+      "women_in_parliament": 45.5,
+      "voter_turnout": 78.2,
+      "party_institutionalization": 0.724,
+      "govt_effectiveness_idx": 1.306,
+      "pol_corruption_index": 83
     },
     "CRI": {
-      "women_in_parliament": 33.8,
-      "voter_turnout": 86.6,
-      "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.14,
-      "pol_corruption_index": 56
+      "women_in_parliament": 49.1,
+      "voter_turnout": 59.96,
+      "party_institutionalization": 0.664,
+      "govt_effectiveness_idx": 0.223,
+      "pol_corruption_index": 58
     },
     "IRL": {
-      "women_in_parliament": 48.3,
-      "voter_turnout": 83.7,
-      "party_institutionalization": 0.85,
-      "govt_effectiveness_idx": 1.6,
+      "women_in_parliament": 25.3,
+      "voter_turnout": 45.83,
+      "party_institutionalization": 0.634,
+      "govt_effectiveness_idx": 1.463,
       "pol_corruption_index": 77
     },
     "MRT": {
-      "women_in_parliament": 27.2,
-      "voter_turnout": 68.5,
-      "party_institutionalization": 0.5,
-      "govt_effectiveness_idx": 0.16,
-      "pol_corruption_index": 27
+      "women_in_parliament": 23.3,
+      "voter_turnout": 55.39,
+      "party_institutionalization": 0.52,
+      "govt_effectiveness_idx": -0.776,
+      "pol_corruption_index": 30
     },
     "OMN": {
-      "women_in_parliament": 28.7,
-      "voter_turnout": 83.3,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.36,
-      "pol_corruption_index": 52
+      "women_in_parliament": 0,
+      "voter_turnout": 65.85,
+      "party_institutionalization": 0.383,
+      "govt_effectiveness_idx": -0.155,
+      "pol_corruption_index": 55
     },
     "PAN": {
-      "women_in_parliament": 34.6,
-      "voter_turnout": 87.5,
-      "party_institutionalization": 0.74,
-      "govt_effectiveness_idx": 1.18,
-      "pol_corruption_index": 37
+      "women_in_parliament": 21.7,
+      "voter_turnout": 77.65,
+      "party_institutionalization": 0.526,
+      "govt_effectiveness_idx": 0.124,
+      "pol_corruption_index": 33
     },
     "KWT": {
-      "women_in_parliament": 40.1,
-      "voter_turnout": 78.9,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.11,
-      "pol_corruption_index": 41
+      "women_in_parliament": 1.5,
+      "voter_turnout": 62.1,
+      "party_institutionalization": 0.153,
+      "govt_effectiveness_idx": -0.073,
+      "pol_corruption_index": 46
     },
     "HRV": {
-      "women_in_parliament": 35.1,
-      "voter_turnout": 73.6,
-      "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.16,
-      "pol_corruption_index": 48
+      "women_in_parliament": 33.1,
+      "voter_turnout": 44.18,
+      "party_institutionalization": 0.636,
+      "govt_effectiveness_idx": 0.552,
+      "pol_corruption_index": 47
     },
     "GEO": {
-      "women_in_parliament": 30.3,
-      "voter_turnout": 83.3,
-      "party_institutionalization": 0.75,
-      "govt_effectiveness_idx": 1.2,
-      "pol_corruption_index": 58
-    },
-    "ERI": {
-      "women_in_parliament": 23.4,
-      "voter_turnout": 63.4,
-      "party_institutionalization": 0.45,
-      "govt_effectiveness_idx": -0.09,
-      "pol_corruption_index": 24
-    },
-    "URY": {
-      "women_in_parliament": 32.1,
-      "voter_turnout": 72.9,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.12,
-      "pol_corruption_index": 73
-    },
-    "MNG": {
-      "women_in_parliament": 35.9,
-      "voter_turnout": 73.3,
-      "party_institutionalization": 0.67,
-      "govt_effectiveness_idx": 0.88,
-      "pol_corruption_index": 37
-    },
-    "BIH": {
-      "women_in_parliament": 39.9,
-      "voter_turnout": 75,
-      "party_institutionalization": 0.69,
-      "govt_effectiveness_idx": 0.98,
-      "pol_corruption_index": 38
-    },
-    "QAT": {
-      "women_in_parliament": 44,
-      "voter_turnout": 80.3,
-      "party_institutionalization": 0.75,
-      "govt_effectiveness_idx": 1.25,
-      "pol_corruption_index": 62
-    },
-    "NAM": {
-      "women_in_parliament": 26.6,
-      "voter_turnout": 80.8,
-      "party_institutionalization": 0.57,
-      "govt_effectiveness_idx": 0.46,
+      "women_in_parliament": 16.8,
+      "voter_turnout": 58.73,
+      "party_institutionalization": 0.56,
+      "govt_effectiveness_idx": 0.617,
       "pol_corruption_index": 53
     },
-    "ARM": {
-      "women_in_parliament": 34.4,
-      "voter_turnout": 71.6,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.11,
-      "pol_corruption_index": 35
+    "ERI": {
+      "women_in_parliament": 22,
+      "voter_turnout": 63.4,
+      "party_institutionalization": 0.024,
+      "govt_effectiveness_idx": -1.696,
+      "pol_corruption_index": 13
     },
-    "LTU": {
-      "women_in_parliament": 41,
-      "voter_turnout": 79.3,
+    "URY": {
+      "women_in_parliament": 31.3,
+      "voter_turnout": 89.52,
       "party_institutionalization": 0.76,
-      "govt_effectiveness_idx": 1.26,
+      "govt_effectiveness_idx": 0.8,
+      "pol_corruption_index": 76
+    },
+    "MNG": {
+      "women_in_parliament": 25.4,
+      "voter_turnout": 69.83,
+      "party_institutionalization": 0.42,
+      "govt_effectiveness_idx": -0.515,
+      "pol_corruption_index": 33
+    },
+    "BIH": {
+      "women_in_parliament": 19,
+      "voter_turnout": 51.45,
+      "party_institutionalization": 0.53,
+      "govt_effectiveness_idx": -1.073,
+      "pol_corruption_index": 33
+    },
+    "QAT": {
+      "women_in_parliament": 6.1,
+      "voter_turnout": 63.5,
+      "party_institutionalization": 0.057,
+      "govt_effectiveness_idx": 1.076,
       "pol_corruption_index": 59
     },
+    "NAM": {
+      "women_in_parliament": 42.3,
+      "voter_turnout": 76.86,
+      "party_institutionalization": 0.536,
+      "govt_effectiveness_idx": 0.039,
+      "pol_corruption_index": 49
+    },
+    "ARM": {
+      "women_in_parliament": 38.3,
+      "voter_turnout": 49.41,
+      "party_institutionalization": 0.568,
+      "govt_effectiveness_idx": -0.282,
+      "pol_corruption_index": 47
+    },
+    "LTU": {
+      "women_in_parliament": 28.4,
+      "voter_turnout": 59.95,
+      "party_institutionalization": 0.702,
+      "govt_effectiveness_idx": 1.017,
+      "pol_corruption_index": 63
+    },
     "JAM": {
-      "women_in_parliament": 25.6,
-      "voter_turnout": 79,
-      "party_institutionalization": 0.66,
-      "govt_effectiveness_idx": 0.84,
+      "women_in_parliament": 30.2,
+      "voter_turnout": 39.96,
+      "party_institutionalization": 0.597,
+      "govt_effectiveness_idx": 0.377,
       "pol_corruption_index": 44
     },
     "ALB": {
-      "women_in_parliament": 36.5,
-      "voter_turnout": 87.4,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.1,
-      "pol_corruption_index": 36
+      "women_in_parliament": 35,
+      "voter_turnout": 43.28,
+      "party_institutionalization": 0.559,
+      "govt_effectiveness_idx": -0.036,
+      "pol_corruption_index": 42
     },
     "GMB": {
-      "women_in_parliament": 32.1,
-      "voter_turnout": 70,
-      "party_institutionalization": 0.46,
-      "govt_effectiveness_idx": -0.01,
-      "pol_corruption_index": 37
+      "women_in_parliament": 8.6,
+      "voter_turnout": 51.21,
+      "party_institutionalization": 0.579,
+      "govt_effectiveness_idx": -0.676,
+      "pol_corruption_index": 38
     },
     "GAB": {
-      "women_in_parliament": 28.6,
-      "voter_turnout": 80.3,
-      "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.79,
-      "pol_corruption_index": 31
+      "women_in_parliament": 21.6,
+      "voter_turnout": 70.69,
+      "party_institutionalization": 0.577,
+      "govt_effectiveness_idx": -0.816,
+      "pol_corruption_index": 27
     },
     "BWA": {
-      "women_in_parliament": 27.1,
-      "voter_turnout": 80.6,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.9,
-      "pol_corruption_index": 61
+      "women_in_parliament": 9,
+      "voter_turnout": 81.42,
+      "party_institutionalization": 0.624,
+      "govt_effectiveness_idx": 0.324,
+      "pol_corruption_index": 57
     },
     "LSO": {
-      "women_in_parliament": 22.2,
-      "voter_turnout": 79.5,
-      "party_institutionalization": 0.5,
-      "govt_effectiveness_idx": 0.16,
-      "pol_corruption_index": 41
+      "women_in_parliament": 25,
+      "voter_turnout": 37.44,
+      "party_institutionalization": 0.566,
+      "govt_effectiveness_idx": -0.947,
+      "pol_corruption_index": 37
     },
     "GNB": {
-      "women_in_parliament": 32.9,
-      "voter_turnout": 70.8,
-      "party_institutionalization": 0.4,
-      "govt_effectiveness_idx": -0.27,
-      "pol_corruption_index": 16
+      "women_in_parliament": 13.7,
+      "voter_turnout": 60.73,
+      "party_institutionalization": 0.354,
+      "govt_effectiveness_idx": -1.448,
+      "pol_corruption_index": 21
     },
     "SVN": {
-      "women_in_parliament": 45.4,
-      "voter_turnout": 83.1,
-      "party_institutionalization": 0.84,
-      "govt_effectiveness_idx": 1.6,
+      "women_in_parliament": 35.6,
+      "voter_turnout": 70.97,
+      "party_institutionalization": 0.674,
+      "govt_effectiveness_idx": 1.137,
       "pol_corruption_index": 60
     },
     "GNQ": {
-      "women_in_parliament": 34.7,
-      "voter_turnout": 73.4,
-      "party_institutionalization": 0.52,
-      "govt_effectiveness_idx": 0.25,
-      "pol_corruption_index": 16
+      "women_in_parliament": 31,
+      "voter_turnout": 98.41,
+      "party_institutionalization": 0.126,
+      "govt_effectiveness_idx": -1.184,
+      "pol_corruption_index": 13
     },
     "LVA": {
-      "women_in_parliament": 40.6,
-      "voter_turnout": 77,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.34,
-      "pol_corruption_index": 58
+      "women_in_parliament": 31,
+      "voter_turnout": 59.43,
+      "party_institutionalization": 0.681,
+      "govt_effectiveness_idx": 0.833,
+      "pol_corruption_index": 59
     },
     "MKD": {
-      "women_in_parliament": 30.5,
-      "voter_turnout": 83.7,
-      "party_institutionalization": 0.67,
-      "govt_effectiveness_idx": 0.88,
-      "pol_corruption_index": 62
+      "women_in_parliament": 39.2,
+      "voter_turnout": 55.44,
+      "party_institutionalization": 0.633,
+      "govt_effectiveness_idx": -0.122,
+      "pol_corruption_index": 40
     },
     "BHR": {
-      "women_in_parliament": 33.6,
-      "voter_turnout": 86,
-      "party_institutionalization": 0.74,
-      "govt_effectiveness_idx": 1.21,
-      "pol_corruption_index": 36
+      "women_in_parliament": 20,
+      "voter_turnout": 73,
+      "party_institutionalization": 0.092,
+      "govt_effectiveness_idx": 0.682,
+      "pol_corruption_index": 53
     },
     "TTO": {
-      "women_in_parliament": 40.4,
-      "voter_turnout": 79.4,
-      "party_institutionalization": 0.72,
-      "govt_effectiveness_idx": 1.1,
+      "women_in_parliament": 23.8,
+      "voter_turnout": 53.92,
+      "party_institutionalization": 0.569,
+      "govt_effectiveness_idx": 0.155,
       "pol_corruption_index": 41
     },
     "TLS": {
-      "women_in_parliament": 33.5,
-      "voter_turnout": 73.2,
-      "party_institutionalization": 0.66,
-      "govt_effectiveness_idx": 0.84,
-      "pol_corruption_index": 57
+      "women_in_parliament": 35.4,
+      "voter_turnout": 79.28,
+      "party_institutionalization": 0.505,
+      "govt_effectiveness_idx": -0.754,
+      "pol_corruption_index": 44
     },
     "CYP": {
-      "women_in_parliament": 32.4,
-      "voter_turnout": 86.6,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.36,
-      "pol_corruption_index": 59
+      "women_in_parliament": 14.3,
+      "voter_turnout": 72.45,
+      "party_institutionalization": 0.589,
+      "govt_effectiveness_idx": 0.698,
+      "pol_corruption_index": 56
     },
     "EST": {
-      "women_in_parliament": 32.5,
-      "voter_turnout": 86.6,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.37,
+      "women_in_parliament": 28.7,
+      "voter_turnout": 63.53,
+      "party_institutionalization": 0.642,
+      "govt_effectiveness_idx": 1.343,
       "pol_corruption_index": 76
     },
     "MUS": {
-      "women_in_parliament": 38.7,
-      "voter_turnout": 77.5,
-      "party_institutionalization": 0.7,
-      "govt_effectiveness_idx": 1,
+      "women_in_parliament": 17.9,
+      "voter_turnout": 79.3,
+      "party_institutionalization": 0.57,
+      "govt_effectiveness_idx": 0.814,
       "pol_corruption_index": 51
     },
     "SWZ": {
-      "women_in_parliament": 28.6,
+      "women_in_parliament": 21.6,
       "voter_turnout": 71.3,
-      "party_institutionalization": 0.52,
-      "govt_effectiveness_idx": 0.23,
-      "pol_corruption_index": 47
+      "party_institutionalization": 0.373,
+      "govt_effectiveness_idx": -0.751,
+      "pol_corruption_index": 27
     },
     "DJI": {
-      "women_in_parliament": 33.7,
-      "voter_turnout": 71.4,
-      "party_institutionalization": 0.42,
-      "govt_effectiveness_idx": -0.19,
+      "women_in_parliament": 26.2,
+      "voter_turnout": 74.01,
+      "party_institutionalization": 0.354,
+      "govt_effectiveness_idx": -0.832,
       "pol_corruption_index": 31
     },
     "FJI": {
-      "women_in_parliament": 26.9,
-      "voter_turnout": 80.3,
-      "party_institutionalization": 0.68,
-      "govt_effectiveness_idx": 0.94,
-      "pol_corruption_index": 61
+      "women_in_parliament": 9.1,
+      "voter_turnout": 68.3,
+      "party_institutionalization": 0.402,
+      "govt_effectiveness_idx": 0.66,
+      "pol_corruption_index": 55
     },
     "COM": {
-      "women_in_parliament": 24.6,
-      "voter_turnout": 80.1,
-      "party_institutionalization": 0.49,
-      "govt_effectiveness_idx": 0.09,
-      "pol_corruption_index": 27
+      "women_in_parliament": 18.2,
+      "voter_turnout": 66.27,
+      "party_institutionalization": 0.536,
+      "govt_effectiveness_idx": -1.814,
+      "pol_corruption_index": 21
     },
     "GUY": {
-      "women_in_parliament": 33.9,
-      "voter_turnout": 74,
-      "party_institutionalization": 0.58,
-      "govt_effectiveness_idx": 0.49,
-      "pol_corruption_index": 37
+      "women_in_parliament": 36.1,
+      "voter_turnout": 58.41,
+      "party_institutionalization": 0.536,
+      "govt_effectiveness_idx": -0.261,
+      "pol_corruption_index": 39
     },
     "BTN": {
-      "women_in_parliament": 33.4,
-      "voter_turnout": 71.9,
-      "party_institutionalization": 0.58,
-      "govt_effectiveness_idx": 0.51,
-      "pol_corruption_index": 68
+      "women_in_parliament": 4.3,
+      "voter_turnout": 65.6,
+      "party_institutionalization": 0.591,
+      "govt_effectiveness_idx": 0.711,
+      "pol_corruption_index": 72
     },
     "SLB": {
-      "women_in_parliament": 28.1,
-      "voter_turnout": 67.2,
-      "party_institutionalization": 0.48,
-      "govt_effectiveness_idx": 0.07,
-      "pol_corruption_index": 44
-    },
-    "LUX": {
-      "women_in_parliament": 47.4,
-      "voter_turnout": 85.1,
-      "party_institutionalization": 0.88,
-      "govt_effectiveness_idx": 1.91,
-      "pol_corruption_index": 78
-    },
-    "MNE": {
-      "women_in_parliament": 36.5,
-      "voter_turnout": 73.2,
-      "party_institutionalization": 0.78,
-      "govt_effectiveness_idx": 1.33,
-      "pol_corruption_index": 45
-    },
-    "SUR": {
-      "women_in_parliament": 41.2,
-      "voter_turnout": 80.7,
-      "party_institutionalization": 0.63,
-      "govt_effectiveness_idx": 0.74,
+      "women_in_parliament": 6,
+      "voter_turnout": 82.35,
+      "party_institutionalization": 0.514,
+      "govt_effectiveness_idx": -0.838,
       "pol_corruption_index": 43
     },
+    "LUX": {
+      "women_in_parliament": 35,
+      "voter_turnout": 87.18,
+      "party_institutionalization": 0.646,
+      "govt_effectiveness_idx": 1.677,
+      "pol_corruption_index": 81
+    },
+    "MNE": {
+      "women_in_parliament": 27.2,
+      "voter_turnout": 70.14,
+      "party_institutionalization": 0.526,
+      "govt_effectiveness_idx": -0.03,
+      "pol_corruption_index": 46
+    },
+    "SUR": {
+      "women_in_parliament": 31.4,
+      "voter_turnout": 69.36,
+      "party_institutionalization": 0.575,
+      "govt_effectiveness_idx": -0.681,
+      "pol_corruption_index": 40
+    },
     "CPV": {
-      "women_in_parliament": 41.5,
-      "voter_turnout": 79.2,
-      "party_institutionalization": 0.66,
-      "govt_effectiveness_idx": 0.84,
-      "pol_corruption_index": 57
+      "women_in_parliament": 44.4,
+      "voter_turnout": 57.46,
+      "party_institutionalization": 0.551,
+      "govt_effectiveness_idx": 0.002,
+      "pol_corruption_index": 62
     },
     "MDV": {
-      "women_in_parliament": 40.1,
-      "voter_turnout": 77.6,
-      "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.78,
-      "pol_corruption_index": 31
+      "women_in_parliament": 3.2,
+      "voter_turnout": 73.91,
+      "party_institutionalization": 0.482,
+      "govt_effectiveness_idx": 0.439,
+      "pol_corruption_index": 38
     },
     "MLT": {
-      "women_in_parliament": 33.7,
-      "voter_turnout": 87.8,
-      "party_institutionalization": 0.8,
-      "govt_effectiveness_idx": 1.46,
-      "pol_corruption_index": 54
+      "women_in_parliament": 29.1,
+      "voter_turnout": 85.63,
+      "party_institutionalization": 0.673,
+      "govt_effectiveness_idx": 0.853,
+      "pol_corruption_index": 46
     },
     "BRN": {
-      "women_in_parliament": 39.9,
+      "women_in_parliament": 11.4,
       "voter_turnout": 76.2,
       "party_institutionalization": 0.77,
-      "govt_effectiveness_idx": 1.3,
-      "pol_corruption_index": 63
+      "govt_effectiveness_idx": 1.407,
+      "pol_corruption_index": 60
     },
     "BLZ": {
-      "women_in_parliament": 40.8,
-      "voter_turnout": 78.4,
+      "women_in_parliament": 12.5,
+      "voter_turnout": 81.86,
       "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.81,
+      "govt_effectiveness_idx": -0.527,
       "pol_corruption_index": 58
     },
     "BHS": {
-      "women_in_parliament": 33.2,
-      "voter_turnout": 86,
+      "women_in_parliament": 18.4,
+      "voter_turnout": 65,
       "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.13,
+      "govt_effectiveness_idx": 0.42,
       "pol_corruption_index": 65
     },
     "ISL": {
-      "women_in_parliament": 49.6,
-      "voter_turnout": 84.9,
-      "party_institutionalization": 0.87,
-      "govt_effectiveness_idx": 1.6,
-      "pol_corruption_index": 76
+      "women_in_parliament": 46,
+      "voter_turnout": 80.78,
+      "party_institutionalization": 0.687,
+      "govt_effectiveness_idx": 1.594,
+      "pol_corruption_index": 77
     },
     "VUT": {
-      "women_in_parliament": 24.1,
-      "voter_turnout": 82.7,
-      "party_institutionalization": 0.53,
-      "govt_effectiveness_idx": 0.29,
-      "pol_corruption_index": 46
+      "women_in_parliament": 1.9,
+      "voter_turnout": 69.09,
+      "party_institutionalization": 0.556,
+      "govt_effectiveness_idx": -0.551,
+      "pol_corruption_index": 50
     },
     "BRB": {
-      "women_in_parliament": 44,
-      "voter_turnout": 78.8,
-      "party_institutionalization": 0.76,
-      "govt_effectiveness_idx": 1.28,
+      "women_in_parliament": 26.7,
+      "voter_turnout": 41.73,
+      "party_institutionalization": 0.303,
+      "govt_effectiveness_idx": 0.498,
       "pol_corruption_index": 68
     },
     "STP": {
-      "women_in_parliament": 33.6,
-      "voter_turnout": 74.3,
-      "party_institutionalization": 0.55,
-      "govt_effectiveness_idx": 0.36,
-      "pol_corruption_index": 46
+      "women_in_parliament": 14.5,
+      "voter_turnout": 65.67,
+      "party_institutionalization": 0.562,
+      "govt_effectiveness_idx": -0.761,
+      "pol_corruption_index": 45
     },
     "WSM": {
-      "women_in_parliament": 38,
-      "voter_turnout": 77.5,
+      "women_in_parliament": 9.8,
+      "voter_turnout": 69.47,
       "party_institutionalization": 0.66,
-      "govt_effectiveness_idx": 0.83,
+      "govt_effectiveness_idx": 0.38,
       "pol_corruption_index": 58
     },
     "LCA": {
-      "women_in_parliament": 36.1,
-      "voter_turnout": 71.4,
+      "women_in_parliament": 10.5,
+      "voter_turnout": 51.08,
       "party_institutionalization": 0.7,
-      "govt_effectiveness_idx": 1.02,
-      "pol_corruption_index": 55
+      "govt_effectiveness_idx": -0.12,
+      "pol_corruption_index": 59
     },
     "KIR": {
-      "women_in_parliament": 35.4,
-      "voter_turnout": 73.9,
+      "women_in_parliament": 11.1,
+      "voter_turnout": 75.67,
       "party_institutionalization": 0.54,
-      "govt_effectiveness_idx": 0.33,
+      "govt_effectiveness_idx": 0.094,
       "pol_corruption_index": 49
     },
     "GRD": {
-      "women_in_parliament": 32,
-      "voter_turnout": 85.1,
+      "women_in_parliament": 31.3,
+      "voter_turnout": 70.32,
       "party_institutionalization": 0.69,
-      "govt_effectiveness_idx": 0.99,
-      "pol_corruption_index": 52
+      "govt_effectiveness_idx": 0.02,
+      "pol_corruption_index": 56
     },
     "VCT": {
-      "women_in_parliament": 28.3,
-      "voter_turnout": 83.8,
+      "women_in_parliament": 13.3,
+      "voter_turnout": 66.95,
       "party_institutionalization": 0.67,
-      "govt_effectiveness_idx": 0.87,
-      "pol_corruption_index": 58
+      "govt_effectiveness_idx": 0.306,
+      "pol_corruption_index": 63
     },
     "FSM": {
-      "women_in_parliament": 38.5,
+      "women_in_parliament": 21.4,
       "voter_turnout": 76.2,
       "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.66,
+      "govt_effectiveness_idx": 0.305,
       "pol_corruption_index": 57
     },
     "SYC": {
-      "women_in_parliament": 32.9,
-      "voter_turnout": 87.7,
-      "party_institutionalization": 0.76,
-      "govt_effectiveness_idx": 1.27,
-      "pol_corruption_index": 66
+      "women_in_parliament": 26.5,
+      "voter_turnout": 84.09,
+      "party_institutionalization": 0.29,
+      "govt_effectiveness_idx": 0.9,
+      "pol_corruption_index": 72
     },
     "ATG": {
-      "women_in_parliament": 31.3,
-      "voter_turnout": 84.3,
+      "women_in_parliament": 5.6,
+      "voter_turnout": 70.34,
       "party_institutionalization": 0.69,
-      "govt_effectiveness_idx": 0.96,
+      "govt_effectiveness_idx": -0.194,
       "pol_corruption_index": 64
     },
     "AND": {
-      "women_in_parliament": 43,
-      "voter_turnout": 77.3,
+      "women_in_parliament": 50,
+      "voter_turnout": 68.33,
       "party_institutionalization": 0.77,
-      "govt_effectiveness_idx": 1.32,
+      "govt_effectiveness_idx": 1.749,
       "pol_corruption_index": 71
     },
     "DMA": {
-      "women_in_parliament": 37,
-      "voter_turnout": 72.6,
+      "women_in_parliament": 40.6,
+      "voter_turnout": 31.6,
       "party_institutionalization": 0.63,
-      "govt_effectiveness_idx": 0.72,
-      "pol_corruption_index": 57
+      "govt_effectiveness_idx": -0.12,
+      "pol_corruption_index": 60
     },
     "MHL": {
-      "women_in_parliament": 33.8,
-      "voter_turnout": 71.4,
+      "women_in_parliament": 12.1,
+      "voter_turnout": 37.84,
       "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.69,
+      "govt_effectiveness_idx": 0.022,
       "pol_corruption_index": 58
     },
     "KNA": {
-      "women_in_parliament": 29.2,
-      "voter_turnout": 82.2,
+      "women_in_parliament": 31.3,
+      "voter_turnout": 58.41,
       "party_institutionalization": 0.73,
-      "govt_effectiveness_idx": 1.14,
+      "govt_effectiveness_idx": 0.361,
       "pol_corruption_index": 64
     },
     "MCO": {
-      "women_in_parliament": 31.5,
-      "voter_turnout": 85.2,
+      "women_in_parliament": 45.8,
+      "voter_turnout": 57.26,
       "party_institutionalization": 0.66,
-      "govt_effectiveness_idx": 0.84,
+      "govt_effectiveness_idx": 2.026,
       "pol_corruption_index": 57
     },
     "LIE": {
-      "women_in_parliament": 34.1,
-      "voter_turnout": 85.8,
+      "women_in_parliament": 32,
+      "voter_turnout": 78.01,
       "party_institutionalization": 0.85,
-      "govt_effectiveness_idx": 1.6,
+      "govt_effectiveness_idx": 1.465,
       "pol_corruption_index": 76
     },
     "SMR": {
-      "women_in_parliament": 32.5,
-      "voter_turnout": 72.2,
+      "women_in_parliament": 35,
+      "voter_turnout": 55.73,
       "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.78,
+      "govt_effectiveness_idx": 1.749,
       "pol_corruption_index": 57
     },
     "PLW": {
-      "women_in_parliament": 36.9,
-      "voter_turnout": 75.7,
+      "women_in_parliament": 25,
+      "voter_turnout": 60.9,
       "party_institutionalization": 0.75,
-      "govt_effectiveness_idx": 1.21,
+      "govt_effectiveness_idx": 0.366,
       "pol_corruption_index": 66
     },
     "NRU": {
-      "women_in_parliament": 35.5,
-      "voter_turnout": 75.2,
+      "women_in_parliament": 10.5,
+      "voter_turnout": 97.09,
       "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.66,
+      "govt_effectiveness_idx": 0.091,
       "pol_corruption_index": 57
     },
     "TUV": {
-      "women_in_parliament": 27.5,
+      "women_in_parliament": 0,
       "voter_turnout": 85.2,
       "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.66,
+      "govt_effectiveness_idx": -0.405,
       "pol_corruption_index": 57
     },
     "VAT": {
@@ -1344,53 +1344,53 @@
       "pol_corruption_index": 57
     },
     "BFA": {
-      "women_in_parliament": 17.8,
-      "voter_turnout": 72,
-      "party_institutionalization": 0.39,
-      "govt_effectiveness_idx": -0.33,
+      "women_in_parliament": 18.3,
+      "voter_turnout": 50.7,
+      "party_institutionalization": 0.48,
+      "govt_effectiveness_idx": -0.765,
       "pol_corruption_index": 41
     },
     "KHM": {
-      "women_in_parliament": 28.4,
-      "voter_turnout": 67.1,
-      "party_institutionalization": 0.57,
-      "govt_effectiveness_idx": 0.45,
-      "pol_corruption_index": 20
+      "women_in_parliament": 13.6,
+      "voter_turnout": 84.59,
+      "party_institutionalization": 0.385,
+      "govt_effectiveness_idx": -0.475,
+      "pol_corruption_index": 21
     },
     "LBN": {
-      "women_in_parliament": 30.5,
-      "voter_turnout": 83.7,
-      "party_institutionalization": 0.67,
-      "govt_effectiveness_idx": 0.88,
-      "pol_corruption_index": 28
+      "women_in_parliament": 6.3,
+      "voter_turnout": 49.19,
+      "party_institutionalization": 0.444,
+      "govt_effectiveness_idx": -1.312,
+      "pol_corruption_index": 22
     },
     "MWI": {
-      "women_in_parliament": 19.7,
-      "voter_turnout": 77.4,
-      "party_institutionalization": 0.45,
-      "govt_effectiveness_idx": -0.07,
-      "pol_corruption_index": 32
+      "women_in_parliament": 21.4,
+      "voter_turnout": 76.4,
+      "party_institutionalization": 0.621,
+      "govt_effectiveness_idx": -0.792,
+      "pol_corruption_index": 34
     },
     "MDA": {
-      "women_in_parliament": 36.5,
-      "voter_turnout": 72.2,
-      "party_institutionalization": 0.62,
-      "govt_effectiveness_idx": 0.66,
-      "pol_corruption_index": 33
+      "women_in_parliament": 39.6,
+      "voter_turnout": 52.21,
+      "party_institutionalization": 0.664,
+      "govt_effectiveness_idx": -0.438,
+      "pol_corruption_index": 43
     },
     "TON": {
-      "women_in_parliament": 32.4,
-      "voter_turnout": 71.9,
+      "women_in_parliament": 3.8,
+      "voter_turnout": 61.92,
       "party_institutionalization": 0.65,
-      "govt_effectiveness_idx": 0.82,
+      "govt_effectiveness_idx": 0.307,
       "pol_corruption_index": 59
     },
     "XKX": {
       "women_in_parliament": 41.5,
-      "voter_turnout": 81.2,
+      "voter_turnout": 47.46,
       "party_institutionalization": 0.63,
       "govt_effectiveness_idx": 0.72,
-      "pol_corruption_index": 37
+      "pol_corruption_index": 44
     }
   }
 }

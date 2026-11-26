@@ -28,8 +28,8 @@
     {
       "id": "03_environment",
       "path": "datasets/03_environment.json",
-      "sizeBytes": 85332,
-      "sha256": "d8a49c2bc849472fb77c446ca90e095430c80be605bee5cf5fcb347f3b26dcee",
+      "sizeBytes": 86590,
+      "sha256": "e4b28d770744c83752796eabf69eb01fdeb09c57d690e9e2be4fd11a749d2559",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -37,8 +37,8 @@
     {
       "id": "04_health",
       "path": "datasets/04_health.json",
-      "sizeBytes": 86089,
-      "sha256": "63e1c93373f9cc1176a09a82eda82316a2dde23171144fef72e3d8fb9a182e77",
+      "sizeBytes": 86219,
+      "sha256": "e3e2f581c082b12d9876cace8b81bba8cb5db65910bc13563295e8d33d1f9a00",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -46,8 +46,8 @@
     {
       "id": "05_education",
       "path": "datasets/05_education.json",
-      "sizeBytes": 89360,
-      "sha256": "ea388b3bb615ac753b10e0b9f140e0f56734af7712f30206b13001d9c065004e",
+      "sizeBytes": 91062,
+      "sha256": "f67a08bc80101a4436ee993773ef51d75ec120824788186591a789c1d41dc5a8",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -55,8 +55,8 @@
     {
       "id": "06_technology",
       "path": "datasets/06_technology.json",
-      "sizeBytes": 87971,
-      "sha256": "a3514976a87968b47456fcd19310668a77b0c261ad1b2213a0359662b36faf3a",
+      "sizeBytes": 87843,
+      "sha256": "a29fb16ebf03edc7c165cd678a77547701483d10196bacdb5a19d6fe9f451cdd",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -64,8 +64,8 @@
     {
       "id": "07_military",
       "path": "datasets/07_military.json",
-      "sizeBytes": 88267,
-      "sha256": "2cdcad51049cbbe1d6c1e2136781a9c1632cefbea0c1549f891820d223c1225a",
+      "sizeBytes": 87905,
+      "sha256": "95b714bb8524713a2af5f8aeaa8343b407a8b36d4209316fcb23a7ac1c371651",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -73,8 +73,8 @@
     {
       "id": "08_global_indices",
       "path": "datasets/08_global_indices.json",
-      "sizeBytes": 390587,
-      "sha256": "09f39002a76ac019826dcd2e4bd40d4bb8df0144cfc88500390cde346913ceae",
+      "sizeBytes": 392539,
+      "sha256": "61a909bf60f7c90b9177eef62fca5dc527501023ab9e08c7d31d216e17c24fc5",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 57
@@ -91,8 +91,8 @@
     {
       "id": "10_tourism",
       "path": "datasets/10_tourism.json",
-      "sizeBytes": 17355,
-      "sha256": "6029633cc0abad461ee9c8e3379bfddaf7dde5893795ba49c21b878f812190b1",
+      "sizeBytes": 17401,
+      "sha256": "10c7b1ef08b810712a23c4b4b9814d82e9fb47cbf2a11808da87f37f71b9c28f",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 2
@@ -109,8 +109,8 @@
     {
       "id": "12_agriculture",
       "path": "datasets/12_agriculture.json",
-      "sizeBytes": 55607,
-      "sha256": "c2c1b414830ccae3abaef96894508777a3ec4fe69a83c247455a823f11ee7512",
+      "sizeBytes": 56923,
+      "sha256": "e72ca9ad6d7cdc9487a19973dc0c1b1475b420589e52ec3fa113757160c833d4",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 7
@@ -118,8 +118,8 @@
     {
       "id": "13_politics",
       "path": "datasets/13_politics.json",
-      "sizeBytes": 39160,
-      "sha256": "27a39676efe10ddf5d4290074755fd9d0f4a17ee7b227245829ff471d7cd7518",
+      "sizeBytes": 39720,
+      "sha256": "f726b1b25c7eb3391addb039b61ddba62d5245602d419fe0c16dc9321069c7f7",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 5
@@ -127,8 +127,8 @@
     {
       "id": "14_infrastructure",
       "path": "datasets/14_infrastructure.json",
-      "sizeBytes": 74872,
-      "sha256": "608c6e60b751bc149ec1ad678e29c57969193ffbd16a3a4af33c4d587a9ebb8c",
+      "sizeBytes": 74841,
+      "sha256": "9f1ae90ef3683433115043e10769a8a5f34884afe6aea5756db88834e8460374",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 10
@@ -136,8 +136,8 @@
     {
       "id": "15_climate",
       "path": "datasets/15_climate.json",
-      "sizeBytes": 105876,
-      "sha256": "29490d8b9b624d2a41380307843d766a675913cad2f728e6d72a0026cbe0713e",
+      "sizeBytes": 106376,
+      "sha256": "c543d33e6b5ca28d9ad5c80c3536af284ea5f759a611b822c753cac5f541ce6a",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 14
@@ -145,8 +145,8 @@
     {
       "id": "16_employment",
       "path": "datasets/16_employment.json",
-      "sizeBytes": 113448,
-      "sha256": "7c18676423e34f46b8081309de5861bbf700fd4558579ed4e2e011dcc6157b2b",
+      "sizeBytes": 114328,
+      "sha256": "efa5d964e3b0d7f60e0632c3d94adcd8e487bb313e30cc123a1470adbda7b67d",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 15
@@ -154,8 +154,8 @@
     {
       "id": "17_science",
       "path": "datasets/17_science.json",
-      "sizeBytes": 113007,
-      "sha256": "f8dbcb677c463c6dfffdad2607c2ca12bcf5227808f87569d6ee51ad9fe7dcee",
+      "sizeBytes": 112992,
+      "sha256": "022db775f2ac949022d706bb9a5923f1f3f58b50bbcf79cc93b67b56ad301c2b",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 15
@@ -163,8 +163,8 @@
     {
       "id": "18_sports",
       "path": "datasets/18_sports.json",
-      "sizeBytes": 105812,
-      "sha256": "69b5486ded2b231dbfdc27061e444af6f6173e86364af3897e6fdaeb36a06f48",
+      "sizeBytes": 106075,
+      "sha256": "f13ed854a7a1d1e207b8c09b6216f15c7865b34de3a4a7baaa93ecf6d6de10af",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 15
@@ -172,8 +172,8 @@
     {
       "id": "19_city_rankings",
       "path": "datasets/19_city_rankings.json",
-      "sizeBytes": 110572,
-      "sha256": "cdce5369fc8cc6d40481a74f87b3b045e5be5696efb3afc8bb50917b5fbf9902",
+      "sizeBytes": 110417,
+      "sha256": "340685efdd2c2b537bfe13a0cee26656fa2187cd2a60a9d5bde74acebb4c5792",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 15
@@ -181,8 +181,8 @@
     {
       "id": "20_un_sdg_goals",
       "path": "datasets/20_un_sdg_goals.json",
-      "sizeBytes": 97443,
-      "sha256": "0e29b4c704342120301597298e409f15cdf7e7a76bbf0d9ada6425e27994faa3",
+      "sizeBytes": 100552,
+      "sha256": "639515290e50c12de186992ae5bad72a102494f998f28f99124e8fe2f01a7043",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 17
@@ -190,8 +190,8 @@
     {
       "id": "historical_trends",
       "path": "datasets/historical_trends.json",
-      "sizeBytes": 324588,
-      "sha256": "b1852146f879db76ab4129ac0bd495689c26f70043d5e6a903d4b9ca59d0eb2e",
+      "sizeBytes": 324620,
+      "sha256": "fa81b109b35cd2b740f25b8ed2a44e204c7da2ea616a5e0a03a806fecdb0e9b8",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 11
