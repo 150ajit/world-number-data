@@ -37,8 +37,8 @@
     {
       "id": "04_health",
       "path": "datasets/04_health.json",
-      "sizeBytes": 85968,
-      "sha256": "aa2eebae4badd72f6b9b3d2ff0013c550ab93ca267c438c98bdeffdfc18857f3",
+      "sizeBytes": 86089,
+      "sha256": "63e1c93373f9cc1176a09a82eda82316a2dde23171144fef72e3d8fb9a182e77",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 12
@@ -109,8 +109,8 @@
     {
       "id": "12_agriculture",
       "path": "datasets/12_agriculture.json",
-      "sizeBytes": 55608,
-      "sha256": "850279106e35f5b13e4e7a5ae5036ab5cefaa93d8691707e0fd4f6c36369bc09",
+      "sizeBytes": 55607,
+      "sha256": "c2c1b414830ccae3abaef96894508777a3ec4fe69a83c247455a823f11ee7512",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
       "indicatorsCount": 7
