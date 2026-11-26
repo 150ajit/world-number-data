@@ -17,7 +17,7 @@
       "fih_world_ranking": 4,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 28,
+      "sport_diversity_index": 19,
       "guinness_records_held": 650,
       "adult_physical_activity_pct": 71,
       "major_stadiums_count": 34,
@@ -68,10 +68,10 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 17,
-      "guinness_records_held": 1417,
+      "sport_diversity_index": 15,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 73,
-      "major_stadiums_count": 113,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "PAK": {
@@ -85,10 +85,10 @@
       "fih_world_ranking": 71,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 1256,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 261,
       "adult_physical_activity_pct": 69.1,
-      "major_stadiums_count": 101,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "NGA": {
@@ -102,10 +102,10 @@
       "fih_world_ranking": 70,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 1163,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 218,
       "adult_physical_activity_pct": 72.3,
-      "major_stadiums_count": 93,
+      "major_stadiums_count": 23,
       "world_cup_titles_total": 0
     },
     "BRA": {
@@ -119,8 +119,8 @@
       "fih_world_ranking": 61,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 23,
-      "guinness_records_held": 1060,
+      "sport_diversity_index": 15,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 77.3,
       "major_stadiums_count": 38,
       "world_cup_titles_total": 5
@@ -136,10 +136,10 @@
       "fih_world_ranking": 65,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 868,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 229,
       "adult_physical_activity_pct": 75.8,
-      "major_stadiums_count": 69,
+      "major_stadiums_count": 21,
       "world_cup_titles_total": 0
     },
     "RUS": {
@@ -153,10 +153,10 @@
       "fih_world_ranking": 58,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 250,
-      "sport_diversity_index": 22,
-      "guinness_records_held": 724,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 80,
-      "major_stadiums_count": 58,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "ETH": {
@@ -171,9 +171,9 @@
       "world_athletics_records": 9,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 660,
+      "guinness_records_held": 129,
       "adult_physical_activity_pct": 63.8,
-      "major_stadiums_count": 53,
+      "major_stadiums_count": 13,
       "world_cup_titles_total": 0
     },
     "MEX": {
@@ -187,10 +187,10 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 21,
-      "guinness_records_held": 654,
+      "sport_diversity_index": 15,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 71.9,
-      "major_stadiums_count": 52,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "JPN": {
@@ -204,10 +204,10 @@
       "fih_world_ranking": 54,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 28,
+      "sport_diversity_index": 19,
       "guinness_records_held": 420,
       "adult_physical_activity_pct": 82.8,
-      "major_stadiums_count": 50,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "PHL": {
@@ -221,10 +221,10 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 596,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 197,
       "adult_physical_activity_pct": 72.9,
-      "major_stadiums_count": 48,
+      "major_stadiums_count": 17,
       "world_cup_titles_total": 0
     },
     "EGY": {
@@ -238,10 +238,10 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 583,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 165,
       "adult_physical_activity_pct": 74.4,
-      "major_stadiums_count": 47,
+      "major_stadiums_count": 15,
       "world_cup_titles_total": 0
     },
     "COD": {
@@ -255,10 +255,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 546,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 89,
       "adult_physical_activity_pct": 76.6,
-      "major_stadiums_count": 44,
+      "major_stadiums_count": 10,
       "world_cup_titles_total": 0
     },
     "VNM": {
@@ -272,10 +272,10 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 505,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 184,
       "adult_physical_activity_pct": 77.3,
-      "major_stadiums_count": 40,
+      "major_stadiums_count": 15,
       "world_cup_titles_total": 0
     },
     "IRN": {
@@ -290,9 +290,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 12,
-      "guinness_records_held": 458,
+      "guinness_records_held": 177,
       "adult_physical_activity_pct": 80.3,
-      "major_stadiums_count": 37,
+      "major_stadiums_count": 15,
       "world_cup_titles_total": 0
     },
     "TUR": {
@@ -306,10 +306,10 @@
       "fih_world_ranking": 57,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 17,
-      "guinness_records_held": 437,
+      "sport_diversity_index": 15,
+      "guinness_records_held": 337,
       "adult_physical_activity_pct": 81.9,
-      "major_stadiums_count": 35,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "DEU": {
@@ -323,8 +323,8 @@
       "fih_world_ranking": 5,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 230,
-      "sport_diversity_index": 28,
-      "guinness_records_held": 423,
+      "sport_diversity_index": 23,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 82.6,
       "major_stadiums_count": 26,
       "world_cup_titles_total": 4
@@ -340,10 +340,10 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 13,
-      "guinness_records_held": 358,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 185,
       "adult_physical_activity_pct": 77.5,
-      "major_stadiums_count": 29,
+      "major_stadiums_count": 14,
       "world_cup_titles_total": 0
     },
     "GBR": {
@@ -357,7 +357,7 @@
       "fih_world_ranking": 6,
       "world_athletics_records": 6,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 28,
+      "sport_diversity_index": 21,
       "guinness_records_held": 980,
       "adult_physical_activity_pct": 79.3,
       "major_stadiums_count": 28,
@@ -374,10 +374,10 @@
       "fih_world_ranking": 71,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 343,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 65,
       "adult_physical_activity_pct": 70.1,
-      "major_stadiums_count": 27,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "FRA": {
@@ -391,10 +391,10 @@
       "fih_world_ranking": 54,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 28,
-      "guinness_records_held": 333,
+      "sport_diversity_index": 18,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 76.5,
-      "major_stadiums_count": 27,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 2
     },
     "ZAF": {
@@ -408,10 +408,10 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 320,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 136,
       "adult_physical_activity_pct": 70.1,
-      "major_stadiums_count": 26,
+      "major_stadiums_count": 11,
       "world_cup_titles_total": 4
     },
     "ITA": {
@@ -425,8 +425,8 @@
       "fih_world_ranking": 54,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 140,
-      "sport_diversity_index": 25,
-      "guinness_records_held": 297,
+      "sport_diversity_index": 18,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 81.4,
       "major_stadiums_count": 24,
       "world_cup_titles_total": 4
@@ -442,10 +442,10 @@
       "fih_world_ranking": 68,
       "world_athletics_records": 14,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 281,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 64,
       "adult_physical_activity_pct": 72.5,
-      "major_stadiums_count": 22,
+      "major_stadiums_count": 6,
       "world_cup_titles_total": 0
     },
     "MMR": {
@@ -460,9 +460,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 273,
+      "guinness_records_held": 53,
       "adult_physical_activity_pct": 68.2,
-      "major_stadiums_count": 22,
+      "major_stadiums_count": 6,
       "world_cup_titles_total": 0
     },
     "COL": {
@@ -476,10 +476,10 @@
       "fih_world_ranking": 61,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 263,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 132,
       "adult_physical_activity_pct": 77.2,
-      "major_stadiums_count": 21,
+      "major_stadiums_count": 10,
       "world_cup_titles_total": 0
     },
     "KOR": {
@@ -493,10 +493,10 @@
       "fih_world_ranking": 53,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 22,
-      "guinness_records_held": 259,
+      "sport_diversity_index": 15,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 78,
-      "major_stadiums_count": 21,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "UGA": {
@@ -510,10 +510,10 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 250,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 46,
       "adult_physical_activity_pct": 69.4,
-      "major_stadiums_count": 20,
+      "major_stadiums_count": 5,
       "world_cup_titles_total": 0
     },
     "SDN": {
@@ -528,9 +528,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 247,
+      "guinness_records_held": 60,
       "adult_physical_activity_pct": 68.1,
-      "major_stadiums_count": 20,
+      "major_stadiums_count": 6,
       "world_cup_titles_total": 0
     },
     "ESP": {
@@ -544,10 +544,10 @@
       "fih_world_ranking": 8,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 21,
-      "guinness_records_held": 240,
+      "sport_diversity_index": 14,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 82.5,
-      "major_stadiums_count": 19,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 1
     },
     "ARG": {
@@ -561,10 +561,10 @@
       "fih_world_ranking": 7,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 14,
-      "guinness_records_held": 230,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 182,
       "adult_physical_activity_pct": 75.8,
-      "major_stadiums_count": 18,
+      "major_stadiums_count": 13,
       "world_cup_titles_total": 3
     },
     "DZA": {
@@ -578,10 +578,10 @@
       "fih_world_ranking": 61,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 231,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 91,
       "adult_physical_activity_pct": 78.1,
-      "major_stadiums_count": 18,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "IRQ": {
@@ -595,10 +595,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 230,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 97,
       "adult_physical_activity_pct": 71.2,
-      "major_stadiums_count": 18,
+      "major_stadiums_count": 8,
       "world_cup_titles_total": 0
     },
     "AFG": {
@@ -612,10 +612,10 @@
       "fih_world_ranking": 73,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 213,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 32,
       "adult_physical_activity_pct": 71.9,
-      "major_stadiums_count": 17,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "POL": {
@@ -629,8 +629,8 @@
       "fih_world_ranking": 55,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 16,
-      "guinness_records_held": 200,
+      "sport_diversity_index": 15,
+      "guinness_records_held": 238,
       "adult_physical_activity_pct": 75.7,
       "major_stadiums_count": 16,
       "world_cup_titles_total": 0
@@ -646,10 +646,10 @@
       "fih_world_ranking": 53,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 25,
-      "guinness_records_held": 199,
+      "sport_diversity_index": 18,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 79.2,
-      "major_stadiums_count": 16,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 0
     },
     "MAR": {
@@ -664,9 +664,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 190,
+      "guinness_records_held": 61,
       "adult_physical_activity_pct": 77.5,
-      "major_stadiums_count": 15,
+      "major_stadiums_count": 5,
       "world_cup_titles_total": 0
     },
     "SAU": {
@@ -680,10 +680,10 @@
       "fih_world_ranking": 56,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 17,
-      "guinness_records_held": 187,
+      "sport_diversity_index": 14,
+      "guinness_records_held": 302,
       "adult_physical_activity_pct": 82.5,
-      "major_stadiums_count": 15,
+      "major_stadiums_count": 20,
       "world_cup_titles_total": 0
     },
     "UKR": {
@@ -697,10 +697,10 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 185,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 72,
       "adult_physical_activity_pct": 78.6,
-      "major_stadiums_count": 15,
+      "major_stadiums_count": 6,
       "world_cup_titles_total": 0
     },
     "AGO": {
@@ -714,10 +714,10 @@
       "fih_world_ranking": 69,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 189,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 46,
       "adult_physical_activity_pct": 74.3,
-      "major_stadiums_count": 15,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "UZB": {
@@ -731,10 +731,10 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 182,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 47,
       "adult_physical_activity_pct": 76.9,
-      "major_stadiums_count": 15,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "YEM": {
@@ -748,10 +748,10 @@
       "fih_world_ranking": 75,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 177,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 29,
       "adult_physical_activity_pct": 63.7,
-      "major_stadiums_count": 14,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "PER": {
@@ -765,10 +765,10 @@
       "fih_world_ranking": 61,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 173,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 94,
       "adult_physical_activity_pct": 77,
-      "major_stadiums_count": 14,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "MYS": {
@@ -783,9 +783,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 12,
-      "guinness_records_held": 173,
+      "guinness_records_held": 135,
       "adult_physical_activity_pct": 78.6,
-      "major_stadiums_count": 14,
+      "major_stadiums_count": 10,
       "world_cup_titles_total": 0
     },
     "GHA": {
@@ -799,10 +799,10 @@
       "fih_world_ranking": 68,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 174,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 42,
       "adult_physical_activity_pct": 67.6,
-      "major_stadiums_count": 14,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "MOZ": {
@@ -816,10 +816,10 @@
       "fih_world_ranking": 75,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 173,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 28,
       "adult_physical_activity_pct": 65.2,
-      "major_stadiums_count": 14,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "NPL": {
@@ -833,10 +833,10 @@
       "fih_world_ranking": 69,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 156,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 31,
       "adult_physical_activity_pct": 66.1,
-      "major_stadiums_count": 12,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "MDG": {
@@ -851,9 +851,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 6,
-      "guinness_records_held": 155,
+      "guinness_records_held": 25,
       "adult_physical_activity_pct": 64.5,
-      "major_stadiums_count": 12,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "CIV": {
@@ -867,10 +867,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 156,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 40,
       "adult_physical_activity_pct": 70.6,
-      "major_stadiums_count": 12,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "VEN": {
@@ -884,10 +884,10 @@
       "fih_world_ranking": 61,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 147,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 140,
       "adult_physical_activity_pct": 79.3,
-      "major_stadiums_count": 12,
+      "major_stadiums_count": 10,
       "world_cup_titles_total": 0
     },
     "CMR": {
@@ -901,10 +901,10 @@
       "fih_world_ranking": 70,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 146,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 31,
       "adult_physical_activity_pct": 66.6,
-      "major_stadiums_count": 12,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "NER": {
@@ -918,10 +918,10 @@
       "fih_world_ranking": 77,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 135,
+      "sport_diversity_index": 6,
+      "guinness_records_held": 22,
       "adult_physical_activity_pct": 65,
-      "major_stadiums_count": 11,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "AUS": {
@@ -935,10 +935,10 @@
       "fih_world_ranking": 3,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 295,
-      "sport_diversity_index": 22,
-      "guinness_records_held": 134,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 350,
       "adult_physical_activity_pct": 84.5,
-      "major_stadiums_count": 11,
+      "major_stadiums_count": 24,
       "world_cup_titles_total": 6
     },
     "PRK": {
@@ -952,10 +952,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 131,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 47,
       "adult_physical_activity_pct": 72.6,
-      "major_stadiums_count": 10,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "TWN": {
@@ -969,10 +969,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 13,
-      "guinness_records_held": 120,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 217,
       "adult_physical_activity_pct": 75.6,
-      "major_stadiums_count": 10,
+      "major_stadiums_count": 14,
       "world_cup_titles_total": 0
     },
     "MLI": {
@@ -986,10 +986,10 @@
       "fih_world_ranking": 76,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 120,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 21,
       "adult_physical_activity_pct": 63,
-      "major_stadiums_count": 10,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "LKA": {
@@ -1003,10 +1003,10 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 116,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 36,
       "adult_physical_activity_pct": 71.6,
-      "major_stadiums_count": 9,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "SYR": {
@@ -1020,10 +1020,10 @@
       "fih_world_ranking": 71,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 119,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 18,
       "adult_physical_activity_pct": 67,
-      "major_stadiums_count": 10,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "KAZ": {
@@ -1037,10 +1037,10 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 103,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 88,
       "adult_physical_activity_pct": 77.4,
-      "major_stadiums_count": 8,
+      "major_stadiums_count": 6,
       "world_cup_titles_total": 0
     },
     "CHL": {
@@ -1054,10 +1054,10 @@
       "fih_world_ranking": 56,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 98,
+      "sport_diversity_index": 14,
+      "guinness_records_held": 97,
       "adult_physical_activity_pct": 82.1,
-      "major_stadiums_count": 8,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "ZMB": {
@@ -1071,10 +1071,10 @@
       "fih_world_ranking": 69,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 107,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 21,
       "adult_physical_activity_pct": 74.5,
-      "major_stadiums_count": 9,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "ROU": {
@@ -1089,9 +1089,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 12,
-      "guinness_records_held": 95,
+      "guinness_records_held": 105,
       "adult_physical_activity_pct": 75.7,
-      "major_stadiums_count": 8,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "TCD": {
@@ -1105,10 +1105,10 @@
       "fih_world_ranking": 77,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 97,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 16,
       "adult_physical_activity_pct": 64,
-      "major_stadiums_count": 8,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "SOM": {
@@ -1122,10 +1122,10 @@
       "fih_world_ranking": 78,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 95,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 16,
       "adult_physical_activity_pct": 65.6,
-      "major_stadiums_count": 8,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "SEN": {
@@ -1139,10 +1139,10 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 91,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 20,
       "adult_physical_activity_pct": 69.1,
-      "major_stadiums_count": 7,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "NLD": {
@@ -1156,10 +1156,10 @@
       "fih_world_ranking": 1,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 18,
-      "guinness_records_held": 91,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 298,
       "adult_physical_activity_pct": 82.5,
-      "major_stadiums_count": 7,
+      "major_stadiums_count": 19,
       "world_cup_titles_total": 0
     },
     "GTM": {
@@ -1174,9 +1174,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 8,
-      "guinness_records_held": 93,
+      "guinness_records_held": 38,
       "adult_physical_activity_pct": 75.2,
-      "major_stadiums_count": 7,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "ECU": {
@@ -1191,9 +1191,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 10,
-      "guinness_records_held": 91,
+      "guinness_records_held": 42,
       "adult_physical_activity_pct": 76.1,
-      "major_stadiums_count": 7,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "ZWE": {
@@ -1207,10 +1207,10 @@
       "fih_world_ranking": 71,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 83,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 18,
       "adult_physical_activity_pct": 68,
-      "major_stadiums_count": 7,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "GIN": {
@@ -1224,10 +1224,10 @@
       "fih_world_ranking": 74,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 74,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 16,
       "adult_physical_activity_pct": 68.9,
-      "major_stadiums_count": 6,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "RWA": {
@@ -1241,10 +1241,10 @@
       "fih_world_ranking": 71,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 72,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 13,
       "adult_physical_activity_pct": 64.7,
-      "major_stadiums_count": 6,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "BEN": {
@@ -1258,10 +1258,10 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 71,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 14,
       "adult_physical_activity_pct": 70.4,
-      "major_stadiums_count": 6,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "BDI": {
@@ -1275,10 +1275,10 @@
       "fih_world_ranking": 76,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 70,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 10,
       "adult_physical_activity_pct": 61.7,
-      "major_stadiums_count": 6,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "BOL": {
@@ -1293,9 +1293,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 63,
+      "guinness_records_held": 20,
       "adult_physical_activity_pct": 74.4,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "TUN": {
@@ -1309,10 +1309,10 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 63,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 21,
       "adult_physical_activity_pct": 74.6,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "HTI": {
@@ -1326,10 +1326,10 @@
       "fih_world_ranking": 73,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 59,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 13,
       "adult_physical_activity_pct": 67.9,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "BEL": {
@@ -1343,10 +1343,10 @@
       "fih_world_ranking": 2,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 15,
-      "guinness_records_held": 59,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 172,
       "adult_physical_activity_pct": 80.4,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 11,
       "world_cup_titles_total": 0
     },
     "JOR": {
@@ -1360,10 +1360,10 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 58,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 20,
       "adult_physical_activity_pct": 71.6,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "DOM": {
@@ -1377,10 +1377,10 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 57,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 38,
       "adult_physical_activity_pct": 78.6,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "CUB": {
@@ -1394,10 +1394,10 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 56,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 34,
       "adult_physical_activity_pct": 73.8,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "SSD": {
@@ -1411,10 +1411,10 @@
       "fih_world_ranking": 78,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 56,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 11,
       "adult_physical_activity_pct": 60.7,
-      "major_stadiums_count": 5,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "SWE": {
@@ -1428,10 +1428,10 @@
       "fih_world_ranking": 52,
       "world_athletics_records": 4,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 15,
-      "guinness_records_held": 53,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 163,
       "adult_physical_activity_pct": 81.7,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 10,
       "world_cup_titles_total": 0
     },
     "HND": {
@@ -1445,10 +1445,10 @@
       "fih_world_ranking": 67,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 54,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 16,
       "adult_physical_activity_pct": 69.3,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "CZE": {
@@ -1463,9 +1463,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 13,
-      "guinness_records_held": 53,
+      "guinness_records_held": 93,
       "adult_physical_activity_pct": 76.1,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 6,
       "world_cup_titles_total": 0
     },
     "AZE": {
@@ -1479,10 +1479,10 @@
       "fih_world_ranking": 61,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 52,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 25,
       "adult_physical_activity_pct": 79.2,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "GRC": {
@@ -1496,8 +1496,8 @@
       "fih_world_ranking": 55,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 52,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 66,
       "adult_physical_activity_pct": 79,
       "major_stadiums_count": 4,
       "world_cup_titles_total": 0
@@ -1513,10 +1513,10 @@
       "fih_world_ranking": 71,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 53,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 15,
       "adult_physical_activity_pct": 69.2,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "PRT": {
@@ -1530,10 +1530,10 @@
       "fih_world_ranking": 57,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 51,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 82,
       "adult_physical_activity_pct": 76.7,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 5,
       "world_cup_titles_total": 0
     },
     "HUN": {
@@ -1547,8 +1547,8 @@
       "fih_world_ranking": 57,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 48,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 60,
       "adult_physical_activity_pct": 74.5,
       "major_stadiums_count": 4,
       "world_cup_titles_total": 0
@@ -1564,10 +1564,10 @@
       "fih_world_ranking": 66,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 52,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 10,
       "adult_physical_activity_pct": 76.2,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "ARE": {
@@ -1581,10 +1581,10 @@
       "fih_world_ranking": 53,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 14,
-      "guinness_records_held": 48,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 138,
       "adult_physical_activity_pct": 76.2,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 9,
       "world_cup_titles_total": 0
     },
     "BLR": {
@@ -1599,9 +1599,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 10,
-      "guinness_records_held": 47,
+      "guinness_records_held": 24,
       "adult_physical_activity_pct": 80.6,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "ISR": {
@@ -1616,9 +1616,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 14,
-      "guinness_records_held": 47,
+      "guinness_records_held": 139,
       "adult_physical_activity_pct": 79.6,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 9,
       "world_cup_titles_total": 0
     },
     "TGO": {
@@ -1632,10 +1632,10 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 46,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 64.1,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "AUT": {
@@ -1650,9 +1650,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 14,
-      "guinness_records_held": 46,
+      "guinness_records_held": 142,
       "adult_physical_activity_pct": 75.9,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 9,
       "world_cup_titles_total": 0
     },
     "CHE": {
@@ -1666,10 +1666,10 @@
       "fih_world_ranking": 51,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 17,
-      "guinness_records_held": 45,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 240,
       "adult_physical_activity_pct": 78.1,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 15,
       "world_cup_titles_total": 0
     },
     "SLE": {
@@ -1684,9 +1684,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 5,
-      "guinness_records_held": 45,
+      "guinness_records_held": 7,
       "adult_physical_activity_pct": 64.7,
-      "major_stadiums_count": 4,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "LAO": {
@@ -1701,9 +1701,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 39,
+      "guinness_records_held": 9,
       "adult_physical_activity_pct": 70.8,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "HKG": {
@@ -1718,9 +1718,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 14,
-      "guinness_records_held": 37,
+      "guinness_records_held": 107,
       "adult_physical_activity_pct": 78.8,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "SRB": {
@@ -1734,10 +1734,10 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 35,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 24,
       "adult_physical_activity_pct": 78,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "NIC": {
@@ -1751,10 +1751,10 @@
       "fih_world_ranking": 65,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 36,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 9,
       "adult_physical_activity_pct": 70.4,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "LBY": {
@@ -1768,10 +1768,10 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 35,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 17,
       "adult_physical_activity_pct": 75.8,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "PRY": {
@@ -1785,10 +1785,10 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 35,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 15,
       "adult_physical_activity_pct": 77.7,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "KGZ": {
@@ -1803,9 +1803,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 8,
-      "guinness_records_held": 36,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 70.8,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "BGR": {
@@ -1819,10 +1819,10 @@
       "fih_world_ranking": 58,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 33,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 30,
       "adult_physical_activity_pct": 75.8,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "TKM": {
@@ -1837,9 +1837,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 33,
+      "guinness_records_held": 19,
       "adult_physical_activity_pct": 71.8,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "SLV": {
@@ -1853,10 +1853,10 @@
       "fih_world_ranking": 65,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 32,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 13,
       "adult_physical_activity_pct": 70.9,
-      "major_stadiums_count": 3,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "COG": {
@@ -1870,10 +1870,10 @@
       "fih_world_ranking": 68,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 31,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 68,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "SGP": {
@@ -1887,10 +1887,10 @@
       "fih_world_ranking": 52,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 15,
-      "guinness_records_held": 30,
+      "sport_diversity_index": 14,
+      "guinness_records_held": 135,
       "adult_physical_activity_pct": 76.6,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 8,
       "world_cup_titles_total": 0
     },
     "DNK": {
@@ -1904,10 +1904,10 @@
       "fih_world_ranking": 52,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 14,
-      "guinness_records_held": 30,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 106,
       "adult_physical_activity_pct": 81.7,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 7,
       "world_cup_titles_total": 0
     },
     "SVK": {
@@ -1922,7 +1922,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 11,
-      "guinness_records_held": 29,
+      "guinness_records_held": 37,
       "adult_physical_activity_pct": 74.9,
       "major_stadiums_count": 2,
       "world_cup_titles_total": 0
@@ -1938,10 +1938,10 @@
       "fih_world_ranking": 78,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 4,
-      "guinness_records_held": 29,
+      "sport_diversity_index": 6,
+      "guinness_records_held": 4,
       "adult_physical_activity_pct": 64.3,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "FIN": {
@@ -1956,9 +1956,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 13,
-      "guinness_records_held": 28,
+      "guinness_records_held": 81,
       "adult_physical_activity_pct": 81.4,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 5,
       "world_cup_titles_total": 0
     },
     "NOR": {
@@ -1972,10 +1972,10 @@
       "fih_world_ranking": 52,
       "world_athletics_records": 3,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 15,
-      "guinness_records_held": 28,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 135,
       "adult_physical_activity_pct": 82,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 8,
       "world_cup_titles_total": 0
     },
     "LBR": {
@@ -1990,9 +1990,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 5,
-      "guinness_records_held": 28,
+      "guinness_records_held": 5,
       "adult_physical_activity_pct": 70.2,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "PSE": {
@@ -2007,9 +2007,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 8,
-      "guinness_records_held": 27,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 76.2,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "NZL": {
@@ -2023,10 +2023,10 @@
       "fih_world_ranking": 53,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 13,
-      "guinness_records_held": 26,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 68,
       "adult_physical_activity_pct": 77.3,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 4
     },
     "CRI": {
@@ -2040,8 +2040,8 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 26,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 25,
       "adult_physical_activity_pct": 78.2,
       "major_stadiums_count": 2,
       "world_cup_titles_total": 0
@@ -2057,10 +2057,10 @@
       "fih_world_ranking": 52,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 15,
-      "guinness_records_held": 26,
+      "sport_diversity_index": 16,
+      "guinness_records_held": 144,
       "adult_physical_activity_pct": 82.6,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 9,
       "world_cup_titles_total": 0
     },
     "MRT": {
@@ -2074,10 +2074,10 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 25,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 6,
       "adult_physical_activity_pct": 64.6,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "OMN": {
@@ -2091,8 +2091,8 @@
       "fih_world_ranking": 58,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 23,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 30,
       "adult_physical_activity_pct": 73,
       "major_stadiums_count": 2,
       "world_cup_titles_total": 0
@@ -2108,8 +2108,8 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 23,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 24,
       "adult_physical_activity_pct": 79.1,
       "major_stadiums_count": 2,
       "world_cup_titles_total": 0
@@ -2125,10 +2125,10 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 22,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 43,
       "adult_physical_activity_pct": 75.5,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 3,
       "world_cup_titles_total": 0
     },
     "HRV": {
@@ -2143,7 +2143,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 10,
-      "guinness_records_held": 20,
+      "guinness_records_held": 23,
       "adult_physical_activity_pct": 79.3,
       "major_stadiums_count": 2,
       "world_cup_titles_total": 0
@@ -2159,8 +2159,8 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 19,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 10,
       "adult_physical_activity_pct": 74.8,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2177,9 +2177,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 5,
-      "guinness_records_held": 19,
+      "guinness_records_held": 3,
       "adult_physical_activity_pct": 70.3,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "URY": {
@@ -2194,7 +2194,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 10,
-      "guinness_records_held": 17,
+      "guinness_records_held": 22,
       "adult_physical_activity_pct": 76.5,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 2
@@ -2210,8 +2210,8 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 17,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 7,
       "adult_physical_activity_pct": 71.7,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2227,8 +2227,8 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 16,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 9,
       "adult_physical_activity_pct": 75.5,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2244,10 +2244,10 @@
       "fih_world_ranking": 56,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 15,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 63,
       "adult_physical_activity_pct": 79,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 4,
       "world_cup_titles_total": 0
     },
     "NAM": {
@@ -2262,9 +2262,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 8,
-      "guinness_records_held": 15,
+      "guinness_records_held": 5,
       "adult_physical_activity_pct": 72.1,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "ARM": {
@@ -2279,7 +2279,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 15,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 79.1,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2296,7 +2296,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 11,
-      "guinness_records_held": 14,
+      "guinness_records_held": 21,
       "adult_physical_activity_pct": 76,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2313,7 +2313,7 @@
       "world_athletics_records": 8,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 14,
+      "guinness_records_held": 7,
       "adult_physical_activity_pct": 70.5,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2329,8 +2329,8 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 14,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 72,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2346,10 +2346,10 @@
       "fih_world_ranking": 74,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 14,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 69.9,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "GAB": {
@@ -2363,8 +2363,8 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 12,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 7,
       "adult_physical_activity_pct": 73.7,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2380,8 +2380,8 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 13,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 7,
       "adult_physical_activity_pct": 72.1,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2397,10 +2397,10 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 12,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 68.6,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "GNB": {
@@ -2414,10 +2414,10 @@
       "fih_world_ranking": 75,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 11,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 70.7,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "SVN": {
@@ -2431,8 +2431,8 @@
       "fih_world_ranking": 53,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 12,
-      "guinness_records_held": 11,
+      "sport_diversity_index": 14,
+      "guinness_records_held": 18,
       "adult_physical_activity_pct": 79.9,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2448,10 +2448,10 @@
       "fih_world_ranking": 68,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 9,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 4,
       "adult_physical_activity_pct": 71.5,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "LVA": {
@@ -2465,8 +2465,8 @@
       "fih_world_ranking": 57,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 9,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 12,
       "adult_physical_activity_pct": 75.7,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2483,9 +2483,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 9,
+      "guinness_records_held": 5,
       "adult_physical_activity_pct": 75.2,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "BHR": {
@@ -2500,7 +2500,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 10,
-      "guinness_records_held": 8,
+      "guinness_records_held": 12,
       "adult_physical_activity_pct": 77.7,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2516,7 +2516,7 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
+      "sport_diversity_index": 12,
       "guinness_records_held": 8,
       "adult_physical_activity_pct": 76,
       "major_stadiums_count": 1,
@@ -2533,10 +2533,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 7,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 69.6,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "CYP": {
@@ -2550,8 +2550,8 @@
       "fih_world_ranking": 56,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 6,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 9,
       "adult_physical_activity_pct": 76.3,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2568,7 +2568,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 11,
-      "guinness_records_held": 7,
+      "guinness_records_held": 11,
       "adult_physical_activity_pct": 76.4,
       "major_stadiums_count": 1,
       "world_cup_titles_total": 0
@@ -2584,10 +2584,10 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 7,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 4,
       "adult_physical_activity_pct": 74.1,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "SWZ": {
@@ -2602,7 +2602,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 6,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 74.5,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2618,8 +2618,8 @@
       "fih_world_ranking": 74,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 6,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 71.3,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2635,8 +2635,8 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 5,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 71.7,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2652,8 +2652,8 @@
       "fih_world_ranking": 72,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 4,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 71.1,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2669,8 +2669,8 @@
       "fih_world_ranking": 66,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 4,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 5,
       "adult_physical_activity_pct": 70.3,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2687,7 +2687,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 4,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 70.1,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2703,8 +2703,8 @@
       "fih_world_ranking": 70,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 4,
+      "sport_diversity_index": 8,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 65.3,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2721,9 +2721,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 12,
-      "guinness_records_held": 3,
+      "guinness_records_held": 22,
       "adult_physical_activity_pct": 82,
-      "major_stadiums_count": 0,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "MNE": {
@@ -2738,7 +2738,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 10,
-      "guinness_records_held": 3,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 80.8,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2754,8 +2754,8 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 3,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 77.2,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2771,8 +2771,8 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 3,
+      "sport_diversity_index": 9,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 77.6,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2788,8 +2788,8 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
-      "guinness_records_held": 3,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 76.1,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2805,8 +2805,8 @@
       "fih_world_ranking": 55,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 3,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 6,
       "adult_physical_activity_pct": 77.6,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2822,8 +2822,8 @@
       "fih_world_ranking": 57,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 2,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 4,
       "adult_physical_activity_pct": 74.9,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2840,7 +2840,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 2,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 76.8,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2856,8 +2856,8 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 2,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 4,
       "adult_physical_activity_pct": 77.6,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2874,7 +2874,7 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 12,
-      "guinness_records_held": 2,
+      "guinness_records_held": 8,
       "adult_physical_activity_pct": 83.9,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2890,8 +2890,8 @@
       "fih_world_ranking": 68,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
-      "guinness_records_held": 2,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 1,
       "adult_physical_activity_pct": 69.9,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2907,8 +2907,8 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
-      "guinness_records_held": 1,
+      "sport_diversity_index": 12,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 79.4,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -2924,7 +2924,7 @@
       "fih_world_ranking": 68,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
+      "sport_diversity_index": 10,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 70.5,
       "major_stadiums_count": 0,
@@ -2941,7 +2941,7 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
+      "sport_diversity_index": 12,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 74,
       "major_stadiums_count": 0,
@@ -2975,7 +2975,7 @@
       "fih_world_ranking": 67,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 7,
+      "sport_diversity_index": 9,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 72.1,
       "major_stadiums_count": 0,
@@ -2992,7 +2992,7 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
+      "sport_diversity_index": 10,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 76.6,
       "major_stadiums_count": 0,
@@ -3009,7 +3009,7 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
+      "sport_diversity_index": 10,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 73.2,
       "major_stadiums_count": 0,
@@ -3026,7 +3026,7 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
+      "sport_diversity_index": 10,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 74.6,
       "major_stadiums_count": 0,
@@ -3043,7 +3043,7 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
+      "sport_diversity_index": 13,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 77.3,
       "major_stadiums_count": 0,
@@ -3077,7 +3077,7 @@
       "fih_world_ranking": 56,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
+      "sport_diversity_index": 13,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 78,
       "major_stadiums_count": 0,
@@ -3094,7 +3094,7 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
+      "sport_diversity_index": 11,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 73,
       "major_stadiums_count": 0,
@@ -3111,7 +3111,7 @@
       "fih_world_ranking": 63,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
+      "sport_diversity_index": 9,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 69.8,
       "major_stadiums_count": 0,
@@ -3128,7 +3128,7 @@
       "fih_world_ranking": 60,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
+      "sport_diversity_index": 11,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 73.8,
       "major_stadiums_count": 0,
@@ -3145,8 +3145,8 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 1,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 76.6,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -3162,8 +3162,8 @@
       "fih_world_ranking": 54,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 11,
-      "guinness_records_held": 1,
+      "sport_diversity_index": 13,
+      "guinness_records_held": 2,
       "adult_physical_activity_pct": 77.6,
       "major_stadiums_count": 0,
       "world_cup_titles_total": 0
@@ -3179,7 +3179,7 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
+      "sport_diversity_index": 10,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 77.6,
       "major_stadiums_count": 0,
@@ -3196,7 +3196,7 @@
       "fih_world_ranking": 59,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 10,
+      "sport_diversity_index": 13,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 72.3,
       "major_stadiums_count": 0,
@@ -3213,7 +3213,7 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
+      "sport_diversity_index": 9,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 71.6,
       "major_stadiums_count": 0,
@@ -3230,7 +3230,7 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
+      "sport_diversity_index": 11,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 72.6,
       "major_stadiums_count": 0,
@@ -3247,7 +3247,7 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
+      "sport_diversity_index": 11,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 70.6,
       "major_stadiums_count": 0,
@@ -3264,10 +3264,10 @@
       "fih_world_ranking": 76,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 5,
-      "guinness_records_held": 116,
+      "sport_diversity_index": 6,
+      "guinness_records_held": 21,
       "adult_physical_activity_pct": 64.8,
-      "major_stadiums_count": 9,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "KHM": {
@@ -3282,9 +3282,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 7,
-      "guinness_records_held": 85,
+      "guinness_records_held": 19,
       "adult_physical_activity_pct": 74.3,
-      "major_stadiums_count": 7,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "LBN": {
@@ -3299,9 +3299,9 @@
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
       "sport_diversity_index": 9,
-      "guinness_records_held": 27,
+      "guinness_records_held": 9,
       "adult_physical_activity_pct": 75.2,
-      "major_stadiums_count": 2,
+      "major_stadiums_count": 1,
       "world_cup_titles_total": 0
     },
     "MWI": {
@@ -3315,10 +3315,10 @@
       "fih_world_ranking": 74,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 6,
-      "guinness_records_held": 106,
+      "sport_diversity_index": 7,
+      "guinness_records_held": 18,
       "adult_physical_activity_pct": 66.4,
-      "major_stadiums_count": 8,
+      "major_stadiums_count": 2,
       "world_cup_titles_total": 0
     },
     "MDA": {
@@ -3332,10 +3332,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 13,
+      "sport_diversity_index": 10,
+      "guinness_records_held": 6,
       "adult_physical_activity_pct": 72.6,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     },
     "TON": {
@@ -3349,7 +3349,7 @@
       "fih_world_ranking": 62,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 9,
+      "sport_diversity_index": 10,
       "guinness_records_held": 1,
       "adult_physical_activity_pct": 77.3,
       "major_stadiums_count": 0,
@@ -3366,10 +3366,10 @@
       "fih_world_ranking": 64,
       "world_athletics_records": 0,
       "fina_world_championship_medals": 0,
-      "sport_diversity_index": 8,
-      "guinness_records_held": 9,
+      "sport_diversity_index": 11,
+      "guinness_records_held": 4,
       "adult_physical_activity_pct": 77.6,
-      "major_stadiums_count": 1,
+      "major_stadiums_count": 0,
       "world_cup_titles_total": 0
     }
   }

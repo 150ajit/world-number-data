@@ -9,7 +9,7 @@
     "IND": {
       "crop_production_index": 102.1,
       "livestock_production_idx": 101.8,
-      "fisheries_production_tons": 106612,
+      "fisheries_production_tons": 14500,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 39.7,
       "prevalence_undernourish": 19.6,
@@ -18,7 +18,7 @@
     "CHN": {
       "crop_production_index": 93.8,
       "livestock_production_idx": 95,
-      "fisheries_production_tons": 166267,
+      "fisheries_production_tons": 67800,
       "agricultural_land_pct": 37,
       "irrigated_land_pct": 21.5,
       "prevalence_undernourish": 11.7,
@@ -27,7 +27,7 @@
     "USA": {
       "crop_production_index": 99.2,
       "livestock_production_idx": 99.4,
-      "fisheries_production_tons": 143010,
+      "fisheries_production_tons": 4700,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 23.1,
       "prevalence_undernourish": 4,
@@ -36,7 +36,7 @@
     "IDN": {
       "crop_production_index": 101.1,
       "livestock_production_idx": 100.9,
-      "fisheries_production_tons": 66237,
+      "fisheries_production_tons": 21900,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 20.6,
       "prevalence_undernourish": 15.8,
@@ -45,7 +45,7 @@
     "PAK": {
       "crop_production_index": 110.6,
       "livestock_production_idx": 108.7,
-      "fisheries_production_tons": 44535,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 38.5,
       "prevalence_undernourish": 25.3,
@@ -54,7 +54,7 @@
     "NGA": {
       "crop_production_index": 113.7,
       "livestock_production_idx": 111.2,
-      "fisheries_production_tons": 47599,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 18.6,
       "prevalence_undernourish": 24.9,
@@ -63,7 +63,7 @@
     "BRA": {
       "crop_production_index": 99.1,
       "livestock_production_idx": 99.3,
-      "fisheries_production_tons": 134337,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.1,
       "prevalence_undernourish": 13.2,
@@ -72,7 +72,7 @@
     "BGD": {
       "crop_production_index": 102.9,
       "livestock_production_idx": 102.4,
-      "fisheries_production_tons": 19707,
+      "fisheries_production_tons": 4600,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 40,
       "prevalence_undernourish": 18.1,
@@ -81,7 +81,7 @@
     "RUS": {
       "crop_production_index": 93.5,
       "livestock_production_idx": 94.8,
-      "fisheries_production_tons": 185004,
+      "fisheries_production_tons": 5400,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 21.9,
       "prevalence_undernourish": 9.8,
@@ -90,7 +90,7 @@
     "ETH": {
       "crop_production_index": 114.4,
       "livestock_production_idx": 111.7,
-      "fisheries_production_tons": 47641,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 17.9,
       "prevalence_undernourish": 27.9,
@@ -99,7 +99,7 @@
     "MEX": {
       "crop_production_index": 100.8,
       "livestock_production_idx": 100.7,
-      "fisheries_production_tons": 65356,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 41.4,
       "prevalence_undernourish": 12,
@@ -108,7 +108,7 @@
     "JPN": {
       "crop_production_index": 90.8,
       "livestock_production_idx": 92.6,
-      "fisheries_production_tons": 29643,
+      "fisheries_production_tons": 4100,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 23,
       "prevalence_undernourish": 4.4,
@@ -117,7 +117,7 @@
     "PHL": {
       "crop_production_index": 105.7,
       "livestock_production_idx": 104.7,
-      "fisheries_production_tons": 26954,
+      "fisheries_production_tons": 4200,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 40.5,
       "prevalence_undernourish": 16,
@@ -126,7 +126,7 @@
     "EGY": {
       "crop_production_index": 107.5,
       "livestock_production_idx": 106.1,
-      "fisheries_production_tons": 47228,
+      "fisheries_production_tons": 2100,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 40.7,
       "prevalence_undernourish": 15,
@@ -135,7 +135,7 @@
     "COD": {
       "crop_production_index": 120.5,
       "livestock_production_idx": 116.7,
-      "fisheries_production_tons": 69941,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -144,7 +144,7 @@
     "VNM": {
       "crop_production_index": 100.4,
       "livestock_production_idx": 100.4,
-      "fisheries_production_tons": 27078,
+      "fisheries_production_tons": 8600,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 40.7,
       "prevalence_undernourish": 15.1,
@@ -153,7 +153,7 @@
     "IRN": {
       "crop_production_index": 100.7,
       "livestock_production_idx": 100.6,
-      "fisheries_production_tons": 59262,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 41.6,
       "prevalence_undernourish": 11.1,
@@ -162,7 +162,7 @@
     "TUR": {
       "crop_production_index": 99.6,
       "livestock_production_idx": 99.8,
-      "fisheries_production_tons": 41227,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 22.3,
       "prevalence_undernourish": 8,
@@ -171,7 +171,7 @@
     "DEU": {
       "crop_production_index": 95.9,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 28290,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 2.8,
@@ -180,7 +180,7 @@
     "THA": {
       "crop_production_index": 96,
       "livestock_production_idx": 96.8,
-      "fisheries_production_tons": 33598,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 41.6,
       "prevalence_undernourish": 10.8,
@@ -189,7 +189,7 @@
     "GBR": {
       "crop_production_index": 97.7,
       "livestock_production_idx": 98.2,
-      "fisheries_production_tons": 23499,
+      "fisheries_production_tons": 1685,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 23.3,
       "prevalence_undernourish": 3.3,
@@ -198,7 +198,7 @@
     "TZA": {
       "crop_production_index": 118.7,
       "livestock_production_idx": 115.2,
-      "fisheries_production_tons": 43724,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 18.5,
       "prevalence_undernourish": 25.4,
@@ -207,7 +207,7 @@
     "FRA": {
       "crop_production_index": 96.6,
       "livestock_production_idx": 97.3,
-      "fisheries_production_tons": 34630,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 63,
       "irrigated_land_pct": 22.9,
       "prevalence_undernourish": 4.9,
@@ -216,7 +216,7 @@
     "ZAF": {
       "crop_production_index": 102,
       "livestock_production_idx": 101.7,
-      "fisheries_production_tons": 50843,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 20.6,
       "prevalence_undernourish": 15.6,
@@ -225,7 +225,7 @@
     "ITA": {
       "crop_production_index": 92.8,
       "livestock_production_idx": 94.2,
-      "fisheries_production_tons": 25592,
+      "fisheries_production_tons": 1751,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 22.9,
       "prevalence_undernourish": 5.2,
@@ -234,7 +234,7 @@
     "KEN": {
       "crop_production_index": 110.9,
       "livestock_production_idx": 108.9,
-      "fisheries_production_tons": 35073,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 19.1,
       "prevalence_undernourish": 22.6,
@@ -243,7 +243,7 @@
     "MMR": {
       "crop_production_index": 100.4,
       "livestock_production_idx": 100.4,
-      "fisheries_production_tons": 37468,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 38.9,
       "prevalence_undernourish": 23.2,
@@ -252,7 +252,7 @@
     "COL": {
       "crop_production_index": 100.2,
       "livestock_production_idx": 100.2,
-      "fisheries_production_tons": 48454,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.1,
       "prevalence_undernourish": 13.3,
@@ -261,7 +261,7 @@
     "KOR": {
       "crop_production_index": 94.5,
       "livestock_production_idx": 95.6,
-      "fisheries_production_tons": 15093,
+      "fisheries_production_tons": 1126,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 23.1,
       "prevalence_undernourish": 3.9,
@@ -270,7 +270,7 @@
     "UGA": {
       "crop_production_index": 118.8,
       "livestock_production_idx": 115.3,
-      "fisheries_production_tons": 20978,
+      "fisheries_production_tons": 1443,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 18.2,
       "prevalence_undernourish": 26.6,
@@ -279,7 +279,7 @@
     "SDN": {
       "crop_production_index": 115.9,
       "livestock_production_idx": 113,
-      "fisheries_production_tons": 62383,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 30,
       "irrigated_land_pct": 38,
       "prevalence_undernourish": 27.4,
@@ -288,7 +288,7 @@
     "ESP": {
       "crop_production_index": 96.8,
       "livestock_production_idx": 97.5,
-      "fisheries_production_tons": 32731,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 57,
       "irrigated_land_pct": 22.9,
       "prevalence_undernourish": 4.9,
@@ -297,7 +297,7 @@
     "ARG": {
       "crop_production_index": 101.5,
       "livestock_production_idx": 101.3,
-      "fisheries_production_tons": 75364,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 22.2,
       "prevalence_undernourish": 8.3,
@@ -306,7 +306,7 @@
     "DZA": {
       "crop_production_index": 106.6,
       "livestock_production_idx": 105.4,
-      "fisheries_production_tons": 70371,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 41,
       "prevalence_undernourish": 13.5,
@@ -315,7 +315,7 @@
     "IRQ": {
       "crop_production_index": 113.2,
       "livestock_production_idx": 110.8,
-      "fisheries_production_tons": 30671,
+      "fisheries_production_tons": 1960,
       "agricultural_land_pct": 58,
       "irrigated_land_pct": 40.2,
       "prevalence_undernourish": 17.3,
@@ -324,7 +324,7 @@
     "AFG": {
       "crop_production_index": 116.6,
       "livestock_production_idx": 113.5,
-      "fisheries_production_tons": 37213,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 50,
       "irrigated_land_pct": 38,
       "prevalence_undernourish": 27.6,
@@ -333,7 +333,7 @@
     "POL": {
       "crop_production_index": 92.8,
       "livestock_production_idx": 94.2,
-      "fisheries_production_tons": 25702,
+      "fisheries_production_tons": 1650,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 22.6,
       "prevalence_undernourish": 6.5,
@@ -342,7 +342,7 @@
     "CAN": {
       "crop_production_index": 104.7,
       "livestock_production_idx": 103.9,
-      "fisheries_production_tons": 135537,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 23.2,
       "prevalence_undernourish": 3.6,
@@ -351,7 +351,7 @@
     "MAR": {
       "crop_production_index": 102.8,
       "livestock_production_idx": 102.4,
-      "fisheries_production_tons": 30824,
+      "fisheries_production_tons": 1924,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 40.4,
       "prevalence_undernourish": 16.6,
@@ -360,7 +360,7 @@
     "SAU": {
       "crop_production_index": 106.8,
       "livestock_production_idx": 105.6,
-      "fisheries_production_tons": 66728,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 42.5,
       "prevalence_undernourish": 6.9,
@@ -369,7 +369,7 @@
     "UKR": {
       "crop_production_index": 78.2,
       "livestock_production_idx": 82.3,
-      "fisheries_production_tons": 34991,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 20.8,
       "prevalence_undernourish": 14.6,
@@ -378,7 +378,7 @@
     "AGO": {
       "crop_production_index": 119.6,
       "livestock_production_idx": 116,
-      "fisheries_production_tons": 51003,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 19,
       "prevalence_undernourish": 23,
@@ -387,7 +387,7 @@
     "UZB": {
       "crop_production_index": 109.7,
       "livestock_production_idx": 108,
-      "fisheries_production_tons": 30077,
+      "fisheries_production_tons": 1873,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 20.5,
       "prevalence_undernourish": 16,
@@ -396,7 +396,7 @@
     "YEM": {
       "crop_production_index": 112.1,
       "livestock_production_idx": 109.9,
-      "fisheries_production_tons": 33404,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 34,
       "irrigated_land_pct": 37.4,
       "prevalence_undernourish": 30.1,
@@ -405,7 +405,7 @@
     "PER": {
       "crop_production_index": 103.1,
       "livestock_production_idx": 102.6,
-      "fisheries_production_tons": 51605,
+      "fisheries_production_tons": 5800,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 21,
       "prevalence_undernourish": 13.8,
@@ -414,7 +414,7 @@
     "MYS": {
       "crop_production_index": 103.7,
       "livestock_production_idx": 103.1,
-      "fisheries_production_tons": 26491,
+      "fisheries_production_tons": 1664,
       "agricultural_land_pct": 43,
       "irrigated_land_pct": 21.7,
       "prevalence_undernourish": 10.6,
@@ -423,7 +423,7 @@
     "GHA": {
       "crop_production_index": 110.4,
       "livestock_production_idx": 108.5,
-      "fisheries_production_tons": 22161,
+      "fisheries_production_tons": 1424,
       "agricultural_land_pct": 39,
       "irrigated_land_pct": 19.1,
       "prevalence_undernourish": 22.4,
@@ -432,7 +432,7 @@
     "MOZ": {
       "crop_production_index": 117.5,
       "livestock_production_idx": 114.3,
-      "fisheries_production_tons": 40598,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 17.2,
       "prevalence_undernourish": 31,
@@ -441,7 +441,7 @@
     "NPL": {
       "crop_production_index": 104.1,
       "livestock_production_idx": 103.4,
-      "fisheries_production_tons": 17663,
+      "fisheries_production_tons": 1155,
       "agricultural_land_pct": 57,
       "irrigated_land_pct": 38.9,
       "prevalence_undernourish": 23.4,
@@ -450,7 +450,7 @@
     "MDG": {
       "crop_production_index": 114.2,
       "livestock_production_idx": 111.6,
-      "fisheries_production_tons": 34938,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 18.2,
       "prevalence_undernourish": 26.5,
@@ -459,7 +459,7 @@
     "CIV": {
       "crop_production_index": 114.9,
       "livestock_production_idx": 112.2,
-      "fisheries_production_tons": 25999,
+      "fisheries_production_tons": 1618,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -468,7 +468,7 @@
     "VEN": {
       "crop_production_index": 100,
       "livestock_production_idx": 100,
-      "fisheries_production_tons": 42851,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 21.1,
       "prevalence_undernourish": 13.1,
@@ -477,7 +477,7 @@
     "CMR": {
       "crop_production_index": 115.6,
       "livestock_production_idx": 112.8,
-      "fisheries_production_tons": 31522,
+      "fisheries_production_tons": 1913,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 18.7,
       "prevalence_undernourish": 24.4,
@@ -486,7 +486,7 @@
     "NER": {
       "crop_production_index": 124.3,
       "livestock_production_idx": 119.8,
-      "fisheries_production_tons": 51187,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 36.7,
       "prevalence_undernourish": 33.3,
@@ -495,7 +495,7 @@
     "AUS": {
       "crop_production_index": 104.9,
       "livestock_production_idx": 104.1,
-      "fisheries_production_tons": 125261,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 3,
@@ -504,7 +504,7 @@
     "PRK": {
       "crop_production_index": 98,
       "livestock_production_idx": 98.5,
-      "fisheries_production_tons": 16140,
+      "fisheries_production_tons": 1042,
       "agricultural_land_pct": 34,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -513,7 +513,7 @@
     "TWN": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 9015,
+      "fisheries_production_tons": 634,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 40.4,
       "prevalence_undernourish": 16.5,
@@ -522,7 +522,7 @@
     "MLI": {
       "crop_production_index": 119.8,
       "livestock_production_idx": 116.2,
-      "fisheries_production_tons": 50188,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 37.1,
       "prevalence_undernourish": 31.5,
@@ -531,7 +531,7 @@
     "LKA": {
       "crop_production_index": 97.2,
       "livestock_production_idx": 97.8,
-      "fisheries_production_tons": 11731,
+      "fisheries_production_tons": 780,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 21.2,
       "prevalence_undernourish": 12.6,
@@ -540,7 +540,7 @@
     "SYR": {
       "crop_production_index": 134.8,
       "livestock_production_idx": 128.4,
-      "fisheries_production_tons": 19761,
+      "fisheries_production_tons": 1230,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 38.4,
       "prevalence_undernourish": 25.5,
@@ -549,7 +549,7 @@
     "KAZ": {
       "crop_production_index": 105.7,
       "livestock_production_idx": 104.7,
-      "fisheries_production_tons": 74350,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.6,
       "prevalence_undernourish": 11,
@@ -558,7 +558,7 @@
     "CHL": {
       "crop_production_index": 99.4,
       "livestock_production_idx": 99.6,
-      "fisheries_production_tons": 39196,
+      "fisheries_production_tons": 3400,
       "agricultural_land_pct": 38,
       "irrigated_land_pct": 22.3,
       "prevalence_undernourish": 7.7,
@@ -567,7 +567,7 @@
     "ZMB": {
       "crop_production_index": 116.9,
       "livestock_production_idx": 113.8,
-      "fisheries_production_tons": 39225,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 19.1,
       "prevalence_undernourish": 22.7,
@@ -576,7 +576,7 @@
     "ROU": {
       "crop_production_index": 89.7,
       "livestock_production_idx": 91.7,
-      "fisheries_production_tons": 21965,
+      "fisheries_production_tons": 1326,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 21.7,
       "prevalence_undernourish": 10.4,
@@ -585,7 +585,7 @@
     "TCD": {
       "crop_production_index": 120,
       "livestock_production_idx": 116.3,
-      "fisheries_production_tons": 50883,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 36.7,
       "prevalence_undernourish": 33.3,
@@ -594,7 +594,7 @@
     "SOM": {
       "crop_production_index": 120,
       "livestock_production_idx": 116.3,
-      "fisheries_production_tons": 36022,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 16.6,
       "prevalence_undernourish": 34.1,
@@ -603,7 +603,7 @@
     "SEN": {
       "crop_production_index": 115.2,
       "livestock_production_idx": 112.4,
-      "fisheries_production_tons": 20111,
+      "fisheries_production_tons": 1219,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 38.1,
       "prevalence_undernourish": 27.2,
@@ -612,7 +612,7 @@
     "NLD": {
       "crop_production_index": 98.2,
       "livestock_production_idx": 98.6,
-      "fisheries_production_tons": 8622,
+      "fisheries_production_tons": 580,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 3,
@@ -621,7 +621,7 @@
     "GTM": {
       "crop_production_index": 106.1,
       "livestock_production_idx": 105,
-      "fisheries_production_tons": 15103,
+      "fisheries_production_tons": 942,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 39.8,
       "prevalence_undernourish": 19.3,
@@ -630,7 +630,7 @@
     "ECU": {
       "crop_production_index": 102.6,
       "livestock_production_idx": 102.2,
-      "fisheries_production_tons": 22789,
+      "fisheries_production_tons": 1367,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 21,
       "prevalence_undernourish": 13.6,
@@ -639,7 +639,7 @@
     "ZWE": {
       "crop_production_index": 111.2,
       "livestock_production_idx": 109.2,
-      "fisheries_production_tons": 28321,
+      "fisheries_production_tons": 1666,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 18.4,
       "prevalence_undernourish": 25.6,
@@ -648,7 +648,7 @@
     "GIN": {
       "crop_production_index": 114,
       "livestock_production_idx": 111.5,
-      "fisheries_production_tons": 22602,
+      "fisheries_production_tons": 1338,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 17.5,
       "prevalence_undernourish": 29.8,
@@ -657,7 +657,7 @@
     "RWA": {
       "crop_production_index": 113.5,
       "livestock_production_idx": 111,
-      "fisheries_production_tons": 7356,
+      "fisheries_production_tons": 489,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 18.3,
       "prevalence_undernourish": 26.2,
@@ -666,7 +666,7 @@
     "BEN": {
       "crop_production_index": 116.4,
       "livestock_production_idx": 113.4,
-      "fisheries_production_tons": 15393,
+      "fisheries_production_tons": 934,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 18.2,
       "prevalence_undernourish": 26.7,
@@ -675,7 +675,7 @@
     "BDI": {
       "crop_production_index": 116.3,
       "livestock_production_idx": 113.3,
-      "fisheries_production_tons": 7492,
+      "fisheries_production_tons": 494,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 17,
       "prevalence_undernourish": 32.1,
@@ -684,7 +684,7 @@
     "BOL": {
       "crop_production_index": 105.7,
       "livestock_production_idx": 104.7,
-      "fisheries_production_tons": 47088,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.3,
       "prevalence_undernourish": 16.9,
@@ -693,7 +693,7 @@
     "TUN": {
       "crop_production_index": 100.8,
       "livestock_production_idx": 100.7,
-      "fisheries_production_tons": 17988,
+      "fisheries_production_tons": 1069,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 40.8,
       "prevalence_undernourish": 14.6,
@@ -702,7 +702,7 @@
     "HTI": {
       "crop_production_index": 104.4,
       "livestock_production_idx": 103.7,
-      "fisheries_production_tons": 7708,
+      "fisheries_production_tons": 494,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 38,
       "prevalence_undernourish": 27.6,
@@ -711,7 +711,7 @@
     "BEL": {
       "crop_production_index": 98.7,
       "livestock_production_idx": 99,
-      "fisheries_production_tons": 8065,
+      "fisheries_production_tons": 513,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 23.3,
       "prevalence_undernourish": 3.2,
@@ -720,7 +720,7 @@
     "JOR": {
       "crop_production_index": 102,
       "livestock_production_idx": 101.7,
-      "fisheries_production_tons": 13639,
+      "fisheries_production_tons": 822,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 40.8,
       "prevalence_undernourish": 14.6,
@@ -729,7 +729,7 @@
     "DOM": {
       "crop_production_index": 102.3,
       "livestock_production_idx": 101.9,
-      "fisheries_production_tons": 10120,
+      "fisheries_production_tons": 626,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 40.8,
       "prevalence_undernourish": 14.5,
@@ -738,7 +738,7 @@
     "CUB": {
       "crop_production_index": 93,
       "livestock_production_idx": 94.4,
-      "fisheries_production_tons": 14905,
+      "fisheries_production_tons": 890,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 41.3,
       "prevalence_undernourish": 12.3,
@@ -747,7 +747,7 @@
     "SSD": {
       "crop_production_index": 107.4,
       "livestock_production_idx": 106.1,
-      "fisheries_production_tons": 36347,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 16.6,
       "prevalence_undernourish": 34,
@@ -756,7 +756,7 @@
     "SWE": {
       "crop_production_index": 99.3,
       "livestock_production_idx": 99.5,
-      "fisheries_production_tons": 28932,
+      "fisheries_production_tons": 1666,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 2.6,
@@ -765,7 +765,7 @@
     "HND": {
       "crop_production_index": 106.6,
       "livestock_production_idx": 105.4,
-      "fisheries_production_tons": 15268,
+      "fisheries_production_tons": 908,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 39.4,
       "prevalence_undernourish": 21.1,
@@ -774,7 +774,7 @@
     "CZE": {
       "crop_production_index": 96.8,
       "livestock_production_idx": 97.4,
-      "fisheries_production_tons": 12717,
+      "fisheries_production_tons": 765,
       "agricultural_land_pct": 33,
       "irrigated_land_pct": 22.7,
       "prevalence_undernourish": 5.8,
@@ -783,7 +783,7 @@
     "AZE": {
       "crop_production_index": 100.4,
       "livestock_production_idx": 100.4,
-      "fisheries_production_tons": 13145,
+      "fisheries_production_tons": 788,
       "agricultural_land_pct": 55,
       "irrigated_land_pct": 21.1,
       "prevalence_undernourish": 13.4,
@@ -792,7 +792,7 @@
     "GRC": {
       "crop_production_index": 91.4,
       "livestock_production_idx": 93.1,
-      "fisheries_production_tons": 16363,
+      "fisheries_production_tons": 967,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 22.7,
       "prevalence_undernourish": 5.9,
@@ -801,7 +801,7 @@
     "PNG": {
       "crop_production_index": 109.6,
       "livestock_production_idx": 107.9,
-      "fisheries_production_tons": 30493,
+      "fisheries_production_tons": 1752,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 18.5,
       "prevalence_undernourish": 25.1,
@@ -810,7 +810,7 @@
     "PRT": {
       "crop_production_index": 93.3,
       "livestock_production_idx": 94.6,
-      "fisheries_production_tons": 13824,
+      "fisheries_production_tons": 825,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 22.2,
       "prevalence_undernourish": 8.4,
@@ -819,7 +819,7 @@
     "HUN": {
       "crop_production_index": 92.8,
       "livestock_production_idx": 94.2,
-      "fisheries_production_tons": 13664,
+      "fisheries_production_tons": 813,
       "agricultural_land_pct": 34,
       "irrigated_land_pct": 22.1,
       "prevalence_undernourish": 8.9,
@@ -828,7 +828,7 @@
     "TJK": {
       "crop_production_index": 112.2,
       "livestock_production_idx": 110,
-      "fisheries_production_tons": 17135,
+      "fisheries_production_tons": 1009,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 19.8,
       "prevalence_undernourish": 19.3,
@@ -837,7 +837,7 @@
     "ARE": {
       "crop_production_index": 101.4,
       "livestock_production_idx": 101.2,
-      "fisheries_production_tons": 13201,
+      "fisheries_production_tons": 786,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 43.2,
       "prevalence_undernourish": 3.5,
@@ -846,7 +846,7 @@
     "BLR": {
       "crop_production_index": 92.4,
       "livestock_production_idx": 93.9,
-      "fisheries_production_tons": 20459,
+      "fisheries_production_tons": 1189,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.7,
       "prevalence_undernourish": 10.6,
@@ -855,7 +855,7 @@
     "ISR": {
       "crop_production_index": 107.1,
       "livestock_production_idx": 105.8,
-      "fisheries_production_tons": 6806,
+      "fisheries_production_tons": 430,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 43,
       "prevalence_undernourish": 4.7,
@@ -864,7 +864,7 @@
     "TGO": {
       "crop_production_index": 114,
       "livestock_production_idx": 111.5,
-      "fisheries_production_tons": 10680,
+      "fisheries_production_tons": 645,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 18,
       "prevalence_undernourish": 27.3,
@@ -873,7 +873,7 @@
     "AUT": {
       "crop_production_index": 98.6,
       "livestock_production_idx": 98.9,
-      "fisheries_production_tons": 13103,
+      "fisheries_production_tons": 779,
       "agricultural_land_pct": 31,
       "irrigated_land_pct": 23.1,
       "prevalence_undernourish": 4.1,
@@ -882,7 +882,7 @@
     "CHE": {
       "crop_production_index": 100.9,
       "livestock_production_idx": 100.8,
-      "fisheries_production_tons": 9124,
+      "fisheries_production_tons": 556,
       "agricultural_land_pct": 62,
       "irrigated_land_pct": 23.6,
       "prevalence_undernourish": 2.5,
@@ -891,7 +891,7 @@
     "SLE": {
       "crop_production_index": 112,
       "livestock_production_idx": 109.8,
-      "fisheries_production_tons": 12222,
+      "fisheries_production_tons": 729,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 17,
       "prevalence_undernourish": 32,
@@ -900,7 +900,7 @@
     "LAO": {
       "crop_production_index": 105.8,
       "livestock_production_idx": 104.8,
-      "fisheries_production_tons": 21773,
+      "fisheries_production_tons": 1253,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 39.2,
       "prevalence_undernourish": 21.9,
@@ -909,7 +909,7 @@
     "HKG": {
       "crop_production_index": 93.8,
       "livestock_production_idx": 95,
-      "fisheries_production_tons": 1608,
+      "fisheries_production_tons": 131,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 43.5,
       "prevalence_undernourish": 2.5,
@@ -918,7 +918,7 @@
     "SRB": {
       "crop_production_index": 88.3,
       "livestock_production_idx": 90.5,
-      "fisheries_production_tons": 13450,
+      "fisheries_production_tons": 787,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.4,
       "prevalence_undernourish": 11.7,
@@ -927,7 +927,7 @@
     "NIC": {
       "crop_production_index": 105,
       "livestock_production_idx": 104.1,
-      "fisheries_production_tons": 15753,
+      "fisheries_production_tons": 915,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 39.9,
       "prevalence_undernourish": 18.8,
@@ -936,7 +936,7 @@
     "LBY": {
       "crop_production_index": 103.8,
       "livestock_production_idx": 103.2,
-      "fisheries_production_tons": 59831,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 40.5,
       "prevalence_undernourish": 16.2,
@@ -945,7 +945,7 @@
     "PRY": {
       "crop_production_index": 104.4,
       "livestock_production_idx": 103.7,
-      "fisheries_production_tons": 28503,
+      "fisheries_production_tons": 1622,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.4,
@@ -954,7 +954,7 @@
     "KGZ": {
       "crop_production_index": 108.6,
       "livestock_production_idx": 107,
-      "fisheries_production_tons": 19851,
+      "fisheries_production_tons": 1143,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 20.1,
       "prevalence_undernourish": 18,
@@ -963,7 +963,7 @@
     "BGR": {
       "crop_production_index": 89.4,
       "livestock_production_idx": 91.5,
-      "fisheries_production_tons": 14964,
+      "fisheries_production_tons": 868,
       "agricultural_land_pct": 38,
       "irrigated_land_pct": 21.8,
       "prevalence_undernourish": 10.3,
@@ -972,7 +972,7 @@
     "TKM": {
       "crop_production_index": 105.8,
       "livestock_production_idx": 104.8,
-      "fisheries_production_tons": 30980,
+      "fisheries_production_tons": 1758,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 20.5,
       "prevalence_undernourish": 16.2,
@@ -981,7 +981,7 @@
     "SLV": {
       "crop_production_index": 98.2,
       "livestock_production_idx": 98.6,
-      "fisheries_production_tons": 6605,
+      "fisheries_production_tons": 403,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 40.1,
       "prevalence_undernourish": 17.9,
@@ -990,7 +990,7 @@
     "COG": {
       "crop_production_index": 113.4,
       "livestock_production_idx": 111,
-      "fisheries_production_tons": 26422,
+      "fisheries_production_tons": 1503,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 19.3,
       "prevalence_undernourish": 21.7,
@@ -999,7 +999,7 @@
     "SGP": {
       "crop_production_index": 101.8,
       "livestock_production_idx": 101.5,
-      "fisheries_production_tons": 1327,
+      "fisheries_production_tons": 107,
       "agricultural_land_pct": 65,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 2.8,
@@ -1008,7 +1008,7 @@
     "DNK": {
       "crop_production_index": 98.8,
       "livestock_production_idx": 99.1,
-      "fisheries_production_tons": 9389,
+      "fisheries_production_tons": 555,
       "agricultural_land_pct": 60,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 2.6,
@@ -1017,7 +1017,7 @@
     "SVK": {
       "crop_production_index": 94.2,
       "livestock_production_idx": 95.3,
-      "fisheries_production_tons": 9982,
+      "fisheries_production_tons": 586,
       "agricultural_land_pct": 34,
       "irrigated_land_pct": 22.3,
       "prevalence_undernourish": 8,
@@ -1026,7 +1026,7 @@
     "CAF": {
       "crop_production_index": 112.2,
       "livestock_production_idx": 110,
-      "fisheries_production_tons": 35633,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 50,
       "irrigated_land_pct": 16.4,
       "prevalence_undernourish": 34.8,
@@ -1035,7 +1035,7 @@
     "FIN": {
       "crop_production_index": 96.3,
       "livestock_production_idx": 97,
-      "fisheries_production_tons": 24918,
+      "fisheries_production_tons": 1415,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 23.3,
       "prevalence_undernourish": 3.2,
@@ -1044,7 +1044,7 @@
     "NOR": {
       "crop_production_index": 100.6,
       "livestock_production_idx": 100.5,
-      "fisheries_production_tons": 27307,
+      "fisheries_production_tons": 4000,
       "agricultural_land_pct": 54,
       "irrigated_land_pct": 23.6,
       "prevalence_undernourish": 2.5,
@@ -1053,7 +1053,7 @@
     "LBR": {
       "crop_production_index": 111.8,
       "livestock_production_idx": 109.7,
-      "fisheries_production_tons": 14077,
+      "fisheries_production_tons": 813,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 17.2,
       "prevalence_undernourish": 31.1,
@@ -1062,7 +1062,7 @@
     "PSE": {
       "crop_production_index": 113.4,
       "livestock_production_idx": 111,
-      "fisheries_production_tons": 3601,
+      "fisheries_production_tons": 231,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 40.2,
       "prevalence_undernourish": 17.3,
@@ -1071,7 +1071,7 @@
     "NZL": {
       "crop_production_index": 105,
       "livestock_production_idx": 104.1,
-      "fisheries_production_tons": 23197,
+      "fisheries_production_tons": 1318,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 23.3,
       "prevalence_undernourish": 3.4,
@@ -1080,7 +1080,7 @@
     "CRI": {
       "crop_production_index": 99.8,
       "livestock_production_idx": 99.9,
-      "fisheries_production_tons": 10273,
+      "fisheries_production_tons": 600,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.5,
       "prevalence_undernourish": 11.3,
@@ -1089,7 +1089,7 @@
     "IRL": {
       "crop_production_index": 104.2,
       "livestock_production_idx": 103.5,
-      "fisheries_production_tons": 11914,
+      "fisheries_production_tons": 690,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 23.4,
       "prevalence_undernourish": 2.8,
@@ -1098,7 +1098,7 @@
     "MRT": {
       "crop_production_index": 116.2,
       "livestock_production_idx": 113.2,
-      "fisheries_production_tons": 45786,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 38.2,
       "prevalence_undernourish": 26.4,
@@ -1107,7 +1107,7 @@
     "OMN": {
       "crop_production_index": 107,
       "livestock_production_idx": 105.8,
-      "fisheries_production_tons": 25128,
+      "fisheries_production_tons": 1422,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 41.9,
       "prevalence_undernourish": 9.8,
@@ -1116,7 +1116,7 @@
     "PAN": {
       "crop_production_index": 105.4,
       "livestock_production_idx": 104.5,
-      "fisheries_production_tons": 12360,
+      "fisheries_production_tons": 712,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.5,
       "prevalence_undernourish": 11.6,
@@ -1125,7 +1125,7 @@
     "KWT": {
       "crop_production_index": 102.2,
       "livestock_production_idx": 101.8,
-      "fisheries_production_tons": 6094,
+      "fisheries_production_tons": 363,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 41.6,
       "prevalence_undernourish": 10.8,
@@ -1134,7 +1134,7 @@
     "HRV": {
       "crop_production_index": 91.4,
       "livestock_production_idx": 93.1,
-      "fisheries_production_tons": 10725,
+      "fisheries_production_tons": 618,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 22,
       "prevalence_undernourish": 9.3,
@@ -1143,7 +1143,7 @@
     "GEO": {
       "crop_production_index": 93.4,
       "livestock_production_idx": 94.7,
-      "fisheries_production_tons": 11937,
+      "fisheries_production_tons": 684,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 21.4,
       "prevalence_undernourish": 12.1,
@@ -1152,7 +1152,7 @@
     "ERI": {
       "crop_production_index": 106.2,
       "livestock_production_idx": 105.1,
-      "fisheries_production_tons": 14376,
+      "fisheries_production_tons": 820,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 37.3,
       "prevalence_undernourish": 30.8,
@@ -1161,7 +1161,7 @@
     "URY": {
       "crop_production_index": 96.2,
       "livestock_production_idx": 97,
-      "fisheries_production_tons": 18894,
+      "fisheries_production_tons": 1069,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.6,
       "prevalence_undernourish": 10.8,
@@ -1170,7 +1170,7 @@
     "MNG": {
       "crop_production_index": 106.2,
       "livestock_production_idx": 105.1,
-      "fisheries_production_tons": 56158,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 20.9,
       "prevalence_undernourish": 14.2,
@@ -1179,7 +1179,7 @@
     "BIH": {
       "crop_production_index": 87.8,
       "livestock_production_idx": 90.2,
-      "fisheries_production_tons": 10227,
+      "fisheries_production_tons": 586,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 21.2,
       "prevalence_undernourish": 12.8,
@@ -1188,7 +1188,7 @@
     "QAT": {
       "crop_production_index": 104.6,
       "livestock_production_idx": 103.8,
-      "fisheries_production_tons": 4910,
+      "fisheries_production_tons": 290,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 42.3,
       "prevalence_undernourish": 7.9,
@@ -1197,7 +1197,7 @@
     "NAM": {
       "crop_production_index": 110.2,
       "livestock_production_idx": 108.3,
-      "fisheries_production_tons": 40892,
+      "fisheries_production_tons": 2000,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 19.8,
       "prevalence_undernourish": 19.4,
@@ -1206,7 +1206,7 @@
     "ARM": {
       "crop_production_index": 96.6,
       "livestock_production_idx": 97.3,
-      "fisheries_production_tons": 7652,
+      "fisheries_production_tons": 442,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 21.1,
       "prevalence_undernourish": 13.5,
@@ -1215,7 +1215,7 @@
     "LTU": {
       "crop_production_index": 96.6,
       "livestock_production_idx": 97.3,
-      "fisheries_production_tons": 11320,
+      "fisheries_production_tons": 644,
       "agricultural_land_pct": 60,
       "irrigated_land_pct": 22.3,
       "prevalence_undernourish": 7.8,
@@ -1224,7 +1224,7 @@
     "JAM": {
       "crop_production_index": 94.2,
       "livestock_production_idx": 95.3,
-      "fisheries_production_tons": 4740,
+      "fisheries_production_tons": 279,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 40.8,
       "prevalence_undernourish": 14.7,
@@ -1233,7 +1233,7 @@
     "ALB": {
       "crop_production_index": 91,
       "livestock_production_idx": 92.8,
-      "fisheries_production_tons": 7505,
+      "fisheries_production_tons": 432,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 21.4,
       "prevalence_undernourish": 11.8,
@@ -1242,7 +1242,7 @@
     "GMB": {
       "crop_production_index": 114.2,
       "livestock_production_idx": 111.6,
-      "fisheries_production_tons": 4582,
+      "fisheries_production_tons": 270,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 37.5,
       "prevalence_undernourish": 29.7,
@@ -1251,7 +1251,7 @@
     "GAB": {
       "crop_production_index": 111.8,
       "livestock_production_idx": 109.7,
-      "fisheries_production_tons": 22891,
+      "fisheries_production_tons": 1285,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.4,
@@ -1260,7 +1260,7 @@
     "BWA": {
       "crop_production_index": 109.4,
       "livestock_production_idx": 107.7,
-      "fisheries_production_tons": 33930,
+      "fisheries_production_tons": 1900,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 20.6,
       "prevalence_undernourish": 15.6,
@@ -1269,7 +1269,7 @@
     "LSO": {
       "crop_production_index": 103.8,
       "livestock_production_idx": 103.2,
-      "fisheries_production_tons": 7887,
+      "fisheries_production_tons": 451,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 18.2,
       "prevalence_undernourish": 26.4,
@@ -1278,7 +1278,7 @@
     "GNB": {
       "crop_production_index": 113.4,
       "livestock_production_idx": 111,
-      "fisheries_production_tons": 7589,
+      "fisheries_production_tons": 434,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 37.5,
       "prevalence_undernourish": 30,
@@ -1287,7 +1287,7 @@
     "SVN": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 6429,
+      "fisheries_production_tons": 369,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 23.1,
       "prevalence_undernourish": 4.1,
@@ -1296,7 +1296,7 @@
     "GNQ": {
       "crop_production_index": 112.6,
       "livestock_production_idx": 110.3,
-      "fisheries_production_tons": 7571,
+      "fisheries_production_tons": 430,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 19.1,
       "prevalence_undernourish": 22.5,
@@ -1305,7 +1305,7 @@
     "LVA": {
       "crop_production_index": 90.2,
       "livestock_production_idx": 92.1,
-      "fisheries_production_tons": 11260,
+      "fisheries_production_tons": 636,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 22.2,
       "prevalence_undernourish": 8.4,
@@ -1314,7 +1314,7 @@
     "MKD": {
       "crop_production_index": 92.6,
       "livestock_production_idx": 94,
-      "fisheries_production_tons": 7213,
+      "fisheries_production_tons": 411,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 21.1,
       "prevalence_undernourish": 13.4,
@@ -1323,7 +1323,7 @@
     "BHR": {
       "crop_production_index": 104.6,
       "livestock_production_idx": 103.8,
-      "fisheries_production_tons": 1288,
+      "fisheries_production_tons": 80,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 42.2,
       "prevalence_undernourish": 8.5,
@@ -1332,7 +1332,7 @@
     "TTO": {
       "crop_production_index": 97.4,
       "livestock_production_idx": 98,
-      "fisheries_production_tons": 3254,
+      "fisheries_production_tons": 189,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 41.4,
       "prevalence_undernourish": 11.9,
@@ -1341,7 +1341,7 @@
     "TLS": {
       "crop_production_index": 107,
       "livestock_production_idx": 105.8,
-      "fisheries_production_tons": 5515,
+      "fisheries_production_tons": 314,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1350,7 +1350,7 @@
     "CYP": {
       "crop_production_index": 100.6,
       "livestock_production_idx": 100.5,
-      "fisheries_production_tons": 4351,
+      "fisheries_production_tons": 249,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 22.4,
       "prevalence_undernourish": 7.2,
@@ -1359,7 +1359,7 @@
     "EST": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 9292,
+      "fisheries_production_tons": 524,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 22.5,
       "prevalence_undernourish": 7.1,
@@ -1368,7 +1368,7 @@
     "MUS": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 2054,
+      "fisheries_production_tons": 121,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 21.5,
       "prevalence_undernourish": 11.5,
@@ -1377,7 +1377,7 @@
     "SWZ": {
       "crop_production_index": 103.8,
       "livestock_production_idx": 103.2,
-      "fisheries_production_tons": 5926,
+      "fisheries_production_tons": 336,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 19.1,
       "prevalence_undernourish": 22.7,
@@ -1386,7 +1386,7 @@
     "DJI": {
       "crop_production_index": 105.4,
       "livestock_production_idx": 104.5,
-      "fisheries_production_tons": 6874,
+      "fisheries_production_tons": 388,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 37.7,
       "prevalence_undernourish": 28.8,
@@ -1395,7 +1395,7 @@
     "FJI": {
       "crop_production_index": 99.8,
       "livestock_production_idx": 99.9,
-      "fisheries_production_tons": 6101,
+      "fisheries_production_tons": 344,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 20.9,
       "prevalence_undernourish": 14.2,
@@ -1404,7 +1404,7 @@
     "COM": {
       "crop_production_index": 109.4,
       "livestock_production_idx": 107.7,
-      "fisheries_production_tons": 2144,
+      "fisheries_production_tons": 124,
       "agricultural_land_pct": 61,
       "irrigated_land_pct": 18,
       "prevalence_undernourish": 27.3,
@@ -1413,7 +1413,7 @@
     "GUY": {
       "crop_production_index": 99,
       "livestock_production_idx": 99.3,
-      "fisheries_production_tons": 19982,
+      "fisheries_production_tons": 1115,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 19.8,
       "prevalence_undernourish": 19,
@@ -1422,7 +1422,7 @@
     "BTN": {
       "crop_production_index": 101.4,
       "livestock_production_idx": 101.2,
-      "fisheries_production_tons": 8801,
+      "fisheries_production_tons": 493,
       "agricultural_land_pct": 63,
       "irrigated_land_pct": 39.3,
       "prevalence_undernourish": 21.3,
@@ -1431,7 +1431,7 @@
     "SLB": {
       "crop_production_index": 111.8,
       "livestock_production_idx": 109.7,
-      "fisheries_production_tons": 7543,
+      "fisheries_production_tons": 423,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 18.6,
       "prevalence_undernourish": 25,
@@ -1440,7 +1440,7 @@
     "LUX": {
       "crop_production_index": 110.2,
       "livestock_production_idx": 108.3,
-      "fisheries_production_tons": 2296,
+      "fisheries_production_tons": 131,
       "agricultural_land_pct": 40,
       "irrigated_land_pct": 23.1,
       "prevalence_undernourish": 4,
@@ -1449,7 +1449,7 @@
     "MNE": {
       "crop_production_index": 93.4,
       "livestock_production_idx": 94.7,
-      "fisheries_production_tons": 5231,
+      "fisheries_production_tons": 294,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 21.8,
       "prevalence_undernourish": 10.2,
@@ -1458,7 +1458,7 @@
     "SUR": {
       "crop_production_index": 101.4,
       "livestock_production_idx": 101.2,
-      "fisheries_production_tons": 17786,
+      "fisheries_production_tons": 992,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 20.6,
       "prevalence_undernourish": 15.4,
@@ -1467,7 +1467,7 @@
     "CPV": {
       "crop_production_index": 102.2,
       "livestock_production_idx": 101.8,
-      "fisheries_production_tons": 2869,
+      "fisheries_production_tons": 163,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 40.4,
       "prevalence_undernourish": 16.5,
@@ -1476,7 +1476,7 @@
     "MDV": {
       "crop_production_index": 108.6,
       "livestock_production_idx": 107,
-      "fisheries_production_tons": 790,
+      "fisheries_production_tons": 47,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.6,
       "prevalence_undernourish": 15.6,
@@ -1485,7 +1485,7 @@
     "MLT": {
       "crop_production_index": 111.8,
       "livestock_production_idx": 109.7,
-      "fisheries_production_tons": 811,
+      "fisheries_production_tons": 48,
       "agricultural_land_pct": 62,
       "irrigated_land_pct": 22.5,
       "prevalence_undernourish": 6.7,
@@ -1494,7 +1494,7 @@
     "BRN": {
       "crop_production_index": 101.4,
       "livestock_production_idx": 101.2,
-      "fisheries_production_tons": 3276,
+      "fisheries_production_tons": 185,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 22.2,
       "prevalence_undernourish": 8.1,
@@ -1503,7 +1503,7 @@
     "BLZ": {
       "crop_production_index": 106.2,
       "livestock_production_idx": 105.1,
-      "fisheries_production_tons": 6805,
+      "fisheries_production_tons": 380,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 40.5,
       "prevalence_undernourish": 16.1,
@@ -1512,7 +1512,7 @@
     "BHS": {
       "crop_production_index": 100.6,
       "livestock_production_idx": 100.5,
-      "fisheries_production_tons": 4511,
+      "fisheries_production_tons": 253,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 41.7,
       "prevalence_undernourish": 10.6,
@@ -1521,7 +1521,7 @@
     "ISL": {
       "crop_production_index": 107,
       "livestock_production_idx": 105.8,
-      "fisheries_production_tons": 14256,
+      "fisheries_production_tons": 794,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 23.5,
       "prevalence_undernourish": 2.5,
@@ -1530,7 +1530,7 @@
     "VUT": {
       "crop_production_index": 112.6,
       "livestock_production_idx": 110.3,
-      "fisheries_production_tons": 4975,
+      "fisheries_production_tons": 278,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 19.2,
       "prevalence_undernourish": 21.8,
@@ -1539,7 +1539,7 @@
     "BRB": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 939,
+      "fisheries_production_tons": 54,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 41.6,
       "prevalence_undernourish": 11,
@@ -1548,7 +1548,7 @@
     "STP": {
       "crop_production_index": 110.2,
       "livestock_production_idx": 108.3,
-      "fisheries_production_tons": 1399,
+      "fisheries_production_tons": 79,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 19.1,
       "prevalence_undernourish": 22.6,
@@ -1557,7 +1557,7 @@
     "WSM": {
       "crop_production_index": 104.6,
       "livestock_production_idx": 103.8,
-      "fisheries_production_tons": 2398,
+      "fisheries_production_tons": 134,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 20.6,
       "prevalence_undernourish": 15.8,
@@ -1566,7 +1566,7 @@
     "LCA": {
       "crop_production_index": 97.4,
       "livestock_production_idx": 98,
-      "fisheries_production_tons": 1115,
+      "fisheries_production_tons": 63,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 41,
       "prevalence_undernourish": 13.9,
@@ -1575,7 +1575,7 @@
     "KIR": {
       "crop_production_index": 107.8,
       "livestock_production_idx": 106.4,
-      "fisheries_production_tons": 1283,
+      "fisheries_production_tons": 72,
       "agricultural_land_pct": 36,
       "irrigated_land_pct": 19.3,
       "prevalence_undernourish": 21.3,
@@ -1584,7 +1584,7 @@
     "GRD": {
       "crop_production_index": 99,
       "livestock_production_idx": 99.3,
-      "fisheries_production_tons": 832,
+      "fisheries_production_tons": 47,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 41.3,
       "prevalence_undernourish": 12.5,
@@ -1593,7 +1593,7 @@
     "VCT": {
       "crop_production_index": 93.4,
       "livestock_production_idx": 94.7,
-      "fisheries_production_tons": 891,
+      "fisheries_production_tons": 50,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 40.7,
       "prevalence_undernourish": 15.2,
@@ -1602,7 +1602,7 @@
     "FSM": {
       "crop_production_index": 101.4,
       "livestock_production_idx": 101.2,
-      "fisheries_production_tons": 1193,
+      "fisheries_production_tons": 67,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1611,7 +1611,7 @@
     "SYC": {
       "crop_production_index": 99.8,
       "livestock_production_idx": 99.9,
-      "fisheries_production_tons": 967,
+      "fisheries_production_tons": 54,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.6,
       "prevalence_undernourish": 11.2,
@@ -1620,7 +1620,7 @@
     "ATG": {
       "crop_production_index": 99.8,
       "livestock_production_idx": 99.9,
-      "fisheries_production_tons": 946,
+      "fisheries_production_tons": 53,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 41.4,
       "prevalence_undernourish": 12.1,
@@ -1629,7 +1629,7 @@
     "AND": {
       "crop_production_index": 104.6,
       "livestock_production_idx": 103.8,
-      "fisheries_production_tons": 977,
+      "fisheries_production_tons": 55,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 22.3,
       "prevalence_undernourish": 7.8,
@@ -1638,7 +1638,7 @@
     "DMA": {
       "crop_production_index": 96.6,
       "livestock_production_idx": 97.3,
-      "fisheries_production_tons": 1234,
+      "fisheries_production_tons": 69,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 40.6,
       "prevalence_undernourish": 15.7,
@@ -1647,7 +1647,7 @@
     "MHL": {
       "crop_production_index": 98.2,
       "livestock_production_idx": 98.6,
-      "fisheries_production_tons": 605,
+      "fisheries_production_tons": 34,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.5,
       "prevalence_undernourish": 16.1,
@@ -1656,7 +1656,7 @@
     "KNA": {
       "crop_production_index": 98.2,
       "livestock_production_idx": 98.6,
-      "fisheries_production_tons": 727,
+      "fisheries_production_tons": 41,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 41.3,
       "prevalence_undernourish": 12.2,
@@ -1665,7 +1665,7 @@
     "MCO": {
       "crop_production_index": 99,
       "livestock_production_idx": 99.3,
-      "fisheries_production_tons": 64,
+      "fisheries_production_tons": 4,
       "agricultural_land_pct": 28,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1674,7 +1674,7 @@
     "LIE": {
       "crop_production_index": 99.8,
       "livestock_production_idx": 99.9,
-      "fisheries_production_tons": 570,
+      "fisheries_production_tons": 32,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 23,
       "prevalence_undernourish": 4.6,
@@ -1683,7 +1683,7 @@
     "SMR": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 349,
+      "fisheries_production_tons": 20,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1692,7 +1692,7 @@
     "PLW": {
       "crop_production_index": 95.8,
       "livestock_production_idx": 96.7,
-      "fisheries_production_tons": 966,
+      "fisheries_production_tons": 54,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 21.6,
       "prevalence_undernourish": 11.1,
@@ -1701,7 +1701,7 @@
     "NRU": {
       "crop_production_index": 100.6,
       "livestock_production_idx": 100.5,
-      "fisheries_production_tons": 202,
+      "fisheries_production_tons": 11,
       "agricultural_land_pct": 46,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1710,7 +1710,7 @@
     "TUV": {
       "crop_production_index": 102.2,
       "livestock_production_idx": 101.8,
-      "fisheries_production_tons": 247,
+      "fisheries_production_tons": 14,
       "agricultural_land_pct": 56,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1719,7 +1719,7 @@
     "VAT": {
       "crop_production_index": 103,
       "livestock_production_idx": 102.5,
-      "fisheries_production_tons": 32,
+      "fisheries_production_tons": 2,
       "agricultural_land_pct": 26.5,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1728,7 +1728,7 @@
     "BFA": {
       "crop_production_index": 115,
       "livestock_production_idx": 112.3,
-      "fisheries_production_tons": 24029,
+      "fisheries_production_tons": 1464,
       "agricultural_land_pct": 26,
       "irrigated_land_pct": 37.1,
       "prevalence_undernourish": 31.7,
@@ -1737,7 +1737,7 @@
     "KHM": {
       "crop_production_index": 103.4,
       "livestock_production_idx": 102.8,
-      "fisheries_production_tons": 19486,
+      "fisheries_production_tons": 1177,
       "agricultural_land_pct": 61,
       "irrigated_land_pct": 39,
       "prevalence_undernourish": 23,
@@ -1746,7 +1746,7 @@
     "LBN": {
       "crop_production_index": 80.6,
       "livestock_production_idx": 84.3,
-      "fisheries_production_tons": 4708,
+      "fisheries_production_tons": 291,
       "agricultural_land_pct": 38,
       "irrigated_land_pct": 41.1,
       "prevalence_undernourish": 13.4,
@@ -1755,7 +1755,7 @@
     "MWI": {
       "crop_production_index": 115.4,
       "livestock_production_idx": 112.6,
-      "fisheries_production_tons": 15912,
+      "fisheries_production_tons": 1001,
       "agricultural_land_pct": 30,
       "irrigated_land_pct": 17.7,
       "prevalence_undernourish": 28.8,
@@ -1764,7 +1764,7 @@
     "MDA": {
       "crop_production_index": 87.8,
       "livestock_production_idx": 90.2,
-      "fisheries_production_tons": 8329,
+      "fisheries_production_tons": 477,
       "agricultural_land_pct": 32,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,
@@ -1773,7 +1773,7 @@
     "TON": {
       "crop_production_index": 93.4,
       "livestock_production_idx": 94.7,
-      "fisheries_production_tons": 1232,
+      "fisheries_production_tons": 69,
       "agricultural_land_pct": 53,
       "irrigated_land_pct": 20.7,
       "prevalence_undernourish": 15.1,
@@ -1782,7 +1782,7 @@
     "XKX": {
       "crop_production_index": 98.2,
       "livestock_production_idx": 98.6,
-      "fisheries_production_tons": 4731,
+      "fisheries_production_tons": 273,
       "agricultural_land_pct": 33,
       "irrigated_land_pct": 20.4,
       "prevalence_undernourish": 16.5,

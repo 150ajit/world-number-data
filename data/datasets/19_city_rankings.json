@@ -19,7 +19,7 @@
       "public_transit_commute_pct": 49.5,
       "housing_price_to_income": 16.1,
       "safest_city_index": 50.7,
-      "city_international_visitors": 28,
+      "city_international_visitors": 7.4,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 35.7
     },
@@ -36,7 +36,7 @@
       "public_transit_commute_pct": 52.9,
       "housing_price_to_income": 15.3,
       "safest_city_index": 59.3,
-      "city_international_visitors": 28,
+      "city_international_visitors": 9.8,
       "skyscrapers_150m_count": 3100,
       "city_urban_pop_share": 66.3
     },
@@ -53,7 +53,7 @@
       "public_transit_commute_pct": 62.2,
       "housing_price_to_income": 14.4,
       "safest_city_index": 76,
-      "city_international_visitors": 28,
+      "city_international_visitors": 12.9,
       "skyscrapers_150m_count": 920,
       "city_urban_pop_share": 80.2
     },
@@ -70,7 +70,7 @@
       "public_transit_commute_pct": 52.1,
       "housing_price_to_income": 15.7,
       "safest_city_index": 55.8,
-      "city_international_visitors": 25.98,
+      "city_international_visitors": 9.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 59.4
     },
@@ -87,7 +87,7 @@
       "public_transit_commute_pct": 46.5,
       "housing_price_to_income": 10.8,
       "safest_city_index": 44,
-      "city_international_visitors": 15.56,
+      "city_international_visitors": 7.78,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 39.5
     },
@@ -104,7 +104,7 @@
       "public_transit_commute_pct": 52.8,
       "housing_price_to_income": 10.7,
       "safest_city_index": 47.6,
-      "city_international_visitors": 13.66,
+      "city_international_visitors": 6.83,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 63.8
     },
@@ -121,7 +121,7 @@
       "public_transit_commute_pct": 59.9,
       "housing_price_to_income": 15.4,
       "safest_city_index": 62.2,
-      "city_international_visitors": 28,
+      "city_international_visitors": 9.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 88.2
     },
@@ -138,7 +138,7 @@
       "public_transit_commute_pct": 48.5,
       "housing_price_to_income": 10,
       "safest_city_index": 56.6,
-      "city_international_visitors": 12.32,
+      "city_international_visitors": 6.16,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 33.2
     },
@@ -155,7 +155,7 @@
       "public_transit_commute_pct": 63.2,
       "housing_price_to_income": 15.1,
       "safest_city_index": 67.8,
-      "city_international_visitors": 23.69,
+      "city_international_visitors": 9.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 75.3
     },
@@ -172,7 +172,7 @@
       "public_transit_commute_pct": 49.7,
       "housing_price_to_income": 11,
       "safest_city_index": 36.4,
-      "city_international_visitors": 7.91,
+      "city_international_visitors": 3.96,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 24.1
     },
@@ -189,7 +189,7 @@
       "public_transit_commute_pct": 57.7,
       "housing_price_to_income": 15.3,
       "safest_city_index": 57.8,
-      "city_international_visitors": 22.67,
+      "city_international_visitors": 9.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 80
     },
@@ -206,7 +206,7 @@
       "public_transit_commute_pct": 61,
       "housing_price_to_income": 14.5,
       "safest_city_index": 83.2,
-      "city_international_visitors": 28,
+      "city_international_visitors": 15.1,
       "skyscrapers_150m_count": 280,
       "city_urban_pop_share": 92.3
     },
@@ -223,7 +223,7 @@
       "public_transit_commute_pct": 49,
       "housing_price_to_income": 9.7,
       "safest_city_index": 55.5,
-      "city_international_visitors": 9.73,
+      "city_international_visitors": 4.87,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 55.8
     },
@@ -240,7 +240,7 @@
       "public_transit_commute_pct": 50.7,
       "housing_price_to_income": 9.6,
       "safest_city_index": 57.9,
-      "city_international_visitors": 8.61,
+      "city_international_visitors": 4.31,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 42.9
     },
@@ -257,7 +257,7 @@
       "public_transit_commute_pct": 58.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 58.8,
-      "city_international_visitors": 5.99,
+      "city_international_visitors": 3,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 45.1
     },
@@ -274,7 +274,7 @@
       "public_transit_commute_pct": 50.6,
       "housing_price_to_income": 9.6,
       "safest_city_index": 60.7,
-      "city_international_visitors": 8.78,
+      "city_international_visitors": 4.39,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 38.8
     },
@@ -291,7 +291,7 @@
       "public_transit_commute_pct": 57.3,
       "housing_price_to_income": 9.2,
       "safest_city_index": 67.1,
-      "city_international_visitors": 8.29,
+      "city_international_visitors": 4.15,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 77.4
     },
@@ -308,7 +308,7 @@
       "public_transit_commute_pct": 65.5,
       "housing_price_to_income": 14.9,
       "safest_city_index": 71.3,
-      "city_international_visitors": 13.29,
+      "city_international_visitors": 23,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 89.5
     },
@@ -325,7 +325,7 @@
       "public_transit_commute_pct": 64.1,
       "housing_price_to_income": 14.3,
       "safest_city_index": 76,
-      "city_international_visitors": 28,
+      "city_international_visitors": 9.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 82.1
     },
@@ -342,7 +342,7 @@
       "public_transit_commute_pct": 57.5,
       "housing_price_to_income": 15.2,
       "safest_city_index": 64.4,
-      "city_international_visitors": 7.97,
+      "city_international_visitors": 32.4,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 62.8
     },
@@ -359,7 +359,7 @@
       "public_transit_commute_pct": 60.7,
       "housing_price_to_income": 14.4,
       "safest_city_index": 72.6,
-      "city_international_visitors": 28,
+      "city_international_visitors": 21.7,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 83.3
     },
@@ -376,7 +376,7 @@
       "public_transit_commute_pct": 53.4,
       "housing_price_to_income": 10.8,
       "safest_city_index": 44.8,
-      "city_international_visitors": 4.06,
+      "city_international_visitors": 2.03,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 36.9
     },
@@ -393,7 +393,7 @@
       "public_transit_commute_pct": 57.6,
       "housing_price_to_income": 14.5,
       "safest_city_index": 68.3,
-      "city_international_visitors": 28,
+      "city_international_visitors": 17.4,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 78.8
     },
@@ -410,7 +410,7 @@
       "public_transit_commute_pct": 58.2,
       "housing_price_to_income": 9.7,
       "safest_city_index": 53.1,
-      "city_international_visitors": 6.18,
+      "city_international_visitors": 3.09,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 63.8
     },
@@ -427,7 +427,7 @@
       "public_transit_commute_pct": 62.4,
       "housing_price_to_income": 14.6,
       "safest_city_index": 73,
-      "city_international_visitors": 21.59,
+      "city_international_visitors": 10.9,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 69.7
     },
@@ -444,7 +444,7 @@
       "public_transit_commute_pct": 50.4,
       "housing_price_to_income": 10.5,
       "safest_city_index": 49.7,
-      "city_international_visitors": 3.67,
+      "city_international_visitors": 1.83,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 32.2
     },
@@ -461,7 +461,7 @@
       "public_transit_commute_pct": 52,
       "housing_price_to_income": 10.5,
       "safest_city_index": 44.8,
-      "city_international_visitors": 3.24,
+      "city_international_visitors": 1.62,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 30.6
     },
@@ -478,7 +478,7 @@
       "public_transit_commute_pct": 56.8,
       "housing_price_to_income": 9.5,
       "safest_city_index": 62.1,
-      "city_international_visitors": 5.72,
+      "city_international_visitors": 2.86,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 78.8
     },
@@ -495,7 +495,7 @@
       "public_transit_commute_pct": 65.3,
       "housing_price_to_income": 14.4,
       "safest_city_index": 70.7,
-      "city_international_visitors": 16.68,
+      "city_international_visitors": 11.2,
       "skyscrapers_150m_count": 275,
       "city_urban_pop_share": 81.2
     },
@@ -512,7 +512,7 @@
       "public_transit_commute_pct": 46.6,
       "housing_price_to_income": 10.9,
       "safest_city_index": 43.2,
-      "city_international_visitors": 2.89,
+      "city_international_visitors": 1.45,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 31.9
     },
@@ -529,7 +529,7 @@
       "public_transit_commute_pct": 42.1,
       "housing_price_to_income": 11,
       "safest_city_index": 41.1,
-      "city_international_visitors": 3.34,
+      "city_international_visitors": 1.67,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 34.9
     },
@@ -546,7 +546,7 @@
       "public_transit_commute_pct": 60.6,
       "housing_price_to_income": 14.5,
       "safest_city_index": 74.4,
-      "city_international_visitors": 15.57,
+      "city_international_visitors": 10.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 80.5
     },
@@ -563,7 +563,7 @@
       "public_transit_commute_pct": 56.3,
       "housing_price_to_income": 14.9,
       "safest_city_index": 64.8,
-      "city_international_visitors": 7.13,
+      "city_international_visitors": 3.57,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 92.4
     },
@@ -580,7 +580,7 @@
       "public_transit_commute_pct": 57.7,
       "housing_price_to_income": 9.5,
       "safest_city_index": 62.8,
-      "city_international_visitors": 4.23,
+      "city_international_visitors": 2.11,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 75.8
     },
@@ -597,7 +597,7 @@
       "public_transit_commute_pct": 56,
       "housing_price_to_income": 9.9,
       "safest_city_index": 52.7,
-      "city_international_visitors": 4.42,
+      "city_international_visitors": 2.21,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 69.9
     },
@@ -614,7 +614,7 @@
       "public_transit_commute_pct": 42.9,
       "housing_price_to_income": 11,
       "safest_city_index": 44.9,
-      "city_international_visitors": 2.25,
+      "city_international_visitors": 1.12,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 25.9
     },
@@ -631,7 +631,7 @@
       "public_transit_commute_pct": 62.5,
       "housing_price_to_income": 14.7,
       "safest_city_index": 66.2,
-      "city_international_visitors": 8.76,
+      "city_international_visitors": 4.38,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 60.1
     },
@@ -648,7 +648,7 @@
       "public_transit_commute_pct": 63.5,
       "housing_price_to_income": 14.4,
       "safest_city_index": 81.5,
-      "city_international_visitors": 19.92,
+      "city_international_visitors": 9.5,
       "skyscrapers_150m_count": 145,
       "city_urban_pop_share": 82.9
     },
@@ -665,7 +665,7 @@
       "public_transit_commute_pct": 56.5,
       "housing_price_to_income": 9.8,
       "safest_city_index": 59.7,
-      "city_international_visitors": 3.03,
+      "city_international_visitors": 1.52,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 63.1
     },
@@ -682,7 +682,7 @@
       "public_transit_commute_pct": 60.3,
       "housing_price_to_income": 14.8,
       "safest_city_index": 72.8,
-      "city_international_visitors": 10.73,
+      "city_international_visitors": 5.36,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 84.6
     },
@@ -699,7 +699,7 @@
       "public_transit_commute_pct": 51.9,
       "housing_price_to_income": 9.6,
       "safest_city_index": 62.3,
-      "city_international_visitors": 3.36,
+      "city_international_visitors": 1.68,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 69.6
     },
@@ -716,7 +716,7 @@
       "public_transit_commute_pct": 55.1,
       "housing_price_to_income": 10.5,
       "safest_city_index": 51,
-      "city_international_visitors": 2.57,
+      "city_international_visitors": 1.29,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 71.5
     },
@@ -733,7 +733,7 @@
       "public_transit_commute_pct": 50,
       "housing_price_to_income": 9.7,
       "safest_city_index": 59.5,
-      "city_international_visitors": 2.55,
+      "city_international_visitors": 1.27,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 51
     },
@@ -750,7 +750,7 @@
       "public_transit_commute_pct": 46.2,
       "housing_price_to_income": 11.3,
       "safest_city_index": 35,
-      "city_international_visitors": 1.94,
+      "city_international_visitors": 0.97,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 37
     },
@@ -767,7 +767,7 @@
       "public_transit_commute_pct": 53.5,
       "housing_price_to_income": 9.5,
       "safest_city_index": 61.5,
-      "city_international_visitors": 3.99,
+      "city_international_visitors": 2,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 85.6
     },
@@ -784,7 +784,7 @@
       "public_transit_commute_pct": 61.7,
       "housing_price_to_income": 9.2,
       "safest_city_index": 65.7,
-      "city_international_visitors": 5.3,
+      "city_international_visitors": 16.5,
       "skyscrapers_150m_count": 160,
       "city_urban_pop_share": 77.4
     },
@@ -801,7 +801,7 @@
       "public_transit_commute_pct": 48.5,
       "housing_price_to_income": 10.4,
       "safest_city_index": 44.8,
-      "city_international_visitors": 2.35,
+      "city_international_visitors": 1.17,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 58.9
     },
@@ -818,7 +818,7 @@
       "public_transit_commute_pct": 44.6,
       "housing_price_to_income": 11.4,
       "safest_city_index": 35.3,
-      "city_international_visitors": 1.9,
+      "city_international_visitors": 0.95,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 37.2
     },
@@ -835,7 +835,7 @@
       "public_transit_commute_pct": 49.8,
       "housing_price_to_income": 10.6,
       "safest_city_index": 42.5,
-      "city_international_visitors": 1.89,
+      "city_international_visitors": 0.94,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 67
     },
@@ -852,7 +852,7 @@
       "public_transit_commute_pct": 41.7,
       "housing_price_to_income": 10.9,
       "safest_city_index": 38.4,
-      "city_international_visitors": 1.68,
+      "city_international_visitors": 0.84,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 32.9
     },
@@ -869,7 +869,7 @@
       "public_transit_commute_pct": 58.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 52.8,
-      "city_international_visitors": 2.19,
+      "city_international_visitors": 1.09,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 54.5
     },
@@ -886,7 +886,7 @@
       "public_transit_commute_pct": 55.9,
       "housing_price_to_income": 9.4,
       "safest_city_index": 64.3,
-      "city_international_visitors": 5.33,
+      "city_international_visitors": 2.66,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 89.3
     },
@@ -903,7 +903,7 @@
       "public_transit_commute_pct": 53.1,
       "housing_price_to_income": 10.7,
       "safest_city_index": 42.1,
-      "city_international_visitors": 1.84,
+      "city_international_visitors": 0.92,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 55.7
     },
@@ -920,7 +920,7 @@
       "public_transit_commute_pct": 38,
       "housing_price_to_income": 11.6,
       "safest_city_index": 35,
-      "city_international_visitors": 1.49,
+      "city_international_visitors": 0.74,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 18.4
     },
@@ -937,7 +937,7 @@
       "public_transit_commute_pct": 62.9,
       "housing_price_to_income": 14.3,
       "safest_city_index": 76,
-      "city_international_visitors": 15.66,
+      "city_international_visitors": 7.83,
       "skyscrapers_150m_count": 140,
       "city_urban_pop_share": 87.7
     },
@@ -954,7 +954,7 @@
       "public_transit_commute_pct": 57.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 54.8,
-      "city_international_visitors": 2.26,
+      "city_international_visitors": 1.13,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 64.2
     },
@@ -971,7 +971,7 @@
       "public_transit_commute_pct": 57.6,
       "housing_price_to_income": 15.8,
       "safest_city_index": 84.8,
-      "city_international_visitors": 7.62,
+      "city_international_visitors": 3.81,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 78.9
     },
@@ -988,7 +988,7 @@
       "public_transit_commute_pct": 48.2,
       "housing_price_to_income": 11.4,
       "safest_city_index": 35,
-      "city_international_visitors": 1.37,
+      "city_international_visitors": 0.68,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 32.2
     },
@@ -1005,7 +1005,7 @@
       "public_transit_commute_pct": 51.3,
       "housing_price_to_income": 9.4,
       "safest_city_index": 57,
-      "city_international_visitors": 1.83,
+      "city_international_visitors": 0.92,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 20.5
     },
@@ -1022,7 +1022,7 @@
       "public_transit_commute_pct": 44.4,
       "housing_price_to_income": 10.8,
       "safest_city_index": 41.7,
-      "city_international_visitors": 1.27,
+      "city_international_visitors": 0.63,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 72.1
     },
@@ -1039,7 +1039,7 @@
       "public_transit_commute_pct": 54.4,
       "housing_price_to_income": 9.2,
       "safest_city_index": 64.2,
-      "city_international_visitors": 3.41,
+      "city_international_visitors": 1.7,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 62.4
     },
@@ -1056,7 +1056,7 @@
       "public_transit_commute_pct": 65.7,
       "housing_price_to_income": 8.8,
       "safest_city_index": 71.6,
-      "city_international_visitors": 3.65,
+      "city_international_visitors": 1.83,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 89.2
     },
@@ -1073,7 +1073,7 @@
       "public_transit_commute_pct": 49.3,
       "housing_price_to_income": 10.5,
       "safest_city_index": 51.5,
-      "city_international_visitors": 1.29,
+      "city_international_visitors": 0.65,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 45.9
     },
@@ -1090,7 +1090,7 @@
       "public_transit_commute_pct": 58.8,
       "housing_price_to_income": 9.1,
       "safest_city_index": 63,
-      "city_international_visitors": 3.9,
+      "city_international_visitors": 1.95,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 52.2
     },
@@ -1107,7 +1107,7 @@
       "public_transit_commute_pct": 40,
       "housing_price_to_income": 11.6,
       "safest_city_index": 35,
-      "city_international_visitors": 1.07,
+      "city_international_visitors": 0.54,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 27.6
     },
@@ -1124,7 +1124,7 @@
       "public_transit_commute_pct": 47.4,
       "housing_price_to_income": 11.7,
       "safest_city_index": 35,
-      "city_international_visitors": 1.04,
+      "city_international_visitors": 0.52,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 55.1
     },
@@ -1141,7 +1141,7 @@
       "public_transit_commute_pct": 43.2,
       "housing_price_to_income": 11,
       "safest_city_index": 42.4,
-      "city_international_visitors": 1.16,
+      "city_international_visitors": 0.58,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 55.8
     },
@@ -1158,7 +1158,7 @@
       "public_transit_commute_pct": 63.9,
       "housing_price_to_income": 14.3,
       "safest_city_index": 79.1,
-      "city_international_visitors": 10.06,
+      "city_international_visitors": 5.03,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 95.9
     },
@@ -1175,7 +1175,7 @@
       "public_transit_commute_pct": 50.7,
       "housing_price_to_income": 10.1,
       "safest_city_index": 55.1,
-      "city_international_visitors": 1.75,
+      "city_international_visitors": 0.87,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 56.3
     },
@@ -1192,7 +1192,7 @@
       "public_transit_commute_pct": 55.6,
       "housing_price_to_income": 9.5,
       "safest_city_index": 60.6,
-      "city_international_visitors": 1.86,
+      "city_international_visitors": 0.93,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 63.4
     },
@@ -1209,7 +1209,7 @@
       "public_transit_commute_pct": 48.3,
       "housing_price_to_income": 10.8,
       "safest_city_index": 42.6,
-      "city_international_visitors": 1.04,
+      "city_international_visitors": 0.52,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 40.5
     },
@@ -1226,7 +1226,7 @@
       "public_transit_commute_pct": 45.4,
       "housing_price_to_income": 11.2,
       "safest_city_index": 40,
-      "city_international_visitors": 0.93,
+      "city_international_visitors": 0.46,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 38.5
     },
@@ -1243,7 +1243,7 @@
       "public_transit_commute_pct": 47.9,
       "housing_price_to_income": 10.9,
       "safest_city_index": 38.8,
-      "city_international_visitors": 0.83,
+      "city_international_visitors": 0.42,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 30.9
     },
@@ -1260,7 +1260,7 @@
       "public_transit_commute_pct": 50.6,
       "housing_price_to_income": 10.9,
       "safest_city_index": 44.1,
-      "city_international_visitors": 0.86,
+      "city_international_visitors": 0.43,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 53.4
     },
@@ -1277,7 +1277,7 @@
       "public_transit_commute_pct": 40.8,
       "housing_price_to_income": 11.5,
       "safest_city_index": 35,
-      "city_international_visitors": 0.72,
+      "city_international_visitors": 0.36,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 25.7
     },
@@ -1294,7 +1294,7 @@
       "public_transit_commute_pct": 53.3,
       "housing_price_to_income": 9.8,
       "safest_city_index": 56.3,
-      "city_international_visitors": 1,
+      "city_international_visitors": 0.5,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 71.6
     },
@@ -1311,7 +1311,7 @@
       "public_transit_commute_pct": 56.9,
       "housing_price_to_income": 9.6,
       "safest_city_index": 58.4,
-      "city_international_visitors": 1.02,
+      "city_international_visitors": 0.51,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 70.7
     },
@@ -1328,7 +1328,7 @@
       "public_transit_commute_pct": 41.9,
       "housing_price_to_income": 11,
       "safest_city_index": 40.9,
-      "city_international_visitors": 0.75,
+      "city_international_visitors": 0.38,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 55.6
     },
@@ -1345,7 +1345,7 @@
       "public_transit_commute_pct": 64.8,
       "housing_price_to_income": 14.3,
       "safest_city_index": 73.7,
-      "city_international_visitors": 5.83,
+      "city_international_visitors": 2.91,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 87.7
     },
@@ -1362,7 +1362,7 @@
       "public_transit_commute_pct": 56.9,
       "housing_price_to_income": 9.6,
       "safest_city_index": 55.4,
-      "city_international_visitors": 0.98,
+      "city_international_visitors": 0.49,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 93.2
     },
@@ -1379,7 +1379,7 @@
       "public_transit_commute_pct": 58,
       "housing_price_to_income": 9.6,
       "safest_city_index": 62.5,
-      "city_international_visitors": 1.54,
+      "city_international_visitors": 0.77,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 72.5
     },
@@ -1396,7 +1396,7 @@
       "public_transit_commute_pct": 53.5,
       "housing_price_to_income": 9.3,
       "safest_city_index": 59.5,
-      "city_international_visitors": 1.42,
+      "city_international_visitors": 0.71,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 77.2
     },
@@ -1413,7 +1413,7 @@
       "public_transit_commute_pct": 42.5,
       "housing_price_to_income": 11.7,
       "safest_city_index": 35,
-      "city_international_visitors": 0.66,
+      "city_international_visitors": 0.33,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 21.7
     },
@@ -1430,7 +1430,7 @@
       "public_transit_commute_pct": 69.2,
       "housing_price_to_income": 14.3,
       "safest_city_index": 75.4,
-      "city_international_visitors": 5.51,
+      "city_international_visitors": 2.76,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 89.1
     },
@@ -1447,7 +1447,7 @@
       "public_transit_commute_pct": 47.4,
       "housing_price_to_income": 10.3,
       "safest_city_index": 47.7,
-      "city_international_visitors": 0.81,
+      "city_international_visitors": 0.41,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 59.3
     },
@@ -1464,7 +1464,7 @@
       "public_transit_commute_pct": 66,
       "housing_price_to_income": 8.6,
       "safest_city_index": 67.2,
-      "city_international_visitors": 3.27,
+      "city_international_visitors": 1.63,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 72.9
     },
@@ -1481,7 +1481,7 @@
       "public_transit_commute_pct": 58.8,
       "housing_price_to_income": 9.5,
       "safest_city_index": 64,
-      "city_international_visitors": 1.1,
+      "city_international_visitors": 0.55,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 58.6
     },
@@ -1498,7 +1498,7 @@
       "public_transit_commute_pct": 59.9,
       "housing_price_to_income": 8.6,
       "safest_city_index": 70.1,
-      "city_international_visitors": 2.42,
+      "city_international_visitors": 1.21,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 79.2
     },
@@ -1515,7 +1515,7 @@
       "public_transit_commute_pct": 43.7,
       "housing_price_to_income": 10.7,
       "safest_city_index": 44.3,
-      "city_international_visitors": 0.77,
+      "city_international_visitors": 0.39,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 15.8
     },
@@ -1532,7 +1532,7 @@
       "public_transit_commute_pct": 60.2,
       "housing_price_to_income": 8.9,
       "safest_city_index": 65.7,
-      "city_international_visitors": 2.9,
+      "city_international_visitors": 1.45,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 61.5
     },
@@ -1549,7 +1549,7 @@
       "public_transit_commute_pct": 60.8,
       "housing_price_to_income": 9,
       "safest_city_index": 63,
-      "city_international_visitors": 2.18,
+      "city_international_visitors": 1.09,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 70.7
     },
@@ -1566,7 +1566,7 @@
       "public_transit_commute_pct": 51.7,
       "housing_price_to_income": 10.1,
       "safest_city_index": 56.1,
-      "city_international_visitors": 0.61,
+      "city_international_visitors": 0.31,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 26.2
     },
@@ -1583,7 +1583,7 @@
       "public_transit_commute_pct": 57.6,
       "housing_price_to_income": 14.4,
       "safest_city_index": 88.2,
-      "city_international_visitors": 4.7,
+      "city_international_visitors": 18.7,
       "skyscrapers_150m_count": 335,
       "city_urban_pop_share": 86
     },
@@ -1600,7 +1600,7 @@
       "public_transit_commute_pct": 60.7,
       "housing_price_to_income": 9.2,
       "safest_city_index": 67.8,
-      "city_international_visitors": 1.05,
+      "city_international_visitors": 0.52,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 79.5
     },
@@ -1617,7 +1617,7 @@
       "public_transit_commute_pct": 66.8,
       "housing_price_to_income": 14.5,
       "safest_city_index": 71.7,
-      "city_international_visitors": 4.71,
+      "city_international_visitors": 2.36,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 91.6
     },
@@ -1634,7 +1634,7 @@
       "public_transit_commute_pct": 47.1,
       "housing_price_to_income": 11,
       "safest_city_index": 37.2,
-      "city_international_visitors": 0.54,
+      "city_international_visitors": 0.27,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 44.4
     },
@@ -1651,7 +1651,7 @@
       "public_transit_commute_pct": 63.2,
       "housing_price_to_income": 14.4,
       "safest_city_index": 68.5,
-      "city_international_visitors": 4.79,
+      "city_international_visitors": 2.4,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 69.7
     },
@@ -1668,7 +1668,7 @@
       "public_transit_commute_pct": 62.7,
       "housing_price_to_income": 14.2,
       "safest_city_index": 76.8,
-      "city_international_visitors": 7.95,
+      "city_international_visitors": 3.98,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 85.7
     },
@@ -1685,7 +1685,7 @@
       "public_transit_commute_pct": 37.9,
       "housing_price_to_income": 11.5,
       "safest_city_index": 35,
-      "city_international_visitors": 0.48,
+      "city_international_visitors": 0.24,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 45.9
     },
@@ -1702,7 +1702,7 @@
       "public_transit_commute_pct": 48.8,
       "housing_price_to_income": 10.4,
       "safest_city_index": 48.5,
-      "city_international_visitors": 0.51,
+      "city_international_visitors": 0.26,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 40.3
     },
@@ -1719,7 +1719,7 @@
       "public_transit_commute_pct": 60.3,
       "housing_price_to_income": 8.3,
       "safest_city_index": 72.7,
-      "city_international_visitors": 3.63,
+      "city_international_visitors": 14.5,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 88
     },
@@ -1736,7 +1736,7 @@
       "public_transit_commute_pct": 54.9,
       "housing_price_to_income": 9.3,
       "safest_city_index": 64.2,
-      "city_international_visitors": 0.96,
+      "city_international_visitors": 0.48,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 62.6
     },
@@ -1753,7 +1753,7 @@
       "public_transit_commute_pct": 49,
       "housing_price_to_income": 10.1,
       "safest_city_index": 50.7,
-      "city_international_visitors": 0.5,
+      "city_international_visitors": 0.25,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 59.4
     },
@@ -1770,7 +1770,7 @@
       "public_transit_commute_pct": 51.8,
       "housing_price_to_income": 9.8,
       "safest_city_index": 58.2,
-      "city_international_visitors": 0.75,
+      "city_international_visitors": 0.38,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 87.9
     },
@@ -1787,7 +1787,7 @@
       "public_transit_commute_pct": 59.7,
       "housing_price_to_income": 9.8,
       "safest_city_index": 59.9,
-      "city_international_visitors": 0.69,
+      "city_international_visitors": 0.35,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 70.4
     },
@@ -1804,7 +1804,7 @@
       "public_transit_commute_pct": 55.5,
       "housing_price_to_income": 10,
       "safest_city_index": 51.7,
-      "city_international_visitors": 0.47,
+      "city_international_visitors": 0.24,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 34.7
     },
@@ -1821,7 +1821,7 @@
       "public_transit_commute_pct": 55.9,
       "housing_price_to_income": 9.1,
       "safest_city_index": 63.2,
-      "city_international_visitors": 1.15,
+      "city_international_visitors": 0.57,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 74.2
     },
@@ -1838,7 +1838,7 @@
       "public_transit_commute_pct": 56.8,
       "housing_price_to_income": 9.8,
       "safest_city_index": 54.2,
-      "city_international_visitors": 0.81,
+      "city_international_visitors": 0.4,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 47.1
     },
@@ -1855,7 +1855,7 @@
       "public_transit_commute_pct": 52.6,
       "housing_price_to_income": 10,
       "safest_city_index": 51.9,
-      "city_international_visitors": 0.59,
+      "city_international_visitors": 0.3,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 75.5
     },
@@ -1872,7 +1872,7 @@
       "public_transit_commute_pct": 46,
       "housing_price_to_income": 10.4,
       "safest_city_index": 45.8,
-      "city_international_visitors": 0.43,
+      "city_international_visitors": 0.22,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 64.1
     },
@@ -1889,7 +1889,7 @@
       "public_transit_commute_pct": 64.1,
       "housing_price_to_income": 14.3,
       "safest_city_index": 77.4,
-      "city_international_visitors": 4.5,
+      "city_international_visitors": 14.7,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 100
     },
@@ -1906,7 +1906,7 @@
       "public_transit_commute_pct": 63.2,
       "housing_price_to_income": 8.3,
       "safest_city_index": 82.4,
-      "city_international_visitors": 3.58,
+      "city_international_visitors": 1.79,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 88.8
     },
@@ -1923,7 +1923,7 @@
       "public_transit_commute_pct": 58.5,
       "housing_price_to_income": 8.9,
       "safest_city_index": 64.3,
-      "city_international_visitors": 1.35,
+      "city_international_visitors": 0.67,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 53.2
     },
@@ -1940,7 +1940,7 @@
       "public_transit_commute_pct": 45.9,
       "housing_price_to_income": 11.8,
       "safest_city_index": 35,
-      "city_international_visitors": 0.31,
+      "city_international_visitors": 0.15,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 44.6
     },
@@ -1957,7 +1957,7 @@
       "public_transit_commute_pct": 62.8,
       "housing_price_to_income": 8.3,
       "safest_city_index": 74.7,
-      "city_international_visitors": 2.74,
+      "city_international_visitors": 1.37,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 74.5
     },
@@ -1974,7 +1974,7 @@
       "public_transit_commute_pct": 69.7,
       "housing_price_to_income": 14.2,
       "safest_city_index": 76.5,
-      "city_international_visitors": 4.49,
+      "city_international_visitors": 2.25,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 83.6
     },
@@ -1991,7 +1991,7 @@
       "public_transit_commute_pct": 46.5,
       "housing_price_to_income": 11.4,
       "safest_city_index": 40.2,
-      "city_international_visitors": 0.31,
+      "city_international_visitors": 0.16,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 56.1
     },
@@ -2008,7 +2008,7 @@
       "public_transit_commute_pct": 52.1,
       "housing_price_to_income": 9.9,
       "safest_city_index": 57.8,
-      "city_international_visitors": 0.41,
+      "city_international_visitors": 0.21,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 87.4
     },
@@ -2025,7 +2025,7 @@
       "public_transit_commute_pct": 61.7,
       "housing_price_to_income": 8.4,
       "safest_city_index": 70.5,
-      "city_international_visitors": 2.33,
+      "city_international_visitors": 1.16,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 84
     },
@@ -2042,7 +2042,7 @@
       "public_transit_commute_pct": 58.2,
       "housing_price_to_income": 9.2,
       "safest_city_index": 64.8,
-      "city_international_visitors": 0.95,
+      "city_international_visitors": 0.48,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 79.7
     },
@@ -2059,7 +2059,7 @@
       "public_transit_commute_pct": 61.1,
       "housing_price_to_income": 14.3,
       "safest_city_index": 76,
-      "city_international_visitors": 4.77,
+      "city_international_visitors": 2.38,
       "skyscrapers_150m_count": 15,
       "city_urban_pop_share": 64.6
     },
@@ -2076,7 +2076,7 @@
       "public_transit_commute_pct": 44.8,
       "housing_price_to_income": 10.9,
       "safest_city_index": 38.5,
-      "city_international_visitors": 0.33,
+      "city_international_visitors": 0.17,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 61.5
     },
@@ -2093,7 +2093,7 @@
       "public_transit_commute_pct": 59.2,
       "housing_price_to_income": 9.1,
       "safest_city_index": 60.8,
-      "city_international_visitors": 1.1,
+      "city_international_visitors": 0.55,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 79.5
     },
@@ -2110,7 +2110,7 @@
       "public_transit_commute_pct": 59,
       "housing_price_to_income": 9.3,
       "safest_city_index": 65.4,
-      "city_international_visitors": 0.89,
+      "city_international_visitors": 0.45,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 66.2
     },
@@ -2127,7 +2127,7 @@
       "public_transit_commute_pct": 58.5,
       "housing_price_to_income": 9.2,
       "safest_city_index": 62.4,
-      "city_international_visitors": 1.51,
+      "city_international_visitors": 0.76,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 100
     },
@@ -2144,7 +2144,7 @@
       "public_transit_commute_pct": 53.6,
       "housing_price_to_income": 9,
       "safest_city_index": 67.5,
-      "city_international_visitors": 0.86,
+      "city_international_visitors": 0.43,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 57.8
     },
@@ -2161,7 +2161,7 @@
       "public_transit_commute_pct": 54.6,
       "housing_price_to_income": 9.3,
       "safest_city_index": 60.7,
-      "city_international_visitors": 0.43,
+      "city_international_visitors": 0.22,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 61.2
     },
@@ -2178,7 +2178,7 @@
       "public_transit_commute_pct": 46.7,
       "housing_price_to_income": 11.4,
       "safest_city_index": 40.6,
-      "city_international_visitors": 0.2,
+      "city_international_visitors": 0.1,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 34.5
     },
@@ -2195,7 +2195,7 @@
       "public_transit_commute_pct": 56.6,
       "housing_price_to_income": 9.2,
       "safest_city_index": 63.5,
-      "city_international_visitors": 0.79,
+      "city_international_visitors": 0.39,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 95.7
     },
@@ -2212,7 +2212,7 @@
       "public_transit_commute_pct": 60.2,
       "housing_price_to_income": 9.6,
       "safest_city_index": 55.8,
-      "city_international_visitors": 0.33,
+      "city_international_visitors": 0.17,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 71.1
     },
@@ -2229,7 +2229,7 @@
       "public_transit_commute_pct": 58.2,
       "housing_price_to_income": 9.4,
       "safest_city_index": 60.8,
-      "city_international_visitors": 0.38,
+      "city_international_visitors": 0.19,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 52.7
     },
@@ -2246,7 +2246,7 @@
       "public_transit_commute_pct": 56.5,
       "housing_price_to_income": 8.9,
       "safest_city_index": 84,
-      "city_international_visitors": 2.11,
+      "city_international_visitors": 1.06,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 99.4
     },
@@ -2263,7 +2263,7 @@
       "public_transit_commute_pct": 50.6,
       "housing_price_to_income": 10.1,
       "safest_city_index": 51.9,
-      "city_international_visitors": 0.25,
+      "city_international_visitors": 0.13,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 50.9
     },
@@ -2280,7 +2280,7 @@
       "public_transit_commute_pct": 58.7,
       "housing_price_to_income": 9.5,
       "safest_city_index": 63.9,
-      "city_international_visitors": 0.34,
+      "city_international_visitors": 0.17,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 65.9
     },
@@ -2297,7 +2297,7 @@
       "public_transit_commute_pct": 59.6,
       "housing_price_to_income": 8.9,
       "safest_city_index": 65.5,
-      "city_international_visitors": 0.76,
+      "city_international_visitors": 0.38,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 69.1
     },
@@ -2314,7 +2314,7 @@
       "public_transit_commute_pct": 49.8,
       "housing_price_to_income": 9.6,
       "safest_city_index": 54.2,
-      "city_international_visitors": 0.3,
+      "city_international_visitors": 0.15,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 59.4
     },
@@ -2331,7 +2331,7 @@
       "public_transit_commute_pct": 54.8,
       "housing_price_to_income": 9.3,
       "safest_city_index": 58.1,
-      "city_international_visitors": 0.32,
+      "city_international_visitors": 0.16,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 58.9
     },
@@ -2348,7 +2348,7 @@
       "public_transit_commute_pct": 49.5,
       "housing_price_to_income": 11.2,
       "safest_city_index": 41,
-      "city_international_visitors": 0.16,
+      "city_international_visitors": 0.08,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 65
     },
@@ -2365,7 +2365,7 @@
       "public_transit_commute_pct": 58.7,
       "housing_price_to_income": 9.8,
       "safest_city_index": 55.9,
-      "city_international_visitors": 0.29,
+      "city_international_visitors": 0.14,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 92.1
     },
@@ -2382,7 +2382,7 @@
       "public_transit_commute_pct": 51.2,
       "housing_price_to_income": 9.7,
       "safest_city_index": 55.1,
-      "city_international_visitors": 0.29,
+      "city_international_visitors": 0.14,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 68
     },
@@ -2399,7 +2399,7 @@
       "public_transit_commute_pct": 51.8,
       "housing_price_to_income": 10.9,
       "safest_city_index": 42.5,
-      "city_international_visitors": 0.13,
+      "city_international_visitors": 0.07,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 44.7
     },
@@ -2416,7 +2416,7 @@
       "public_transit_commute_pct": 50.3,
       "housing_price_to_income": 11.3,
       "safest_city_index": 41.7,
-      "city_international_visitors": 0.12,
+      "city_international_visitors": 0.06,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 46.7
     },
@@ -2433,7 +2433,7 @@
       "public_transit_commute_pct": 64.2,
       "housing_price_to_income": 8.4,
       "safest_city_index": 72.5,
-      "city_international_visitors": 0.65,
+      "city_international_visitors": 0.33,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 56
     },
@@ -2450,7 +2450,7 @@
       "public_transit_commute_pct": 46.5,
       "housing_price_to_income": 10.5,
       "safest_city_index": 48.7,
-      "city_international_visitors": 0.18,
+      "city_international_visitors": 0.09,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 71.6
     },
@@ -2467,7 +2467,7 @@
       "public_transit_commute_pct": 65.2,
       "housing_price_to_income": 8.9,
       "safest_city_index": 64.7,
-      "city_international_visitors": 0.44,
+      "city_international_visitors": 0.22,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 68.6
     },
@@ -2484,7 +2484,7 @@
       "public_transit_commute_pct": 54.8,
       "housing_price_to_income": 9.5,
       "safest_city_index": 60,
-      "city_international_visitors": 0.21,
+      "city_international_visitors": 0.1,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 62.9
     },
@@ -2501,7 +2501,7 @@
       "public_transit_commute_pct": 58.1,
       "housing_price_to_income": 8.9,
       "safest_city_index": 66.6,
-      "city_international_visitors": 0.42,
+      "city_international_visitors": 0.21,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 100
     },
@@ -2518,7 +2518,7 @@
       "public_transit_commute_pct": 58.8,
       "housing_price_to_income": 9.3,
       "safest_city_index": 62,
-      "city_international_visitors": 0.3,
+      "city_international_visitors": 0.15,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 54
     },
@@ -2535,7 +2535,7 @@
       "public_transit_commute_pct": 51.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 51.8,
-      "city_international_visitors": 0.09,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 28.8
     },
@@ -2552,7 +2552,7 @@
       "public_transit_commute_pct": 63,
       "housing_price_to_income": 8.8,
       "safest_city_index": 66.3,
-      "city_international_visitors": 0.32,
+      "city_international_visitors": 0.16,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 66.7
     },
@@ -2569,7 +2569,7 @@
       "public_transit_commute_pct": 63.1,
       "housing_price_to_income": 8.8,
       "safest_city_index": 66.5,
-      "city_international_visitors": 0.39,
+      "city_international_visitors": 0.2,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 70.7
     },
@@ -2586,7 +2586,7 @@
       "public_transit_commute_pct": 57,
       "housing_price_to_income": 9.3,
       "safest_city_index": 60.5,
-      "city_international_visitors": 0.18,
+      "city_international_visitors": 0.09,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 39
     },
@@ -2603,7 +2603,7 @@
       "public_transit_commute_pct": 52.3,
       "housing_price_to_income": 10.5,
       "safest_city_index": 51.5,
-      "city_international_visitors": 0.1,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 26.7
     },
@@ -2620,7 +2620,7 @@
       "public_transit_commute_pct": 51.1,
       "housing_price_to_income": 11.1,
       "safest_city_index": 43.2,
-      "city_international_visitors": 0.09,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 73
     },
@@ -2637,7 +2637,7 @@
       "public_transit_commute_pct": 51.2,
       "housing_price_to_income": 9.6,
       "safest_city_index": 55.8,
-      "city_international_visitors": 0.09,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 59.5
     },
@@ -2671,7 +2671,7 @@
       "public_transit_commute_pct": 51.9,
       "housing_price_to_income": 10.1,
       "safest_city_index": 50.4,
-      "city_international_visitors": 0.17,
+      "city_international_visitors": 0.09,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 26.5
     },
@@ -2688,7 +2688,7 @@
       "public_transit_commute_pct": 45.3,
       "housing_price_to_income": 10.3,
       "safest_city_index": 48.3,
-      "city_international_visitors": 0.06,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 43.4
     },
@@ -2722,7 +2722,7 @@
       "public_transit_commute_pct": 66.2,
       "housing_price_to_income": 8.4,
       "safest_city_index": 74.6,
-      "city_international_visitors": 0.72,
+      "city_international_visitors": 0.36,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 94.9
     },
@@ -2739,7 +2739,7 @@
       "public_transit_commute_pct": 60.9,
       "housing_price_to_income": 9.1,
       "safest_city_index": 68.2,
-      "city_international_visitors": 0.09,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 65.6
     },
@@ -2756,7 +2756,7 @@
       "public_transit_commute_pct": 59.4,
       "housing_price_to_income": 9.7,
       "safest_city_index": 60.3,
-      "city_international_visitors": 0.06,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 65.8
     },
@@ -2790,7 +2790,7 @@
       "public_transit_commute_pct": 52.2,
       "housing_price_to_income": 9.7,
       "safest_city_index": 59.1,
-      "city_international_visitors": 0.08,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 42.5
     },
@@ -2807,7 +2807,7 @@
       "public_transit_commute_pct": 64.4,
       "housing_price_to_income": 8.7,
       "safest_city_index": 68,
-      "city_international_visitors": 0.19,
+      "city_international_visitors": 0.1,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 95.7
     },
@@ -2824,7 +2824,7 @@
       "public_transit_commute_pct": 64.4,
       "housing_price_to_income": 8.9,
       "safest_city_index": 64.1,
-      "city_international_visitors": 0.14,
+      "city_international_visitors": 0.07,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 75
     },
@@ -2858,7 +2858,7 @@
       "public_transit_commute_pct": 57.7,
       "housing_price_to_income": 9.2,
       "safest_city_index": 64.7,
-      "city_international_visitors": 0.14,
+      "city_international_visitors": 0.07,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 81.3
     },
@@ -2875,7 +2875,7 @@
       "public_transit_commute_pct": 62.4,
       "housing_price_to_income": 8.2,
       "safest_city_index": 76,
-      "city_international_visitors": 0.27,
+      "city_international_visitors": 0.13,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 94.2
     },
@@ -2909,7 +2909,7 @@
       "public_transit_commute_pct": 62.4,
       "housing_price_to_income": 9.2,
       "safest_city_index": 66.2,
-      "city_international_visitors": 0.07,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 59.7
     },
@@ -3147,7 +3147,7 @@
       "public_transit_commute_pct": 55.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 58.8,
-      "city_international_visitors": 0.07,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 100
     },
@@ -3164,7 +3164,7 @@
       "public_transit_commute_pct": 58.8,
       "housing_price_to_income": 8.5,
       "safest_city_index": 69.8,
-      "city_international_visitors": 0.06,
+      "city_international_visitors": 0.05,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 14.6
     },
@@ -3266,7 +3266,7 @@
       "public_transit_commute_pct": 47.1,
       "housing_price_to_income": 11.5,
       "safest_city_index": 35,
-      "city_international_visitors": 1.33,
+      "city_international_visitors": 0.66,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 28.9
     },
@@ -3283,7 +3283,7 @@
       "public_transit_commute_pct": 52.1,
       "housing_price_to_income": 10.5,
       "safest_city_index": 51.1,
-      "city_international_visitors": 1.1,
+      "city_international_visitors": 0.55,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 41.1
     },
@@ -3300,7 +3300,7 @@
       "public_transit_commute_pct": 54.8,
       "housing_price_to_income": 9.5,
       "safest_city_index": 60,
-      "city_international_visitors": 0.44,
+      "city_international_visitors": 0.22,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 91
     },
@@ -3317,7 +3317,7 @@
       "public_transit_commute_pct": 49.1,
       "housing_price_to_income": 11.1,
       "safest_city_index": 38.3,
-      "city_international_visitors": 1.17,
+      "city_international_visitors": 0.58,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 17.6
     },
@@ -3334,7 +3334,7 @@
       "public_transit_commute_pct": 54.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 54.8,
-      "city_international_visitors": 0.26,
+      "city_international_visitors": 0.13,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 43.7
     },
@@ -3368,7 +3368,7 @@
       "public_transit_commute_pct": 59.6,
       "housing_price_to_income": 9.8,
       "safest_city_index": 59.8,
-      "city_international_visitors": 0.17,
+      "city_international_visitors": 0.09,
       "skyscrapers_150m_count": 0,
       "city_urban_pop_share": 64.4
     }
