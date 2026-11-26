@@ -190,11 +190,11 @@
     {
       "id": "historical_trends",
       "path": "datasets/historical_trends.json",
-      "sizeBytes": 324620,
-      "sha256": "fa81b109b35cd2b740f25b8ed2a44e204c7da2ea616a5e0a03a806fecdb0e9b8",
+      "sizeBytes": 551309,
+      "sha256": "5cb220cce704929baa81aa9c3d79b64fddde3c83287727140a330f911aa3c29e",
       "schemaVersion": "2.0.0",
       "lastUpdated": "2026-11-24T10:00:00.000Z",
-      "indicatorsCount": 11
+      "indicatorsCount": 19
     }
   ]
 }
